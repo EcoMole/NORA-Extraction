@@ -1,7 +1,5 @@
 import typing
 
-
-
 class DataStore():
     def __init__(self):
         self.categories_2015_2283 = {

@@ -10,65 +10,76 @@
 \usepackage[margin=3cm]{geometry}
 \usepackage{enumitem}
 
-\title{Your Title Here}
-\author{Your Name Here}
+\title{Automatic data extraction from EFSA Opinions}
+\author{Diana Varšíková, Ecomole s.r.o}
 \date{\today}
 
 \begin{document}
 
 \maketitle
 
-\section{Data summary}
-We received csv file with 204 question numbers/opinions to include.
-
+\section{Introduction}
+We received csv file with 204 question numbers/opinions to include in the database.
 Below is an example of the data that are to be extracted:\\
-- \textbf{Administrative Data of the Opinion}: Applicant company, their country of origin, DOI of the opinion, plus 10 other fields.\\
-- \textbf{General Information}: Trade names, common names, form of the food (whole food, extract, etc.).\\
-- \textbf{Identity}: This depends on the category. For example, for animals: genus, species, subspecies, part used; for chemicals: common name, IUPAC name, CAS number, molecular formula, etc.\\
-- \textbf{Production Process}: List of main production steps.\\
-- \textbf{Main Composition of the Novel Food}: Carbohydrates, proteins, fats, minerals, water, vitamins.\\
-- \textbf{Proposed Uses and Use Levels}: Proposed uses (whole foods, supplements, etc.), target population (general, infants, children, etc.), food category (FoodEx / FAIM).\\
-- \textbf{Nutritional Information}: Nutritionally disadvantageous / nutritionally advantageous components.\\
-- \textbf{Availability of ADME (Absorption, Distribution, Metabolism, and Excretion) Studies}.\\
-- \textbf{Availability of Toxicological Studies and Their Outcome}.\\
-- \textbf{Allergenicity Assessment}: Unlikely, low, possible, certainty.\\
 
-We have received from EFSA csv file with list of 207 question numbers to include.
-Types of articles are as follows:
+\textbf{Administrative Data of the Opinion}: Applicant company, their country of origin, DOI of the opinion, plus 10 other fields.\\
+\textbf{General Information}: Trade names, common names, form of the food (whole food, extract, etc.).\\
+\textbf{Identity}: This depends on the category. For example, for animals: genus, species, subspecies, part used; for chemicals: common name, IUPAC name, CAS number, molecular formula, etc.\\
+\textbf{Production Process}: List of main production steps.\\
+\textbf{Main Composition of the Novel Food}: Carbohydrates, proteins, fats, minerals, water, vitamins.\\
+\textbf{Proposed Uses and Use Levels}: Proposed uses (whole foods, supplements, etc.), target population (general, infants, children, etc.), food category (FoodEx / FAIM).\\
+\textbf{Nutritional Information}: Nutritionally disadvantageous / nutritionally advantageous components.\\
+\textbf{Availability of ADME (Absorption, Distribution, Metabolism, and Excretion) Studies}.\\
+\textbf{Availability of Toxicological Studies and Their Outcome}.\\
+\textbf{Allergenicity Assessment}: Unlikely, low, possible, certainty etc.\\
+
+The primary objective was to automate the extraction of 'non-expert' information—data that can be easily understood and assessed for accuracy by individuals without a biology degree.
+This approach allows experts to focus on more complex and technical information.
+The goal was to automatically extract the majority of the administrative data and some elements of the general information
+This report will detail which data were successfully extracted automatically and the logic and methods used in the extraction process.
+
+\section{Data Summary}
+
+We received a CSV file from EFSA containing a list of 207 question numbers to be included in the database. 
+The types of articles associated with these question numbers are as follows:
+
 \begin{center}
     \begin{tabular}{| l | l |}
     \hline
-    \textbf{type of article} & \textbf{count} \\
+    \textbf{Type Of Article} & \textbf{Count} \\
     \hline
-    opinion & 198 \\ 
-    guidance & 4 \\  
-    public consultation & 3 \\
-    data gaps statement & 1  \\
+    Opinion & 198 \\ 
+    Guidance & 4 \\  
+    Public consultation & 3 \\
+    Data gaps statement & 1  \\
     \hline
     \end{tabular}
 \end{center}
 
-That means we have to extract 198 opinions.
+This distribution indicates that 198 opinions are to be extracted, as it was agreed not to extract data from the other types of articles.
+Out of the 198 opinions, EFSA provided Ecomole with JATS files for 194 of them. However, there are variations in the completeness of these files:
 
-Out of that 198 opinions, we received JATS files for 194 of them.
-However, 71 of the files only contain FRONT part with administrative information about the articles, but no content part.
 \begin{center}
     \begin{tabular}{| l | l |}
     \hline
     \textbf{JATS availability} & \textbf{count} \\
     \hline
     full JATS file & 123 \\ 
-    only front JATS file & 71 \\  
+    front JATS file & 71 \\  
     no JATS file & 4 \\
     \hline
     \end{tabular}
 \end{center}
 
-The structure of the opinions can be divided into five groups.
+This summary highlights that 71 of the JATS files contain only the FRONT section, which includes administrative information but lacks the content part necessary for a full extraction.
+
+\section {Opinions analysis}
+
+By looking at the opinions, the structure of the opinions can be divided into five groups.
 
 \textbf{Group A}
 
-most common group
+This is the most common group.
 
 \fbox{\includegraphics[width=0.3\textwidth]{group_A_1.png}}
 \fbox{\includegraphics[width=0.3\textwidth]{group_A_2.png}}
@@ -76,21 +87,21 @@ most common group
 
 \textbf{Group B}
 
-panel in footnote, abstract on the first page
+This group has panel in the footnote and abstract on the first page.
 
 \fbox{\includegraphics[width=0.3\textwidth]{group_B_1.png}}
 \fbox{\includegraphics[width=0.3\textwidth]{group_B_2.png}}
 
 \textbf{Group C}
 
-summary, keywords on the first page, panel members on the last
+This group has summary and keywords on the first page, and panel members on the last page.
 
 \fbox{\includegraphics[width=0.3\textwidth]{group_C_1.png}}
 \fbox{\includegraphics[width=0.3\textwidth]{group_C_2.png}}
 
 \textbf{Group D}
 
-panel members first, summary after
+This group has panel members on the first page, followed by summary and keywords.
 
 \fbox{\includegraphics[width=0.3\textwidth]{group_D_1.png}}
 \fbox{\includegraphics[width=0.3\textwidth]{group_D_2.png}}
@@ -118,12 +129,22 @@ The distribution in the groups is as follows:
 
 \section{Extraction rules}
 
+- rozdelit na casti, ktere lze ziskat z FRONT
+
 \subsection{DOI}
-in article-meta - article-id - pub-id-type="doi"
+The DOI can be found in article-meta - article-id - pub-id-type="doi".
+
+\lstset{language=XML, basicstyle=\footnotesize}
+\begin{lstlisting}
+<front>
+    <article-meta>
+        <article-id pub-id-type="doi">10.2903/j.efsa.2023.7904</article-id>
+\end{lstlisting}
 
 \subsection{Adoption date}
-Traditional foods - dont have adoption date, instead they have XX.
-Novel foods - have adoption date.
+The traditional foods do not have adoption date, instead they have approval date, which is not included in the JATS files and therefore
+cannot be extracted. The novel foods have adoption date.
+
 
 front - notes -fn-group - v nejake z nich je Adopted
 group6 - ADOPTED: in fn-group 
@@ -141,7 +162,7 @@ group6 - ADOPTED: in fn-group
 \end{lstlisting}
 
 \subsection{Publication Date}
-in article-meta - pub-date - pub-type="epub"
+Publication date can be found in article-meta - pub-date - pub-type="epub".
 
 \subsection{Question Number}
 
@@ -194,6 +215,7 @@ r'EFSA[-]Q[-]\S+'
 
 \subsection{Scientific Officer}
 EFSA provided us with list of possible scientific officers.
+vic popsat jak toto funguje
 
 
 \subsection{Mandate type}
@@ -274,11 +296,13 @@ REGULATION (EU) 2015/2283 from 25 November 2015, Article 3
     used in foods other than food supplements as defined in point (a) of Article 2 of Directive 2002/46/EC;
 \end{enumerate}
 
-\section{Results from p1}
-Here is where your conclusion goes.
+\section{Composition extraction}
+why was deemed important
+how was performed - gpt assisstent + query
+success rate
 
 \section{Implementation}
-
+-mozna neni potreba zas tak popisovat
 Two main classes:
 
 \textbf{JATS Opinion}
