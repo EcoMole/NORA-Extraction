@@ -10,7 +10,6 @@ class CategoryExtractionStrategy:
         raise NotImplementedError
 
     def extract(self, body):
-        print('extract was called')
         relevant_divs = self.find_relevant_paragraphs(body)
         if not relevant_divs:
             return
@@ -19,7 +18,6 @@ class CategoryExtractionStrategy:
     def extract_from_divs(self, relevant_divs):
         categories = []
         regulations = []
-        print('extracting')
         for p in relevant_divs:
             for s in p:
                 if s.text is None:
@@ -37,7 +35,6 @@ class CategoryExtractionStrategy:
                         regulations.append('258/97')
                         categories.append(value)
         
-        print(categories, regulations)
         categories_str = ", ".join(list(set(categories)))
         regulations_str = ", ".join(list(set(regulations)))
         return categories_str, regulations_str

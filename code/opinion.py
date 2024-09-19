@@ -8,7 +8,7 @@ from name_extractor import NameExtractor
 from data_store import DataStore
 from unidecode import unidecode
 # TODO Add typehints
-from code.category_extractor import CategoryExtractionStrategy
+from category_extractor import CategoryExtractionStrategy
 
 class Opinion():
     def __init__(self, xml_filepath : str, grobid_filepath : str, category_extractor : CategoryExtractionStrategy): 
@@ -29,8 +29,8 @@ class Opinion():
             'EFSA Q number' : '',
             'DOI' : '',
             'title' : '',
-            'publication date' : None, 
-            'adoption date' : '', #TODO make this date aswell maybe
+            'publication date' : '', 
+            'adoption date' : '',
             'EFSA panels' : '',
             'applicant': '',
             'mandate': '',
@@ -62,14 +62,14 @@ class Opinion():
                 combined_text = "".join(child.itertext()) #to ignore <bold> tag etc.
                 efsa_question_pattern = r'EFSA[-‐–—]Q[-‐–—]\S+'
                 efsa_q_numbers = re.findall(efsa_question_pattern, combined_text)
-                if len(efsa_q_numbers) > 0:
+                if len(efsa_q_numbers) > 0: # One opinion can have multiple question numbers
                     for q_number in efsa_q_numbers:
                         self.extracted_information['EFSA Q number'] += q_number.replace(';', '').replace('‐', '-')
                     return
 
-        if self.extracted_information['EFSA Q number'] == '': # for article group 2, where the first approach fails
+        if self.extracted_information['EFSA Q number'] == '': # For type B opinions, where the first approach fails
             if self._body:
-                #use xpath to find all sections with question number in title:
+                # Find all sections with the title "QUESTION NUMBER"
                 sections = self._body.findall('.//sec[title="QUESTION NUMBER"]')
                 for section in sections:
                     self.extracted_information['EFSA Q number'] = section.find('p').text.replace(';', '').replace('‐', '-') #replace efsas weird dash
@@ -77,13 +77,13 @@ class Opinion():
                 
     def extract_panels(self):
         collab = self.article_meta.find('.//collab')
-        if collab is not None:
+        if collab is not None: # Try to find panels in the <collab>
             if 'NDA' in collab.text:
-                self.extracted_information['EFSA panels'] += 'NDA'
-            elif 'EFSA' in collab.text: #pokud je tady jen efsa tak se podivat do titlu, kdyz tam nic tak EFSA, jinak to z titlu
-                self.extracted_information['EFSA panels'] += 'EFSA'
+                self.extracted_information['EFSA panels'] += ' NDA'
+            elif 'EFSA' in collab.text:
+                self.extracted_information['EFSA panels'] += ' EFSA'
 
-        title_lower = self.extracted_information['title'].lower()
+        title_lower = self.extracted_information['title'].lower() # Find panels in the title
         if 'panel' in title_lower:
             if 'dietetic' in self.extracted_information['title'].lower() and 'nutrition' in self.extracted_information['title'].lower():
                 self.extracted_information['EFSA panels'] += ' NDA'
@@ -102,10 +102,6 @@ class Opinion():
                     self.extracted_information['adoption date'] = "".join(child.itertext()).split(':')[1].strip() #TODO Mozna taky datum
                     break
 
-        for id in self.article_meta.findall('article-id'):
-            if id.attrib['pub-id-type'] == 'doi':
-                self.extracted_information['DOI'] = id.text
-
     def extract_publication_date(self):        
         pub_date = self.article_meta.find('pub-date')
         date_obj = datetime.date(int(pub_date.find('year').text), int(pub_date.find('month').text), int(pub_date.find('day').text))
@@ -123,7 +119,7 @@ class Opinion():
         # Attempt to extract applicant using the first approach
         try:
             applicant = text.split('company')[1].split('submitted')[0]
-            if len(applicant) < 150:
+            if len(applicant) < 150: # Applicant is usually a company name, so it should not be too long
                 self.extracted_information['applicant'] = applicant
         except (IndexError, AttributeError):
             pass
@@ -143,10 +139,7 @@ class Opinion():
         elif 'extension' in self.extracted_information['title'].lower() or 'extended' in self.extracted_information['title'].lower():
             self.extracted_information['mandate'] = 'extension of use'
         elif 'source' in self.extracted_information['title'].lower():
-            if 'novel food' in self.extracted_information['title'].lower():
-                self.extracted_information['mandate'] = 'new dossier, nutrient source'
-            else:
-                self.extracted_information['mandate'] = 'nutrient source'
+            self.extracted_information['mandate'] = 'new dossier, nutrient source'
         else:
             self.extracted_information['mandate'] = 'new dossier'
 
@@ -157,21 +150,21 @@ class Opinion():
 
     def extract_scientific_officers(self):
         source_description = self.tei_file.find('.//tei:sourceDesc', self.tei_namespaces)
-        authors = source_description.findall('.//tei:persName', self.tei_namespaces)
+        authors = source_description.findall('.//tei:persName', self.tei_namespaces) # Find all authors in the <sourceDesc>
         officers_list = []
         for author in authors:
             forenames = author.findall('.//tei:forename', self.tei_namespaces)
             surname = author.find('.//tei:surname', self.tei_namespaces)
-            if len(forenames) != 0 and surname is not None:
-                forenames = [unidecode(f.text.lower()) for f in forenames]
-                forename_text = ' '.join(forenames)
+            if len(forenames) != 0 and surname is not None: # Author may be e.g. 'EFSA', which is not relevant
+                forenames = [unidecode(f.text.lower()) for f in forenames] # Unidecode as some names contain special characters
+                forename_text = ' '.join(forenames) # Some authors have multiple forenames
                 surname_text = unidecode(surname.text.lower()).replace('-', ' ')
 
-                for f, s in self.Datastore.get_officers():
+                for f, s in self.Datastore.get_officers(): # Check if the author is in the list of scientific officers
                     if unidecode(f.lower()) in forename_text and unidecode(s.lower()) in surname_text:
                         officers_list.append(f + ' ' + s)
 
-        if len(officers_list) > 0:
+        if len(officers_list) > 0: # If there are any scientific officers, join them together
             officers_string = ', '.join(officers_list)
             self.extracted_information['scientific officers'] = officers_string
 
