@@ -14,6 +14,7 @@ def get_opinions(root_dir: str) -> typing.List[Opinion]:
             continue
         question_path = os.path.join(root_dir, data_tuple[0])
         print(question_path)
+        xml_file = None
         for root, _, files in os.walk(question_path):
             for file in files:
                 if file.endswith('.tei.xml'):
@@ -36,21 +37,11 @@ def get_opinions(root_dir: str) -> typing.List[Opinion]:
 
 
 def main():
-    opinions = get_opinions('../example_opinions')
+    opinions = get_opinions('example_opinions')
     print(f' {len(opinions)} opinions created')
     dfs = [opinion.into_df() for opinion in opinions]
     df = pd.concat(dfs)
-    print(df.head())
-    #get not null categories:
-    print(len(df))
-    # get categories that are not '':
-    print(f"not null categories: {len(df[df['categories'] != ''])}")
-    print(f"not null applicants: {len(df[df['applicant'] != ''])}")
-    print(f"not null nf name: {len(df[df['nf_name'] != ''])}")
-    print(f"not null scientific officers: {len(df[df['scientific officers'] != ''])}")
-
-
-    df.to_csv('../outputs/example_extracted_info.csv')
+    df.to_csv('outputs/example_extracted_info.csv')
 
 
 if __name__=="__main__": 
