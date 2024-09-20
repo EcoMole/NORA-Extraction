@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" coord="1,97.34,165.28,400.55,13.94;1,94.68,182.72,405.86,15.08;1,231.37,201.17,132.51,13.94;1,141.96,229.46,311.39,10.22">Safety of hot water extract of fruits and peduncles of Hovenia dulcis as a novel food pursuant to Regulation 1(EU) 2015/2283</title>
+				<funder>
+					<orgName type="full">European Food Safety Authority</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">European Union</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2020-06-30">30 June 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,83.96,241.42,78.29,10.22"><forename type="first">Dominique</forename><surname>Turck</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,170.76,241.42,108.67,10.22"><forename type="first">Jacqueline</forename><surname>Castenmiller</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,287.72,241.42,92.41,10.22"><forename type="first">Stefaan</forename><surname>De Henauw</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Karen</forename><forename type="middle">Ildico</forename><surname>Hirsch‐ernst</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,90.48,253.33,61.91,10.22"><roleName>Helle</roleName><forename type="first">John</forename><surname>Kearney</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,161.18,253.33,81.96,10.22"><forename type="first">Alexandre</forename><surname>Maciuk</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,251.94,253.33,81.13,10.22"><forename type="first">Inge</forename><surname>Mangelsdorf</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,341.75,253.33,73.90,10.22"><forename type="first">Harry</forename><forename type="middle">J</forename><surname>Mcardle</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,424.41,253.33,75.04,10.22"><forename type="first">Androniki</forename><surname>Naska</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,75.23,265.29,69.14,10.22"><forename type="first">Carmen</forename><surname>Pelaez</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,152.79,265.29,77.49,10.22"><forename type="first">Kristina</forename><surname>Pentieva</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,238.73,265.29,60.24,10.22"><forename type="first">Alfonso</forename><surname>Siani</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,306.94,265.29,54.07,10.22"><forename type="first">Frank</forename><surname>Thies</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,369.41,265.29,74.63,10.22"><forename type="first">Sophia</forename><surname>Tsabouri</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,452.53,265.29,63.11,10.22"><forename type="first">Marco</forename><surname>Vinceti</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,113.33,277.25,91.03,10.22"><forename type="first">Francesco</forename><surname>Cubadda</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,213.67,277.25,74.44,10.22"><forename type="first">Thomas</forename><surname>Frenzel</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,296.45,277.25,78.75,10.22"><forename type="first">Marina</forename><surname>Heinonen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,384.21,277.25,93.25,10.22"><forename type="first">Rosangela</forename><surname>Marchelli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Monika</forename><surname>Neuhäuser‐berthold</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,227.06,289.22,72.09,10.22"><forename type="first">Morten</forename><surname>Poulsen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,307.79,289.22,101.75,10.22"><forename type="first">Josef</forename><forename type="middle">Rudolf</forename><surname>Schlatter</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,417.60,289.22,84.82,10.22"><forename type="first">Henk</forename><surname>Van Loveren</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,185.10,301.18,97.06,10.22"><forename type="first">Wolfgang</forename><surname>Gelbmann</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,307.22,301.18,102.97,10.22"><forename type="first">Helle</forename><forename type="middle">Katrine</forename><surname>Knutsen</surname></persName>
+						</author>
+						<title level="a" type="main" coord="1,97.34,165.28,400.55,13.94;1,94.68,182.72,405.86,15.08;1,231.37,201.17,132.51,13.94;1,141.96,229.46,311.39,10.22">Safety of hot water extract of fruits and peduncles of Hovenia dulcis as a novel food pursuant to Regulation 1(EU) 2015/2283</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">EFSA Journal</title>
+						<title level="j" type="abbrev">EFS2</title>
+						<idno type="ISSN">1831-4732</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">18</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<date type="published" when="2020-06-30">30 June 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7DCC36D91B7E352756820CDF88F15547</idno>
+					<idno type="DOI">10.2903/j.efsa.2020.6196</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-04-29T08:46+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Hovenia dulcis</term>
+					<term>hot water extract</term>
+					<term>novel food</term>
+					<term>ingredient</term>
+					<term>flavonoids Requestor: European Commission following an application by Hovenia Dulcis AB</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,70.87,345.16,453.50,9.30;1,70.87,356.89,453.49,9.96;1,70.87,369.03,224.58,9.30">Following a request from the European Commission, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver an opinion on the safety of 'Hovenia dulcis fruit extract' as a novel food (NF) for its use in food supplements.</s><s coords="1,299.39,369.03,224.98,9.30;1,70.87,380.99,229.80,9.30">The NF concerns a hot water extract of sliced and dried fruits and peduncles of Hovenia dulcis Thun.</s><s coords="1,305.40,380.99,218.93,9.30;1,70.87,392.95,453.48,9.30">The production process is described in sufficient detail but contains contradictory information regarding the mixing with another ingredient of the NF.</s><s coords="1,70.87,404.91,453.50,9.30;1,70.87,416.88,149.57,9.30">The NF is comprised of mostly carbohydrates (about 90%), about 2% proteins, 5% moisture, less than 1% fat and about 2% ash.</s><s coords="1,225.30,416.65,299.06,9.96;1,70.87,428.84,187.88,9.30">In addition, the NF contains small amounts of flavonoids such as dihydromyricetin, myricetin and quercetin.</s><s coords="1,263.17,428.84,261.18,9.30;1,70.87,440.80,345.37,9.30">The Panel notes limitations of the data provided from the batch testing regarding proximate analyses and plant secondary metabolites.</s><s coords="1,420.60,440.80,103.73,9.30;1,70.87,452.76,453.45,9.30;1,70.87,464.67,396.37,9.30">Given these limitations, the Panel considers that the data provided by the applicant do not demonstrate that different batches produced with the described production process meet the proposed specifications.</s><s coords="1,474.52,464.67,49.86,9.30;1,70.87,476.63,453.50,9.30;1,70.87,488.59,204.52,9.30">The target population is the general adult population excluding pregnant and lactating women and people with a chronic disease, such as liver malfunction.</s><s coords="1,282.84,488.59,241.50,9.30;1,70.87,500.55,387.41,9.30">Limited information was provided on a history of consumption of Hovenia dulcis fruits and on an extract approved in South Korea.</s><s coords="1,464.31,500.55,60.09,9.30;1,70.87,512.52,165.48,9.30">A number of toxicological studies were performed.</s><s coords="1,240.55,512.52,283.81,9.30;1,70.87,524.48,151.82,9.30">However, the study reports did not allow to verify that the test item was representative of the NF.</s><s coords="1,226.20,524.48,278.10,9.30">The same applied to a human study provided by the applicant.</s><s coords="1,507.85,524.48,16.49,9.30;1,70.87,536.44,296.90,9.30">The Panel concludes that the safety of the NF has not been established.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background and Terms of Reference as provided by the European Commission</head><p><s coords="4,85.04,124.91,439.28,9.30;4,70.87,136.87,210.68,9.30;4,281.59,134.86,4.04,6.20;4,289.93,136.87,234.43,9.30;4,70.87,148.83,435.02,9.30">On 28 of April 2014, the company Hovenia dulcis AB submitted a request in accordance with Article 4 of the Novel Food Regulation (EU) 258/1997 1 to place on the market the dried fruit and peduncle extract of Hovenia dulcis Thunberg (HDFPE), as a novel food (NF) to be used in food supplements.</s></p><p><s coords="4,85.04,160.80,439.26,9.30;4,70.87,172.76,453.50,9.30;4,70.87,184.72,261.75,9.30">On 20 July 2017, the competent authority of Germany forwarded to the Commission its initial assessment report, which came to the conclusion that the NF did not meet the criteria for acceptance of a NF defined in Article (3)1 of Regulation (EU) 258/1997.</s></p><p><s coords="4,85.04,196.68,439.34,9.30;4,70.87,208.64,96.84,9.30">On 14 December 2017, the Commission forwarded the initial assessment report to the other Member States (MSs).</s></p><p><s coords="4,85.04,220.55,439.33,9.30;4,70.87,232.51,102.16,9.30">The concerns of a scientific nature raised in the initial assessment and by other MSs can be summarised as follows:</s></p><p><s coords="4,87.82,248.68,192.50,13.95">• The NF was inadequately characterised.</s></p><p><s coords="4,87.82,260.65,436.57,13.95;4,105.56,274.35,93.04,9.30">• Regarding the previous human exposure, the documents did not include any data on actual quantities consumed.</s></p><p><s coords="4,87.82,284.51,315.07,13.95">• The dose proposed and the intake of the NF had not been justified.</s></p><p><s coords="4,87.82,296.48,436.53,13.95;4,105.56,310.24,77.50,9.30">• Regarding the toxicological information, none of the reports contained precise information on the test material.</s><s coords="4,187.60,310.24,336.74,9.30;4,105.56,322.20,339.48,9.30">In the study of subchronic toxicity, the applicant did not provide sufficient information to show that the test material used was representative of the NF.</s></p><p><s coords="4,87.82,332.36,327.65,13.95">• The potential allergenicity of the NF had not been well explored.</s><s coords="4,421.51,334.16,102.83,9.30;4,105.56,346.12,418.75,9.30;4,105.56,358.09,418.79,9.30;4,105.56,369.99,314.99,9.30">No assessment of the botanical relationship between Hovenia dulcis fruits and other fruits known to cause allergic reactions in the European population had been undertaken which would have been a valuable indicator for potential cross reactivity to the food by allergic consumers.</s></p><p><s coords="4,85.04,387.96,252.80,9.30;4,337.89,385.96,4.04,6.20;4,341.91,387.96,182.44,9.30;4,70.87,399.93,453.46,9.30;4,70.87,411.60,453.50,9.96;4,70.87,423.79,208.01,9.30">According to Article 35 <ref type="bibr" coords="4,189.13,387.96,12.86,9.30">(1)</ref> of Regulation (EU) 2015/2283 2 , any request for placing a novel food on the market within the Union submitted to a Member State in accordance with Article 4 of Regulation (EU) 258/1997 and for which the final decision has not been taken before 1 January 2018 shall be treated as an application under this Regulation.</s></p><p><s coords="4,85.04,435.76,439.29,9.30;4,70.87,447.72,453.47,9.30;4,70.87,459.68,29.86,9.30">In accordance with Article 10 (3) of Regulation (EU) 2015/2283, EFSA shall give its opinion as to whether the update of the Union List referred to in Article 10 ( <ref type="formula" coords="4,351.25,447.72,4.29,9.30">1</ref>) is liable to have an effect on human health.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p><s coords="4,113.39,482.10,146.25,11.15">Data and methodologies</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Data</head><p><s coords="4,85.04,525.39,439.30,9.30;4,70.87,537.35,383.22,9.30">The safety assessment of this NF is based on data supplied in the application and information submitted by the applicant following two EFSA requests for supplementary information.</s></p><p><s coords="4,85.04,549.31,439.30,9.30;4,70.87,561.27,382.91,9.30;4,453.83,559.27,4.04,6.20;4,457.91,561.27,3.01,9.30">Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469 3 .</s></p><p><s coords="4,85.04,573.24,439.29,9.30;4,70.87,585.20,294.94,9.30;4,365.90,583.19,4.04,6.20">A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application. 4</s><s coords="4,373.89,585.20,150.47,9.30;4,70.87,597.10,453.49,9.30;5,70.87,73.03,453.49,9.30;5,70.87,85.00,13.50,9.30">As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data, including both data in favour and not in favour to supporting the safety of the proposed NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Methodologies</head><p><s coords="5,85.04,126.95,439.30,9.30;5,70.87,138.91,453.46,9.30">The assessment follows the methodology set out in the EFSA guidance on NF applications and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee.</s><s coords="5,70.87,150.87,453.45,9.30;5,70.87,162.84,320.32,9.30">The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of the Commission Implementing Regulation (EU) 2017/2469.</s><s coords="5,85.04,174.80,439.30,9.30;5,70.87,186.76,453.50,9.30;5,70.87,198.67,69.54,9.30">This assessment concerns only risk that might be associated with consumption of the NF under the proposed conditions of use, and is not an assessment of the efficacy of HDFPE with regard to any claimed benefit.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Assessment</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Introduction</head><p><s coords="5,85.04,264.43,439.33,9.30;5,70.87,276.39,453.43,9.30;5,70.87,288.30,48.65,9.30">The NF is a hot water extract of dried fruits and peduncles of Hovenia dulcis Thunberg (family: Rhamnaceae), which is commonly named as Japanese raisin tree, Japanese cherry tree and Chinese raisin tree.</s><s coords="5,124.95,288.30,399.40,9.30;5,70.87,300.26,302.68,9.30">Hovenia dulcis trees originate from China, Korea, Himalaya region and Japan and are cultivated in China, South America and Tanzania <ref type="bibr" coords="5,286.89,300.26,81.93,9.30" target="#b39">(Hyun et al., 2010)</ref>.</s><s coords="5,377.12,300.26,147.26,9.30;5,70.87,312.22,157.17,9.30">The NF is intended to be used as an ingredient for food supplements.</s></p><p><s coords="5,85.04,324.18,439.30,9.30;5,70.87,336.15,90.02,9.30">The applicant indicated that according to Regulation (EU) 2015/2283 this NF falls under the following categories:</s></p><p><s coords="5,85.04,352.87,439.31,9.96;5,70.87,365.06,449.07,9.30">(iv) 'foods and food ingredients consisting of or isolated from plants, except for foods and food ingredients obtained by traditional propagating or breeding practices and having a history of safe use'.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Identity of the NF</head><p><s coords="5,85.04,406.96,439.31,9.30;5,70.87,418.92,45.11,9.30">The NF is a hot water extract obtained from the dried fruits and peduncles of Hovenia dulcis Thunberg.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Production process</head><p><s coords="5,85.04,460.87,439.37,9.30">The fruits and peduncles are harvested manually in the wild in China in September and October.</s><s coords="5,70.87,472.83,453.54,9.30">Once the fruits and peduncles are mature, they fall off the tree and the workers collect them by hand.</s><s coords="5,70.87,484.80,453.50,9.30;5,70.87,496.76,453.52,9.30;5,70.87,508.72,45.27,9.30">After collection and sorting, the fruits and peduncles are packed in nylon bags of 25 kg and transported by ship to South Korea where they are screened for pesticide residues and other impurities.</s></p><p><s coords="5,85.04,520.62,439.30,9.30;5,70.87,532.59,135.10,9.30">Then they are stored frozen until they are sliced and dried in the dark, followed by an addition of water at a ratio of 1:10 (w/v).</s><s coords="5,209.71,532.59,314.65,9.30;5,70.87,544.55,453.49,9.30;5,70.87,556.51,195.14,9.30">According to the applicant, the mixture of the dried slices and water is kept at a temperature of 110-150°C, preferably 120-125°C, and under a pressure ranging from 1 to 3 atm, optimally 1.5 atm, for 15 min to 48 h.</s><s coords="5,269.97,556.51,254.37,9.30;5,70.87,568.47,453.50,9.30;5,70.87,580.44,453.47,9.30;5,70.87,592.40,178.93,9.30">In response to EFSA questioning, this wide range for the duration of the extraction, the applicant explained that the normal production schedule is between 15 min and 12 h and that due to weekends and holidays the schedule has to be adjusted and the extraction procedure will be different.</s><s coords="5,256.70,592.17,267.61,9.96;5,70.87,604.13,397.87,9.96">After the extraction, the mixture is cooled, filtered and concentrated by evaporation at room temperature at -1.5 atm to a solid content of 40%.</s><s coords="5,472.42,604.36,51.94,9.30;5,70.87,616.26,453.50,9.30;5,70.87,628.23,453.49,9.30;5,70.87,640.19,51.71,9.30">In response to an EFSA question, the applicant informed that subsequently dextrin or maltodextrin is added at a ratio of 10:6 [extract:(malto)dextrin] to avoid clotting of the pure dried extract, before the mixture is spray-dried.</s><s coords="5,127.79,640.19,331.63,9.30">The Panel notes discrepant information received from the applicant (i.e.</s><s coords="5,464.60,639.96,59.76,9.96;5,70.87,652.15,453.53,9.30;5,70.87,663.88,453.48,9.96;5,70.87,675.85,162.10,9.96">file 'Reply on EFSA Risk Assessment 1' on the production process 4/5/2020 provides a Korean and an English package label which indicates 'Dextrin 37.5%', but the same file included also a copy of a certificate of analysis on a 'maltodextrin' product).</s></p><p><s coords="5,85.04,688.04,439.31,9.30;5,70.87,700.00,177.20,9.30">After addition of the dextrin/maltodextrin, the NF is delivered to Sweden in airtight polyethylene bags for encapsulation and packaging.</s><s coords="5,253.59,700.00,270.75,9.30;5,70.87,711.90,453.50,9.30;5,70.87,723.87,35.00,9.30">The initial assessment raised concerns by a Member State regarding the use of ethanol in the production process, however, the applicant clarified that no ethanol is used.</s><s coords="5,110.72,723.87,413.65,9.30;5,70.87,735.83,453.48,9.30;5,70.87,746.37,9.97,10.71;5,75.74,747.56,412.18,9.96">The applicant provided GMP certificates issued by the South Korean Ministry for Food and Drug Safety and the Korean Food and Drug Agency (KFDA) for the production of the ingredient and by L € akemedelsverket (Swedish Medical Products Agency) for the filling of capsules and packaging.</s></p><p><s coords="6,85.04,73.03,439.28,9.30;6,70.87,85.00,409.21,9.30">The Panel notes that no analytical data were provided on whether and to which degree the wide range of the extraction time (i.e. 15 min to 48 h) may impact the composition of the NF.</s><s coords="6,484.66,85.00,39.66,9.30;6,70.87,96.96,311.89,9.30">It is also unclear whether the HDFPE is mixed with dextrin or maltodextrin.</s><s coords="6,388.80,96.96,135.54,9.30;6,70.87,108.92,251.94,9.30">The Panel considers that the production process of the NF is not sufficiently described.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Compositional data</head><p><s coords="6,85.04,150.87,439.32,9.30;6,70.87,162.84,109.33,9.30">According to the application, the NF consists of a spray-dried mixture of 62.5% HDFPE and 37.5% dextrin or maltodextrin.</s><s coords="6,186.63,162.84,337.72,9.30;6,70.87,174.80,453.52,9.30;6,70.87,186.53,158.07,9.96">The NF is comprised of mostly carbohydrates (about 90%), about 2% proteins, 5% moisture, less than 1% fat and about 2% ash; in addition, the NF contains small amounts (&lt; 100 ppm) of flavonoids.</s></p><p><s coords="6,85.04,198.67,439.30,9.30;6,70.87,210.40,453.47,9.96;6,70.87,222.59,395.86,9.30">The applicant provided compositional information on Hovenia dulcis from the literature: Park et al. ( <ref type="formula" coords="6,75.72,210.63,19.42,9.30">2015</ref>) studied the content of four flavonoids in four batches of an extract obtained from the manufacturer of the NF with a high-performance liquid chromatographic (HPLC) method.</s><s coords="6,470.66,222.59,53.77,9.30;6,70.87,234.55,453.46,9.30">That extract was produced of dried fruit powder extracted with hot water (100°C for 3 h) at a ratio at 1:40 (w/v).</s><s coords="6,70.87,246.51,326.36,9.30">In addition to the differences of the processing of the raw material (i.e.</s><s coords="6,401.66,246.51,122.67,9.30;6,70.87,258.48,453.50,9.30;6,70.87,270.44,374.68,9.30">powder) and the extraction conditions, also the further processing of the extract (centrifugation to remove insoluble particles) and the drying method (freeze-drying) differed from the production process of the NF.</s><s coords="6,450.25,270.44,74.10,9.30;6,70.87,282.40,342.77,9.30">There is also no note on an addition of (malto)dextrin in this publication by <ref type="bibr" coords="6,333.13,282.40,75.93,9.30" target="#b48">Park et al. (2015)</ref>.</s><s coords="6,417.26,282.40,107.06,9.30;6,70.87,294.31,141.17,9.30">The results of this batch testing are provided in Table <ref type="table" coords="6,203.64,294.31,4.20,9.30" target="#tab_2">1</ref>.</s><s coords="6,216.40,294.08,307.97,9.96;6,70.87,306.27,53.66,9.30">Dihydromyricetin and taxifolin were the most abundant flavonoids in that extract.</s><s coords="6,85.04,464.50,439.30,9.30;6,70.87,474.85,453.50,10.91;6,70.87,488.19,453.44,9.96;6,70.87,500.39,453.44,9.30;6,70.87,512.35,371.05,9.30"><ref type="bibr" coords="6,85.04,464.50,78.06,9.30" target="#b48">Park et al. (2015)</ref> referred also to, but did not quantify, other components in the seeds or fruits of Hovenia dulcis, such as hovenodulinol, hovenitins I, II and III, (+)-3,3 0 ,5 0 ,5,7-pentahydroflavanone, laricitrin, myricetin, (+)-gallocatechin, dihydrokaempferol, saponin C2, b-daucosterol, hovenidulciosides A1, A2, B1 and B2, hodulosides I and III and hovenidulcigenin reported by <ref type="bibr" coords="6,437.73,500.39,77.42,9.30" target="#b32">Ding et al. (1997</ref><ref type="bibr" coords="6,515.15,500.39,9.15,9.30;6,70.87,512.35,97.36,9.30">), ShuZhen et al. (2009)</ref>, <ref type="bibr" coords="6,177.39,512.35,100.60,9.30" target="#b52">Yoshikawa et al. (1995</ref><ref type="bibr" coords="6,287.26,512.35,19.65,9.30" target="#b53">Yoshikawa et al. ( , 1996</ref><ref type="bibr" coords="6,316.40,512.35,25.39,9.30" target="#b54">Yoshikawa et al. ( , 1997) )</ref> and <ref type="bibr" coords="6,367.03,512.35,70.30,9.30" target="#b51">Xu et al. (2003)</ref>.</s><s coords="6,446.40,512.35,77.95,9.30;6,70.87,524.31,453.44,9.30;6,70.87,536.27,453.54,9.30;6,70.87,548.18,453.45,9.30;6,70.87,560.14,56.70,9.30">In a letter to the applicant, EFSA noted scientific literature <ref type="bibr" coords="6,256.59,524.31,107.07,9.30" target="#b53">(Yoshikawa et al., 1996;</ref><ref type="bibr" coords="6,367.71,524.31,100.64,9.30" target="#b45">Murakami et al., 1997)</ref> about other phenolic compounds and saponins present in the seeds and fruits of Hovenia dulcis, some of which may raise safety concerns at certain concentrations <ref type="bibr" coords="6,312.38,548.18,86.43,9.30" target="#b37">(Heim et al., 2002;</ref><ref type="bibr" coords="6,404.10,548.18,87.83,9.30" target="#b38">Hobbs et al., 2013;</ref><ref type="bibr" coords="6,497.14,548.18,27.18,9.30;6,70.87,560.14,51.96,9.30" target="#b36">Engen et al., 2015)</ref>.</s><s coords="6,130.85,560.14,202.11,9.30">The applicant did not address these concerns.</s></p><p><s coords="6,85.04,572.10,439.33,9.30;6,70.87,584.06,252.96,9.30">The applicant also provided information on other batches produced by the manufacturer of the NF in 2011 and 2013 and on batches produced in 2019.</s><s coords="6,329.61,584.06,194.73,9.30;6,70.87,596.03,453.50,9.30;6,70.87,607.76,453.46,9.96;6,70.87,619.95,232.49,9.30">The certificates of analyses issued by the manufacturer of the NF for four different batches produced in 2011 and 2013 provided only information on moisture (ranging from 4.3% to 4.7%), quercetin (5.9-8.9 lg/g) and on some microbiological and chemical contaminants (Table <ref type="table" coords="6,291.18,619.95,4.06,9.30" target="#tab_3">2</ref>).</s><s coords="7,85.04,253.77,439.30,9.30;7,70.87,265.73,237.54,9.30">Consequently, EFSA asked the applicant to provide more qualitative and quantitative data on the main constituents/proximate analyses of the NF (i.e.</s><s coords="7,313.05,265.73,211.34,9.30;7,70.87,277.47,453.47,9.96;7,70.87,289.66,147.52,9.30">ash, moisture, protein, fat, and carbohydrates, flavonoids) and batch-to-batch analyses in order to show that these parameters meet the limits of the proposed specifications of the NF.</s></p><p><s coords="7,85.04,301.62,439.30,9.30;7,70.87,313.35,181.95,9.96">In response to this request, the applicant provided certificates of analyses from the manufacturer of the NF on five batches produced in 2019.</s><s coords="7,256.19,313.58,155.97,9.30">The results are provided in Table <ref type="table" coords="7,403.71,313.58,4.23,9.30" target="#tab_5">3</ref>.</s><s coords="8,85.04,73.03,439.32,9.30;8,70.87,84.77,453.45,9.96;8,70.87,96.96,135.39,9.30">The Panel notes that the results of all tested parameters, except for quercetin (ranging from 7.94 to 8.74 lg/g), are identical for all five presented batches produced at different time points in 2019, which is considered unrealistic.</s></p><p><s coords="8,85.04,108.69,439.33,9.96;8,70.87,120.65,339.13,9.96">These five batches produced in 2019 and a sixth batch (LT119045P, production date not specified) were analysed by an external laboratory for their flavonoid content (Table <ref type="table" coords="8,397.81,120.88,4.06,9.30" target="#tab_6">4</ref>).</s></p><p><s coords="8,85.04,302.19,439.31,9.30;8,70.87,313.92,453.48,9.96;8,70.87,326.11,453.54,9.30;8,70.87,338.07,453.49,9.30;8,70.87,349.98,181.21,9.30">The Panel notes that taxifolin could not be detected in these six batches and that the results for the contents of the other three flavonoids in these batches are up to more than 10-fold lower (for dihydromyricetin) than the results (presented in Table <ref type="table" coords="8,315.78,326.11,4.56,9.30" target="#tab_2">1</ref>) obtained on an extract produced differently to the NF and which have been proposed by the applicant for setting specifications for dihydromyricetin, taxifolin and myricetin.</s><s coords="8,256.42,349.98,267.89,9.30;8,70.87,361.94,453.45,9.30;8,70.87,373.67,48.50,9.96">The information from this external laboratory indicated that the analysed substance was a mixture consisting of 62.5% Hovenia dulcis extract and 32.5% dextrin vs. '37.5%'</s><s coords="8,123.25,373.90,401.12,9.30;8,70.87,385.86,193.01,9.30">as indicated in the production process description in the application and as indicated on a product labelling provided by the applicant.</s><s coords="8,267.93,385.86,256.44,9.30;8,70.87,397.83,141.90,9.30">Thus, it appears that the batches produced and tested in 2019 are not identical to the NF.</s></p><p><s coords="8,85.04,409.56,439.35,9.96;8,70.87,421.75,453.48,9.30;8,70.87,433.71,453.46,9.30;8,70.87,445.62,100.24,9.30">Another sample of a 'Hovenia dulcis extract powder' (as stated by the applicant) and two samples of food supplements provided by the manufacturer of the NF (without further information on the tested material) were analysed by the external laboratories Eurofins and the Korean Health Supplements Institute.</s><s coords="8,175.97,445.62,348.32,9.30;8,70.87,457.58,257.93,9.30">The proximate analyses (moisture, protein, fat, carbohydrates, ash) of these samples were within the proposed specification limits.</s><s coords="8,335.90,457.58,188.39,9.30;8,70.87,469.54,53.90,9.30">Flavonoids were not analysed by these laboratories.</s></p><p><s coords="8,85.04,481.50,439.30,9.30;8,70.87,493.47,216.00,9.30">The Panel notes the concerns described above for the proximate analyses provided by the certificates of the manufacturer of the NF (i.e.</s><s coords="8,292.08,493.24,232.26,9.96;8,70.87,505.43,162.88,9.30">identical figures) and regarding the identity of the analysed batches produced in 2019.</s><s coords="8,238.22,505.43,286.18,9.30;8,70.86,517.39,231.83,9.30">Furthermore, the Panel considers that the NF is not sufficiently characterised regarding secondary plant metabolites.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.1.">Stability</head><p><s coords="8,85.04,558.72,320.14,9.30">No data regarding the stability of the NF were provided by the applicant.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Specifications</head><p><s coords="8,85.04,600.68,361.08,9.30">The specifications of the NF proposed by the applicant are presented in Table <ref type="table" coords="8,437.72,600.68,4.20,9.30" target="#tab_7">5</ref>.</s><s coords="8,450.20,600.68,74.15,9.30;8,70.87,612.41,416.90,9.96">They include the parameters for proximate analyses, flavonoids, heavy metals and microbiological specifications.</s><s coords="9,85.04,400.89,439.27,9.30;9,70.87,412.85,453.48,9.30;9,70.87,424.81,244.49,9.30">Given the limitations of the batch testing described in Section 3.4, the Panel considers that the data provided by the applicant do not demonstrate that different batches produced with the described production process meet the proposed specifications.</s><s coords="9,321.05,424.81,203.31,9.30;9,70.87,436.78,453.50,9.30;9,70.87,448.51,453.47,9.96;9,70.87,460.70,340.10,9.30">It is also noted that the testing of batches produced in 2019 showed significantly lower contents of dihydromyricetin, taxifolin and myricetin (Table <ref type="table" coords="9,101.14,448.74,4.56,9.30" target="#tab_6">4</ref>) as compared to the proposed specification limits for these flavonoids (Table <ref type="table" coords="9,460.00,448.74,4.56,9.30" target="#tab_7">5</ref>) which were based on analyses of an extract, which was produced differently from the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.6.</head><p><s coords="9,113.78,483.12,265.93,11.15">History of use of the NF and/or of its source</s></p><p><s coords="9,85.04,502.65,439.28,9.30;9,70.87,514.62,453.53,9.30;9,70.87,526.52,298.57,9.30">According to the applicant, literature <ref type="bibr" coords="9,262.88,502.65,95.77,9.30" target="#b25">(Bampi et al., 2010;</ref><ref type="bibr" coords="9,364.87,502.65,99.40,9.30" target="#b30">Chau and Wu, 2006;</ref><ref type="bibr" coords="9,470.49,502.65,53.83,9.30" target="#b31">Dieu, 1853;</ref><ref type="bibr" coords="9,70.87,514.62,98.78,9.30" target="#b35">Eleot erio et al., 2012;</ref><ref type="bibr" coords="9,175.07,514.62,48.79,9.30" target="#b43">Lim, 2013;</ref><ref type="bibr" coords="9,229.32,514.62,137.49,9.30" target="#b44">Martin-Garcia and Diez, 2012)</ref> demonstrates that Hovenia dulcis fruits are a commonly used food in Taiwan, Japan, China and Brazil.</s><s coords="9,85.04,538.25,439.33,9.96;9,70.87,550.45,453.45,9.30;9,70.87,562.41,241.44,9.30"><ref type="bibr" coords="9,85.04,538.48,86.45,9.30" target="#b25">Bampi et al. (2010)</ref>, who studied the composition of Hovenia dulcis fruits and extracts and flour made of the fruits, noted that Hovenia dulcis is widely distributed in southern Brazil, but that there were no literature reports of its use in food products.</s><s coords="9,316.57,562.41,207.86,9.30;9,70.87,574.37,453.48,9.30;9,70.87,586.33,388.64,9.30">According to two other references from Brazil, noted by the applicant, Hovenia dulcis is widespread in south Brazil but not well documented (Eleot erio et al., 2012) and is considered as an invasive species (Martin-Garcia and <ref type="bibr" coords="9,405.12,586.33,49.66,9.30" target="#b44">Diez, 2012)</ref>.</s><s coords="9,464.14,586.33,60.21,9.30;9,70.87,598.29,453.55,9.30;9,70.87,610.26,56.37,9.30">The applicant has provided a reference for recipes with Hovenia dulcis fruits published in a Brazilian Blog <ref type="bibr" coords="9,493.00,598.29,31.42,9.30;9,70.87,610.26,51.65,9.30" target="#b49">(Sexta-Feira, 2008)</ref>.</s><s coords="9,131.36,610.26,393.02,9.30;9,70.87,622.16,211.52,9.30">According to <ref type="bibr" coords="9,190.88,610.26,92.32,9.30" target="#b30">Chau and Wu (2006)</ref>, fruits and seeds of Hovenia dulcis can be used as a food ingredient in Taiwan, but not in China.</s><s coords="9,288.68,622.16,235.68,9.30;9,70.87,634.12,453.46,9.30;9,70.87,645.86,133.97,9.96"><ref type="bibr" coords="9,288.68,622.16,55.00,9.30" target="#b31">Dieu (1853)</ref> noted in his medical and therapeutic compendium that fruits from Hovenia dulcis were tasting like pears when they are ripe, and that local Japanese called the tree 'Siku'.</s></p><p><s coords="9,85.04,658.05,439.30,9.30;9,70.87,670.01,453.49,9.30;9,70.87,681.97,453.41,9.30;9,70.87,693.93,137.14,9.30">According to a compendium by <ref type="bibr" coords="9,228.70,658.05,48.63,9.30" target="#b43">Lim (2013)</ref> on edible medicinal and non-medicinal plants, the ripe fruits and fruit peduncles are edible raw or cooked and can be used to make candies and substitutes for honey and wine; it also has been used as a traditional Chinese medicine for more than 1,000 years to treat alcohol abuse in China.</s></p><p><s coords="9,85.04,705.90,439.31,9.30;9,70.87,717.57,453.48,9.96;9,70.87,729.53,276.83,9.96">The applicant also provided an inventory handbook from the US Department of Agriculture on 'Perennial Edible Fruits of the Tropics' which indicates the peduncle of Hovenia dulcis as edible parts under the list of 'minor fruits' of Southeast Asia <ref type="bibr" coords="9,284.26,729.76,58.71,9.30" target="#b50">(USDA, 1987)</ref>.</s><s coords="9,351.33,729.53,173.01,9.96;9,70.87,741.73,134.31,9.30">'Minor fruits' were defined as '[citation] usually not widely distributed.</s><s coords="9,209.76,741.73,96.76,9.30">They are often small.</s><s coords="9,311.07,741.73,213.28,9.30;10,70.87,73.03,171.95,9.30">They may only grow wild and have little or no potential for cultivation and marketing.</s><s coords="10,246.56,73.03,277.79,9.30;10,70.87,85.00,216.12,9.30">Most probably merit neglect, but some may have the potential to be improved and developed into a major fruit'.</s></p><p><s coords="10,85.04,96.96,439.32,9.30;10,70.87,108.92,453.54,9.30">The dossier contains a scientific article on dietary supplement use by South Korean adults based on data from the National Complementary and Alternative Medicine Use Survey in 2006 <ref type="bibr" coords="10,444.19,108.92,75.49,9.30" target="#b46">(Ock et al., 2010)</ref>.</s><s coords="10,70.87,120.65,453.52,9.96;10,70.87,132.85,67.52,9.30">According to this article, 5.2% of South Korean adults had consumed food supplements with 'Hovenia dulcis' in 2006.</s><s coords="10,142.70,132.85,381.65,9.30;10,70.87,144.81,450.10,9.30">There was no information, however, in this article about the dose or duration of the intake or any other specific information on the consumption pattern or on the consumed supplements.</s></p><p><s coords="10,85.04,156.77,417.43,9.30">According to the applicant, Hovenia dulcis has been permitted for food use by the KFDA.</s><s coords="10,507.85,156.77,16.49,9.30;10,70.87,168.67,453.48,9.30;10,70.87,180.64,376.42,9.30">The applicant also stated that Hovenia dulcis fruits and peduncles are consumed also as a fresh or dried fruit in Korea at an estimated quantity of 200,000 kg/year (no reference provided).</s><s coords="10,451.61,180.64,72.71,9.30;10,70.87,192.60,453.45,9.30;10,70.87,204.33,395.32,9.96">The dossier also contains a table presenting 11 food products (eight beverages and three food supplements) from different companies with 'Hovenia dulcis extracts' on the market in South Korea (Table <ref type="table" coords="10,454.05,204.56,4.04,9.30" target="#tab_9">6</ref>).</s><s coords="10,469.59,204.56,54.80,9.30;10,70.87,216.52,361.84,9.30">According to the applicant, a product similar to the NF is already on the market in South Korea.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.7.</head><p><s coords="10,113.78,443.15,313.91,11.15">Proposed uses and use levels and anticipated intake</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.1.">Target population</head><p><s coords="10,85.04,485.99,265.45,9.30">The applicant intends to target the general adult population.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.2.">Proposed uses and use levels</head><p><s coords="10,85.04,527.32,439.28,9.30;10,70.87,539.28,302.85,9.30">The applicant intends to use the NF as an ingredient in food supplements in capsule or tablet form taken up to 6 times a day and with a maximum daily intake of 2.5 g.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.3.">Precautions and restrictions of use</head><p><s coords="10,85.04,580.61,439.27,9.30;10,70.87,592.57,258.17,9.30">According to the applicant, the NF is not recommended for children, pregnant women and individuals with chronic diseases such as liver malfunction.</s><s coords="10,332.73,592.57,191.61,9.30;10,70.87,604.53,453.49,9.30;10,70.87,616.49,453.51,9.30;10,70.87,628.45,190.15,9.30">Following a request by EFSA to provide the rationale for these restrictions of use, the applicant indicated that no studies have been performed on pregnant women and children and that recommendations of the Swedish Food Administration regarding food supplements were followed.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.8.">Absorption, distribution, metabolism and excretion</head><p><s coords="10,85.04,670.41,439.33,9.30;10,70.87,682.31,231.36,9.30">No studies on the absorption, distribution, metabolism and excretion (ADME) of the NF or any constituent thereof were provided by the applicant.</s><s coords="10,306.59,682.31,217.75,9.30;10,70.87,694.28,400.76,9.30">The applicant argued that the macronutrients of the NF are expected to be digested according to the usual digestion and absorption routes.</s><s coords="11,70.87,78.45,22.64,11.15">3.9.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nutritional information</head><p><s coords="11,85.04,97.98,439.32,9.30;11,70.87,109.89,453.50,9.30;11,70.87,121.85,201.84,9.30">Considering the compositional data as provided by the applicant and as presented in Section 3.4 (Composition) and the maximum daily intake per day of 2.5 g, the Panel considers that consumption of the NF is not nutritionally disadvantageous.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.">Toxicological information</head><p><s coords="11,85.04,163.80,439.26,9.30;11,70.87,175.76,453.45,9.30;11,70.87,187.72,453.46,9.30;11,70.87,199.69,373.16,9.30">The applicant has provided an acute toxicity study in rats <ref type="bibr" coords="11,347.81,163.80,85.34,9.30">(Biotoxtech, 2002a)</ref>, a bacterial reverse mutation test <ref type="bibr" coords="11,137.03,175.76,88.57,9.30">(Biotoxtech, 2002b;</ref><ref type="bibr" coords="11,231.19,175.76,54.64,9.30">unpublished)</ref>, an in vivo micronucleus test in mice <ref type="bibr" coords="11,471.96,175.76,52.35,9.30;11,70.87,187.72,29.54,9.30">(Biotoxtech, 2002c;</ref><ref type="bibr" coords="11,106.75,187.72,54.64,9.30">unpublished)</ref>, a chromosome aberration test with hamster lung cells <ref type="bibr" coords="11,435.17,187.72,89.15,9.30">(Biotoxtech, 2002d;</ref><ref type="bibr" coords="11,70.87,199.69,56.20,9.30">unpublished)</ref> and a 90-day subchronic rat study, <ref type="bibr" coords="11,297.47,199.69,82.35,9.30" target="#b29">(Biotoxtech, 2003;</ref><ref type="bibr" coords="11,384.83,199.69,54.64,9.30">unpublished)</ref>.</s><s coords="11,449.00,199.69,75.34,9.30;11,70.87,211.65,401.77,9.30">According to the applicant, these studies followed KFDA Guidelines for Good Laboratory Practice (GLP).</s><s coords="11,478.48,211.65,45.82,9.30;11,70.87,223.32,453.46,9.96;11,70.87,235.29,453.50,9.96;11,70.87,247.48,257.05,9.30">The study reports of these toxicological tests indicate that 'Hovenia Dulcis Fruit Extracts' was the test substance and describe it as a 'dark brown powder', but they also indicated that '[citation] other information such as identity, strength, purity and stability was not provided'.</s></p><p><s coords="11,85.04,259.44,439.35,9.30;11,70.87,271.40,453.52,9.30;11,70.87,283.36,33.46,9.30">In two letters to the applicant, EFSA expressed concerns on the genotoxicity testing strategy applied by the applicant and on the representativeness of the material tested in the toxicological studies.</s><s coords="11,111.06,283.36,413.29,9.30;11,70.87,295.33,453.47,9.30;11,70.87,307.29,453.46,9.30;11,70.87,319.19,453.51,9.30;11,70.87,331.16,64.59,9.30">In order to address these concerns, EFSA asked the applicant to provide an in vitro mammalian cell micronucleus test performed in accordance to OECD TG 487 and in line with the tiered genotoxicity testing strategy as indicated by the EFSA Scientific Committee (2011) and by the EFSA NDA Panel (2016), and an in vitro mammalian cell gene mutation test performed in accordance to OECD TG 476.</s><s coords="11,139.58,331.16,384.75,9.30;11,70.87,343.12,453.49,9.30;11,70.87,355.08,453.53,9.30;11,70.87,367.04,453.51,9.30;11,70.87,379.00,70.26,9.30">EFSA suggested to the applicant to consider the EFSA Scientific Committee Statement (2019) on genotoxicity assessment of chemical mixtures in particular chapter 2.1.1 ('Mixtures containing a substantial fraction of unidentified components') and chapter 2.3 ('Genotoxicity assessment of mixtures containing a substantial fraction of unidentified components') for these two requested tests.</s></p><p><s coords="11,85.04,390.97,439.31,9.30;11,70.87,402.93,453.50,9.30;11,70.87,414.83,129.49,9.30">Regarding the provided toxicological studies, EFSA asked the applicant to provide information on the test substance in order to demonstrate that it met the compositional characteristics and specification limits of the NF.</s><s coords="11,204.77,414.83,319.53,9.30;11,70.87,426.80,453.50,9.30;11,70.87,438.76,128.69,9.30">EFSA also noted to the applicant the OECD GLP Guidance requirement that evaluations of chemicals should be based on safety test data of sufficient quality, rigour and reproducibility <ref type="bibr" coords="11,135.78,438.76,59.04,9.30">(OECD, 1998)</ref>.</s><s coords="11,203.19,438.76,321.17,9.30;11,70.87,450.72,453.49,9.30;11,70.87,462.68,355.86,9.30">According to the OECD Guidance documents 487 (OECD, 2016) and 408 <ref type="bibr" coords="11,70.87,450.72,66.70,9.30">(OECD, 2018)</ref>, study reports should include comprehensive qualitative and quantitative physicochemical information on the identity and characterisation of the test item.</s></p><p><s coords="11,85.04,474.64,439.32,9.30;11,70.87,486.38,453.47,9.96;11,70.87,498.57,453.50,9.30;11,70.87,510.47,433.82,9.30">In his response, the applicant provided a letter signed by the chief executive officer (dated 25/10/2017) which stated that '[citation] This is to confirm that the Hovenia Dulcis Extract substance used in the application for a Novel Food application to EFSA, submitted by Hovenia Dulcis AB, Sweden is the same as in the KFDA application for an approval for food supplements referred to in the submitted documents.</s><s coords="11,507.85,510.47,16.49,9.30;11,70.87,522.44,453.49,9.30;11,70.87,534.40,84.36,9.30">The substance has also been used in the toxicological studies performed by Biotoxtech Inc. which are reported in the application'.</s><s coords="11,161.06,534.40,363.31,9.30;11,70.87,546.36,392.03,9.30">However, no data regarding the compositional characteristics and specification parameters of the material tested in the toxicological studies were provided by the applicant.</s></p><p><s coords="11,85.04,558.32,439.30,9.30;11,70.87,570.28,453.54,9.30">The Panel notes that the letter provided by the applicant does not allow EFSA to validate that the identity of the test substance and its physicochemical composition are representative for the NF.</s><s coords="11,70.87,582.25,453.49,9.30;11,70.87,594.21,246.27,9.30">Consequently, the Panel considers that the provided toxicological study reports are not informative for the assessment of the toxicological properties of the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.1.">Human data</head><p><s coords="11,85.04,635.54,439.30,9.30;11,70.87,647.50,308.09,9.30">Two human studies in adults and a report on a paediatric case of toxic hepatitis associated with the consumption of products obtained from Hovenia dulcis were provided.</s></p><p><s coords="11,85.04,659.47,439.29,9.30;11,70.87,671.14,453.47,9.96;11,70.87,683.10,453.51,9.96;11,70.87,695.30,413.51,9.30">An unpublished report summarised a double-blinded, placebo-controlled trial with 74 subjects aged 18-70 years with alcohol-induced liver damage (inclusion criterion: c-glutamyl transpeptidase (c-GTP) ≥ 60) who either received three times per day 900 mg of a 'Hovenia dulcis berry extract powder' produced by the manufacturer of the NF or placebo for 12 weeks (Lifetree Biotech, undated).</s><s coords="11,487.90,695.30,36.44,9.30;11,70.87,707.26,132.45,9.30">The trial was conducted in 2007-2008.</s><s coords="11,207.21,707.26,317.20,9.30">The Panel notes that the study report did not provide information (e.g.</s><s coords="11,70.87,719.22,453.47,9.30;11,70.87,731.18,180.91,9.30">certificate of analysis, any compositional characteristic of the NF) which would allow to verify that the test item was representative for the NF.</s><s coords="11,256.31,731.18,268.02,9.30;11,70.87,743.14,239.81,9.30">The Panel considers therefore that this human study is not informative for the assessment of the safety of the NF.</s></p><p><s coords="12,85.04,73.03,439.26,9.30;12,70.87,85.00,389.58,9.30">The second human study used a hot water extract of Hovenia dulcis fruits (boiled for 4 h) produced by the manufacturer of the NF which met the specifications for quercetin of the NF (i.e.</s><s coords="12,464.08,85.00,32.61,9.30">5.9-8.9</s><s coords="12,500.37,84.77,24.03,9.96;12,70.87,96.96,80.42,9.30">lg/g) <ref type="bibr" coords="12,70.87,96.96,75.70,9.30" target="#b41">(Kim et al., 2017)</ref>.</s><s coords="12,154.80,96.96,369.55,9.30;12,70.87,108.92,453.45,9.30;12,70.87,120.65,377.87,9.96">It was a randomised controlled crossover trial with 26 male adults with a mean age of 24 years who received a single dose of 2.5 g of the NF together with 360 mL of Korean Soju (17.5% v/v alcohol) in order to evaluate effects of the NF on 'hang over' symptoms.</s><s coords="12,452.75,120.88,71.59,9.30;12,70.86,132.85,328.76,9.30">The Panel notes the limitations of this study for its use to assess the safety of the NF (i.e.</s><s coords="12,403.48,132.85,120.86,9.30;12,70.86,144.81,453.46,9.30;12,70.86,156.77,196.55,9.30">single dose, low number of subjects, co-consumption with alcohol and the study objective) and considers that this study is not relevant for the safety assessment of the NF.</s></p><p><s coords="12,85.04,168.67,439.31,9.30;12,70.86,180.64,453.50,9.30;12,70.86,192.60,254.83,9.30">The case report concerned a 3.6-year-old boy who had consumed water boiled with Hovenia dulcis daily (plant part not specified) for about a year prior to the diagnosis of a severe toxic hepatitis and was evaluated for liver transplantation <ref type="bibr" coords="12,244.51,192.60,76.45,9.30" target="#b40">(Kim et al., 2012)</ref>.</s><s coords="12,329.56,192.60,194.79,9.30;12,70.86,204.56,394.57,9.30">There was no further information about the amount of beverage ingested, the concentration of Hovenia dulcis fruits in the beverage.</s><s coords="12,469.19,204.56,55.19,9.30;12,70.86,216.29,453.54,9.96">According to the authors, the case was classified 'probable' causally related to the consumption of Hovenia dulcis.</s><s coords="12,70.86,228.49,453.41,9.30">The Panel notes that case reports per se are not suitable to establish a cause and effect relationship.</s><s coords="12,70.86,240.45,453.50,9.30;12,70.86,252.41,396.56,9.30">There is no information available on how the consumed item relates with the composition and proposed intake level of the NF, thus the relevance of this paediatric case remains unclear.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.11.">Allergenicity</head><p><s coords="12,85.04,294.31,318.08,9.30">According to the proposed specifications, the NF contains 1-3% protein.</s><s coords="12,406.54,294.31,117.80,9.30;12,70.87,306.27,453.49,9.30;12,70.86,318.00,453.48,9.96;12,70.86,330.19,139.58,9.30">According to the applicant, there are no reports on allergic reactions associated with Hovenia dulcis fruits although more than 750 million 'products' of Hovenia dulcis fruit extract have been consumed since the substance was approved by the KFDA in 2008.</s><s coords="12,214.13,330.19,310.19,9.30;12,70.86,342.16,310.00,9.30">The applicant also noted that he could not identify reports concerning allergenicity from China, Japan and Brazil where the fruit is consumed.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p><s coords="12,85.04,384.11,439.28,9.30">The NF concerns a hot water extract from the ripe fruits and peduncles of Hovenia dulcis Thunb.</s><s coords="12,70.87,396.07,157.09,9.30">collected from the wild in China.</s><s coords="12,234.48,396.07,289.85,9.30;12,70.87,407.98,356.29,9.30">The Panel considers that the proposed specifications are not supported by an appropriate compositional characterisation and by batch testing.</s></p><p><s coords="12,85.04,419.94,439.29,9.30;12,70.86,431.90,453.44,9.30;12,70.86,443.86,114.16,9.30">The applicant has provided some information on a history of consumption of Hovenia dulcis fruits and extracts in foods, mainly beverages and food supplements, and in the traditional Chinese medicine in countries in South Asia.</s></p><p><s coords="12,85.04,455.82,439.34,9.30;12,70.86,467.79,453.50,9.30;12,70.86,479.75,19.39,9.30">The application includes study reports on an acute toxicity study, a bacterial reverse mutation test, an in vivo micronucleus test, a chromosome aberration test and a 90-day subchronic toxicity study in rats.</s><s coords="12,97.62,479.75,426.74,9.30;12,70.86,491.71,257.70,9.30">The genotoxicity studies provided by the applicant do not comply with EFSA Guidance documents, as an in vitro micronucleus test is missing.</s><s coords="12,334.26,491.71,190.12,9.30;12,70.86,503.62,416.12,9.30">In addition, the studies provided did not include information that permitted the identification and characterization of the test substance.</s></p><p><s coords="12,85.04,515.58,439.32,9.30;12,70.86,527.54,453.45,9.30;12,70.86,539.50,137.61,9.30">Consequently, the Panel considers that the provided toxicological study reports are not informative for the assessment of the toxicological properties of the NF and cannot be used to derive safe intake levels for human consumption.</s><s coords="12,212.82,539.50,311.49,9.30;12,70.86,551.46,453.48,9.30;12,70.86,563.43,13.50,9.30">Similarly, an unpublished study report on a human trial for 12 weeks did not provide information which would allow to verify that the test item was representative for the NF.</s><s coords="12,89.74,563.43,434.59,9.30;12,70.86,575.39,322.13,9.30">Another human trial concerning the effect of a single dose of 2.5 g of the NF on hang-over symptoms is considered not relevant for the safety assessment of the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p><s coords="12,85.04,617.34,316.74,9.30">The Panel concludes that the safety of the NF has not been established.</s></p><p><s coords="12,70.87,639.76,122.83,11.15;12,113.90,707.09,410.45,9.30;12,113.90,719.05,169.05,9.30">Steps taken by EFSA dulcis fruit extract as a novel food, which was submitted by Hovenia dulcis AB, and the scientific evaluation procedure started.</s></p><p><s coords="13,96.26,73.03,275.07,9.30">3) On 18. <ref type="bibr" coords="13,145.74,73.03,225.60,9.30">01.2019, 08.03.2019, 11.03.2019 and 29.05.2019</ref></s><s coords="13,376.44,73.03,147.94,9.30;13,113.90,85.00,410.45,9.30;13,113.90,96.96,49.67,9.30">EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</s><s coords="13,96.26,108.92,47.79,9.30">4) On 07.</s><s coords="13,144.05,108.92,380.32,9.30;13,113.90,120.88,261.31,9.30"><ref type="bibr" coords="13,144.05,108.92,194.52,9.30">03.2019, 11.03.2019, 12.03.2019 and 04.05</ref>.2020 additional information was provided by the applicant and the scientific evaluation was restarted.</s><s coords="13,96.26,132.85,428.10,9.30;13,113.90,144.81,410.48,9.30;13,113.90,156.77,122.08,9.30">5) During its meeting on 30.06.2020, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of Hovenia dulcis fruit extract as a novel food pursuant to Regulation (EU) 2015/2283.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="6,70.87,324.98,453.54,129.30"><head>Table 1 :</head><label>1</label><figDesc><div><p><s coords="6,124.78,325.20,53.40,9.30">Park et al. (2015)oids in four batches of a Hovenia dulcis extract (mg/g) produced differently to the NF, published byPark et al. (2015)and measured by HPLC</s></p></div></figDesc><table coords="6,73.87,357.11,427.78,82.06"><row><cell></cell><cell></cell><cell cols="2">Batch No.</cell><cell></cell></row><row><cell>Flavonoids (mg/g)</cell><cell>703</cell><cell>701</cell><cell>0807-5</cell><cell>0807-6</cell></row><row><cell>Dihydromyricetin</cell><cell>0.88 AE 0.05</cell><cell>1.19 AE 0.03</cell><cell>1.17 AE 0.03</cell><cell>0.33 AE 0.07</cell></row><row><cell>Taxifolin</cell><cell>0.86 AE 0.05</cell><cell>0.15 AE 0.01</cell><cell>0.93 AE 0.02</cell><cell>1.64 AE 0.01</cell></row><row><cell>Myricetin</cell><cell>0.17 AE 0.01</cell><cell>0.24 AE 0.01</cell><cell>0.06 AE 0.01</cell><cell>0.04 AE 0.01</cell></row><row><cell>Quercetin</cell><cell>0.13 AE 0.01</cell><cell>0.03 AE 0.00</cell><cell>0.04 AE 0.01</cell><cell>0.05 AE 0.01</cell></row></table><note coords="6,70.87,446.84,169.26,7.44"><p><s coords="6,70.87,446.84,169.26,7.44">HPLC: high-performance liquid chromatography.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3" coords="6,70.87,638.43,447.63,114.82"><head>Table 2 :</head><label>2</label><figDesc><div><p><s coords="6,124.78,638.43,375.38,9.30">Results from testing of batches produced in 2011 and 2013 provided by the applicant</s></p></div></figDesc><table coords="6,73.87,658.38,444.63,94.88"><row><cell></cell><cell></cell><cell cols="2">Batch number*</cell><cell></cell></row><row><cell>Parameter</cell><cell>LT111048P</cell><cell>LT113028P</cell><cell>LT113027P</cell><cell>LT113026P</cell></row><row><cell></cell><cell cols="4">14 November 2011 1 October 2013 30 September 2013 3 September 2013</cell></row><row><cell>Moisture (%)</cell><cell>4.7</cell><cell>4.3</cell><cell>4.5</cell><cell>4.7</cell></row><row><cell>Quercetin (lg/g)</cell><cell>8.3</cell><cell>8.0</cell><cell>7.5</cell><cell>7.3</cell></row><row><cell>Total Aerobic Count</cell><cell>5</cell><cell>2 5</cell><cell>5</cell><cell>5</cell></row><row><cell>(CFU/g)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5" coords="7,70.87,335.13,442.91,375.06"><head>Table 3 :</head><label>3</label><figDesc><div><p><s coords="7,124.78,335.13,354.75,9.30">Results of batches produced in 2019 and certified by the manufacturer of the NF</s></p></div></figDesc><table coords="7,70.87,355.07,442.91,335.22"><row><cell></cell><cell></cell><cell></cell><cell>Batch number*</cell><cell></cell><cell></cell></row><row><cell>Parameter</cell><cell cols="2">LT119027P LT119037P</cell><cell>LT119043P</cell><cell>LT119044P</cell><cell>LT119046P</cell></row><row><cell></cell><cell>31 July 2019</cell><cell>23 October 2019</cell><cell>28 November 2019</cell><cell>3 December 2019</cell><cell>26 December 2019</cell></row><row><cell>Moisture (%)</cell><cell>5.20</cell><cell>5.20</cell><cell>5.20</cell><cell>5.20</cell><cell>5.20</cell></row><row><cell>Protein (%)</cell><cell>2.34</cell><cell>2.34</cell><cell>2.34</cell><cell>2.34</cell><cell>2.34</cell></row><row><cell>Fat (%)</cell><cell>0.09</cell><cell>0.09</cell><cell>0.09</cell><cell>0.09</cell><cell>0.09</cell></row><row><cell>Carbohydrates (%)</cell><cell>91.40</cell><cell>91.40</cell><cell>91.40</cell><cell>91.40</cell><cell>91.40</cell></row><row><cell>Polysaccharides</cell><cell>185.17</cell><cell>185.17</cell><cell>185.17</cell><cell>185.17</cell><cell>185.17</cell></row><row><cell>(mg/g)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ash (%)</cell><cell>1.4</cell><cell>1.4</cell><cell>1.4</cell><cell>1.4</cell><cell>1.4</cell></row><row><cell>Sodium (mg/100 g)</cell><cell>20.97</cell><cell>20.97</cell><cell>20.97</cell><cell>20.97</cell><cell>20.97</cell></row><row><cell>Quercetin (lg/g)</cell><cell>8.49</cell><cell>7.94</cell><cell>7.94</cell><cell>7.99</cell><cell>8.74</cell></row><row><cell>Microbiology</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Aerobic counts (CFU)</cell><cell>&lt; 1,000/g</cell><cell>&lt; 1,000/g</cell><cell>&lt; 1,000/g</cell><cell>&lt; 1,000/g</cell><cell>&lt; 1,000/g</cell></row><row><cell>E. coli (per 50 g)</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell></row><row><cell>Coliforms (CFU/g)</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell></row><row><cell>Yeast and moulds</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell></row><row><cell>(CFU/g)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Heavy metals** (ppm)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Lead</cell><cell>0.111</cell><cell>0.111</cell><cell>0.111</cell><cell>0.111</cell><cell>0.111</cell></row><row><cell>Mercury</cell><cell>0.001</cell><cell>0.001</cell><cell>0.001</cell><cell>0.001</cell><cell>0.001</cell></row><row><cell>Cadmium</cell><cell>0.001</cell><cell>0.001</cell><cell>0.001</cell><cell>0.001</cell><cell>0.001</cell></row><row><cell>Arsenic</cell><cell>0.080</cell><cell>0.080</cell><cell>0.080</cell><cell>0.080</cell><cell>0.080</cell></row><row><cell cols="2">NF: novel food; CFU: colony forming units.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note coords="7,70.87,692.78,212.60,7.44;7,70.87,702.75,119.82,7.44"><p><s coords="7,70.87,692.78,212.60,7.44">*: The date below the batch number is the production date.</s><s coords="7,70.87,702.75,119.82,7.44">**: Not a specification parameter.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6" coords="8,70.87,140.95,454.42,151.01"><head>Table 4 :</head><label>4</label><figDesc><div><p><s coords="8,124.78,140.95,399.57,9.30;8,124.78,152.92,96.49,9.30">Flavonoid content of six batches produced by the manufacturer of the NF and certified by an external laboratory</s></p></div></figDesc><table coords="8,73.87,172.86,451.41,103.55"><row><cell></cell><cell></cell><cell></cell><cell cols="2">Batch no.</cell><cell></cell><cell></cell></row><row><cell>Flavonoids (lg/g)</cell><cell>LT119027P 31 July 2019</cell><cell>LT119037P 23 October 2019</cell><cell>LT119043P 28 November 2019</cell><cell>LT119044P 3 December 2019</cell><cell>LT119045P no date</cell><cell>LT119046P 26 December 2019</cell></row><row><cell>Dihydromyricetin</cell><cell>n.d.</cell><cell>91.37</cell><cell>67.30</cell><cell>66.02</cell><cell>73.20</cell><cell>42.83</cell></row><row><cell>Taxifolin</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell><cell>n.d.</cell></row><row><cell>Myricetin</cell><cell>12.08</cell><cell>36.69</cell><cell>27.96</cell><cell>28.05</cell><cell>30.04</cell><cell>27.35</cell></row><row><cell>Quercetin</cell><cell>5.18</cell><cell>3.39</cell><cell>4.64</cell><cell>5.13</cell><cell>4.47</cell><cell>4.46</cell></row></table><note coords="8,70.87,284.53,121.27,7.44"><p><s coords="8,70.87,284.53,13.61,7.44">n.d.</s><s coords="8,87.08,284.53,105.05,7.44">not detected; NF: novel food.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7" coords="8,70.87,633.61,429.46,110.63"><head>Table 5 :</head><label>5</label><figDesc><div><p><s coords="8,124.78,633.61,220.50,9.30">Specifications of the NF proposed by the applicant</s></p></div></figDesc><table coords="8,73.87,653.56,46.94,8.37"><row><cell>Parameter</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9" coords="10,70.87,236.48,432.29,187.67"><head>Table 6 :</head><label>6</label><figDesc><div><p><s coords="10,124.78,236.48,306.16,9.30">Hovenia dulcis extract products on the market in South Korea in 2013</s></p></div></figDesc><table coords="10,73.87,256.42,429.28,167.73"><row><cell>Type of Product</cell><cell>Country</cell><cell>Daily Dose</cell><cell>Yearly Total Consumption USD</cell><cell>Volume in Units</cell></row><row><cell>Beverage</cell><cell>Korea</cell><cell>140 mL (2,460 mg)</cell><cell>80,000,000</cell><cell>40,000,000 bottles</cell></row><row><cell>Beverage</cell><cell>Korea</cell><cell>100 mL (2,460 mg)</cell><cell>2,400,000</cell><cell>600,000 bottles</cell></row><row><cell>Tablet</cell><cell>Korea</cell><cell>2,460 mg/Tablet</cell><cell>60,000,000</cell><cell>600,000 boxes</cell></row><row><cell>Capsule</cell><cell>Korea</cell><cell>2,460 mg/Capsule</cell><cell>250,000</cell><cell>5,000 boxes</cell></row><row><cell>Tablet</cell><cell>Korea</cell><cell>2,460 mg/Tablet</cell><cell>360,000</cell><cell>6,000 boxes</cell></row><row><cell>Beverage</cell><cell>Korea</cell><cell>100 mL (1,000 mg)</cell><cell>24,000,000</cell><cell>6,000,000 bottles</cell></row><row><cell>Beverage</cell><cell>Korea</cell><cell>100 mL</cell><cell>75,000,000</cell><cell>18,750,000 bottles</cell></row><row><cell>Beverage (Tea Drinks)</cell><cell>Korea</cell><cell>350 mL or 500 mL</cell><cell>40,000,000</cell><cell>20,000,000 bottles</cell></row><row><cell>Beverage (Tea Drinks)</cell><cell>Korea</cell><cell>350 mL or 500 mL</cell><cell>25,000,000</cell><cell>16,600,000 bottles</cell></row><row><cell>Beverage (Tea Drinks)</cell><cell>Korea</cell><cell>500 mL</cell><cell>7,000,000</cell><cell>3,880,000 bottles</cell></row><row><cell>Beverage (Tea Drinks)</cell><cell>Korea</cell><cell>500 mL</cell><cell>5,000,000</cell><cell>2,500,000 bottles</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10" coords="12,96.26,659.24,428.08,45.18"><head>1 )</head><label>1</label><figDesc><div><p><s coords="12,113.90,659.24,410.45,9.30;12,113.90,671.20,410.45,9.30;12,113.90,683.16,16.61,9.30">Letter from the European Commission to the European Food Safety Authority with the request for a scientific opinion on the safety of Hovenia dulcis fruit extract as a novel food Ref.</s><s coords="12,133.85,683.16,173.67,9.30">ARES(2018)5373981 dated 19.10.2018.</s><s coords="12,96.26,695.13,85.80,9.30">2) On 19.10.2018,</s><s coords="12,185.61,695.13,338.69,9.30">EFSA received a valid application from the European Commission on Hovenia</s></p></div></figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0" coords="2,70.87,781.25,104.81,7.02"><p><s coords="2,70.87,781.25,104.81,7.02">www.efsa.europa.eu/efsajournal</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1" coords="2,427.64,781.25,96.79,7.02"><p><s coords="2,427.64,781.25,96.79,7.02">EFSA Journal 2020;18(8):6196</s></p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>The EFSA Journal is a publication of the <rs type="funder">European Food Safety Authority</rs>, an agency of the <rs type="funder">European Union</rs>.</p><p>*: No methods were proposed in section 'Specifications' by the applicant, CFU: colony forming unit, ND: not detected; HPLC: high-performance liquid chromatography; NF: novel food.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="3,75.29,109.87,430.52,8.37" xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,75.29,109.87,427.74,8.37">Abstract..................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,120.81,3.78,8.37;3,105.68,120.81,398.05,8.37" xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,120.81,395.23,8.37">Introduction................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,131.81,11.34,8.37;3,105.68,131.81,398.07,8.37" xml:id="b2">
+	<monogr>
+		<title level="m" type="main" coord="3,105.68,131.81,219.53,8.37">Background and Terms of Reference as provided by the</title>
+		<author>
+			<orgName type="collaboration" coords="3,328.20,131.81,172.84,8.37">European Commission ...............................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,142.75,3.78,8.37;3,105.68,142.75,398.02,8.37" xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,142.75,395.32,8.37">Data and methodologies ..............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,86.63,153.70,3.78,8.37;3,105.68,153.70,398.02,8.37" xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,153.70,395.25,8.37">Data...........................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,86.63,164.69,3.78,8.37;3,105.68,164.69,398.05,8.37" xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,164.69,395.19,8.37">Methodologies.............................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,175.63,3.78,8.37;3,105.68,175.63,398.04,8.37" xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,175.63,395.19,8.37">Assessment.................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,86.63,186.58,3.78,8.37;3,105.68,186.58,398.05,8.37" xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,186.58,395.23,8.37">Introduction................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,197.57,11.34,8.37;3,105.68,197.57,398.06,8.37" xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,82.85,197.57,7.56,8.37;3,105.68,197.57,395.31,8.37">2. Identity of the NF........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,86.63,208.52,3.78,8.37;3,105.68,208.52,398.03,8.37" xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,208.52,395.32,8.37">Production process ......................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,86.63,219.46,3.78,8.37;3,105.68,219.46,398.03,8.37" xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,219.46,395.26,8.37">Compositional data......................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,94.19,230.40,409.52,8.37" xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,230.40,395.32,8.37">Stability ......................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,241.40,11.34,8.37;3,105.68,241.40,398.03,8.37" xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,82.85,241.40,7.56,8.37;3,105.68,241.40,395.33,8.37">5. Specifications ..............................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,252.34,11.34,8.37;3,105.68,252.34,398.02,8.37" xml:id="b13">
+	<monogr>
+		<title level="m" type="main" coord="3,105.68,252.34,174.03,8.37">History of use of the NF and/or of its source</title>
+		<author>
+			<orgName type="collaboration" coords="3,281.65,252.34,219.33,8.37">.................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,78.86,263.28,10.71,8.37;3,105.68,263.28,398.05,8.37" xml:id="b14">
+	<monogr>
+		<title level="m" type="main" coord="3,105.68,263.28,198.56,8.37">Proposed uses and use levels and anticipated intake</title>
+		<author>
+			<orgName type="collaboration" coords="3,304.24,263.28,196.68,8.37">......................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,93.48,274.28,410.25,8.37" xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,274.28,395.35,8.37">Target population ........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,93.49,285.22,410.25,8.37" xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,285.22,395.35,8.37">Proposed uses and use levels .......................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,78.93,296.16,424.80,8.37" xml:id="b17">
+	<monogr>
+		<title level="m" type="main" coord="3,105.68,296.16,135.48,8.37">Precautions and restrictions of use</title>
+		<author>
+			<orgName type="collaboration" coords="3,243.78,296.16,257.24,8.37">...............................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,307.16,11.34,8.37;3,105.68,307.16,398.02,8.37" xml:id="b18">
+	<monogr>
+		<title level="m" type="main" coord="3,105.68,307.16,198.10,8.37">Absorption, distribution, metabolism and excretion</title>
+		<author>
+			<orgName type="collaboration" coords="3,311.81,307.16,189.18,8.37">ADME) ............................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,86.63,318.10,3.78,8.37;3,105.68,318.10,398.04,8.37" xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,318.10,395.33,8.37">Nutritional information .................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.29,329.04,424.42,8.37" xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,83.28,329.04,417.59,8.37">10. Toxicological information..............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,98.89,339.98,404.84,8.37" xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,339.98,395.29,8.37">Human data................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.29,350.98,424.44,8.37" xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,83.28,350.98,417.74,8.37">11. Allergenicity ................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,361.92,3.78,8.37;3,105.68,361.92,398.02,8.37" xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,361.92,395.32,8.37">Discussion ..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,79.07,372.87,3.78,8.37;3,105.68,372.87,398.04,8.37;3,75.29,383.86,430.55,8.37;3,75.29,394.81,430.52,8.37;3,75.29,405.75,430.51,8.37" xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,105.68,372.87,398.04,8.37;3,75.29,383.86,430.55,8.37;3,75.29,394.81,430.52,8.37;3,75.29,405.75,305.96,8.37">Conclusions.................................................................................................................................. Steps taken by EFSA ................................................................................................................................ References............................................................................................................................................... Abbreviations .............................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>.............................................</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,187.07,66.43,11.15;13,70.87,207.04,453.54,8.37;13,84.59,217.78,232.65,8.97" xml:id="b25">
+	<analytic>
+		<title level="a" type="main" coord="13,305.41,207.04,219.00,8.37;13,84.59,217.78,104.44,8.97">Chemical composition of fruit, concentrated extract and flour from &quot;Japanese grape</title>
+		<author>
+			<persName coords=""><forename type="first">References</forename><surname>Bampi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Bicudo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Mop</forename><surname>Fontoura</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Psg</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Ribani</forename><surname>Rk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,199.96,217.99,49.74,8.37">Ciencia Rural</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="2361" to="2367" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.87,228.93,453.49,8.37;13,84.58,239.93,77.53,8.37" xml:id="b26">
+	<monogr>
+		<author>
+			<persName coords=""><surname>Biotoxtech</surname></persName>
+		</author>
+		<title level="m" coord="13,148.14,228.93,371.78,8.37">Hovenia Dulcis Fruit Extracts; single dose toxicity study (oral) in rats (study number: B02063)</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Unpublished report</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,250.87,453.49,8.37;13,84.58,261.81,77.53,8.37" xml:id="b27">
+	<analytic>
+		<title level="a" type="main" coord="13,152.28,250.87,118.51,8.37">Hovenia Dulcis Fruit Extracts</title>
+		<author>
+			<persName coords=""><surname>Biotoxtech</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="13,293.50,250.87,226.42,8.37">vitro Reverse Mutation study. (study number: B02064)</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Unpublished report</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,272.81,453.50,8.37;13,84.58,283.75,26.50,8.37;13,70.87,294.69,453.51,8.37;13,84.58,305.69,279.13,8.37" xml:id="b28">
+	<monogr>
+		<author>
+			<persName coords=""><surname>Biotoxtech</surname></persName>
+		</author>
+		<title level="m" coord="13,147.51,272.81,376.85,8.37;13,84.58,283.75,26.50,8.37;13,70.87,294.69,453.51,8.37;13,84.58,305.69,96.24,8.37">Hovenia Dulcis Fruit Extracts; Micronucleus test in Mice. (study number: B02066). Unpublished report. Biotoxtech, 2002d. Hovenia Dulcis Fruit Extracts; In vitro Chromosomal Aberration study using Chinese Hamster Lung (CHL) Cultured cell</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>study number: B02065. Unpublished report</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,316.63,453.50,8.37;13,84.58,327.57,237.40,8.37" xml:id="b29">
+	<monogr>
+		<title level="m" type="main" coord="13,143.32,316.63,381.04,8.37;13,84.58,327.57,152.43,8.37">Hovenia Dulcis Fruit Extracts; 13 week repeated dose toxicity study (oral) with 4 week recovery period in Rats (study number: B02067)</title>
+		<author>
+			<persName coords=""><surname>Biotoxtech</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Unpublished report</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,338.51,453.54,8.37;13,84.58,349.51,246.24,8.37" xml:id="b30">
+	<analytic>
+		<title level="a" type="main" coord="13,186.07,338.51,338.34,8.37;13,84.58,349.51,36.59,8.37">The development of regulations of Chinese herbal medicines for both medicinal and food uses</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">F</forename><surname>Chau</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">H</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,128.24,349.51,144.34,8.37">Trends in Food Science &amp; Technology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="313" to="323" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.86,360.45,53.80,8.37;13,131.25,371.39,331.43,8.37" xml:id="b31">
+	<monogr>
+		<title level="m" type="main" coord="13,134.48,371.39,104.01,8.37">histoire des eaux naturelles</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Dieu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1853">1853</date>
+			<biblScope unit="volume">4</biblScope>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Pallez et Rousseau, libraires-editeurs</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,382.19,450.17,8.97" xml:id="b32">
+	<analytic>
+		<title level="a" type="main" coord="13,208.69,382.19,181.36,8.97">Study on flavonoids in seeds of Hovenia dulcis</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Q</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Teng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,396.57,382.39,65.47,8.37">Yao Xue Xue Bao</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="600" to="602" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.87,393.33,453.54,8.37;13,84.59,404.27,439.75,8.37;13,84.59,415.27,320.27,8.37" xml:id="b33">
+	<analytic>
+		<title level="a" type="main" coord="13,394.25,393.33,130.16,8.37;13,84.59,404.27,435.26,8.37">Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2016.4594</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2016.4594" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,84.59,415.27,51.08,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="4594" to="4618" />
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>EFSA Panel on Dietetic Products, Nutrition and Allergies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.87,426.21,453.50,8.37;13,84.59,437.16,439.79,8.37;13,84.59,448.10,156.43,8.37;13,70.87,459.10,453.48,8.37;13,84.59,470.04,439.82,8.37;13,84.59,480.98,439.81,8.37;13,84.59,491.98,439.81,8.37;13,84.59,502.92,292.49,8.37" xml:id="b34">
+	<analytic>
+		<title level="a" type="main" coord="13,206.93,426.21,317.43,8.37;13,84.59,437.16,71.27,8.37;13,490.06,437.16,34.33,8.37;13,84.59,448.10,156.43,8.37;13,70.87,459.10,101.90,8.37;13,238.11,491.98,258.11,8.37">Scientific Opinion on genotoxicity testing strategies applicable to food and feed safety assessment</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>More</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Bampidis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Benford</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Boesten</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Bragard</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Halldorsson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Hernandez-Jerez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Hougaard-Bennekou</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Koutsoumanis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Naegeli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">S</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Schrenk</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Silano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Turck</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Younes</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Aquilina</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Crebelli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Gurtler</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">I</forename><surname>Hirsch-Ernst</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Mosesso</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Solecki</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Carfı</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Martino</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Maurici</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Parra</forename><surname>Morte</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Schlatter</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2019.5519</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2019.5519" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,164.75,437.16,52.56,8.37;13,504.51,491.98,19.88,8.37;13,84.59,502.92,28.18,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="5519" to="5530" />
+			<date type="published" when="2011">2011. 2011. 2019. 2019</date>
+			<publisher>EFSA Scientific Committee</publisher>
+		</imprint>
+	</monogr>
+	<note>EFSA Journal</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,513.86,453.54,8.37;13,84.59,524.86,109.56,8.37" xml:id="b35">
+	<monogr>
+		<title level="m" type="main" coord="13,271.33,513.86,253.08,8.37;13,84.59,524.86,51.43,8.37">Diameter, height and volume growth of hovenia dulcis in south blumenau, sc</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Eleot Erio</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Pellens</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">J</forename><surname>Commanduli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="733" to="740" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.87,535.80,453.54,8.37;13,84.59,546.74,439.77,8.37;13,84.59,557.68,26.64,8.37" xml:id="b36">
+	<analytic>
+		<title level="a" type="main" coord="13,474.52,535.80,49.89,8.37;13,84.59,546.74,328.89,8.37">Induction of cytotoxicity and genotoxicity responses by natural and novel quercetin glycosides</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Engen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Maeda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">E</forename><surname>Wozniak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">A</forename><surname>Brents</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Uesaka</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Aizawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">A</forename><surname>Kato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,421.52,546.74,72.31,8.37">Mutation Research</title>
+		<imprint>
+			<biblScope unit="page" from="15" to="22" />
+			<date type="published" when="2015">2015. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.87,568.68,453.51,8.37;13,84.59,579.62,241.31,8.37" xml:id="b37">
+	<analytic>
+		<title level="a" type="main" coord="13,257.05,568.68,267.33,8.37;13,84.59,579.62,47.91,8.37">Flavonoid antioxidants: chemistry, metabolism and structure-activity relationships</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">E</forename><surname>Heim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">R</forename><surname>Tagliaferro</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">J</forename><surname>Bobilya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,139.24,579.62,127.99,8.37">Journal of Nutrional Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="572" to="584" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.87,590.56,453.54,8.37;13,84.59,601.36,388.37,8.97" xml:id="b38">
+	<monogr>
+		<title level="m" type="main" coord="13,421.18,590.56,103.23,8.37;13,84.59,601.36,329.80,8.97">Genotoxicity evaluation of the flavonoid, myricitrin, and its aglycone, myricetin. Food and Chemistry Toxicology</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">A</forename><surname>Hobbs</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Swartz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Maronpot</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Recio</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Koyanagi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Hayashi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="283" to="292" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.87,612.31,453.48,8.97;13,84.59,623.45,198.53,8.37" xml:id="b39">
+	<analytic>
+		<title level="a" type="main" coord="13,267.08,612.31,167.95,8.97">Hovenia dulcisan Asian traditional herb</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">K</forename><surname>Hyun</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">H</forename><surname>Eom</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">Y</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Roitsch</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/s-0030-1249776</idno>
+		<ptr target="https://doi.org/10.1055/s-0030-1249776" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,443.17,612.51,60.80,8.37">Planta Medicine</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="943" to="949" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.87,634.45,453.51,8.37;13,84.59,645.39,369.61,8.37" xml:id="b40">
+	<analytic>
+		<title level="a" type="main" coord="13,360.29,634.45,164.09,8.37;13,84.59,645.39,67.86,8.37">A pediatric case of toxic hepatitis induced by Hovenia dulcis</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">L</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">W</forename><surname>Shim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">Y</forename><surname>Shim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Jung</forename><surname>Hl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,158.91,645.39,236.68,8.37">Hepatology and Nutrition Journal</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="111" to="116" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>Pediatric Gastroenterology</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,656.33,453.48,8.37;13,84.59,667.28,439.82,8.37;13,84.59,678.27,314.05,8.37" xml:id="b41">
+	<analytic>
+		<title level="a" type="main" coord="13,373.49,656.33,150.86,8.37;13,84.59,667.28,439.82,8.37;13,84.59,678.27,127.07,8.37">A Standardized extract of the fruit of Hovenia Dulcis alleviated alcohol-induced hangover in healthy subjects with heterozygous ALDH2: a and omized crossover, crossover trial</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">J</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">K</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Chae</forename><surname>Sw</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">O</forename><surname>Kwon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="13,217.59,678.27,117.06,8.37">Journal of Ethnopharmacology</title>
+		<imprint>
+			<biblScope unit="volume">209</biblScope>
+			<biblScope unit="page" from="167" to="174" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="13,70.87,689.22,453.52,8.37;13,84.59,700.16,396.32,8.37" xml:id="b42">
+	<monogr>
+		<title level="m" type="main" coord="13,192.81,689.22,331.57,8.37;13,84.59,700.16,312.52,8.37">An Evaluation of Efficacy of Hovenia dulcis Berry extract powder to Repair Alcohol-Induced Liver Damage in Double Blind, Randomization, Controlled Clinical Trials</title>
+		<imprint>
+			<publisher>Lifetree Biotech Co</publisher>
+		</imprint>
+	</monogr>
+	<note>undated. Unpublished report</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,711.16,453.56,8.37;13,84.59,722.10,151.41,8.37" xml:id="b43">
+	<monogr>
+		<title level="m" type="main" coord="13,132.89,711.16,233.95,8.37;13,478.72,711.16,45.71,8.37;13,84.59,722.10,20.87,8.37">Edible Medicinal And Non-Medicinal Plants</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">K</forename><surname>Lim</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="568" to="577" />
+			<pubPlace>Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Volumen 5, Fruits</note>
+</biblStruct>
+
+<biblStruct coords="13,70.87,733.04,414.67,8.37" xml:id="b44">
+	<monogr>
+		<title level="m" type="main" coord="13,208.97,733.04,179.42,8.37">Sustainable Forest Management: Case studies</title>
+		<author>
+			<persName coords=""><forename type="first">Martin-Garcia Y And</forename><surname>Diez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Intech</publisher>
+			<pubPlace>Rijeka, Croatia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,70.87,73.08,453.52,8.37;14,84.59,84.08,439.82,8.37;14,84.59,95.02,439.79,8.37;14,84.59,105.96,227.04,8.37" xml:id="b45">
+	<monogr>
+		<title level="m" type="main" coord="14,453.38,73.08,71.01,8.37;14,84.59,84.08,439.82,8.37;14,84.59,95.02,403.92,8.37">Histamine release inhibitory and alcohol induced muscle relaxation inhibitory constituents from Hoveniae semen Seu Fructus. Absolute structure of methyl-migrated 16,17-seco-dammarane triterpene glycosides, hovenidulciosides</title>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Ueda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Yoshikawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Yamahara</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Tanaka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page">397</biblScope>
+		</imprint>
+	</monogr>
+	<note>Tennen Yuki Kagobutsu Toronkai Koen Yoshishu, 1995, 37th</note>
+</biblStruct>
+
+<biblStruct coords="14,70.87,116.96,453.51,8.37;14,84.59,127.90,439.79,8.37;14,84.59,138.84,234.58,8.37" xml:id="b46">
+	<analytic>
+		<title level="a" type="main" coord="14,307.67,116.96,216.71,8.37;14,84.59,127.90,352.86,8.37">Dietary supplement use by South Korean adults: data from the national complementary and alternative medicine use survey (NCAMUS) in 2006</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">M</forename><surname>Ock</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">S</forename><surname>Hwang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">H</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">M</forename><surname>Ock</surname></persName>
+		</author>
+		<idno type="DOI">10.4162/nrp.2010.4.1.69</idno>
+		<ptr target="https://doi.org/10.4162/nrp.2010.4.1.69" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="14,445.16,127.90,79.22,8.37;14,84.59,138.84,29.52,8.37">Nutritional Research Practice</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="69" to="74" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,70.87,149.84,453.50,8.37;14,84.58,160.78,420.69,8.37;14,70.86,171.72,453.48,8.37;14,84.58,182.66,353.28,8.37;14,70.87,193.66,453.50,8.37;14,84.58,204.60,363.88,8.37" xml:id="b47">
+	<analytic>
+		<title level="a" type="main" coord="14,180.79,193.66,343.57,8.37;14,84.58,204.60,48.19,8.37">Repeated Dose 90-Day Oral Toxicity Study in Rodents, OECD Guidelines for the Testing of Chemicals</title>
+		<idno type="DOI">10.1787/9789264070707-en</idno>
+		<ptr target="https://doi.org/10.1787/9789264070707-en" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="14,205.00,171.72,319.35,8.37;14,84.58,182.66,37.53,8.37">Vitro Mammalian Cell Micronucleus Test, OECD Guidelines for the Testing of Chemicals</title>
+		<title level="s" coord="14,308.75,149.84,215.62,8.37;14,84.58,160.78,105.61,8.37">OECD Series on Principles of Good Laboratory Practice and Compliance Monitoring</title>
+		<meeting><address><addrLine>Paris; Paris; Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="1998">1998. 2016. 2018</date>
+			<biblScope unit="volume">487</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>OECD Principles on Good Laboratory Practice</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,70.87,215.34,453.53,8.97;14,84.59,226.54,439.71,8.37;14,84.59,237.48,31.36,8.37" xml:id="b48">
+	<analytic>
+		<title level="a" type="main" coord="14,340.84,215.34,183.56,8.97;14,84.59,226.54,117.03,8.37">HPLC determination of bioactive flavonoids in hovenia dulcis fruit extracts</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Rehman</forename><surname>Shaheed Ur</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Na</forename><surname>Cs</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">H</forename><surname>Yoo</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/chromsci/bmv114</idno>
+		<ptr target="https://doi.org/10.1093/chromsci/bmv114" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="14,211.69,226.54,149.98,8.37">Journal of Chromatographic Science</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,70.87,248.43,453.44,8.37;14,84.59,259.42,72.35,8.37;14,70.87,270.37,453.50,8.37;14,84.59,281.31,167.00,8.37" xml:id="b49">
+	<analytic>
+		<title level="a" type="main" coord="14,218.10,270.37,182.61,8.37">The nootropic components of Hovenia dulcis</title>
+		<author>
+			<persName coords=""><surname>Sexta-Feira</surname></persName>
+		</author>
+		<ptr target="https://come-se.blogspot.com/2008/05/tempo-de-uva-japonesa.htmlShuZhenYandQiuShengF" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="14,147.17,248.43,171.67,8.37">E tempo de uva japonesa. Available online</title>
+		<imprint>
+			<date type="published" when="2008">2008. 2009</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1281" to="1287" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,70.87,292.25,453.49,8.37;14,84.58,303.25,332.90,8.37" xml:id="b50">
+	<monogr>
+		<author>
+			<persName coords=""><surname>Usda</surname></persName>
+		</author>
+		<ptr target="https://naldc.nal.usda.gov/download/CAT87886130/PDF" />
+		<title level="m" coord="14,126.42,292.25,397.93,8.37;14,84.58,303.25,39.57,8.37">Perennial Edible Fruits of the Tropics: An. Inventory. U.S. Department of Agriculture</title>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="volume">642</biblScope>
+			<biblScope unit="page">252</biblScope>
+		</imprint>
+	</monogr>
+	<note>Agriculture Handbook</note>
+</biblStruct>
+
+<biblStruct coords="14,70.87,314.19,453.51,8.37;14,84.58,325.13,46.85,8.37" xml:id="b51">
+	<analytic>
+		<title level="a" type="main" coord="14,209.65,314.19,207.16,8.37">Review: chemical compositions of the genus Hovenia</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Sung</forename><surname>Ck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="14,424.12,314.19,96.25,8.37">Natural Product Sciences</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="143" to="153" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,70.87,336.13,453.55,8.37;14,84.58,347.07,439.81,8.37;14,84.58,358.01,439.82,8.37;14,84.58,369.01,36.31,8.37" xml:id="b52">
+	<analytic>
+		<title level="a" type="main" coord="14,84.58,347.07,439.81,8.37;14,84.58,358.01,261.05,8.37">Absolute stereostructures of hovenidulciosides A1 and A2, bioactive novel triterpene glycosides from hoveniae semen seu fructus, the seeds and fruit of Hovenia dulcis Thunb</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Yoshikawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Ueda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">O</forename><surname>Muraoka</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Aoyama</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Shimoda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Yamahara</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Murakami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="14,354.56,358.01,149.58,8.37">Chemical and Pharmaceutical Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="532" to="534" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,70.87,379.95,453.54,8.37;14,84.58,390.89,439.80,8.37;14,84.58,401.83,439.75,8.37;14,84.58,412.83,439.79,8.37;14,84.58,423.77,158.00,8.37" xml:id="b53">
+	<analytic>
+		<title level="a" type="main" coord="14,430.75,379.95,93.65,8.37;14,84.58,390.89,439.80,8.37;14,84.58,401.83,439.75,8.37;14,84.58,412.83,379.58,8.37">Bioactive saponins and glycosides. IV. Four methylmigrated 16,17-seco-dammarane triterpene gylcosides from Chinese natural medicine, hoveniae semen seu fructus, the seeds and fruit of Hovenia dulcis Thunb, absolute stereostructures and inhibitory activity on histamine release of hovenidulciosides A1, A2, B1, and B2</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Yoshikawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Ueda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Yamahara</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Murakami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="14,475.88,412.83,48.49,8.37;14,84.58,423.77,90.06,8.37">Chemical &amp; Pharmaceutical Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="1736" to="1743" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="14,70.86,434.72,453.50,8.37;14,84.58,445.71,439.82,8.37;14,84.58,456.66,439.82,8.37;14,84.58,467.60,439.82,8.37;14,84.58,478.60,227.59,8.37" xml:id="b54">
+	<analytic>
+		<title level="a" type="main" coord="14,182.04,445.71,342.37,8.37;14,84.58,456.66,439.82,8.37;14,84.58,467.60,439.82,8.37;14,84.58,478.60,94.97,8.37">Bioactive constituents of Chinese natural medicines. III. Absolute stereostructures of new dihydroflavonols, hovenitins I, II, and III, isolated from hoveniae semen seu fructus, the seed and fruit of Hovenia dulcis THUNB. (Rhamnaceae): inhibitory effect on alcohol-induced muscular relaxation and hepatoprotective activity</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Yoshikawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Ueda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Yoshizumi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Ninomiya</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Fujii</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Yamahara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="14,185.84,478.60,63.57,8.37">Yakugaku Zasshi</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="108" to="118" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

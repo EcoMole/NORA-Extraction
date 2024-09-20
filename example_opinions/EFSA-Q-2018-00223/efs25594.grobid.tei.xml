@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" coord="1,76.31,164.94,442.62,14.94;1,147.12,183.20,300.99,13.94;1,141.96,211.49,311.39,10.22">Safety of Yarrowia lipolytica yeast biomass as a novel food pursuant to Regulation (EU) 2015/2283</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2019-01-17">17 January 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,84.59,223.45,78.30,10.22"><forename type="first">Dominique</forename><surname>Turck</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,171.38,223.45,108.67,10.22"><forename type="first">Jacqueline</forename><surname>Castenmiller</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,288.34,223.45,91.05,10.22"><forename type="first">Stefaan</forename><surname>De Henauw</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Karen‐ildico</forename><surname>Hirsch‐ernst</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,90.48,235.42,61.91,10.22"><roleName>Helle</roleName><forename type="first">John</forename><surname>Kearney</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,161.18,235.42,81.96,10.22"><forename type="first">Alexandre</forename><surname>Maciuk</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,251.94,235.42,81.13,10.22"><forename type="first">Inge</forename><surname>Mangelsdorf</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,341.75,235.42,73.90,10.22"><forename type="first">Harry</forename><forename type="middle">J</forename><surname>Mcardle</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,424.41,235.42,75.04,10.22"><forename type="first">Androniki</forename><surname>Naska</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,75.23,247.38,69.14,10.22"><forename type="first">Carmen</forename><surname>Pelaez</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,152.79,247.38,77.49,10.22"><forename type="first">Kristina</forename><surname>Pentieva</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,238.73,247.38,60.24,10.22"><forename type="first">Alfonso</forename><surname>Siani</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,306.94,247.38,54.07,10.22"><forename type="first">Frank</forename><surname>Thies</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,369.41,247.38,74.63,10.22"><forename type="first">Sophia</forename><surname>Tsabouri</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,452.53,247.38,63.11,10.22"><forename type="first">Marco</forename><surname>Vinceti</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,121.49,259.34,91.03,10.22"><forename type="first">Francesco</forename><surname>Cubadda</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Karl‐heinz</forename><surname>Engel</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,306.88,259.34,74.44,10.22"><forename type="first">Thomas</forename><surname>Frenzel</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,389.65,259.34,78.80,10.22"><forename type="first">Marina</forename><surname>Heinonen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,99.84,271.30,93.19,10.22"><forename type="first">Rosangela</forename><surname>Marchelli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Monika</forename><surname>Neuhäuser‐berthold</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Annette</forename><surname>Pöting</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,418.39,271.30,72.08,10.22"><forename type="first">Morten</forename><surname>Poulsen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,112.42,283.26,61.88,10.22"><forename type="first">Yolanda</forename><surname>Sanz</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,183.12,283.26,101.75,10.22"><forename type="first">Josef</forename><forename type="middle">Rudolf</forename><surname>Schlatter</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,292.93,283.26,84.77,10.22"><forename type="first">Henk</forename><surname>Van Loveren</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,386.54,283.26,74.88,10.22"><forename type="first">Reinhard</forename><surname>Ackerl</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Helle</forename><forename type="middle">Katrine</forename><surname>Knutsen</surname></persName>
+						</author>
+						<title level="a" type="main" coord="1,76.31,164.94,442.62,14.94;1,147.12,183.20,300.99,13.94;1,141.96,211.49,311.39,10.22">Safety of Yarrowia lipolytica yeast biomass as a novel food pursuant to Regulation (EU) 2015/2283</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">EFSA Journal</title>
+						<title level="j" type="abbrev">EFS2</title>
+						<idno type="ISSN">1831-4732</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">17</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<date type="published" when="2019-01-17">17 January 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FDC8264E8504FDA438974E2C1A30E8B1</idno>
+					<idno type="DOI">10.2903/j.efsa.2019.5594</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-04-29T08:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Yarrowia lipolytica</term>
+					<term>yeast</term>
+					<term>biomass</term>
+					<term>novel food</term>
+					<term>safety Requestor: European Commission following an application by Skotan S.A. (Poland)</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,70.87,339.15,453.50,9.30;1,70.87,350.79,453.49,10.05;1,70.87,363.08,258.02,9.30">Following a request from the European Commission, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver a scientific opinion on Yarrowia lipolytica yeast biomass as a novel food (NF) pursuant to Regulation (EU) 2015/2283.</s><s coords="1,332.44,363.08,191.94,9.30;1,70.87,374.72,453.48,10.05;1,70.87,387.00,147.33,9.30">The NF is the dried and heat-killed biomass of Yarrowia lipolytica, a yeast species that is widespread in nature and which can be found in the environment as well as in foods.</s><s coords="1,222.74,387.00,301.67,9.30;1,70.87,398.96,71.10,9.30">The production process is sufficiently described and does not raise safety concerns.</s><s coords="1,145.30,398.96,379.11,9.30;1,70.87,410.87,71.61,9.30">The information provided on the composition of the NF is sufficient and does not raise safety concerns.</s><s coords="1,146.27,410.87,378.13,9.30;1,70.87,422.83,81.19,9.30">The applicant proposed to use the NF as a food supplement in the form of capsules, tablets or powder.</s><s coords="1,156.47,422.83,367.87,9.30">The target population for the NF is the general population above 3 years of age.</s><s coords="1,70.87,434.79,453.47,9.30;1,70.87,446.75,126.54,9.30">The maximum proposed daily use levels are 3 g/day for children from 3 years to less than 10 years of age and 6 g/day thereafter.</s><s coords="1,202.62,446.75,321.74,9.30;1,70.87,458.72,334.73,9.30">Taking into account the composition of the NF and the proposed use levels, the consumption of the NF is not nutritionally disadvantageous.</s><s coords="1,411.87,458.72,112.51,9.30;1,70.87,470.68,116.56,9.30">No relevant toxicological information was provided.</s><s coords="1,192.13,470.68,332.27,9.30;1,70.87,482.32,453.51,10.05;1,70.87,494.60,453.47,9.30;1,70.87,506.51,13.50,9.30">The Panel considers that given the qualified presumption of safety (QPS) status for production purposes of Yarrowia lipolytica and the fact that the production process of the NF does not raise safety concerns, no toxicological studies are needed for the safety assessment of the NF.</s><s coords="1,89.23,506.19,435.13,10.05;1,70.87,518.47,77.24,9.30">The Panel concludes that the NF, Yarrowia lipolytica yeast biomass, is safe under the proposed conditions of use.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary</head><p><s coords="3,85.04,87.32,439.33,9.30;3,70.87,98.96,453.49,10.05;3,70.87,111.19,266.08,9.30">Following a request from the European Commission, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver a scientific opinion on Yarrowia lipolytica yeast biomass as a novel food (NF) pursuant to Regulation (EU) 2015/2283.</s><s coords="3,341.52,111.19,182.86,9.30;3,70.87,123.15,453.50,9.30;3,70.87,135.11,453.48,9.30;3,70.87,147.08,243.38,9.30">The assessment of the safety of this NF follows the methodology set out in the EFSA Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283 and in the Commission Implementing Regulation (EU) 2017/2469.</s><s coords="3,318.10,147.08,206.25,9.30;3,70.87,159.04,453.49,9.30;3,70.87,171.00,120.24,9.30">The assessment is based on the data supplied in the application and on information submitted by the applicant following EFSA requests for supplementary information.</s></p><p><s coords="3,85.04,182.64,291.97,10.05">The NF is the dried and heat-killed biomass of Yarrowia lipolytica.</s><s coords="3,380.81,182.96,143.53,9.30;3,70.87,194.92,378.36,9.30">This yeast species is widespread in nature and can be found in the environment as well as in a number of foods.</s><s coords="3,454.34,194.60,70.04,10.05;3,70.87,206.51,355.86,10.05">Y. lipolytica and Candida lipolytica are the teleomorph and anamorph names of the same species.</s></p><p><s coords="3,85.04,218.47,439.30,10.05;3,70.87,230.75,453.54,9.30;3,70.87,242.72,126.30,9.30">In 2018, the EFSA BIOHAZ Panel assessed Yarrowia lipolytica and recommended this yeast for the qualified presumption of safety (QPS) status but only for production purposes, including food and feed products based on biomass.</s><s coords="3,201.77,242.49,322.63,9.96;3,70.87,254.36,144.29,10.05">The qualification 'only for production purposes' requires the absence of viable Y. lipolytica cells in the NF.</s></p><p><s coords="3,85.04,266.64,439.34,9.30;3,70.87,278.60,453.44,9.30;3,70.87,290.24,121.21,10.05">The production process, basically fermentation followed by washing and drying of the yeast, includes a heat-killing step of the yeast at high temperatures, resulting in the absence of viable Y. lipolytica cells in the NF.</s><s coords="3,196.72,290.56,327.62,9.30;3,70.87,302.47,155.67,9.30">The Panel considers that the production process is sufficiently described and does not raise safety concerns.</s></p><p><s coords="3,85.04,314.20,363.58,9.96">The NF consists primarily of proteins (about 50%) and dietary fibre (about 25%).</s><s coords="3,452.46,314.43,71.89,9.30;3,70.87,326.39,453.50,9.30;3,70.86,338.36,31.86,9.30">Information was also submitted on the fat content, the amino acid profile and the amount of vitamins and minerals in the NF.</s><s coords="3,107.09,338.36,417.24,9.30;3,70.86,350.32,155.67,9.30">The Panel considers that the information provided on the composition of the NF is sufficient and does not raise safety concerns.</s></p><p><s coords="3,85.04,362.28,439.32,9.30;3,70.86,374.24,34.30,9.30">The applicant proposed to use the NF as a food supplement in the form of capsules, tablets or powder.</s><s coords="3,108.96,374.24,395.08,9.30">The target population for the NF is the general population from 3 years of age onwards.</s><s coords="3,507.85,374.24,16.49,9.30;3,70.86,386.20,453.45,9.30;3,70.86,398.11,82.15,9.30">The maximum proposed use levels are 3 g/day for children from 3 years to less than 10 years of age and 6 g/day thereafter.</s></p><p><s coords="3,85.04,410.07,439.30,9.30;3,70.86,422.03,260.73,9.30">Taking into account the composition of the NF and the proposed conditions of use, the consumption of the NF is not nutritionally disadvantageous.</s></p><p><s coords="3,85.04,434.00,227.70,9.30">No relevant toxicological information was provided.</s><s coords="3,316.85,434.00,207.49,9.30;3,70.86,445.64,453.50,10.05;3,70.86,457.92,431.09,9.30">The Panel considers that given the QPS status for production purposes of Yarrowia lipolytica and the fact that the production process of the NF does not raise safety concerns, no toxicological studies are needed for the safety assessment of the NF.</s></p><p><s coords="3,85.04,469.56,439.32,10.05;3,70.86,481.84,77.24,9.30">The Panel concludes that the NF, Yarrowia lipolytica yeast biomass, is safe under the proposed conditions of use.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table of contents</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background and Terms of Reference as provided by the European Commission</head><p><s coords="5,85.04,124.91,439.30,9.30;5,70.87,136.87,169.12,9.30;5,240.04,134.86,4.04,6.20;5,248.20,136.55,276.17,10.05;5,70.87,148.83,71.56,9.30">On 10 April 2017, the company Skotan S.A. submitted a request in accordance with Article 4 of the Novel Food Regulation (EU) 258/1997 1 to place on the market Yarrowia lipolytica yeast biomass as a novel food (NF).</s></p><p><s coords="5,85.04,160.80,439.28,9.30;5,70.87,172.44,453.45,10.05;5,70.87,184.40,382.11,10.05">On 26 October 2017, the competent authority of Poland (Institute of Food and Nutrition, Warsaw) forwarded to the Commission its initial assessment report, which came to the conclusion that Yarrowia lipolytica yeast biomass meets the criteria for acceptance of a NF defined in Article ( <ref type="formula" coords="5,448.41,184.72,4.56,9.30">3</ref></s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p><s coords="5,113.39,326.70,146.25,11.15">Data and methodologies</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Data</head><p><s coords="5,85.04,369.99,439.30,9.30;5,70.87,381.95,363.78,9.30">The safety assessment of this NF is based on data supplied in the application and on information submitted by the applicant following EFSA requests for supplementary information.</s></p><p><s coords="5,85.04,393.92,439.30,9.30;5,70.87,405.82,382.91,9.30;5,453.83,403.81,4.04,6.20;5,457.91,405.82,3.01,9.30">Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469 3 .</s></p><p><s coords="5,85.04,417.78,439.29,9.30;5,70.87,429.75,294.94,9.30;5,365.90,427.74,4.04,6.20">A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application. 4</s><s coords="5,373.89,429.75,150.47,9.30;5,70.87,441.71,453.49,9.30;5,70.87,453.67,453.49,9.30;5,70.87,465.63,13.50,9.30">As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data, including both data in favour and not in favour, to support the safety of the proposed NF.</s></p><p><s coords="5,85.04,477.59,371.23,9.30">This NF application does not include a request for the protection of proprietary data.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Methodologies</head><p><s coords="5,85.04,519.55,439.30,9.30;5,70.87,531.45,453.46,9.30">The assessment follows the methodology set out in the EFSA guidance on NF applications and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee.</s><s coords="5,70.87,543.42,453.45,9.30;5,70.87,555.38,320.32,9.30">The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of the Commission Implementing Regulation (EU) 2017/2469.</s><s coords="5,85.04,567.34,439.33,9.30;5,70.87,579.30,453.54,9.30;5,70.87,591.26,132.30,9.30">This assessment concerns only risks that might be associated with the consumption of the NF under the proposed conditions of use, and it is not an assessment of the efficacy of the NF with regard to any claimed benefit.</s><s coords="6,85.04,121.73,439.31,9.30;6,70.87,133.38,81.92,10.05">The NF which is the subject of the application is the dried and heat-killed biomass of the yeast Yarrowia lipolytica.</s><s coords="6,156.53,133.70,367.81,9.30;6,70.87,145.43,453.50,9.96;6,70.87,157.62,34.30,9.30">The biomass, which is produced by fermentation and which is mostly composed of proteins and fibre, is proposed to be used as a food supplement in the form of capsules, tablets or powder.</s><s coords="6,108.51,157.62,356.94,9.30">The target population for the NF is the general population from 3 years onwards.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Identity of the NF</head><p><s coords="6,85.04,199.20,330.86,10.05">The NF is the dried and heat-killed biomass of the yeast Yarrowia lipolytica.</s></p><p><s coords="6,85.04,211.25,439.29,9.96;6,70.87,223.44,209.88,9.30">The taxonomic position of the species was first established by <ref type="bibr" coords="6,370.04,211.48,149.71,9.30" target="#b12">Van der Walt and von Arx (1980)</ref>, with the following microbiological taxonomy.</s><s coords="6,288.05,223.44,236.24,9.30;6,70.87,235.40,453.43,9.30;6,70.87,247.05,300.98,10.05">Kingdom: fungi; sub-kingdom: Dikaryota; division: Ascomycota; subdivision: Saccharomycotina; class: Saccharomycetes; order: Saccharomycetales; family: Dipodascaceae; genus: Yarrowia; species: Yarrowia lipolytica.</s></p><p><s coords="6,85.04,259.01,432.18,10.05">The species Y. lipolytica can be found in the 'IndexFungorum' database<ref type="foot" coords="6,390.78,257.32,4.04,6.20" target="#foot_2">5</ref> (record number ID108643).</s></p><p><s coords="6,85.04,270.97,427.43,10.05">Y. lipolytica and Candida lipolytica are the teleomorph and anamorph names of the same species.</s><s coords="6,85.04,282.93,399.63,10.05">Y. lipolytica is widespread in nature and it has been isolated from the environment (i.e.</s><s coords="6,489.37,283.25,35.00,9.30;6,70.87,295.16,453.51,9.30">soil and water) as well as from foods high in fat and protein, i.e. ripening meat and dairy products (e.g.</s><s coords="6,70.87,307.12,453.53,9.30;6,70.87,317.66,14.68,10.72;6,80.45,319.08,443.94,9.30;6,70.87,331.04,104.09,9.30">cheddar cheese, Stilton Blue cheese, Armada cheese, Reblochon cheese, Italian-style cheeses, Rokpol) <ref type="bibr" coords="6,70.87,317.66,14.68,10.72;6,80.45,319.08,90.98,9.30" target="#b0">(B € artschi et al., 1994;</ref><ref type="bibr" coords="6,177.59,319.08,102.77,9.30" target="#b11">Tornadijo et al., 1998;</ref><ref type="bibr" coords="6,286.57,319.08,106.38,9.30" target="#b1">Czajgucka et al., 2003;</ref><ref type="bibr" coords="6,399.12,319.08,125.27,9.30" target="#b4">Ferreira and Viljoen, 2003;</ref><ref type="bibr" coords="6,70.87,331.04,99.35,9.30" target="#b5">Gkatzionis et al., 2013)</ref>.</s></p><p><s coords="6,85.04,342.69,336.39,10.05">The genome sequence for Y. lipolytica was described by <ref type="bibr" coords="6,334.16,343.01,82.69,9.30" target="#b2">Dujon et al. (2004)</ref>.</s><s coords="6,85.04,354.65,439.35,10.05;6,70.87,366.93,407.07,9.30">The strain Y. lipolytica A-101 was isolated and identified in 1975 by the University of Environmental and Life Sciences in Wrocław/Poland (Department of Biotechnology and Food Microbiology).</s><s coords="6,481.66,366.93,42.71,9.30;6,70.87,378.89,429.22,9.30">According to the information provided, the strain was isolated from soil, it is actively growing on agar (i.e.</s><s coords="6,504.00,378.89,20.32,9.30;6,70.87,390.80,324.50,9.30">form of supply) and it belongs to risk group 1 of microorganisms <ref type="bibr" coords="6,334.52,390.80,56.14,9.30" target="#b14">(WHO, 2004)</ref>.</s></p><p><s coords="6,85.04,402.76,439.32,9.30;6,70.87,414.72,453.45,9.30;6,70.87,426.68,48.59,9.30">The strain was deposited in the Collection of Cultures of the Department of Biotechnology and Food Microbiology of the University of Wrocław and at the Institute of Agricultural and Food Biotechnology in Warsaw.</s><s coords="6,123.31,426.68,401.05,9.30;6,70.87,438.65,278.36,9.30">The latter institute is a depository body acting in accordance with the Budapest Treaty on the International Recognition of the Deposit of Microorganisms.</s></p><p><s coords="6,85.04,450.29,439.29,10.05;6,70.87,462.57,453.49,9.30;6,70.87,474.53,318.32,9.30">In 2018, Y. lipolytica was assessed by the EFSA Panel on Biological Hazards (BIOHAZ) for its suitability to be added to the list of qualified presumption of safety (QPS)-recommended biological agents intentionally added to food or feed <ref type="bibr" coords="6,262.54,474.53,121.91,9.30" target="#b3">(EFSA BIOHAZ Panel, 2018)</ref>.</s><s coords="6,393.05,474.53,131.25,9.30;6,70.87,486.44,453.52,9.30;6,70.87,498.40,152.66,9.30">For this purpose, the BIOHAZ Panel considered the identity, the body of knowledge, safety concerns and any potential antimicrobial resistance of this yeast species.</s><s coords="6,230.51,498.40,293.83,9.30;6,70.87,510.04,335.85,10.05">The BIOHAZ Panel noted that several cases of infections by Y. lipolytica (or its anamorph C. lipolytica) have been described in humans.</s><s coords="6,410.85,510.36,113.54,9.30;6,70.87,522.32,453.47,9.30;6,70.87,534.29,72.45,9.30">However, those infections have occurred in immunocompromised patients with underlying disease and the majority were catheter-related.</s><s coords="6,152.96,534.29,345.28,9.30">Antifungal therapy invariably resulted in clearance of the pathogen.</s><s coords="6,507.85,534.29,16.49,9.30;6,70.87,545.93,453.53,10.05">The Panel concluded that Y. lipolytica is recommended for the QPS status but only for production purposes.</s><s coords="6,70.87,557.98,453.44,9.96;6,70.87,569.94,453.54,9.96;6,70.87,582.08,290.50,9.30">The Panel clarified that the qualification 'for production purpose only' implies the absence of viable cells of the production organism in the final product and can also be applied for food and feed products based on microbial biomass (EFSA BIOHAZ Panel, 2018).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Production process</head><p><s coords="6,85.04,624.03,439.23,9.30;6,70.87,636.00,148.36,9.30">The NF is produced according to Good Manufacturing Practices (GMP) and Hazard Analysis Critical Control Points (HACCP) principles.</s></p><p><s coords="6,85.04,647.96,439.27,9.30;6,70.87,659.92,232.15,9.30">Flow charts of the manufacturing process and detailed information on the culture conditions and media have been provided (not shown, confidential).</s></p><p><s coords="6,85.04,671.56,439.23,10.05;6,70.87,683.52,266.51,10.05">The first step of the manufacturing process consists in the preparation of the Yarrowia lipolytica yeast inoculum (by grafting the yeast from an agar slant).</s><s coords="6,342.08,683.84,182.28,9.30;6,70.87,695.75,453.50,9.30;6,70.87,707.71,105.84,9.30">Proliferation of the yeast is continued in tanks of increasing capacity using culture media consisting of nutrient sources commonly employed in fermentation processes.</s><s coords="6,181.19,707.71,120.93,9.30">The culture conditions (i.e.</s><s coords="6,306.59,707.71,217.75,9.30;6,70.87,719.67,105.09,9.30">temperature, aeration, pH, speed of mixing) are continuously monitored.</s></p><p><s coords="7,85.04,73.03,439.28,9.30;7,70.87,85.00,385.68,9.30">After reaching a certain concentration of yeast dry matter, the yeast is harvested, i.e. centrifuged, rinsed with water, and centrifuged again in order to remove remnant culture medium.</s><s coords="7,460.62,85.00,63.72,9.30;7,70.87,96.96,453.48,9.30;7,70.87,108.92,269.12,9.30">Thereafter the yeast biomass is dried on a drum drier at a specified temperature for a certain period of time (information provided) until a moisture content of less than 5% is achieved.</s><s coords="7,342.54,108.92,175.58,9.30">During this step the yeast cells are killed.</s></p><p><s coords="7,85.04,120.88,439.28,9.30;7,70.87,132.53,453.44,10.05;7,70.87,144.81,435.11,9.30">The Panel notes that in order to monitor the efficiency of the heat treatment and to guarantee that there are no viable Y. lipolytica cells remaining in the dried biomass thereafter, testing for the presence of viable yeast cells has to be carried out immediately after the heat treatment (see also Specifications, Table <ref type="table" coords="7,493.79,144.81,4.06,9.30" target="#tab_4">3</ref>).</s></p><p><s coords="7,85.04,156.77,439.27,9.30;7,70.87,168.36,369.69,10.05">The Panel also notes that it has to be ensured that no cross-contamination occurs with viable Y. lipolytica in the final steps of the manufacturing process (packaging and storage).</s></p><p><s coords="7,85.04,180.64,439.34,9.30;7,70.87,192.60,41.67,9.30">The Panel considers that the production process is sufficiently described and does not raise safety concerns.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Compositional data</head><p><s coords="7,85.04,234.32,439.31,9.96">The NF consists primarily of proteins (about 45-55 g/100 g) and dietary fibre (about 25 g/100 g).</s><s coords="7,70.87,246.51,453.55,9.30;7,70.87,258.48,24.78,9.30">The fat content in the NF is about 7-10 g/100 g, the majority being mono-and polyunsaturated fatty acids.</s></p><p><s coords="7,85.04,270.44,439.35,9.30;7,70.87,282.40,124.80,9.30">Information was provided on the accreditation of the laboratories that conducted the analyses presented in the application.</s></p><p><s coords="7,85.04,294.31,368.95,9.30">The applicant provided nutritional information for three batches of the NF (Table <ref type="table" coords="7,441.81,294.31,4.06,9.30" target="#tab_1">1</ref>).</s></p><p><s coords="7,85.04,532.98,439.32,9.30;7,70.87,544.94,453.46,9.30;7,70.87,556.91,37.40,9.30">To confirm the microbiological quality of the NF, the applicant provided the results of the testing for microbiological parameters for eight batches of the NF (Table <ref type="table" coords="7,357.28,544.94,4.06,9.30" target="#tab_2">2</ref>), performed in two distinct testing facilities.</s><s coords="8,85.04,241.92,439.27,9.96;8,70.87,254.11,215.97,9.30">The NF contains fibre which is mainly composed of beta-glucans, complex polysaccharides that form part of the cell walls of yeasts and cereals.</s><s coords="8,290.72,254.11,233.68,9.30;8,70.87,266.07,453.50,9.30;8,70.87,278.04,156.76,9.30">The applicant submitted a Fourier transformed infrared (FTIR) analysis for one sample of the NF, which is compatible with the presence of beta-glucans in the carbohydrate fraction of the NF.</s></p><p><s coords="8,85.04,290.00,439.30,9.30;8,70.87,301.96,140.43,9.30">The applicant also submitted detailed information on the amino acid profile and the amount of vitamins and minerals in the NF.</s></p><p><s coords="8,85.04,313.92,419.35,9.30">Additionally, the applicant provided the analytical results for the content of pesticides in the NF.</s><s coords="8,507.85,313.92,16.49,9.30;8,70.87,325.66,453.52,9.96;8,70.87,337.79,224.05,9.30">The analysed pesticides, i.e. organochlorinated and organophosphate pesticides, pyrethroids and 'other pesticides' were below their limits of quantification.</s></p><p><s coords="8,85.04,349.75,439.35,9.30;8,70.87,361.71,35.95,9.30">The applicant declared that no genetically modified organisms are used in the manufacturing process.</s><s coords="8,111.69,361.71,412.68,9.30;8,70.87,373.68,146.50,9.30">In order to support this statement, the applicant provided the results of an analysis for a number of DNA sequences (i.e.</s><s coords="8,222.97,373.68,301.37,9.30;8,70.87,385.64,217.15,9.30">P35s, T-nos, pFMV, npt II, pat, bar, CTP2-CP4-EPSPS) which are characteristic for genetically modified organisms.</s><s coords="8,292.36,385.64,231.98,9.30;8,70.87,397.60,73.14,9.30">No such sequences were detected in the sample of the NF analysed.</s></p><p><s coords="8,85.04,409.56,439.33,9.30;8,70.87,421.52,136.18,9.30">The Panel considers that the information provided on the composition of the NF is sufficient and does not raise safety concerns.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.1.">Stability</head><p><s coords="8,85.04,462.63,439.33,9.96;8,70.87,474.82,192.08,9.30">In order to demonstrate the stability of the NF, the applicant performed stability tests with five independently produced batches of the NF.</s><s coords="8,267.02,474.82,257.34,9.30;8,70.87,486.78,74.38,9.30">The tests for all the batches were carried out at 18-26°C and at 65% RH.</s><s coords="8,149.72,486.78,374.72,9.30;8,70.87,498.74,163.82,9.30">The batches were analysed for their amounts of dry matter, moisture, protein, fat, ash, and microbiological parameters.</s><s coords="8,239.01,498.74,285.34,9.30;8,70.87,510.65,305.43,9.30">After storage of 12 months, an increase of moisture above 5% was found in the NF, which was considered to be disadvantageous.</s><s coords="8,380.75,510.65,143.66,9.30;8,70.87,522.61,372.69,9.30">The other parameters, including the levels of microorganisms, remained stable over the time of the testing.</s><s coords="8,450.99,522.61,73.35,9.30;8,70.87,534.57,330.67,9.30">Accordingly, the manufacturer set the shelf life to 12 months from the date of manufacture.</s></p><p><s coords="8,85.04,546.53,438.07,9.30">The Panel considers that the data provided sufficient information with respect to the stability of the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Specifications</head><p><s coords="8,85.04,588.49,230.57,9.30">The specifications of the NF are indicated in Table <ref type="table" coords="8,307.22,588.49,4.20,9.30" target="#tab_4">3</ref>.</s><s coords="9,85.04,297.14,439.28,9.30;9,70.87,309.10,136.18,9.30">The Panel considers that the information provided on the specifications of the NF is sufficient and does not raise safety concerns.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.6.</head><p><s coords="9,113.78,331.58,265.93,11.15">History of use of the NF and/or of its source</s></p><p><s coords="9,85.04,350.74,439.33,10.05;9,70.87,363.02,127.98,9.30">Yarrowia lipolytica can naturally be found in a number of foods such as yoghurts, kefir and in various types of cheese (e.g.</s><s coords="9,202.56,363.02,321.80,9.30;9,70.87,374.98,134.19,9.30">cheddar cheese, Stilton Blue cheese, Armada cheese, Reblochon cheese, Italian-style cheeses, Rokpol).</s><s coords="9,209.99,374.66,314.35,10.05;9,70.87,386.94,453.50,9.30;9,70.87,398.91,368.90,9.30">Even though not added deliberately to cheese, Y. lipolytica has been reported to be among the common yeast species therein <ref type="bibr" coords="9,334.77,386.94,118.05,9.30" target="#b9">(Roostita and Fleet, 1996;</ref><ref type="bibr" coords="9,457.34,386.94,67.03,9.30;9,70.87,398.91,60.62,9.30" target="#b13">Welthagen and Viljoen, 1998;</ref><ref type="bibr" coords="9,134.82,398.91,83.47,9.30" target="#b6">Larpin et al., 2006;</ref><ref type="bibr" coords="9,221.61,398.91,89.15,9.30" target="#b8">Monnet et al., 2010;</ref><ref type="bibr" coords="9,314.14,398.91,120.90,9.30" target="#b7">Larpin-Laborde et al., 2011)</ref>.</s></p><p><s coords="9,85.04,410.55,439.28,10.05;9,70.87,422.77,373.45,9.30">Y. lipolytica has been used for a number of biotechnological applications, owing to its lipolytic and proteolytic characteristics and its ability to utilise a broad range of substances (e.g.</s><s coords="9,448.44,422.77,75.94,9.30;9,70.87,434.42,403.96,10.05">glycerol, ethanol, n-paraffin and alkanes, fatty acids, acetates, animal and vegetable fats) as a carbon source.</s></p><p><s coords="9,85.04,446.38,439.37,10.05;9,70.87,458.66,225.92,9.30">In the 1950s, Y. lipolytica was used by British Petroleum Co. (BP) to produce single cell protein (SCP) for animal feeding <ref type="bibr" coords="9,181.25,458.66,110.80,9.30" target="#b6">(Groenewald et al., 2013)</ref>.</s></p><p><s coords="9,85.04,470.30,439.32,10.05;9,70.87,482.58,453.47,9.30;9,70.87,494.55,453.47,9.30;9,70.87,506.51,244.52,9.30">Mutated and/or genetically engineered strains of Y. lipolytica have obtained Generally Recognized as Safe (GRAS) status for the production of eicosapentaenoic acid (EPA)-rich triglyceride oil (GRN 000355), erythritol (GRN 000382), rebaudioside A (GRN 000632) and steviol glycosides consisting primarily of rebaudioside M (GRN 000759), respectively.</s></p><p><s coords="9,85.04,518.09,335.38,10.05;9,70.87,540.89,22.64,11.15">Since 2010, Yarrowia lipolytica biomass is used as a feed material in Europe.<ref type="foot" coords="9,420.49,516.41,4.04,6.20" target="#foot_3">6</ref> 3.7.</s><s coords="9,113.78,540.89,313.91,11.15">Proposed uses and use levels and anticipated intake</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.1.">Target population</head><p><s coords="9,85.04,583.67,387.94,9.30">The target population for the NF is the general population from 3 years of age onwards.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.2.">Proposed uses and use levels</head><p><s coords="9,85.04,625.05,439.32,9.30;9,70.87,637.02,34.30,9.30">The applicant proposed to use the NF as a food supplement in the form of capsules, tablets or powder.</s></p><p><s coords="9,85.04,648.92,439.32,9.30;9,70.87,660.88,337.21,9.30">For the use of the NF as capsules or tablets, the applicant proposed amounts of 1-2 g/day for children from 3 years to less than 10 years of age, and 2-3 g/day thereafter.</s></p><p><s coords="9,85.04,672.85,439.33,9.30;9,70.87,684.81,453.49,9.30;9,70.87,696.77,337.21,9.30">As concerns the use of the NF in the form of powder (to be measured by the consumer using a teaspoon or scoop attached to the package), the applicant proposed a daily intake of 1.5-3 g/day for children from 3 years to less than 10 years of age, and 3-6 g/day thereafter.</s></p><p><s coords="9,85.04,708.73,439.34,9.30;9,70.87,720.69,378.25,9.30">The maximum use levels proposed by the applicant, irrespective of the form consumed, are 3 g per day for children from 3 years to less than 10 years of age, and 6 g per day thereafter.</s><s coords="10,70.87,78.45,22.64,11.15">3.8.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Absorption, distribution, metabolism and excretion (ADME)</head><p><s coords="10,85.04,97.98,202.05,9.30">No ADME data have been provided on the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.9.">Nutritional information</head><p><s coords="10,85.04,139.88,439.34,9.30;10,70.87,151.61,443.57,9.96">The applicant provided a nutritional analysis of the NF, which comprises information on the content of protein, amino acid composition, carbohydrates, fibre, fatty acids, vitamins and minerals in the NF.</s></p><p><s coords="10,85.04,163.80,439.32,9.30;10,70.87,175.76,453.51,9.30;10,70.87,187.72,368.22,9.30">The Panel considers that taking into account the composition of the NF and the proposed conditions of use (up to 3 g/day for children from 3 years to less than 10 years of age and up to 6 g/day thereafter), the consumption of the NF is not nutritionally disadvantageous.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.">Toxicological information</head><p><s coords="10,85.04,229.68,377.57,9.30">The applicant did not submit any relevant toxicological studies performed with the NF.</s></p><p><s coords="10,85.04,241.64,202.15,9.30">No human studies with the NF were provided.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.11.">Allergenicity</head><p><s coords="10,85.04,283.22,439.34,10.05;10,70.87,295.50,153.13,9.30">The applicant pointed out that Y. lipolytica is naturally occurring in foods and that it is not known to cause allergic reactions in humans.</s></p><p><s coords="10,85.04,307.14,439.34,10.05;10,70.87,319.42,247.75,9.30">The Panel notes that Y. lipolytica is not among the yeast species which have been shown to elicit allergic reactions in humans <ref type="bibr" coords="10,196.16,319.42,117.72,9.30" target="#b10">(Simon-Nobbe et al., 2008)</ref>.</s></p><p><s coords="10,85.04,331.38,439.34,9.30;10,70.87,343.35,120.90,9.30">The Panel considers that given the protein content of the NF (45-55 g/100 g) allergic reactions to the NF cannot be excluded.</s><s coords="10,195.19,343.35,215.15,9.30">However, the Panel considers that the risk is low.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p><s coords="10,85.04,384.98,439.32,10.05;10,70.87,397.20,374.67,9.30">The NF is the dried and heat-killed biomass of Yarrowia lipolytica, which is a yeast species that is widespread in nature and which can be found in the environment as well as in foods.</s></p><p><s coords="10,85.04,408.85,439.28,10.05;10,70.87,421.13,431.86,9.30">In 2018, the EFSA BIOHAZ Panel assessed Y. lipolytica and recommended this yeast for the QPS status but only for production purposes, including food and feed products based on biomass.</s><s coords="10,507.85,421.13,16.49,9.30;10,70.87,432.77,453.48,10.05;10,70.87,444.82,183.88,9.96">The qualification 'only for production purposes' requires that there are no viable Y. lipolytica cells in the final product (e.g. the microbial biomass).</s></p><p><s coords="10,85.04,456.70,439.28,10.05;10,70.87,468.98,453.49,9.30;10,70.87,480.94,212.37,9.30">The Panel considers that given the QPS status for production purposes of Yarrowia lipolytica and the fact that the production process of the NF does not raise safety concerns, no toxicological studies are needed for the safety assessment of this NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p><s coords="10,85.04,522.52,439.32,10.05;10,70.87,534.80,77.24,9.30">The Panel concludes that the NF, Yarrowia lipolytica yeast biomass, is safe under the proposed conditions of use.</s><s coords="10,151.43,534.80,305.56,9.30">The target population is the general population above 3 years of age.</s></p><p><s coords="10,70.87,557.27,122.83,11.15;10,113.90,624.28,410.51,10.05;10,113.90,636.50,205.96,9.30">Steps taken by EFSA Yarrowia lipolytica yeast biomass as a NF, which was submitted by the company Skotan S.A., and the scientific evaluation procedure started.</s><s coords="10,96.26,648.47,428.12,9.30;10,113.90,660.43,315.14,9.30">3) On 24 July 2018, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</s><s coords="10,96.26,672.39,428.11,9.30;10,113.90,684.35,110.26,9.30">4) On 23 October 2018, additional information was provided by the applicant and the scientific evaluation was restarted.</s><s coords="10,96.26,696.32,428.14,9.30;10,113.90,707.96,410.49,10.05">5) During its meeting on 17 January 2019, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of Yarrowia lipolytica yeast biomass as a NF pursuant to</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="4,75.29,109.87,430.52,8.37;4,75.29,120.81,430.55,8.37;4,75.29,131.81,7.56,8.37;4,100.80,131.81,403.47,8.37;4,75.29,142.75,428.99,8.37;4,75.29,153.70,7.56,8.37;4,100.80,153.70,403.50,8.37;4,75.29,164.69,429.00,8.37;4,75.29,175.63,428.96,8.37;4,75.29,186.58,7.56,8.37;4,100.80,186.58,403.45,8.37;4,75.29,197.57,428.98,8.37;4,75.29,208.52,428.99,8.37;4,75.29,219.46,428.96,8.37;4,75.29,230.40,428.96,8.37;4,75.29,241.40,429.01,8.37;4,75.29,252.34,429.00,8.37;4,75.29,263.28,429.00,8.37;4,75.29,274.28,428.98,8.37;4,75.29,285.22,428.99,8.37;4,75.29,296.16,428.99,8.37;4,75.29,307.16,429.00,8.37;4,75.29,318.10,428.97,8.37;4,75.29,329.04,429.01,8.37;4,75.29,339.98,428.98,8.37;4,75.29,350.98,7.56,8.37;4,100.80,350.98,403.50,8.37;4,75.29,361.92,7.56,8.37;4,100.80,361.92,403.45,8.37;4,75.29,372.87,430.55,8.37;4,75.29,383.86,430.52,8.37;4,75.29,394.81,430.51,8.37"><head></head><label></label><figDesc><div><p><s coords="4,75.29,109.87,430.52,8.37;4,75.29,120.81,430.55,8.37;4,75.29,131.81,7.56,8.37;4,100.80,131.81,403.47,8.37;4,75.29,142.75,15.12,8.37">Abstract................................................................................................................................................... Summary................................................................................................................................................. 1. Introduction................................................................................................................................... 1.1.</s><s coords="4,100.80,142.75,403.48,8.37;4,75.29,153.70,7.56,8.37;4,100.80,153.70,403.50,8.37;4,75.29,164.69,15.12,8.37">Background and Terms of Reference as provided by the European Commission .................................. 2. Data and methodologies ................................................................................................................. 2.1.</s><s coords="4,100.80,164.69,403.49,8.37;4,75.29,175.63,15.12,8.37">Data.............................................................................................................................................. 2.2.</s><s coords="4,100.80,175.63,403.45,8.37;4,75.29,186.58,7.56,8.37;4,100.80,186.58,403.45,8.37;4,75.29,197.57,15.12,8.37">Methodologies................................................................................................................................ 3. Assessment.................................................................................................................................... 3.1.</s><s coords="4,100.80,197.57,403.47,8.37;4,75.29,208.52,15.12,8.37">Introduction................................................................................................................................... 3.2.</s><s coords="4,100.80,208.52,403.48,8.37;4,75.29,219.46,15.12,8.37">Identity of the NF........................................................................................................................... 3.3.</s><s coords="4,100.80,219.46,403.44,8.37;4,75.29,230.40,15.12,8.37">Production process ......................................................................................................................... 3.4.</s><s coords="4,100.80,230.40,403.44,8.37;4,75.29,241.40,22.68,8.37">Compositional data......................................................................................................................... 3.4.1.</s><s coords="4,100.80,241.40,403.50,8.37;4,75.29,252.34,15.12,8.37">Stability ......................................................................................................................................... 3.5.</s><s coords="4,100.80,252.34,403.49,8.37;4,75.29,263.28,15.12,8.37">Specifications ................................................................................................................................. 3.6.</s><s coords="4,100.80,263.28,403.49,8.37;4,75.29,274.28,14.27,8.37">History of use of the NF and/or of its source .................................................................................... 3.7.</s><s coords="4,100.80,274.28,403.47,8.37;4,75.29,285.22,21.83,8.37">Proposed uses and use levels and anticipated intake......................................................................... 3.7.1.</s><s coords="4,100.80,285.22,403.48,8.37;4,75.29,296.16,21.83,8.37">Target population ........................................................................................................................... 3.7.2.</s><s coords="4,100.80,296.16,403.48,8.37;4,75.29,307.16,15.12,8.37">Proposed uses and use levels .......................................................................................................... 3.8.</s><s coords="4,100.80,307.16,403.49,8.37;4,75.29,318.10,15.12,8.37">Absorption, distribution, metabolism and excretion (ADME) ............................................................... 3.9.</s><s coords="4,100.80,318.10,403.46,8.37;4,75.29,329.04,19.97,8.37">Nutritional information .................................................................................................................... 3.10.</s><s coords="4,100.80,329.04,403.50,8.37;4,75.29,339.98,19.97,8.37">Toxicological information ................................................................................................................. 3.11.</s><s coords="4,100.80,339.98,403.47,8.37;4,75.29,350.98,7.56,8.37;4,100.80,350.98,403.50,8.37;4,75.29,361.92,7.56,8.37;4,100.80,361.92,403.45,8.37;4,75.29,372.87,430.55,8.37;4,75.29,383.86,430.52,8.37;4,75.29,394.81,430.51,8.37">Allergenicity ................................................................................................................................... 4. Discussion ..................................................................................................................................... 5. Conclusions.................................................................................................................................... Steps taken by EFSA ................................................................................................................................ References............................................................................................................................................... Abbreviations ...........................................................................................................................................</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="5,452.97,184.72,71.35,9.30;5,70.87,196.68,66.62,9.30;5,85.04,208.64,250.55,9.30;5,335.68,206.58,4.04,6.20;5,339.76,208.64,184.59,9.30;5,70.87,220.55,453.46,9.30;5,70.87,232.28,453.50,9.96;5,70.87,244.47,262.33,9.30;5,85.04,256.44,439.36,9.30;5,70.87,268.08,453.51,10.05;5,70.87,280.36,229.04,9.30;5,85.04,292.32,439.26,9.30;5,70.87,303.97,436.93,10.05"><head></head><label></label><figDesc><div><p><s coords="5,452.97,184.72,71.35,9.30;5,70.87,196.68,66.62,9.30">)1 of Regulation (EU) 258/1997.</s><s coords="5,85.04,208.64,250.55,9.30;5,335.68,206.58,4.04,6.20;5,339.76,208.64,184.59,9.30;5,70.87,220.55,453.46,9.30;5,70.87,232.28,453.50,9.96;5,70.87,244.47,262.33,9.30">Pursuant to Article 35 (1) of Regulation (EU) 2015/2283 2 , any request for placing a novel food on the market within the Union submitted to a Member State in accordance with Article 4 of Regulation (EU) 258/1997 and for which the final decision has not been taken before 1 January 2018 shall be treated as an application under Regulation (EU) 2015/2283.</s><s coords="5,85.04,256.44,439.36,9.30;5,70.87,268.08,453.51,10.05;5,70.87,280.36,229.04,9.30">On 20 February 2018, the company Skotan S.A. submitted the same request to the European Commission in accordance with Article 10 of Regulation (EU) No 2015/2283 to place Yarrowia lipolylica yeast biomass on the Union market as a novel food.</s><s coords="5,85.04,292.32,439.26,9.30;5,70.87,303.97,436.93,10.05">On 22 June 2018, in accordance with Article 10(3) of Regulation (EU) 2015/2283, the European Commission asked EFSA to provide a scientific opinion on Yarrowia lipolytica yeast biomass as a NF.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="7,70.87,313.30,438.46,210.09"><head>Table 1 :</head><label>1</label><figDesc><div><p><s coords="7,124.78,313.30,126.56,9.30">Nutritional analysis of the NF</s></p></div></figDesc><table coords="7,73.87,333.24,435.45,174.59"><row><cell></cell><cell></cell><cell>Batch number/date</cell><cell></cell></row><row><cell>Parameter (unit)</cell><cell>'001' (2014-12-18)</cell><cell>'001' (2015-08-11)</cell><cell>'1' (2018-10-16)</cell></row><row><cell>Protein (g/100 g)</cell><cell>44.0</cell><cell>55.3</cell><cell>44.4</cell></row><row><cell>Dietary fibre (g/100 g)</cell><cell>-</cell><cell>24.6</cell><cell>27.2</cell></row><row><cell>Saccharides (g/100 g)</cell><cell>-</cell><cell>&lt; 1.0</cell><cell>&lt; 0.2</cell></row><row><cell>Fat (g/100 g)</cell><cell>&gt; 7</cell><cell>9</cell><cell>9.9</cell></row><row><cell>Saturated fatty acids (FA)</cell><cell>0.7</cell><cell>0.6</cell><cell>1.0</cell></row><row><cell>Monounsaturated FA</cell><cell>4.7</cell><cell>4.4</cell><cell>4.7</cell></row><row><cell>Polyunsaturated FA</cell><cell>3.6</cell><cell>3.9</cell><cell>3.5</cell></row><row><cell>Total ash (%)</cell><cell>9.6</cell><cell>9.4</cell><cell>10.3</cell></row><row><cell>Water content (%)</cell><cell>1.5</cell><cell>1.7</cell><cell>4.5</cell></row><row><cell>Dry matter content (%)</cell><cell>98.5</cell><cell>98.3</cell><cell>95.5</cell></row><row><cell>Sodium content (g/100 g)</cell><cell>1.86</cell><cell>1.98</cell><cell>1.85</cell></row></table><note coords="7,70.87,515.95,53.84,7.44"><p><s coords="7,70.87,515.95,53.84,7.44">FA: fatty acids.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="7,70.87,577.49,446.21,177.81"><head>Table 2 :</head><label>2</label><figDesc><div><p><s coords="7,124.78,577.49,145.21,9.30">Microbiological analysis of the NF</s></p></div></figDesc><table coords="7,73.87,597.43,443.21,157.86"><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Batch numbers</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Parameter</cell><cell>037/15/ 01/LH _ Z/G</cell><cell>037/15/ 02/LH _ Z/G</cell><cell>037/15/ 03/LH _ Z/G</cell><cell>037/15/ 04/LH _ Z/G</cell><cell>037/15/ 05/LH _ Z/G</cell><cell cols="3">091-13 095-13 099-13</cell></row><row><cell>Number of aerobic</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>250</cell><cell>100</cell><cell>&lt; 10</cell></row><row><cell>microorganisms</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(CFU/g)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of yeasts</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>and moulds (CFU/g)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of coliforms</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>(CFU/g)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of coagulase-</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>positive staphylococci</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(CFU/g)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4" coords="8,70.87,608.10,445.18,122.98"><head>Table 3 :</head><label>3</label><figDesc><div><p><s coords="8,124.78,608.10,103.20,9.30">Specifications of the NF</s></p></div></figDesc><table coords="8,73.87,628.05,442.17,103.04"><row><cell>Parameter</cell><cell>Amount</cell><cell>Method</cell></row><row><cell>Protein</cell><cell>45-55 g/100 g</cell><cell>PN-A-79005-7:1997 or PN-EN ISO 8968-1:2014-03</cell></row><row><cell>Dietary fibre</cell><cell>24-30 g/100 g</cell><cell>AOAC 985.29 or PN-A-79011-15:1998</cell></row><row><cell>Saccharides</cell><cell>&lt; 1.0 g/100 g</cell><cell>PN-A-74252:1998</cell></row><row><cell>Fat</cell><cell>7-10 g/100 g</cell><cell>AOAC 922.06 or PN-ISO 1444:2000</cell></row><row><cell>Total ash</cell><cell>≤ 12%</cell><cell>PN-ISO 928:1999</cell></row><row><cell>Water content</cell><cell>≤ 5%</cell><cell>PN-EN ISO 665:2004</cell></row><row><cell>Dry matter content</cell><cell>≥ 95%</cell><cell>PN-EN ISO 665:2004</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5" coords="9,70.87,82.15,445.55,203.08"><head></head><label></label><figDesc><div><p><s coords="9,88.16,267.47,195.22,7.44">To be tested immediately after the heat-treatment step.</s><s coords="9,286.02,267.47,230.40,7.44;9,88.16,277.19,255.99,8.04">Measures have to be in place to prevent cross-contamination with viable Yarrowia lipolytica cells during packaging and/or storage of the NF.</s></p></div></figDesc><table coords="9,70.87,82.15,441.50,192.75"><row><cell>Parameter</cell><cell>Amount</cell><cell>Method</cell></row><row><cell>Heavy metals</cell><cell></cell><cell></cell></row><row><cell>Lead</cell><cell>≤ 3.0 mg/kg</cell><cell>PN-EN ISO 17294-2:2006</cell></row><row><cell>Cadmium</cell><cell>≤ 1.0 mg/kg</cell><cell>PN-EN ISO 17294-2:2006</cell></row><row><cell>Mercury</cell><cell>≤ 0.1 mg/kg</cell><cell>PN-EN 13804:2013-06 + ASA mercury analyser or</cell></row><row><cell></cell><cell></cell><cell>PN-EN 13806:2003</cell></row><row><cell>Microbiological</cell><cell></cell><cell></cell></row><row><cell>TAMC</cell><cell>≤ 5 9 10 3 CFU/g</cell><cell>PN-EN ISO 4833:2004 + AP1:2005</cell></row><row><cell>TYMC</cell><cell>≤ 10 2 CFU/g</cell><cell>PN-ISO 7954:1999</cell></row><row><cell>Viable Yarrowia</cell><cell cols="2">&lt; 10 CFU/g (i.e. limit of detection) PN-ISO 7954:1999</cell></row><row><cell>lipolytica cells (a)</cell><cell></cell><cell></cell></row><row><cell>Coliforms</cell><cell>≤ 10 CFU/g</cell><cell>PN-ISO 4832:2007</cell></row><row><cell>Salmonella spp.</cell><cell>Absent in 25 g</cell><cell>PN-EN ISO 6579:2003</cell></row><row><cell cols="3">TAMC: total aerobic microbial count; TYMC: total yeast and mould count; CFU: colony forming units.</cell></row><row><cell>(a):</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6" coords="10,96.26,576.75,428.08,45.18"><head></head><label></label><figDesc><div><p><s coords="10,96.26,576.75,428.08,9.30;10,113.90,588.39,366.17,10.05">1) Letter from the European Commission to the European Food Safety Authority with the request for a scientific opinion on the safety of Yarrowia lipolytica yeast biomass.</s><s coords="10,484.44,588.71,39.89,9.30;10,113.90,600.68,162.95,9.30">Ref. Ares (2018)3311267, dated 22 June 2018.</s><s coords="10,96.26,612.64,428.08,9.30">2) On 22 June 2018, EFSA received a valid application from the European Commission on</s></p></div></figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0" coords="2,70.87,781.25,104.81,7.02"><p><s coords="2,70.87,781.25,104.81,7.02">www.efsa.europa.eu/efsajournal</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1" coords="4,427.64,781.25,96.79,7.02"><p><s coords="4,427.64,781.25,96.79,7.02">EFSA Journal 2019;17(2):5594</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_2" coords="6,77.78,756.05,174.67,7.44"><p><s coords="6,77.78,756.05,174.67,7.44">http://www.indexfungorum.org/names/names.asp</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_3" coords="9,77.78,756.05,125.30,7.44"><p><s coords="9,77.78,756.05,125.30,7.44">http://www.feedmaterialsregister.eu</s></p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="11,70.87,97.65,9.81,9.65;11,76.08,98.72,448.30,8.97;11,84.59,109.87,173.79,8.37" xml:id="b0">
+	<analytic>
+		<title level="a" type="main" coord="11,236.81,98.72,287.58,8.97;11,84.59,109.87,24.15,8.37">Inventaire et evolution des flores fongiques de surface du reblochon de Savoie</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Berthier</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Valla</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,115.77,109.87,84.35,8.37">INRA Editions</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="105" to="114" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>Le Lait</note>
+</biblStruct>
+
+<biblStruct coords="11,70.87,120.87,453.51,8.37;11,84.59,130.59,57.53,9.59;11,138.96,130.59,12.00,9.59;11,147.80,131.81,376.59,10.80;11,84.59,142.75,280.74,8.37" xml:id="b1">
+	<analytic>
+		<title level="a" type="main" coord="11,422.36,120.87,102.01,8.37;11,84.59,130.59,57.53,9.59;11,138.96,130.59,12.00,9.59;11,147.80,131.81,376.59,10.80;11,84.59,142.75,58.33,8.37">Aktywno s c proteolityczna szczep ow dro _ zd _ zy pochodza z cych z ser ow Rokpol (engl.: Proteolytic activity of yeast strains originating from Rokpol cheese)</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Czajgucka</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Chrzanowska</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Juszczyk</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Szołtysik</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Wojtatowicz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,150.07,142.75,171.24,8.37">Acta Scientiarium Polonorum Biotechnologia</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="73" to="81" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.87,153.70,453.52,8.37;11,84.59,164.69,439.84,8.37;11,84.59,175.63,439.83,8.37;11,84.59,186.58,439.80,8.37;11,84.59,197.57,439.76,8.37;11,84.59,208.52,439.82,8.37;11,84.59,219.46,439.80,8.37;11,84.59,230.46,385.96,8.37" xml:id="b2">
+	<analytic>
+		<title level="a" type="main" coord="11,277.23,230.46,107.42,8.37">Genome evolution in yeasts</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Dujon</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Sherman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Durrens</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Casaregola</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Lafontaine</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">De</forename><surname>Montigny</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Marck</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Neuv Eglise</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Talla</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Goffard</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Frangeul</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Aigle</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Anthouard</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Babour</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Barbe</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Barnay</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Blanchin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Beckerich</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Beyne</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Bleykasten</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Boisram E A</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Boyer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Cattolico</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Confanioleri</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">De</forename><surname>Daruvar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Despons</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Fabre</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Fairhead</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Ferry-Dumazet</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Groppi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Hantraye</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Hennequin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Jauniaux</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Joyet</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Kachouri</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Kerrest</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Koszul</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Lemaire</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Lesur</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Nicaud</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Nikolski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Oztas</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Ozier-Kalogeropoulos</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">O</forename><surname>Pellenz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Potier</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">F</forename><surname>Straub</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">L</forename><surname>Suleau</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Swennen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Tekaia</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Esolowski-Louvel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Westhof</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Wirth</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Zeniou-Meyer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Zivanovic</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Bolotin-Fukuhara</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Thierry</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Bouchier</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Caudron</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Scarpelli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Gaillardin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Weissenbach</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Wincker</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Souciet</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,391.53,230.46,24.95,8.37">Nature</title>
+		<imprint>
+			<biblScope unit="volume">430</biblScope>
+			<biblScope unit="page" from="35" to="44" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.87,241.40,453.54,8.37;11,84.59,252.34,439.82,8.37;11,84.59,262.00,333.64,9.65;11,413.58,263.28,110.79,8.37;11,84.59,274.28,439.77,8.37;11,84.59,285.22,439.80,8.37;11,84.59,296.16,439.83,8.37;11,84.59,307.16,176.61,8.37" xml:id="b3">
+	<analytic>
+		<title level="a" type="main" coord="11,484.05,274.28,40.31,8.37;11,84.59,285.22,439.80,8.37;11,84.59,296.16,294.92,8.37">Statement on the update of the list of QPS-recommended biological agents intentionally added to food or feed as notified to EFSA 8: suitability of taxonomic units notified to EFSA until March 2018</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Efsa Biohaz Panel ; Ricci</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Allende</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Bolton</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Chemaly</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Fern</forename><surname>Andez Esc Amez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">S</forename><surname>Girones</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Koutsoumanis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Lindqvist</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Nørrung</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Robertson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Ru</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Sanaa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Skandamis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Snary</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Speybroeck</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Ter</forename><surname>Kuile</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Threlfall</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Wahlstr € Om</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Cocconcelli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">S</forename><surname>Peixe</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Maradona</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">P</forename><surname>Querol</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Suarez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">E</forename><surname>Sundh</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Vlak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Barizzone</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Correia</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2018.5315</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2018.5315" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,387.38,296.16,51.48,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="5315" to="5342" />
+			<date type="published" when="2018">2018. 2018</date>
+			<publisher>EFSA Panel on Biological Hazards</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.87,318.10,453.48,8.37;11,84.59,329.04,127.64,8.37" xml:id="b4">
+	<analytic>
+		<title level="a" type="main" coord="11,209.31,318.10,214.39,8.37">Yeasts as adjunct starters in matured Cheddar cheese</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">D</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">C</forename><surname>Viljoen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,431.49,318.10,92.86,8.37;11,84.59,329.04,69.04,8.37">International Journal of Food Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="131" to="140" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.87,339.75,453.54,9.05;11,84.59,350.78,439.79,8.97;11,84.58,361.92,147.34,8.37" xml:id="b5">
+	<analytic>
+		<title level="a" type="main" coord="11,401.78,339.75,122.62,9.05;11,84.59,350.78,435.59,8.97">Effect of Yarrowia lipolytica on blue cheese odour development: flash profile sensory evaluation of microbiological models and cheeses</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Gkatzionis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Hewson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Hollowood</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Hort</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Cer</forename><surname>Dodd</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Rst</forename><surname>Linforth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,84.58,361.92,103.34,8.37">International Dairy Journal</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="8" to="13" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.86,372.58,453.50,9.05;11,84.58,383.86,439.82,8.37;11,84.58,394.81,36.31,8.37;11,70.86,405.46,453.49,9.05;11,84.58,416.74,439.79,8.37;11,84.58,427.69,46.04,8.37" xml:id="b6">
+	<analytic>
+		<title level="a" type="main" coord="11,449.18,372.58,75.19,9.05;11,84.58,383.86,291.52,8.37;11,436.37,405.46,87.99,9.05;11,84.58,416.74,327.55,8.37">Geotrichum candidum dominates in yeast population dynamics in Livarot, a French red-smear cheese</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Groenewald</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Boekhout</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Neuv Eglise</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Gaillardin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Pwm</forename><surname>Van Dijk</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M ;</forename><surname>Wyss</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Larpin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Mondoloni</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Goerges</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">P</forename><surname>Vernoux</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Gu Eguen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Desmasures</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,383.13,383.86,121.60,8.37;11,421.34,416.74,86.30,8.37">Critical Reviews in Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1243" to="1253" />
+			<date type="published" when="2006">2013. 2006</date>
+		</imprint>
+	</monogr>
+	<note>FEMS Yeast Research</note>
+</biblStruct>
+
+<biblStruct coords="11,70.87,438.42,453.51,8.97;11,84.59,449.63,439.81,8.37;11,84.59,460.57,346.99,8.37" xml:id="b7">
+	<analytic>
+		<title level="a" type="main" coord="11,394.07,449.63,130.32,8.37;11,84.59,460.57,153.95,8.37">Surface microbial consortia from Livarot, a French smear-ripened cheese</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Larpin-Laborde</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Imran</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Bona€ Iti</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Bora</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Gelsomino</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Goerges</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Irlinger</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Goodfellow</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">C</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Vancanneyt</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Swings</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Scherer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Gu Eguen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Desmasures</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,245.76,460.57,127.89,8.37">Canadian Journal of Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="651" to="660" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.87,471.52,453.50,8.37;11,84.58,482.46,433.22,8.37" xml:id="b8">
+	<analytic>
+		<title level="a" type="main" coord="11,447.76,471.52,76.60,8.37;11,84.58,482.46,299.02,8.37">Assessment of the antilisterial activity of microfloras from the surface of smear-ripened cheeses</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Monnet</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Bleicher</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Neuhaus</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">S</forename><surname>Sarthou</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Leclercq-Perlat</forename><surname>Mn</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Irlinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,390.78,482.46,69.05,8.37">Food Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="302" to="310" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.86,493.46,453.51,8.37;11,84.58,504.40,222.55,8.37" xml:id="b9">
+	<analytic>
+		<title level="a" type="main" coord="11,204.04,493.46,316.14,8.37">The occurrence and growth of yeasts in Camembert and blue-veined cheeses</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Roostita</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">H</forename><surname>Fleet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,84.58,504.40,163.89,8.37">International Journal of Food Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="393" to="404" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.86,514.06,115.83,9.65;11,182.04,515.34,342.32,8.37;11,84.58,526.34,193.94,8.37" xml:id="b10">
+	<analytic>
+		<title level="a" type="main" coord="11,342.31,515.34,124.30,8.37">The spectrum of fungal allergy</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Simon-Nobbe</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Denk</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>€ Oll</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Rid</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Breitenbach</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,474.35,515.34,50.01,8.37;11,84.58,526.34,139.46,8.37">International Archives of Allergy and Immunology</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="page" from="58" to="86" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.86,537.28,453.48,8.37;11,84.58,548.22,224.47,8.37" xml:id="b11">
+	<analytic>
+		<title level="a" type="main" coord="11,322.87,537.28,201.48,8.37;11,84.58,548.22,146.53,8.37">Study of the yeasts during the ripening process of Armada cheeses from raw goat&apos;s milk</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">E</forename><surname>Tornadijo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Fresno</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">M</forename><surname>Sarmiento</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Carballo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,237.83,548.22,13.36,8.37">Lait</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="647" to="659" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.86,558.93,447.79,9.05" xml:id="b12">
+	<analytic>
+		<title level="a" type="main" coord="11,220.36,558.93,114.89,9.05">The yeast genus Yarrowia gen</title>
+		<author>
+			<persName coords=""><forename type="first">Walt</forename><forename type="middle">Jp</forename><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Von</forename><surname>Arx</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,360.51,559.22,99.99,8.37">Antonie van Leeuwenhoek</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="517" to="521" />
+			<date type="published" when="1980-11">1980. nov</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.86,570.16,453.49,8.37;11,84.58,581.10,169.48,8.37" xml:id="b13">
+	<analytic>
+		<title level="a" type="main" coord="11,219.34,570.16,247.30,8.37">Yeast profile in Gouda cheese during processing and ripening</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename><surname>Welthagen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">C</forename><surname>Viljoen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,474.35,570.16,50.01,8.37;11,84.58,581.10,110.88,8.37">International Journal of Food Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="185" to="194" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.86,592.04,453.53,8.37;11,84.58,603.04,200.86,8.37" xml:id="b14">
+	<monogr>
+		<title level="m" type="main" coord="11,241.17,592.04,151.73,8.37">Laboratory biosafety manual. 3rd Edn</title>
+		<author>
+			<persName coords=""><surname>Who</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

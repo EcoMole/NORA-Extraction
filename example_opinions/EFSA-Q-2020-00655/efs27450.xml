@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN" "JATS-archive-oasis-article1-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" id="efs27450" dtd-version="1.1" xml:lang="en" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="doi">10.1002/(ISSN)1831-4732</journal-id>
+<journal-id journal-id-type="publisher-id">EFS2</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">EFSA Journal</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="en">EFSA Journal</abbrev-journal-title>
+</journal-title-group>
+<issn publication-format="ppub">1831-4732</issn>
+<issn publication-format="epub">1831-4732</issn>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.2903/j.efsa.2022.7450</article-id>
+<article-id pub-id-type="publisher-id">EFS27450</article-id>
+<article-categories>
+<subj-group subj-group-type="overline" xml:lang="en"><subject>Scientific Opinion</subject></subj-group>
+<subj-group subj-group-type="heading" xml:lang="en"><subject>Scientific Opinion</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="en">Safety of an extension of use of <italic toggle="no">Yarrowia lipolytica</italic> yeast biomass as a novel food pursuant to Regulation (<styled-content style="fixed-case" toggle="no">EU</styled-content>) 2015/2283</article-title>
+<alt-title alt-title-type="right-running-head">Safety of an extension of use of <italic>Yarrowia lipolytica</italic> yeast biomass as a novel food</alt-title>
+</title-group>
+<contrib-group>
+<contrib id="efs27450-cr-0001" contrib-type="author" corresp="yes"><collab collab-type="authors">EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA)</collab>
+<address><email>nif@efsa.europa.eu</email></address><xref ref-type="correspondence-address" rid="correspondenceTo">*</xref>
+</contrib>
+<contrib id="efs27450-cr-0002" contrib-type="author"><name>
+<surname>Turck</surname>
+<given-names>Dominique</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0003" contrib-type="author"><name>
+<surname>Bohn</surname>
+<given-names>Torsten</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0004" contrib-type="author"><name>
+<surname>Castenmiller</surname>
+<given-names>Jacqueline</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0005" contrib-type="author"><name>
+<surname>De Henauw</surname>
+<given-names>Stefaan</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0006" contrib-type="author"><name>
+<surname>Hirsch‐Ernst</surname>
+<given-names>Karen Ildico</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0007" contrib-type="author"><name>
+<surname>Maciuk</surname>
+<given-names>Alexandre</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0008" contrib-type="author"><name>
+<surname>Mangelsdorf</surname>
+<given-names>Inge</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0009" contrib-type="author"><name>
+<surname>McArdle</surname>
+<given-names>Harry J.</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0010" contrib-type="author"><name>
+<surname>Naska</surname>
+<given-names>Androniki</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0011" contrib-type="author"><name>
+<surname>Pelaez</surname>
+<given-names>Carmen</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0012" contrib-type="author"><name>
+<surname>Pentieva</surname>
+<given-names>Kristina</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0013" contrib-type="author"><name>
+<surname>Siani</surname>
+<given-names>Alfonso</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0014" contrib-type="author"><name>
+<surname>Thies</surname>
+<given-names>Frank</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0015" contrib-type="author"><name>
+<surname>Tsabouri</surname>
+<given-names>Sophia</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0016" contrib-type="author"><name>
+<surname>Vinceti</surname>
+<given-names>Marco</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0017" contrib-type="author"><name>
+<surname>Cubadda</surname>
+<given-names>Francesco</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0018" contrib-type="author"><name>
+<surname>Frenzel</surname>
+<given-names>Thomas</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0019" contrib-type="author"><name>
+<surname>Heinonen</surname>
+<given-names>Marina</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0020" contrib-type="author"><name>
+<surname>Prieto Maradona</surname>
+<given-names>Miguel</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0021" contrib-type="author"><name>
+<surname>Marchelli</surname>
+<given-names>Rosangela</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0022" contrib-type="author"><name>
+<surname>Neuhäuser‐Berthold</surname>
+<given-names>Monika</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0023" contrib-type="author"><name>
+<surname>Poulsen</surname>
+<given-names>Morten</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0024" contrib-type="author"><name>
+<surname>Schlatter</surname>
+<given-names>Josef Rudolf</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0025" contrib-type="author"><name>
+<surname>van Loveren</surname>
+<given-names>Henk</given-names>
+
+</name>
+</contrib>
+<contrib id="efs27450-cr-0026" contrib-type="author"><name>
+<surname>Ackerl</surname>
+<given-names>Reinhard</given-names>
+</name>
+</contrib>
+<contrib id="efs27450-cr-0027" contrib-type="author"><name>
+<surname>Knutsen</surname>
+<given-names>Helle Katrine</given-names>
+</name>
+</contrib>
+</contrib-group>
+<author-notes>
+<corresp id="correspondenceTo"><label>*</label>
+<bold>Correspondence:</bold> <email>nif@efsa.europa.eu</email>
+</corresp></author-notes>
+<pub-date pub-type="epub">
+<day>28</day>
+<month>07</month>
+<year>2022</year>
+</pub-date>
+<pub-date pub-type="ppub">
+<day>28</day>
+<month>07</month>
+<year>2022</year>
+</pub-date>
+<volume>20</volume>
+<issue seq="240">7</issue>
+<issue-id pub-id-type="doi">10.1002/efs2.v20.7</issue-id>
+<elocation-id>e07450</elocation-id>
+<permissions>
+<copyright-statement content-type="issue-copyright">© European Food Safety Authority</copyright-statement>
+<copyright-statement content-type="article-copyright">© 2022 European Food Safety Authority. <italic>EFSA Journal</italic> published by Wiley‐VCH GmbH on behalf of European Food Safety Authority.</copyright-statement>
+<license license-type="creativeCommonsBy-nd">
+<license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution‐NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited and no modifications or adaptations are made.</license-p>
+</license><license license-type="open-access"><license-p/></license></permissions>
+<self-uri xlink:href="file:efs27450.pdf" content-type="pdf"/><abstract xml:lang="en" abstract-type="main" id="efs27450-abs-0100">
+<title>Abstract</title>
+<p xml:lang="en">Following a request from the European Commission, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver an opinion on the safety of an extension of use for <italic toggle="no">Yarrowia lipolytica</italic> yeast biomass as a novel food (NF) pursuant to Regulation (EU) 2015/2283. The extension of use pertains to the use of the NF as a food ingredient in single meal replacement products for weight reduction for adults at a maximum amount of 6 g NF per day, which is the same amount of NF as already authorised in food supplements for this population group. According to the applicant, food supplements with <italic toggle="no">Yarrowia lipolytica</italic> biomass (as already authorised) should not be consumed concomitantly with the meal replacement products in order not to exceed the 6 g NF per day. The Panel considers that the consumption of the NF is not nutritionally disadvantageous under the proposed conditions of use. The Panel concludes that the NF, <italic toggle="no">Yarrowia lipolytica</italic> yeast biomass, is safe under the proposed conditions of use.</p>
+</abstract>
+<kwd-group kwd-group-type="author-generated" xml:lang="en">
+<kwd id="efs27450-kwd-0001">novel foods</kwd>
+<kwd id="efs27450-kwd-0002">
+<italic toggle="no">Yarrowia lipolytica</italic>
+</kwd>
+<kwd id="efs27450-kwd-0003">yeast</kwd>
+<kwd id="efs27450-kwd-0004">extension of use</kwd>
+<kwd id="efs27450-kwd-0005">single meal replacement</kwd>
+<kwd id="efs27450-kwd-0006">safety</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="1"/>
+<page-count count="7"/>
+<word-count count="2082"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>source-schema-version-number</meta-name>
+<meta-value>2.0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>cover-date</meta-name>
+<meta-value>July 2022</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>details-of-publishers-convertor</meta-name>
+<meta-value>Converter:WILEY_ML3GV2_TO_JATS version:6.3.6 mode:remove_FC converted:25.01.2024</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+<notes>
+<p content-type="self-citation"><mixed-citation publication-type="self-citation" id="efs27448-cit-1001"><bold>Suggested citation:</bold> <collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Nutrition, Novel Foods and Food Allergens)</collab>
+, <string-name><surname>Turck</surname> <given-names>D</given-names></string-name>, <string-name><surname>Bohn</surname> <given-names>T</given-names></string-name>, <string-name><surname>Castenmiller</surname> <given-names>J</given-names></string-name>, <string-name><surname>De Henauw</surname> <given-names>S</given-names></string-name>, <string-name><surname>Hirsch‐Ernst</surname> <given-names>KI</given-names></string-name>, <string-name><surname>Maciuk</surname> <given-names>A</given-names></string-name>, <string-name><surname>Mangelsdorf</surname> <given-names>I</given-names></string-name>, <string-name><surname>McArdle</surname> <given-names>HJ</given-names></string-name>, <string-name><surname>Naska</surname> <given-names>A</given-names></string-name>, <string-name><surname>Pelaez</surname> <given-names>C</given-names></string-name>, <string-name><surname>Pentieva</surname> <given-names>K</given-names></string-name>, <string-name><surname>Siani</surname> <given-names>A</given-names></string-name>, <string-name><surname>Thies</surname> <given-names>F</given-names></string-name>, <string-name><surname>Tsabouri</surname> <given-names>S</given-names></string-name>, <string-name><surname>Vinceti</surname> <given-names>M</given-names></string-name>, <string-name><surname>Cubadda</surname> <given-names>F</given-names></string-name>, <string-name><surname>Frenzel</surname> <given-names>T</given-names></string-name>, <string-name><surname>Heinonen</surname> <given-names>M</given-names></string-name>, <string-name><surname>Prieto Maradona</surname> <given-names>M</given-names></string-name>, <string-name><surname>Marchelli</surname> <given-names>R</given-names></string-name>, <string-name><surname>Neuhäauser‐Berthold</surname> <given-names>M</given-names></string-name>, <string-name><surname>Poulsen</surname> <given-names>M</given-names></string-name>, <string-name><surname>Schlatter</surname> <given-names>JR</given-names></string-name>, <string-name> <surname>van Loveren</surname> <given-names>H</given-names></string-name>, <string-name><surname>Ackerl</surname> <given-names>R</given-names></string-name> and <string-name><surname>Knutsen</surname> <given-names>HK</given-names></string-name>, 2022. <article-title xml:lang="en">Scientific Opinion on the Safety of an extension of use of Yarrowia
+lipolytica yeast biomass as a novel food pursuant to Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2022;<volume>20</volume>(<issue>7</issue>):7450, 7 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2022.7450">https://doi.org/10.2903/j.efsa.2022.7450</ext-link></mixed-citation></p>
+<fn-group id="efs27450-ntgp-0001">
+<fn id="efs27450-note-0001" xml:lang="en"><p><bold>Requestor:</bold> European Commission
+</p></fn>
+<fn id="efs27450-note-0002" xml:lang="en"><p><bold>Question number:</bold> EFSA‐Q‐2020‐00655
+</p></fn>
+<fn id="efs27450-note-0004" xml:lang="en"><p><bold>Panel members:</bold> Dominique Turck, Torsten Bohn, Jacqueline Castenmiller, Stefaan De Henauw, Karen Ildico Hirsch‐Ernst, Helle Katrine Knutsen, Alexandre Maciuk, Inge Mangelsdorf, Harry J McArdle, Androniki Naska, Carmen Pelaez, Kristina Pentieva, Alfonso Siani, Frank Thies, Sophia Tsabouri and Marco Vinceti.
+</p></fn>
+<fn id="efs27450-note-0006" xml:lang="en"><p><bold>Declaration of interest:</bold> If you wish to access the declaration of interests of any expert contributing to an EFSA scientific assessment, please contact <email>interestmanagement@efsa.europa.eu</email>.
+</p></fn>
+<fn id="efs27450-note-0003" xml:lang="en"><p>Adopted: 1 July 2022
+</p></fn>
+</fn-group>
+</notes>
+</front>
+<body id="efs27450-body-0001">
+
+<sec id="efs27450-sec-0001" xml:lang="en">
+<label>1</label>
+<title>Introduction</title>
+<sec id="efs27450-sec-0002" xml:lang="en">
+<label>1.1</label>
+<title>Background and Terms of Reference as provided by the requestor</title>
+<p xml:lang="en">On 27 July 2020, the company Skotan S.A. submitted a request to the European Commission in accordance with Article 10 of Regulation (EU) 2015/2283 to authorise an extension of use of <italic>Yarrowia lipolytica</italic> yeast biomass as a NF.</p>
+<p xml:lang="en">The application requests to extend the use of the novel food <italic>Yarrowia lipolytica</italic> yeast biomass in additional foods.</p>
+<p xml:lang="en">In accordance with Article 10(3) of Regulation (EU) 2015/2283, the European Commission asks the European Food Safety Authority to provide a scientific opinion on the extension of use of <italic>Yarrowia lipolytica</italic> yeast biomass as a NF.</p>
+</sec>
+<sec id="efs27450-sec-0003" xml:lang="en">
+<label>1.2</label>
+<title>Additional information</title>
+<p xml:lang="en">In 2019, the EFSA NDA Panel adopted a Scientific Opinion on the safety of <italic>Yarrowia lipolytica</italic> yeast biomass as a NF pursuant to Regulation (EU) 2015/2283 (EFSA NDA Panel, <xref rid="efs27450-bib-0002" ref-type="ref">2019</xref>).</p>
+</sec>
+</sec>
+<sec id="efs27450-sec-0004" xml:lang="en">
+<label>2</label>
+<title>Data and methodologies</title>
+<sec id="efs27450-sec-0005" xml:lang="en">
+<label>2.1</label>
+<title>Data</title>
+<p xml:lang="en">The safety assessment of this NF is based on data supplied in the application and information provided following EFSA requests for additional information.</p>
+<p xml:lang="en">Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469<xref rid="efs27450-note-0007" ref-type="fn"><sup>1</sup></xref>.</p>
+<p xml:lang="en">A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application (EFSA NDA Panel, <xref rid="efs27450-bib-0001" ref-type="ref">2016</xref>). As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data (including both data in favour and not in favour) that are pertinent to the safety of the NF.</p>
+<p xml:lang="en">This NF application does not include a request for the protection of proprietary data.</p>
+</sec>
+<sec id="efs27450-sec-0006" xml:lang="en">
+<label>2.2</label>
+<title>Methodologies</title>
+<p xml:lang="en">The assessment follows the methodology set out in the EFSA guidance on NF applications (EFSA NDA Panel, <xref rid="efs27450-bib-0001" ref-type="ref">2016</xref>) and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee. The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of Commission Implementing Regulation (EU) 2017/2469.</p>
+<p xml:lang="en">This assessment concerns only the risks that might be associated with consumption of the NF under the proposed conditions of use, and is not an assessment of the efficacy of the NF with regard to any (claimed) benefit.</p>
+</sec>
+</sec>
+<sec id="efs27450-sec-0007" xml:lang="en">
+<label>3</label>
+<title>Assessment</title>
+<sec id="efs27450-sec-0008" xml:lang="en">
+<label>3.1</label>
+<title>Introduction</title>
+<p xml:lang="en">The NF, which is the subject of the request for an extension of use, is the dried and heat‐killed biomass of the yeast <italic>Y. lipolytica</italic>.</p>
+<p xml:lang="en">In 2019, the EFSA NDA Panel assessed the safety of <italic>Yarrowia lipolytica</italic> yeast biomass as a NF when used as a food supplement for adults and children from 3 years of age (EFSA NDA Panel, <xref rid="efs27450-bib-0002" ref-type="ref">2019</xref>). The Panel concluded that the NF was safe under the proposed conditions of use, i.e. up to 3 g/day for children from 3 years to less than 10 years of age and up to 6 g/day thereafter.</p>
+<p xml:lang="en">Following the EFSA assessment, <italic>Yarrowia lipolytica</italic> yeast biomass was authorised via Commission Implementing Regulation (EU) 2019/760<xref rid="efs27450-note-0008" ref-type="fn"><sup>2</sup></xref> for the placing on the market in the European Union as a novel food. The authorisation covered the use of the NF as a food supplement at maximum use levels of 3 g/day for children from 3 to 9 years of age and 6 g/day for children from 10 years of age, adolescents and adults.</p>
+<p xml:lang="en">This opinion addresses the applicant's request to extend the use of the NF to single meal replacement products for weight reduction for adults.</p>
+</sec>
+<sec id="efs27450-sec-0009" xml:lang="en">
+<label>3.2</label>
+<title>Identity of the <styled-content style="fixed-case" toggle="no">NF</styled-content></title>
+<p xml:lang="en">The NF is the dried and heat‐killed biomass of the yeast <italic>Y. lipolytica</italic>.</p>
+</sec>
+<sec id="efs27450-sec-0010" xml:lang="en">
+<label>3.3</label>
+<title>Compositional data</title>
+<p xml:lang="en">According to the specifications (as authorised by Commission Implementing Regulation (EU) 2019/760<xref rid="efs27450-note-0008" ref-type="fn"><sup>2</sup></xref>; see Table <xref rid="efs27450-tbl-0001" ref-type="table-wrap">1</xref> below), the NF consists primarily of proteins (45–55 g/100 g) and dietary fibre (24–30 g/100 g). The fat content in the NF is set at 7–10 g/100 g.</p>
+<table-wrap id="efs27450-tbl-0001" xml:lang="en" content-type="Table">
+
+<label>Table 1</label>
+
+
+
+<caption><title>Specifications of the NF</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="justify"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom"><bold>Description/Definition</bold>: The novel food is the dried and heat‐killed biomass of the yeast <italic>Yarrowia lipolytica</italic>.</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom">
+<bold>Characteristics/Composition</bold>
+</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">Protein</td>
+<td align="left" valign="top">45–55 g/100 g</td>
+</tr>
+<tr>
+<td align="left" valign="top">Dietary fibre</td>
+<td align="left" valign="top">24–30 g/100 g</td>
+</tr>
+<tr>
+<td align="left" valign="top">Sugars</td>
+<td align="left" valign="top">&lt; 1.0 g/ 100 g</td>
+</tr>
+<tr>
+<td align="left" valign="top">Fat</td>
+<td align="left" valign="top">7–10 g/100 g</td>
+</tr>
+<tr>
+<td align="left" valign="top">Total ash</td>
+<td align="left" valign="top">≤ 12%</td>
+</tr>
+<tr>
+<td align="left" valign="top">Water content</td>
+<td align="left" valign="top">≤ 5%</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" valign="top">Dry matter content</td>
+<td align="left" valign="top">≥ 95%</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" colspan="2" valign="top">
+<bold>Microbiological criteria</bold>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">TAMC</td>
+<td align="left" valign="top">≤ 5 × 10<sup>3</sup> CFU/g</td>
+</tr>
+<tr>
+<td align="left" valign="top">TYMC</td>
+<td align="left" valign="top">≤ 10<sup>2</sup> CFU/g</td>
+</tr>
+<tr>
+<td align="left" valign="top">Viable <italic>Yarrowia lipolytica</italic> cells<xref rid="efs27450-note-0010" ref-type="fn"><sup>(1)</sup></xref></td>
+<td align="left" valign="top">&lt; 10 CFU/g (i.e. limit of detection)</td>
+</tr>
+<tr>
+<td align="left" valign="top">Coliforms</td>
+<td align="left" valign="top">≤ 10 CFU/g</td>
+</tr>
+<tr>
+<td align="left" valign="top"><italic>Salmonella</italic> spp.</td>
+<td align="left" valign="top">Not detected in 25 g</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27450-ntgp-0002">
+<fn id="efs27450-note-0009" xml:lang="en">
+<p xml:lang="en">TAMC: total aerobic microbial count; TYMC: total yeast and mould count; CFU: colony forming units.</p>
+</fn>
+<fn id="efs27450-note-0010" xml:lang="en">
+<label>(1)</label>
+
+<p xml:lang="en">To be tested immediately after the heat‐treatment step. Measures have to be in place to prevent cross‐contamination with viable <italic>Yarrowia lipolytica</italic> cells during packaging and/or storage of the NF.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<sec id="efs27450-sec-0011" xml:lang="en">
+<label>3.3.1</label>
+<title>Stability</title>
+<p xml:lang="en">In 2019, the Panel assessed the stability of the NF on the basis of results of stability testing for five independently produced batches of the NF. The Panel considered that the data provided sufficient information with respect to the stability of the NF.</p>
+<p xml:lang="en">In order to investigate the stability when the NF is used as a food ingredient, the applicant performed two stability studies with the NF as part of a potential meal replacement product. Among other ingredients (e.g. oat flour, pea protein, rice protein, pumpkin protein, hemp protein, grounded linseed, xanthan gum, xylitol, coconut sugar, maca root powder, etc.) the recipe contained 6 g of the NF per portion.</p>
+<p xml:lang="en">One study was carried out for 3 months at accelerated storage conditions (40°C and 75% humidity) with sealed products. Microbiological and organoleptic parameters and moisture were measured at baseline and monthly until 3 months. Proximates and fatty acids were analysed at baseline and after 3 months of storage. There were no relevant changes during storage, apart for water content which diminished over time, which is not considered adverse. The applicant remarked that the results of the stability testing for 3 months at accelerated conditions might allow to extrapolate the expiry date of the product to 12 months of storage in standard conditions.</p>
+<p xml:lang="en">In another study, the products containing the NF were stored for 3 months at ambient conditions (20°C and &lt; 50% humidity) in unsealed packaging. Microbiological and organoleptic parameters and moisture were measured at baseline, at 1.5 months and at 3 months. No relevant changes were noticed over the storage period.</p>
+<p xml:lang="en">Taking into account the results of the stability studies at accelerated and at ambient conditions with sealed and unsealed products, the Panel considers that overall, the stability data provided sufficient information with respect to the stability of the NF for 12 months.</p>
+</sec>
+</sec>
+<sec id="efs27450-sec-0012" xml:lang="en">
+<label>3.4</label>
+<title>Specifications</title>
+<p xml:lang="en">The specifications of the NF, as authorised in Commission Implementing Regulation (EU) 2019/760<xref rid="efs27450-note-0008" ref-type="fn"><sup>2</sup></xref>, are indicated in Table <xref rid="efs27450-tbl-0001" ref-type="table-wrap">1</xref>.</p>
+</sec>
+<sec id="efs27450-sec-0013" xml:lang="en">
+<label>3.5</label>
+<title>Proposed uses and use levels</title>
+<sec id="efs27450-sec-0014" xml:lang="en">
+<label>3.5.1</label>
+<title>Target population</title>
+<p xml:lang="en">The target population as proposed by the applicant is adults.</p>
+</sec>
+<sec id="efs27450-sec-0015" xml:lang="en">
+<label>3.5.2</label>
+<title>Proposed uses and use levels</title>
+<p xml:lang="en">Following EFSA requests for additional information, the applicant clarified that the request for the extension of use of the NF pertains to single meal replacement products for weight reduction (FoodEx2 code: A03RV) for adults, at a maximum daily amount of 6 g NF.</p>
+<p xml:lang="en">The applicant informed that food supplements with <italic>Yarrowia lipolytica</italic> biomass (as already authorised) should not be consumed concomitantly with the above meal replacement products in order not to exceed the 6 g per day.</p>
+</sec>
+</sec>
+</sec>
+<sec sec-type="discussion" id="efs27450-sec-0016" xml:lang="en">
+<label>4</label>
+<title>Discussion</title>
+<p xml:lang="en">The NF, which is the subject of the request for an extension of use, is the dried and heat‐killed biomass of the yeast <italic>Y. lipolytica</italic>.</p>
+<p xml:lang="en">Following the safety assessment by the Panel in 2019, <italic>Yarrowia lipolytica</italic> yeast biomass was authorised for the placing on the market in the European Union as a NF. The authorisation covered the use of the NF as a food supplement at maximum use levels of 3 g/day for children from 3 to 9 years of age and 6 g/day for children from 10 years of age, adolescents and adults.</p>
+<p xml:lang="en">The applicant proposes to extend the use of the NF as a food ingredient in single meal replacement products for weight reduction for adults at a maximum amount of 6 g NF per day, which is the same amount of NF as already authorised in food supplements for this population group.</p>
+<p xml:lang="en">According to the applicant, food supplements with <italic>Yarrowia lipolytica</italic> biomass (as already authorised) should not be consumed concomitantly with the above meal replacement products in order not to exceed the 6 g per day.</p>
+<p xml:lang="en">As in 2019, the Panel considers that the consumption of the NF is not nutritionally disadvantageous under the proposed conditions of use.</p>
+</sec>
+<sec sec-type="conclusions" id="efs27450-sec-0017" xml:lang="en">
+<label>5</label>
+<title>Conclusions</title>
+<p xml:lang="en">The Panel concludes that the NF, <italic>Yarrowia lipolytica</italic> yeast biomass, is safe under the proposed conditions of use.</p>
+</sec>
+<sec id="efs27450-sec-0018" xml:lang="en">
+<label>6</label>
+<title>Steps taken by <styled-content style="fixed-case" toggle="no">EFSA</styled-content></title>
+<p xml:lang="en">
+<list list-type="explicit-label" id="efs27450-list-0001">
+
+<list-item id="efs27450-li-0001">
+<label>1</label><p>On 21/12/2020 EFSA received a letter from the European Commission with the request for a scientific opinion on the safety of an extension of use of <italic>Yarrowia lipolytica</italic> yeast biomass as a NF (Ref. Ares(2020)7822805).</p></list-item>
+
+<list-item id="efs27450-li-0002">
+<label>2</label><p>On 21/12/2020, a valid application on an extension of use of <italic>Yarrowia lipolytica</italic> yeast biomass, which was submitted by the company Skotan S.A., was made available to EFSA by the European Commission through the Commission e‐submission portal (NF 2020/1950) and the scientific evaluation procedure was initiated.</p></list-item>
+
+<list-item id="efs27450-li-0003">
+<label>3</label><p>On 16/03/2021 and on 23/09/2021, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</p></list-item>
+
+<list-item id="efs27450-li-0004">
+<label>4</label><p>On 24/06/2021 and on 06/03/2022, additional information was provided by the applicant through the Commission e‐submission portal and the scientific evaluation was restarted.</p></list-item>
+
+<list-item id="efs27450-li-0005">
+<label>5</label><p>During its meeting on 1 July 2022, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of an extension of use of <italic>Yarrowia lipolytica</italic> yeast biomass as a NF pursuant to Regulation (EU) 2015/2283.</p></list-item>
+</list>
+</p>
+</sec>
+
+
+<sec><def-list list-content="abbreviations" id="efs27450-dl-0001">
+<title>Abbreviations</title>
+
+<def-item>
+
+<term id="efs27450-li-0006">CFU</term>
+
+<def id="efs27450-li-0007"><p>colony forming units</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27450-li-0008">NDA</term>
+
+<def id="efs27450-li-0009"><p>Panel on Nutrition, Novel Foods and Food Allergens</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27450-li-0010">NF</term>
+
+<def id="efs27450-li-0011"><p>novel food</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27450-li-0012">TAMC</term>
+
+<def id="efs27450-li-0013"><p>total aerobic microbial count</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27450-li-0014">TYMC</term>
+
+<def id="efs27450-li-0015"><p>total yeast and mould count</p></def>
+</def-item>
+</def-list></sec>
+</body>
+<back>
+<fn-group id="efs27450-ntgp-1101">
+<title>Notes</title>
+<fn id="efs27450-note-0007" xml:lang="en">
+<label><sup>1</sup></label><p xml:lang="en">Commission Implementing Regulation (EU) 2017/2469 of 20 December 2017 laying down administrative and scientific requirements for applications referred to in Article 10 of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods. OJ L 351, 30.12.2017, pp. 64–71.</p></fn>
+<fn id="efs27450-note-0008" xml:lang="en">
+<label><sup>2</sup></label><p xml:lang="en">Commission Implementing Regulation (EU) 2019/760 of 13 May 2019 authorising the placing on the market of Yarrowia lipolytica yeast biomass as a novel food under Regulation (EU) 2015/2283 of the European Parliament and of the Council and amending Commission Implementing Regulation (EU) 2017/2470. OJ L 125, 14.5.2019, p. 13–15.</p></fn>
+</fn-group>
+<ref-list content-type="cited-references" id="efs27450-bibl-0001">
+<title>References</title>
+<ref id="efs27450-bib-0001">
+<mixed-citation publication-type="journal" id="efs27450-cit-0001"><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies)</collab>
+, <year>2016</year>. <article-title xml:lang="en">Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2016;<volume>14</volume>(<issue>11</issue>):4594, <fpage>24</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2016.4594">https://doi.org/10.2903/j.efsa.2016.4594</ext-link></mixed-citation>
+</ref>
+<ref id="efs27450-bib-0002">
+<mixed-citation publication-type="journal" id="efs27450-cit-0002"><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Nutrition, Novel Foods and Food Allergens)</collab>
+, <year>2019</year>. <article-title xml:lang="en">Scientific Opinion on the safety of <italic>Yarrowia lipolytica</italic> yeast biomass as a novel food pursuant to Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2019;<volume>17</volume>(<issue>2</issue>):5594, <fpage>12</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2019.5594">https://doi.org/10.2903/j.efsa.2019.5594</ext-link></mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

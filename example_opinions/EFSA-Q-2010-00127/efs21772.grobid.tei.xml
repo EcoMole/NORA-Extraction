@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" coord="1,82.58,166.77,429.79,13.60;1,228.53,183.03,133.55,12.64;1,362.23,179.99,4.50,8.10;1,126.38,211.06,330.30,10.80;1,456.82,208.25,12.18,7.24">Scientific Opinion on the safety of ‘phosphated distarch phosphate’ as a Novel Food ingredient</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2010-09">30 September 2010 4 .</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,140.27,640.82,85.13,8.72"><forename type="first">Carlo</forename><forename type="middle">Virgilio</forename><surname>Agostini</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,232.73,640.82,70.30,8.72"><forename type="first">Jean-Louis</forename><surname>Bresson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,310.30,640.82,83.84,8.72"><forename type="first">Susan</forename><surname>Fairweather-Tait</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,401.19,640.82,45.63,8.72"><forename type="first">Albert</forename><surname>Flynn</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,454.18,640.82,37.11,8.72"><forename type="first">Ines</forename><surname>Golly</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,498.40,640.82,26.06,8.72;1,78.02,651.38,33.23,8.72"><forename type="first">Marina</forename><surname>Heinonen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,119.02,651.38,61.88,8.72"><forename type="first">Hannu</forename><surname>Korhonen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,188.78,651.38,53.93,8.72"><forename type="first">Pagona</forename><surname>Lagiou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,250.27,651.38,55.86,8.72"><forename type="first">Martinus</forename><surname>Løvik</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,313.67,651.38,74.53,8.72"><forename type="first">Rosangela</forename><surname>Marchelli</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,395.44,651.38,61.73,8.72"><forename type="first">Ambroise</forename><surname>Martin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,464.49,651.38,55.33,8.72"><forename type="first">Bevan</forename><surname>Moseley</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,78.02,661.94,104.33,8.72"><forename type="first">Monika</forename><surname>Neuhäuser-Berthold</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,191.14,661.94,80.30,8.72"><forename type="first">Hildegard</forename><surname>Przyrembel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,280.22,661.94,51.17,8.72"><forename type="first">Yolanda</forename><surname>Sanz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,340.03,661.94,59.49,8.72"><forename type="first">Seppo</forename><surname>Salminen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,458.21,661.94,28.58,8.72"><forename type="first">J</forename><surname>Strain</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,494.89,661.94,29.08,8.72;1,78.02,672.50,24.82,8.72"><forename type="first">Stephan</forename><surname>Strobel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,108.70,672.50,40.69,8.72"><forename type="first">Inge</forename><surname>Tetens</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,155.40,672.50,44.67,8.72"><forename type="first">Daniel</forename><surname>Tome</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,206.95,672.50,67.98,8.72"><forename type="first">Henk</forename><surname>Van Den Berg</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,281.15,672.50,76.81,8.72"><forename type="first">Hendrik</forename><surname>Van Loveren</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,375.61,672.50,53.87,8.72"><forename type="first">Hans</forename><surname>Verhagen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,203.80,704.18,62.78,8.72"><forename type="first">Karl-Heinz</forename><surname>Engel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,246.73,714.74,52.95,8.72"><forename type="first">Annette</forename><surname>Pöting</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" coord="1,82.58,166.77,429.79,13.60;1,228.53,183.03,133.55,12.64;1,362.23,179.99,4.50,8.10;1,126.38,211.06,330.30,10.80;1,456.82,208.25,12.18,7.24">Scientific Opinion on the safety of ‘phosphated distarch phosphate’ as a Novel Food ingredient</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">EFSA Journal</title>
+						<title level="j" type="abbrev">EFSA Journal</title>
+						<idno type="ISSN">1831-4732</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">8</biblScope>
+							<biblScope unit="issue">9</biblScope>
+							<biblScope unit="page">1772</biblScope>
+							<date type="published" when="2010-09">30 September 2010 4 .</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">753E50516925D4E3A91E83F8B3019A25</idno>
+					<idno type="DOI">10.2903/j.efsa.2010.1772</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-04-29T08:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>8</term>
+					<term>2</term>
+					<term>Genotoxicity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,70.94,325.74,453.03,9.65;1,70.94,337.50,448.41,9.65;1,519.58,335.24,4.92,6.28;1,70.94,349.26,303.50,9.65">Following a request from the European Commission, the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA) was asked to carry out the additional assessment for "phosphated distarch phosphate" Novelose ® 480HA, as a food ingredient in the context of Regulation (EC) No 258/97.</s><s coords="1,377.34,349.26,146.85,9.65;1,70.94,361.02,238.28,9.65">The novel ingredient is a chemically modified starch manufactured from high-amylose maize.</s><s coords="1,314.28,361.02,210.25,9.65;1,70.94,372.78,348.34,9.65">Starch chains are cross-linked and esterified with phosphate groups to create a digestion-resistant starch (Resistant Starch Type 4).</s><s coords="1,424.45,372.78,99.82,9.65;1,70.94,384.54,218.32,9.65">The novel ingredient is proposed for use in low-moisture food products (e.g.</s><s coords="1,292.87,384.54,231.03,9.65;1,70.94,396.30,147.64,9.65">bread and bakery products, breakfast cereals, pastas and snacks) at a maximum level of 15 %.</s><s coords="1,221.10,396.30,303.14,9.65;1,70.94,408.08,355.75,9.65;1,427.27,405.82,5.04,6.28;1,435.79,408.08,41.83,9.65">The maximum daily intake based on a conservative estimate, was calculated to occur in male teenagers with a mean of 9.0 g/person and 25.3 g/person for the 97.5 th percentile.</s><s coords="1,481.11,408.08,43.45,9.65;1,70.94,419.84,453.50,9.65">On a body weight basis, the highest estimated intake is in small children (mean 0.38 and high level 1.09 g/kg bw per day).</s><s coords="1,70.94,431.60,453.01,9.65;1,70.94,443.36,453.73,9.65;1,70.94,455.12,167.00,9.65">The toxicological tests described by the applicant to demonstrate the safety of the novel ingredient were carried out using various phosphated starches including varieties of phosphated distarch phosphate that are currently used in Europe as food additive (E1413).</s><s coords="1,240.95,455.12,283.12,9.65;1,70.94,466.88,380.49,9.65">They have a similar content of phosphorus but are manufactured from "conventional" maize having starch grains with less than 30 % amylose and 70 % amylopectin.</s><s coords="1,454.09,466.88,70.26,9.65;1,70.94,478.64,174.41,9.65">The toxicological tests did not provide reasons for concern.</s><s coords="1,249.57,478.64,274.51,9.65;1,70.94,490.40,17.55,9.65;1,88.58,488.14,5.04,6.28;1,96.98,490.40,426.99,9.65;1,70.94,502.16,224.35,9.65">The conservative estimated maximum intake of phosphorus at the 97.5 th percentile of 101 mg/day for male teenagers is low compared with European intakes ranging up to about 2600 mg per day and was considered not of concern.</s><s coords="1,299.39,502.16,224.82,9.65;1,70.94,513.92,307.68,9.65">The product specification allows up to 0.8 % protein, assumed to be derived from maize, which is not a common allergenic food.</s><s coords="1,381.76,513.92,142.22,9.65;1,70.94,525.68,411.19,9.65">The Panel concludes that the novel ingredient, a phosphated distarch phosphate, is safe at the proposed conditions of use and intake levels.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="2,70.94,296.58,452.93,10.70;2,70.94,309.54,143.14,10.70">The specification of the novel ingredient requires a minimum of 70 % total dietary fibre and a maximum of 0.4 % phosphorus.</s><s coords="2,217.35,309.54,306.68,10.70;2,70.94,322.50,247.94,10.70">There are no concerns regarding contaminants such as heavy metals, mycotoxins, pesticide residues and pathogenic bacteria.</s><s coords="2,322.00,322.50,201.99,10.70;2,70.94,335.46,265.77,10.70">The ingredient is reported by the applicant to have a shelf life of 24 months from the date of manufacture.</s></p><p><s coords="2,70.94,359.46,453.03,10.70;2,70.94,372.42,195.20,10.70">On the basis of UK data, the applicant has estimated the intakes of the novel ingredient and the phosphorus for several population groups.</s><s coords="2,271.08,372.42,168.38,10.70;2,439.75,370.08,5.40,6.74;2,449.98,372.42,74.56,10.70;2,70.94,385.38,453.07,10.70;2,70.94,398.34,453.39,10.70;2,70.94,411.32,73.88,10.70">The maximum mean and high (97.5 th percentile) daily intakes would be 9.0 and 25.3 g/person respectively (equivalent to 0.17 and 0.53 g/kg body weight) for male teenagers and for phosphorus intake 36.2 and 101 mg/person respectively (0.68 and 2.11 mg/kg bw).</s><s coords="2,148.90,411.32,375.13,10.70;2,70.94,424.28,350.44,10.70">On a body weight basis, the highest estimated intake of the novel ingredient is in children aged 1½ to 4½ years (mean 0.38 and high level 1.09 g/kg bw per day).</s></p><p><s coords="2,70.94,448.28,453.24,10.70;2,70.94,461.24,244.08,10.70">No data were provided on the genotoxicity of modified starches although evidence was provided that phosphorus containing compounds were not genotoxic.</s></p><p><s coords="2,70.94,485.24,452.96,10.70;2,70.94,498.20,453.36,10.70;2,70.94,511.16,315.73,10.70">The toxicological tests described by the applicant to demonstrate the safety of the novel ingredient were carried out using various phosphated starches including varieties of phosphated distarch phosphate that are currently used in Europe as a food additive (E1413).</s><s coords="2,389.44,511.16,134.65,10.70;2,70.94,524.12,453.08,10.70;2,70.94,537.08,141.09,10.70">They have a similar content of phosphorus but are manufactured from "conventional" maize having starch grains with less than 30 % amylose and 70 % amylopectin.</s></p><p><s coords="2,70.94,561.08,421.35,10.70">The toxicological tests did not show any significant adverse effects even at high dietary levels.</s><s coords="2,498.06,561.08,25.89,10.70;2,70.94,574.07,452.94,10.70;2,70.94,587.03,321.33,10.70">There was caecal enlargement in rats at high intakes but no associated histopathological effects and this is considered to be an adaptive effect without toxicological relevance.</s><s coords="2,397.81,587.03,126.36,10.70;2,70.94,599.99,194.63,10.70;2,265.73,597.65,5.40,6.74;2,274.73,599.99,249.66,10.70;2,70.94,612.95,453.39,10.70;2,70.94,625.91,37.79,10.70">The conservative estimated maximum intake of phosphorus at the 97.5 th percentile of 101 mg per day for male teenagers is low compared with European intakes ranging up to about 2600 mg per day and is considered not of concern.</s></p><p><s coords="2,70.94,649.91,453.00,10.70;2,70.94,662.87,279.81,10.70">With regard to allergenicity the product specification allows up to 0.8 % protein, which is assumed to be derived from maize, which is not a common allergenic food.</s></p><p><s coords="2,70.94,686.87,453.50,10.70;2,70.94,699.83,198.70,10.70">The Panel concludes that the novel ingredient, a phosphated distarch phosphate, is safe at the proposed conditions of use and intake levels.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BACKGROUND AS PROVIDED BY THE EUROPEAN COMMISSION</head><p><s coords="4,70.94,97.11,453.14,10.70;4,70.94,110.07,453.07,10.70;4,70.94,123.03,168.99,10.70">On 23 August 2005, the company National Starch Food Innovation submitted a request under Article 4 of the Novel Food Regulation (EC) No 258/97 to place on the market "phosphated distarch phosphate" as a novel food ingredient.</s></p><p><s coords="4,70.94,147.03,453.11,10.70;4,70.94,159.99,452.99,10.70;4,70.94,172.95,453.28,10.70;4,70.94,185.91,147.18,10.70">On 27 April 2009, the competent authorities of the United Kingdom forwarded to the Commission their initial assessment report, which came to conclusion that "phosphated distarch phosphate" meets the criteria for acceptance of a novel food subject to labelling requirements regarding potential laxative effects in small children.</s><s coords="4,70.94,283.86,420.22,10.70">The concerns of a scientific nature raised by the Member States can be summarized as follows:</s></p><p><s coords="4,106.70,308.58,357.03,10.70">The analytical data and test reports relating to the specification are incomplete.</s><s coords="4,467.10,308.58,57.20,10.70;4,106.70,321.54,400.65,10.70">There are no details on the bodies that carried out the tests, or whether these are accredited laboratories.</s></p><p><s coords="4,106.70,341.22,417.31,10.70">The hybrid maize varieties used to produce the novel food ingredient have not been identified.</s></p><p><s coords="4,106.70,360.90,417.42,10.70;4,106.70,373.86,196.56,10.70">The novel food ingredient differs from "traditional" PDPs (food additive E1413) used for their highly specific rheological properties.</s><s coords="4,307.44,373.86,216.91,10.70;4,106.70,386.82,417.29,10.70;4,106.70,399.78,77.13,10.70">The novel food ingredient is produced from an amylose-rich starch, whereas the "traditional" PDPs are produced from starches with lower amylose content.</s><s coords="4,188.97,399.78,335.45,10.70;4,106.70,412.76,417.12,10.70;4,106.70,425.72,299.32,10.70">Any rheological properties of the novel food ingredient claimed by the applicant to be different from those of "traditional" PDP imply that its physical and chemical properties are different from those defined for food additive E1413.</s></p><p><s coords="4,106.70,445.40,417.28,10.70;4,106.70,458.36,417.44,10.70;4,106.70,471.32,407.11,10.70">Whereas the additive E1413 is regarded as being totally digestible for the small intestine, the novel food ingredient would contain 92 % starch that remains undigested in the small intestine, if the resistant starch is quantified using the Englyst method <ref type="bibr" coords="4,417.73,471.32,91.32,10.70" target="#b34">(Englyst et al., 1996)</ref>.</s></p><p><s coords="4,106.70,491.00,417.54,10.70;4,106.70,503.96,417.68,10.70;4,106.70,516.92,164.88,10.70">The report on tolerance <ref type="bibr" coords="4,216.17,491.00,152.13,10.70">(Pieters et al., 1971, unpublished)</ref> has several limitations and cannot be used as evidence that the consumption of the novel food ingredient is safe for both children and adults in the quantities proposed.</s></p><p><s coords="4,106.70,536.60,417.34,10.70;4,106.70,549.56,309.75,10.70">A study to determine the tolerable dose of the novel food in children is lacking and should be carried out before the novel food ingredient is authorised for children.</s></p><p><s coords="4,106.70,569.27,417.39,10.70;4,106.70,582.23,417.29,10.70;4,106.70,595.19,417.21,10.70;4,106.70,608.15,417.75,10.70;4,106.70,621.11,417.61,10.70;4,106.70,634.07,216.09,10.70">Regarding possible gastro-intestinal intolerance and the validity of extrapolating results obtained in adults to children, concerns as to the degree of development of the microflora of children should be reconsidered in the light of recent studies which show that intestinal microbiota are established from birth <ref type="bibr" coords="4,278.84,608.15,131.62,10.70">(Adlerberth and Wold, 2009;</ref><ref type="bibr" coords="4,414.33,608.15,88.00,10.70" target="#b36">Fanaro et al., 2003)</ref>, are highly sensitive to the environment <ref type="bibr" coords="4,272.38,621.11,83.97,10.70" target="#b39">(Flint et al., 2007;</ref><ref type="bibr" coords="4,360.58,621.11,102.58,10.70" target="#b44">Grönlund et al., 2007)</ref> and diet and develop rapidly during the first few years of life.</s><s coords="4,325.68,634.07,198.44,10.70;4,106.70,647.03,417.53,10.70;4,106.70,659.99,209.66,10.70">Marker analysis shows almost adult maturity between the ages of two and five, with the establishment of late markers between the ages of 10 and 12 <ref type="bibr" coords="4,153.00,659.99,88.61,10.70" target="#b64">(Young et al., 2008;</ref><ref type="bibr" coords="4,244.41,659.99,67.19,10.70" target="#b63">Xu et al., 2007)</ref>.</s></p><p><s coords="4,106.70,679.67,417.61,10.70;4,106.70,692.40,251.01,10.93">The small intestine digestion of the novel food ingredient and the fermentation values mentioned were obtained from in vitro measurements.</s><s coords="4,362.28,692.63,162.20,10.70;4,106.70,705.59,42.67,10.70">No data obtained from animals are available.</s></p><p><s coords="4,106.70,725.27,417.17,10.70;4,106.70,738.25,417.41,10.70;4,106.70,751.21,189.45,10.70">The validity of extrapolating the results of the studies, in particular of a toxicological nature, concerning chemically-modified starches with an amylose content of less than 30 % to the novel food ingredient should be evaluated.</s><s coords="4,299.04,751.21,225.40,10.70;5,106.70,76.95,417.36,10.70;5,106.70,89.91,132.48,10.70">Because the novel food ingredient and the additive E1413 have different physical and chemical properties, they cannot be digested and metabolised in the same way.</s><s coords="5,242.53,89.91,281.43,10.70;5,106.70,102.87,417.76,10.70;5,106.70,115.83,60.66,10.70">Studies on humans and animals have to be carried out in order to evaluate the nutritional and physiological properties of the novel food ingredient prior to authorisation.</s></p><p><s coords="5,106.70,135.51,417.39,10.70">Recent data suggest that high phosphate intakes have a deleterious effect on bone metabolism.</s><s coords="5,106.70,148.47,417.74,10.70;5,106.70,161.43,312.03,10.70">The absorption of phosphates released after colonic fermentation of the novel food ingredient should be studied in order to eliminate any risk of hyperphosphatemia.</s></p><p><s coords="5,106.70,181.11,417.31,10.70;5,106.70,194.07,408.44,10.70">Studies in healthy humans have shown a relationship of high serum phosphorus as well as a high phosphorus intake with vascular calcification and cardiovascular disease and mortality.</s></p><p><s coords="5,106.70,213.75,417.24,10.70;5,106.70,226.71,158.80,10.70">The multiple uses of such products under successive authorisations make it difficult to assess exposure and monitor consumption.</s></p><p><s coords="5,106.70,246.42,417.65,10.70;5,106.70,259.38,417.37,10.70;5,106.70,272.34,310.26,10.70">In case that an authorization is granted under the above-mentioned conditions, a survey could be conducted by the applicant in order to monitor the possible laxative effects of the product and additional phosphorus intake caused by the novel food ingredient.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TERMS OF REFERENCE AS PROVIDED BY THE EUROPEAN COMMISSION</head><p><s coords="5,70.94,323.46,453.54,10.70;5,70.94,336.42,453.53,10.70;5,70.94,349.38,247.94,10.70">In accordance with Article 29 (1) (a) of Regulation (EC) No 178/2002, the European Food Safety Authority is asked to carry out the additional assessment for "phosphated distarch phosphate" as food ingredient in the context of Regulation (EC) No 258/97.</s></p><p><s coords="5,70.94,368.34,453.31,10.70;5,70.94,381.30,229.65,10.70">EFSA is asked to carry out the additional assessment and to consider the elements of scientific nature in the comments raised by the other Member States.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ASSESSMENT</head><p><s coords="6,70.94,109.11,453.52,10.70;6,70.94,122.07,453.36,10.70;6,70.94,135.03,133.33,10.70">In accordance with the Commission Recommendation 97/618/EC "phosphated distarch phosphate" is allocated to Class 2.1 "a complex novel ingredient from non-GM sources that have already been used as a food in the Community".</s><s coords="6,207.86,135.03,316.10,10.70;6,70.94,147.99,452.99,10.70;6,70.94,160.95,453.12,10.70;6,70.94,173.91,261.45,10.70">The assessment of the safety of this novel food ingredient is based on data supplied in the original application, the initial assessment by the competent authority of the United Kingdom, the concerns and objections of the other Member States and the responses of the applicant to the Member States" concerns and objections.</s><s coords="6,336.25,173.91,187.71,10.70;6,70.94,186.87,453.56,10.70;6,70.94,199.83,272.58,10.70">The data are required to comply with the information required for the novel foods of Class 2.1, i.e. structured schemes I, II, III, IX, X, XI, XII and XIII of the Commission Recommendation 97/618/EC.</s><s coords="6,348.79,199.83,175.23,10.70;6,70.94,212.79,128.65,10.70">In the following text these structured schemes are listed 1 to 8.</s><s coords="6,205.82,212.79,318.18,10.70;6,70.94,225.75,453.26,10.70;6,70.94,238.74,105.51,10.70">This assessment concerns only risk that might be associated with consumption and is not an assessment of the efficacy of "phosphated distarch phosphate" with regard to any claimed benefits.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Specification of the Novel Food (NF)</head><p><s coords="6,70.94,293.70,453.11,10.70;6,70.94,306.66,224.28,10.70">The novel food ingredient is Phosphated Distarch Phosphate (PDP), a chemically modified resistant starch derived from high amylose maize starch.</s><s coords="6,300.51,306.66,223.95,10.70;6,70.94,319.62,453.16,10.70;6,70.94,332.58,35.15,10.70">The trade names for this product are RS4-fibre modified starch (phosphated distarch phosphate), RS4 phosphated distarch phosphate, or Novelose® 480HA.</s></p><p><s coords="6,70.94,356.58,453.07,10.70;6,70.94,369.54,69.16,10.70">Starch typically consists of two polymers of glucose, amylopectin (highly branched) and amylose (almost linear).</s><s coords="6,144.38,369.54,380.32,10.70;6,70.94,382.50,68.76,10.70">The maize starch source used for the production of the novel ingredient is a highamylose starch.</s><s coords="6,142.57,382.50,381.94,10.70">Hi-amylose starches typically consist of 50 -80% amylose and 20 -50% amylopectin.</s><s coords="6,70.94,395.46,453.35,10.70;6,70.94,408.44,431.70,10.70">The novel ingredient is a chemically-modified starch obtained by combining chemical treatments to create phosphate cross links between carbohydrate residues and esterified at hydroxyl groups.</s><s coords="6,506.86,408.44,17.26,10.70;6,70.94,421.40,453.15,10.70;6,70.94,434.36,274.32,10.70">The food additive E1413 is a PDP made originally using maize starch having &lt;30 % amylose and manufactured using the same combined chemical treatments.</s><s coords="6,348.77,434.36,175.40,10.70;6,70.94,447.32,453.51,10.70;6,70.94,460.28,33.47,10.70">The phosphorus in the phosphate cross links represented 0.01 % of the PDP and the phosphorus in the esterified groups 0.32 % <ref type="bibr" coords="6,485.47,447.32,38.98,10.70;6,70.94,460.28,28.69,10.70">(JECFA, 1982a)</ref>.</s><s coords="6,107.88,460.28,416.73,10.70;6,70.94,473.24,65.14,10.70">According to the applicant, the additive can also be manufactured using maize starch having 70 % amylose.</s></p><p><s coords="6,70.94,497.24,453.03,10.70;6,70.94,510.20,97.10,10.70">The various resistant starches are divided into four groups, Resistant Starch Type 1 (RS1) to Resistant Starch Type 4 (RS4).</s><s coords="6,171.89,510.20,352.46,10.70;6,70.94,523.16,453.17,10.70;6,70.94,536.12,123.07,10.70">The RS4 group are starches that have been chemically-modified and includes starches that have been etherised, esterified or cross linked with chemicals in such a manner as to decrease their digestibility.</s><s coords="6,198.45,536.12,325.49,10.70;6,70.94,549.08,237.55,10.70">Thus, the novel ingredient and E1413 are both RS4 starches and their specification gives the phosphorus content as &lt;0.4 %.</s></p><p><s coords="6,70.94,573.11,169.51,10.70;6,240.41,577.37,3.48,6.74;6,243.89,573.11,7.97,10.70;6,251.81,577.37,6.96,6.74;6,258.77,573.11,7.97,10.70;6,266.69,577.37,3.48,6.74;6,270.17,573.11,28.20,10.70;6,298.37,577.37,3.48,6.74;6,301.85,573.11,7.97,10.70;6,309.77,577.37,3.48,6.74;6,313.25,573.11,7.97,10.70;6,321.19,577.37,3.48,6.74;6,324.67,573.11,3.68,10.70;6,328.39,577.37,3.48,6.74;6,331.87,573.11,14.09,10.70;6,345.91,577.37,3.48,6.74;6,349.39,573.11,31.93,10.70;6,381.31,577.37,3.48,6.74;6,384.79,573.11,7.97,10.70;6,392.71,577.37,3.48,6.74;6,396.19,573.11,7.97,10.70;6,404.11,577.37,3.48,6.74;6,407.59,573.11,17.82,10.70;6,425.35,577.37,3.48,6.74;6,428.83,573.11,7.97,10.70;6,436.75,577.37,3.48,6.74;6,440.23,573.11,84.19,10.70;6,70.94,586.07,348.40,10.70">The molecular formula of PDP is (C 6 H 10 O 5 )n [(C 6 H 9 O 5 ) 2 PO 2 H]x[(C 6 H 9 O 5 )PO 3 H 2 ]y; where; n = the number of glucose units linked together; x and y = the degrees of substitution.</s><s coords="6,422.34,586.07,101.65,10.70;6,70.94,599.03,405.73,10.70">The molecular weights are 50,000,000 for the amylopectin and 200,000 for the amylose (before cross-linking).</s><s coords="6,481.22,599.03,43.20,10.70;6,70.94,611.99,257.32,10.70">The CAS Number for phosphated distarch phosphate is 11120-02-8.</s></p><p><s coords="6,70.94,635.99,349.60,10.70">The novel ingredient takes the form of a white or nearly white powder.</s><s coords="6,426.30,635.99,98.01,10.70;6,70.94,648.95,453.47,10.70;6,70.94,661.91,453.17,10.70;6,70.94,674.87,261.67,10.70">The novel ingredient composition consists of covalently linked dietary fibre (≥70 %, as measured by the appropriate AOAC method), starch <ref type="bibr" coords="6,143.86,661.91,37.73,10.70">(7-14 %)</ref>, water (10-14 %), lipids (0.8 %), proteins (0.8 %) and phosphorus residues (≤0.4 %, mainly covalently bound to the starch molecules).</s></p><p><s coords="6,70.94,698.87,453.52,10.70;6,70.94,711.83,404.47,10.70">The purity criteria for E1413 phosphated distarch phosphate, when used as a food additive, are laid out in Directive 2000/63/EC <ref type="bibr" coords="6,202.58,711.83,49.86,10.70" target="#b27">(EC, 2000)</ref> and the Food and Chemical Codex <ref type="bibr" coords="6,416.18,711.83,54.48,10.70" target="#b38">(FCC, 2003)</ref>.</s><s coords="6,478.88,711.83,45.55,10.70;6,70.94,724.79,453.19,10.70;6,70.94,737.77,430.45,10.70">The novel ingredient complies with the purity criteria of E1413, and the applicant has adopted additional specifications in accordance with the Association of Official Analytical Chemists (AOAC).</s><s coords="6,506.66,737.77,17.26,10.70;6,70.94,750.73,259.57,10.70">The specification of the novel ingredient is outlined in Table <ref type="table" coords="6,322.24,750.73,4.14,10.70" target="#tab_0">1</ref>.</s><s coords="7,70.94,698.03,453.18,10.70;7,70.94,710.99,107.88,10.70">The analytical results for five batches of PDP have been provided by the applicant and are all within specification (Table <ref type="table" coords="7,166.71,710.99,4.04,10.70" target="#tab_2">2</ref>).</s><s coords="7,183.86,710.99,272.40,10.70">The analyses were performed by an accredited laboratory.</s><s coords="7,461.30,710.99,62.77,10.70;7,70.94,723.95,453.74,10.70;7,70.94,736.93,294.90,10.70">The applicant determined the residual (bound) phosphorus using the JECFA method described in the Compendium of Food Additive Specifications for Modified Starch <ref type="bibr" coords="7,306.09,736.93,55.00,10.70" target="#b37">(FAO, 1997)</ref>.</s><s coords="8,70.94,588.95,453.63,10.70;8,70.94,601.91,112.33,10.70">The applicant provided analyses of contaminants on one batch of the novel ingredient carried out by an accredited laboratory.</s><s coords="8,187.35,601.91,336.59,10.70;8,70.94,614.87,447.44,10.70">The following contaminants were not detected above the detection limits: lead, cadmium, mercury, arsenic, aflatoxins B1, B2, G1 and G2, ochratoxin A and pesticide residues.</s></p><p><s coords="8,70.94,638.87,453.21,10.70;8,70.94,651.83,453.12,10.70;8,70.94,664.79,453.09,10.70;8,70.94,677.75,276.25,10.70">On a quarterly basis, the applicant carries out routine analyses of the raw starting material (unmodified high amylose maize) and the finished product, including pesticide residues (e.g., organochlorine, organophosphorus, pyrethroid, and miscellaneous pesticides), heavy metals, mycotoxins, nitrosamines, and microbiological contamination.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Effect of the production process applied to the NF</head><p><s coords="8,70.94,732.50,453.56,10.93;8,70.94,745.69,251.72,10.70">According to the applicant, the production process is not a "novel" food production method per se, but the novelty lies in the specific raw material used.</s><s coords="8,327.46,745.69,196.84,10.70;8,70.94,758.65,453.07,10.70;9,70.94,76.95,453.36,10.70;9,70.94,89.91,96.95,10.70">The usual level of amylose in commercial sources of starches is 17-25 % with the rest being amylopectin, whereas the starting material for the production of the novel ingredient is derived from high amylose maize grains, with a defined ratio of amylose:amylopectin.</s><s coords="9,171.25,89.91,353.21,10.70;9,70.94,102.87,453.27,10.70;9,70.94,115.83,132.28,10.70">Thus, while the production processes used to produce the novel ingredient and the PDP additive (E1413) are similar, the maize varieties used as starting materials may differ in their amylose:amylopectin content.</s></p><p><s coords="9,70.94,139.83,453.27,10.70;9,70.94,152.79,162.66,10.70">The first stage of the production process consists of milling the high amylose maize grains using corn wet milling to obtain a starch slurry.</s><s coords="9,236.72,152.79,287.56,10.70;9,70.94,165.75,324.05,10.70">This is mixed with a re-slurry of high amylose starch in water to obtain the starting material for the production of the novel ingredient.</s><s coords="9,399.30,165.75,125.14,10.70;9,70.94,178.71,453.37,10.70;9,70.94,191.67,387.91,10.70">A combination of chemical treatments to induce specific degrees of esterification and cross-linking is then applied to this unmodified starch material to reduce its digestibility and obtain the novel ingredient.</s><s coords="9,462.69,191.67,61.69,10.70;9,70.94,204.63,453.75,10.70;9,70.94,217.59,99.60,10.70;9,170.66,215.25,3.48,6.74;9,178.46,217.59,345.58,10.70;9,70.94,230.55,31.59,10.70">The applicant notes that the novel ingredient is produced using the reagents listed within the purity criteria of monoand distarch additives <ref type="foot" coords="9,170.66,215.25,3.48,6.74" target="#foot_1">5</ref> and thus, meets the existing specification for modified starch food additive E1413.</s></p><p><s coords="9,70.94,254.58,453.48,10.70;9,70.94,267.54,169.43,10.70">The production of the novel ingredient is carried out in accordance with Hazard Analysis Critical Control Point (HACCP) procedures.</s><s coords="9,246.01,267.54,277.97,10.70;9,70.94,280.50,453.19,10.70;9,70.94,293.46,187.91,10.70">The applicant states that any impurities resulting from the production process will be detected through routine microbiological and mycotoxin testing undertaken at the manufacturing premises.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stability</head><p><s coords="9,70.94,342.42,452.92,10.70;9,70.94,355.38,453.04,10.70;9,70.94,368.34,372.11,10.70">Stability testing has not been carried out on the novel ingredient but the applicant has given a typical shelf-life of 720 days for PDP which coincides with the standard "best before date" for starch (24 months from the date of manufacture), set by the European Starch Industry in 1997.</s><s coords="9,445.93,368.34,78.37,10.70;9,70.94,381.30,299.51,10.70">The applicant has not provided data examining stability in the intended food matrices.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">History of the organism used as the source</head><p><s coords="9,70.94,436.28,453.30,10.70;9,70.94,449.24,239.06,10.70;9,310.13,446.90,3.48,6.74;9,313.61,449.24,2.76,10.70">The maize grains are obtained from two proprietary non-GM maize hybrids specifically grown for the applicant, the name of which were provided to EFSA <ref type="foot" coords="9,310.13,446.90,3.48,6.74" target="#foot_2">6</ref> .</s><s coords="9,319.59,449.24,204.66,10.70;9,70.94,462.20,317.58,10.70">The maize grains contain high amylose starch granules that are not broken down at normal cooking temperatures.</s><s coords="9,393.67,462.20,130.35,10.70;9,70.94,475.16,453.41,10.70;9,70.94,488.12,181.34,10.70">This also makes them more resistant to digestion by amylase in the human small intestine; they are therefore an appropriate source of starch for the novel ingredient.</s><s coords="9,255.28,488.12,268.91,10.70;9,70.94,501.08,261.28,10.70">The applicant has indicated that new hybrids may be used in the future if they have improved agronomic characteristics.</s></p><p><s coords="9,70.94,525.08,453.39,10.70;9,70.94,538.04,68.37,10.70">The Panel notes that there is a substantial history of consumption of "conventional" maize starch in the human diet.</s><s coords="9,142.07,538.04,382.06,10.70;9,70.94,551.00,166.74,10.70">According to the applicant, there is a history of consumption of these maize hybrids in food products since the early 1960's.</s><s coords="9,241.41,551.00,282.55,10.70;9,70.94,563.96,58.40,10.70;9,129.38,561.62,5.29,6.74;9,137.42,563.96,346.44,10.70">The applicant indicated that these hybrids are used to produce the Hi-Maize ® product, which is a Resistant Starch Type 2 used in a variety of food products.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Anticipated intake/extent of the use of the NF</head><p><s coords="9,70.94,618.95,452.96,10.70;9,70.94,631.91,453.19,10.70">The applicant is proposing to market the novel ingredient as a replacement for part of the digestible unmodified starch provided by food ingredients such as flour in low moisture food products (e.g.</s><s coords="9,70.94,644.87,453.49,10.70;9,70.94,657.83,355.38,10.70">bread and bakery products, breakfast cereals, pasta and noodles, snacks and breadings), in order to increase dietary fibre content of those foods and consumption of resistant fibres.</s><s coords="10,70.94,791.77,123.59,9.65">EFSA Journal 2010; 8(9):1772</s></p><p><s coords="10,70.94,76.95,452.94,10.70;10,70.94,89.91,453.08,10.70;10,70.94,102.87,453.43,10.70;10,70.94,115.83,145.15,10.70">The maximum use level of 15 % novel ingredient is intended to be added to the following foods: batters and bread crumbs, sweet biscuits, cakes and muffins, pizza dough, breakfast cereals, nutritional and energy bars, savoury biscuits, crackers and non extruded snacks, canned pasta and pasta contained in ready meals.</s><s coords="10,220.55,115.83,303.40,10.70;10,70.94,128.79,77.62,10.70">The level of phosphorus from the novel ingredient in these foods would be 0.06 %.</s></p><p><s coords="10,70.94,152.79,452.98,10.70;10,70.94,165.75,453.30,10.70;10,70.94,178.71,239.62,10.70">Based on these proposed use levels, the applicant has estimated the anticipated daily intake of the novel ingredient and its residual (bound) phosphorus for different population groups, using data from the UK National Diet and Nutrition Surveys (NDNS).</s><s coords="10,313.58,178.71,210.49,10.70;10,70.94,191.67,408.66,10.70">These surveys covered young children aged 1.5 to <ref type="bibr" coords="10,82.34,191.67,69.57,10.70">4.5 (1992-1993)</ref>, young people aged 4 to 18 (1997) and adults aged 16 to 64 <ref type="bibr" coords="10,421.74,191.67,24.11,10.70">(2000)</ref><ref type="bibr" coords="10,450.67,191.67,24.11,10.70">(2001)</ref>.</s></p><p><s coords="10,70.94,215.67,452.92,10.70;10,70.94,228.63,453.15,10.70;10,70.94,241.62,97.87,10.70;10,168.86,239.25,5.40,6.74;10,178.22,241.62,346.00,10.70;10,70.94,254.58,44.35,10.70">The applicant has indicated that the mean daily intake values of the novel ingredient for users of the product range between 4.9 and 9.0 g/person (equivalent to 0.07 and 0.17 g/kg bw respectively) and for high consumers (97.5 th percentile) from 14.2 to 25.3 g/person (0.22 and 0.53 g/kg bw respectively) (Table <ref type="table" coords="10,103.30,254.58,4.00,10.70" target="#tab_3">3</ref>).</s><s coords="10,118.64,254.58,405.29,10.70;10,70.94,267.54,317.26,10.70;10,388.51,265.20,5.40,6.74;10,397.15,267.54,127.50,10.70;10,70.94,280.50,327.08,10.70">The mean daily intakes of phosphorus from the novel ingredient would range from 19.4 to 36.2 mg/person (0.29 and 0.68 mg/kg bw respectively) and at the 97.5 th percentile would range from 56.9 to 101.1 mg/person (0.87 and 2.11 mg/kg bw respectively) (Table <ref type="table" coords="10,386.01,280.50,4.00,10.70" target="#tab_4">4</ref>).</s><s coords="10,70.94,572.39,453.42,10.70;10,70.94,585.35,453.42,10.70;10,70.94,598.31,453.60,10.70;10,70.94,611.27,43.76,10.70">On a body weight basis, the highest estimated intake of the novel ingredient is in children aged 1½ to 4½ years (mean: 0.38 g/kg bw per day, high level: 1.09 g/kg bw per day) (Table <ref type="table" coords="10,474.38,585.35,4.60,10.70" target="#tab_3">3</ref>) and the corresponding phosphorus intake 1.54 mg/kg bw per day and 4.37 mg/kg bw per day respectively (Table <ref type="table" coords="10,102.70,611.27,4.00,10.70" target="#tab_4">4</ref>).</s></p><p><s coords="10,70.94,635.27,117.59,10.70;10,188.66,632.93,5.40,6.74;10,197.33,635.27,326.74,10.70;10,70.94,648.23,453.25,10.70;10,70.94,661.19,38.35,10.70">The estimates for the 97.5 th percentile for each group are "worst case" intakes that would be reached if the incorporation of the novel ingredient was at the maximum level in all staple "starchy" foods targeted.</s></p><p><s coords="10,70.94,685.19,453.40,10.70;10,70.94,698.15,453.49,10.70;10,70.94,711.11,379.08,10.70">The UK Advisory Committee on Novel Foods and Processes (ACNFP) noted that the estimated intake of the novel ingredient was within the range of PDP intake tolerated in clinical studies (1 g/kg bw per day, <ref type="bibr" coords="10,93.73,711.11,90.21,10.70" target="#b58">Pieters et al., 1971)</ref> with the exception of high-level intake in small children.</s><s coords="10,454.11,711.11,70.13,10.70;10,70.94,724.07,452.98,10.70;10,70.94,737.05,453.49,10.70;10,70.94,750.01,36.84,10.70">The Committee concluded that while there is a degree of conservatism in the calculation of the intake estimates, the potential for high levels of intake by young children requires careful consideration (see section <ref type="bibr" coords="10,70.94,750.01,32.74,10.70">8.4.1.2)</ref>.</s><s coords="11,70.94,791.77,123.59,9.65">EFSA Journal 2010; 8(9):1772</s></p><p><s coords="11,70.94,76.95,453.02,10.70;11,70.94,89.91,162.98,10.70">The applicant has not included background sources of resistant starch, other modified starches or phosphorus in the intake assessment.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Information from previous exposure to the NF or its source</head><p><s coords="11,70.94,414.20,453.06,10.70;11,70.94,427.16,237.03,10.70">The applicant reports that British adults consume 150 g of unmodified starches per day, which represents 24 % of their daily energy <ref type="bibr" coords="11,237.00,427.16,66.19,10.70" target="#b23">(COMA, 1991)</ref>.</s></p><p><s coords="11,70.94,451.16,453.07,10.70;11,70.94,464.12,452.96,10.70;11,70.94,476.85,172.65,10.93">According to Directive 95/2/EC (EC, 1995) now superseded by Directive 1333/2008/EC (EC, 2008), the food additive E1413 is generally permitted for use in foodstuffs (with specific exceptions) following the quantum satis principle.</s><s coords="11,247.33,477.08,276.95,10.70;11,70.94,490.04,275.79,10.70">The applicant has indicated that E1413 is currently used as a freeze-thaw-stable thickener in a range of food products (e.g.</s><s coords="11,350.20,490.04,173.74,10.70;11,70.94,503.00,71.51,10.70">gravies, sauces, fruit fillings, soups) at levels of 2-5 %.</s><s coords="11,146.04,503.00,378.05,10.70;11,70.94,515.96,282.63,10.70">The applicant has provided information showing that the estimated intake of E1413 from these foods is up to 420 mg/day for a UK high consumer.</s><s coords="11,356.69,515.96,167.81,10.70;11,70.94,528.92,345.53,10.70">The use of the novel ingredient could thus lead to up to a 50-fold increase in intake of PDP as a worst case scenario.</s></p><p><s coords="11,70.94,552.92,453.50,10.70;11,70.94,565.91,453.03,10.70;11,70.94,578.87,453.14,10.70;11,70.94,591.83,51.20,10.70">Modified Resistant Starch Type 4 (RS4) products, derived from wheat, potatoes and high amylose maize, have been marketed and added as ingredients to food products at levels of 2.0 to 6.0 % in countries outside the EU, e.g. in Australia since 1994, Japan since 1995 and Canada and the USA since 2003.</s><s coords="11,125.74,591.83,226.25,10.70">The applicant did not manufacture these products.</s><s coords="11,355.49,591.83,168.80,10.70;11,70.94,604.79,284.07,10.70">No information has been provided on intake levels, numbers of consumers or reported adverse effects.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Nutritional information on the NF</head><p><s coords="11,70.94,659.75,453.11,10.70;11,70.94,672.71,308.53,10.70">The novel ingredient is intended for use in a range of foods where it would replace part of the digestible unmodified starch provided by ingredients such as flour.</s><s coords="11,384.06,672.71,140.36,10.70;11,70.94,685.67,341.12,10.70">The principal use of the novel ingredient proposed by the applicant would be as a source of dietary fibre.</s><s coords="11,415.80,685.67,108.48,10.70;11,70.94,698.63,453.35,10.70;11,70.94,711.59,452.93,10.70">Due to its high amylose content )and chemical modifications, the novel ingredient is partially resistant to digestion within the small intestine the majority passing through to the large intestine where it is metabolised by bacteria.</s><s coords="11,70.94,724.55,453.39,10.70;11,70.94,737.53,142.94,10.70">The energy content (or metabolisable energy) of the novel ingredient can be estimated to be about 2 kcal/g of product (EFSA, 2010).</s><s coords="12,70.94,791.77,123.59,9.65">EFSA Journal 2010; 8(9):1772</s></p><p><s coords="12,70.94,76.95,387.22,10.70">No data on digestibility of the novel ingredient obtained from animals are available.</s><s coords="12,462.25,76.95,61.94,10.70;12,70.94,89.68,324.41,10.93">The applicant provided information on the digestibility of the novel ingredient in vitro.</s><s coords="12,398.34,89.91,125.96,10.70;12,70.94,102.87,453.26,10.70;12,70.94,115.83,429.84,10.70">When submitted to "Englyst Digestion" <ref type="bibr" coords="12,123.81,102.87,108.00,10.70">(Englyst method (1996)</ref>, controlled enzymatic hydrolysis with pancreatic amylase and amyloglucosidase at 37°C), 8 % of the uncooked novel ingredient is digested after four hours.</s><s coords="12,504.52,115.83,19.76,10.70;12,70.94,128.79,223.55,10.70">This rises to 30 % when the novel ingredient is cooked.</s><s coords="12,297.25,128.79,226.98,10.70;12,70.94,141.75,186.58,10.70">The equivalent figures for unmodified maize starch are 85 % (uncooked) and 95 % (cooked).</s><s coords="12,260.99,141.75,263.33,10.70;12,70.94,154.71,453.22,10.70;12,70.94,167.67,453.32,10.70;12,70.94,180.63,314.96,10.70">The rest of the novel ingredient (70 %-92 %) is, like other complex carbohydrates that survive passage to the large intestine, expected to be fermented by bacteria in the large intestine, producing short chain fatty acids (SCFA) such as acetate, propionate and butyrate and gases such as carbon dioxide, hydrogen and methane.</s><s coords="12,388.90,180.63,135.13,10.70;12,70.94,193.59,453.27,10.70;12,70.94,206.32,453.48,10.93;12,70.94,219.51,140.31,10.70">The applicant commissioned a comparative study of the novel ingredient and Resistant Starch Type 2 high amylose maize starch fermentability through an in vitro batch fermentation culture assay using human faecal flora (O" <ref type="bibr" coords="12,86.13,219.51,120.46,10.70">Grady, 2007, unpublished)</ref>.</s><s coords="12,215.92,219.51,308.29,10.70;12,70.94,232.47,453.49,10.70;12,70.94,245.46,453.41,10.70">After 24-h, both starches were similarly fermented and resulted in accumulation of acetate, propionate and butyrate (The relative acetate:propionate:butyrate (mM) ratios were 43/16/16 for RS2 vs. 30/11/16 for the novel ingredient); numbers of bacteria (e.g.</s><s coords="12,70.94,258.42,452.96,10.70;12,70.94,271.38,70.95,10.70">bifidobacteria, lactobacilli and atopobia) were slightly higher in the RS2 starch culture (differences of 0.5 log or less).</s><s coords="12,145.49,271.38,378.68,10.70;12,70.94,284.34,85.74,10.70">RS2 category resistant starches are protected from digestion by the conformation of the starch granules.</s><s coords="12,159.44,284.34,241.16,10.70">High amylose starch is a particular type of RS2 starch.</s></p><p><s coords="12,70.94,308.34,453.05,10.70;12,70.94,321.30,453.62,10.70;12,70.94,334.26,443.65,10.70">According to the applicant, the SCFA and a small amount of the gases are absorbed through the large intestine walls and a small amount of the unfermented novel ingredient is excreted in the faeces along with the majority of the gases created during the novel ingredient fermentation in the large intestine.</s></p><p><s coords="12,70.94,358.26,453.43,10.70;12,70.94,371.22,341.42,10.70">Based on the information provided on the composition and the proposed use level, the Panel considers the consumption of the novel ingredient as not nutritionally disadvantageous.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Microbiological information on the NF</head><p><s coords="12,70.94,426.20,453.30,10.70;12,70.94,439.16,453.23,10.70;12,70.94,452.12,269.10,10.70">The manufacturing process for the novel ingredient is controlled through HACCP procedures and the microbiological quality of the novel ingredient has been defined in its specification, which sets limits for a number of undesirable and pathogenic microorganisms.</s></p><p><s coords="12,70.94,476.12,420.18,10.70">The Panel accepts that the production process does not give cause for microbiological concern.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.">Toxicological information on the NF</head><p><s coords="12,70.94,531.08,453.17,10.70;12,70.94,544.04,453.05,10.70;12,70.94,557.00,60.96,10.70">The safety of the novel ingredient has been evaluated by the applicant on the basis of toxicological studies performed with two phosphated distarch phosphates, though not on the PDP that is the subject under review.</s><s coords="12,134.87,557.00,278.11,10.70">In addition, information on other forms of modified starch e.g.</s><s coords="12,415.84,557.00,108.29,10.70;12,70.94,569.99,453.43,10.70">monostarch and distarch phosphates, prepared using similar processes as for the novel ingredient, was taken into consideration.</s><s coords="12,70.94,582.95,453.64,10.70;12,70.94,595.91,87.50,10.70">Monostarch phosphate is esterified only (no cross-links) and distarch phosphate is cross-linked only (and not esterified).</s><s coords="12,161.32,595.91,362.65,10.70;12,70.94,608.87,453.17,10.70;12,70.94,621.83,56.15,10.70">Monostarch phosphate shares the same specification for residual phosphate as the novel ingredient, i.e. a maximum level of 0.4 %, which was set for cereal starches in Directive 2000/63/EC.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.1.">Absorption, Distribution, Metabolism and Excretion (ADME)</head><p><s coords="12,70.94,676.79,446.13,10.70">The information on the digestibility and metabolism of the novel ingredient is discussed in section 6.</s></p><p><s coords="12,70.94,700.79,453.08,10.70;12,70.94,713.75,162.50,10.70">No information was provided as regards the absorption of phosphates released after colonic fermentation of the novel ingredient.</s></p><p><s coords="13,70.94,194.79,302.20,10.70">No acute oral toxicity studies are available for the novel ingredient.</s><s coords="13,376.26,194.79,148.03,10.70;13,70.94,207.75,453.63,10.70;13,70.94,220.71,453.38,10.70;13,70.94,233.67,58.30,10.70">The applicant has referred to two acute studies with distarch phosphate, a modified starch prepared through cross-linking with sodium trimetaphosphate or phosphorus oxychloride, using mice, rats, guinea pigs, rabbits and cats <ref type="bibr" coords="13,488.60,220.71,35.73,10.70;13,70.94,233.67,19.87,10.70" target="#b45">(Hodge, 1954</ref><ref type="bibr" coords="13,100.70,233.67,23.79,10.70" target="#b46">(Hodge, , 1956))</ref>.</s><s coords="13,134.16,233.67,120.34,10.70;13,254.57,237.93,6.96,6.74;13,266.33,233.67,257.89,10.70;13,70.94,246.66,34.77,10.70">These tests gave high LD 50 values of between 7 and 35 g/kg bw depending on the species.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.3.2.">Short-term studies</head><p><s coords="13,70.94,301.62,453.21,10.70;13,70.94,314.58,453.16,10.70;13,70.94,327.54,109.73,10.70">The applicant has referred to seven short-term studies, including subchronic studies in rats and dogs, carried out on PDP (though not on the PDP that is the subject under review) and/or distarch phosphate between 1963 and 1973.</s><s coords="13,184.02,327.54,340.35,10.70;13,70.94,340.50,301.57,10.70">The studies were carried out with doses ranging from 0.2 % to 45 % of diet and durations between 10 and 90 days, using rats, pigs and dogs.</s><s coords="13,376.61,340.50,147.75,10.70;13,70.94,353.46,303.28,10.70">These short-term studies did not reveal any significant adverse effects even at high dietary levels.</s><s coords="13,378.92,353.46,145.36,10.70;13,70.94,366.42,453.01,10.70;13,70.94,379.38,223.63,10.70">Caecal enlargement in rats was observed at high intakes but without associated histopathological effects and this is considered to be an adaptive effect without toxicological relevance.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.3.3.">Chronic studies</head><p><s coords="13,70.94,434.36,452.97,10.70;13,70.94,447.32,453.14,10.70;13,70.94,460.28,453.52,10.70;13,70.94,473.24,94.24,10.70">The applicant provided the preliminary report (not containing the results of the histological examinations) of a 104-week chronic study on albino rats fed diets containing various modified starches including PDP at 0, 5, 10 and 30 % in the diet to groups of 30 rats/sex (de <ref type="bibr" coords="13,470.04,460.28,54.43,10.70;13,70.94,473.24,89.48,10.70" target="#b25">Knecht-Van Eekelen et al., 1971)</ref>.</s><s coords="13,168.05,473.24,356.46,10.70">This corresponded to doses of approximately 5, 10 and 30 g PDP/kg bw per day.</s></p><p><s coords="13,70.94,486.20,453.67,10.70;13,70.94,499.16,450.01,10.70;13,521.02,496.82,3.48,6.74;13,70.94,512.12,242.27,10.70">The PDP was prepared through the cross-linking of unmodified maize starch with sodium trimetaphosphate (up to 0.04 % introduced phosphorus) and esterified with sodium tripolyphosphate <ref type="foot" coords="13,521.02,496.82,3.48,6.74" target="#foot_3">7</ref>(up to a total content of 0.35 % bound phosphorus).</s><s coords="13,317.52,512.12,206.43,10.70;13,70.94,525.08,453.20,10.70">An unmodified maize starch was used as the control material and to supplement the different diets in order to obtain the same total starch content.</s><s coords="13,70.94,538.04,453.00,10.70;13,70.94,551.00,172.38,10.70">General condition, behaviour, mortality, body weights, feed consumption and feed efficiency were comparable in test and control groups.</s><s coords="13,246.70,551.00,109.92,10.70">Diarrhoea did not occur.</s><s coords="13,359.96,551.00,164.46,10.70;13,70.94,563.96,452.99,10.70">Haematology, clinical-chemistry and urine analyses did not reveal consistent changes related to the administration of the test material.</s></p><p><s coords="13,70.94,576.95,453.15,10.70;13,70.94,589.91,453.41,10.70;13,70.94,602.87,245.17,10.70">Relative organ weights were comparable with those of the controls except for statistically significantly decreased spleen weights of male rats and increased spleen and kidney weights of female rats, when consuming the highest dose of test material.</s><s coords="13,319.22,602.87,204.71,10.70;13,70.94,615.83,298.23,10.70">It was reported that these differences in organ weight were not associated with any gross pathological findings.</s><s coords="13,373.52,615.83,150.38,10.70;13,70.94,628.79,42.56,10.70">No effect on caecal weights was observed.</s></p><p><s coords="13,70.94,652.79,453.08,10.70;13,70.94,665.75,371.48,10.70">According to the evaluation by the Joint FAO/WHO Expert Committee on Food Additives (JECFA), the histological examinations did not show any distinct compound-related changes.</s><s coords="13,445.54,665.75,78.74,10.70;13,70.94,678.71,181.60,10.70">The study did not reveal any indication of carcinogenicity.</s><s coords="13,256.13,678.71,268.17,10.70;13,70.94,691.67,453.49,10.70;13,70.94,704.63,360.64,10.70">In comparison with the controls, males fed PDP at 30 % in the diet showed a slightly increased degree and incidence of focal hyperplasia of the renal papillary and pelvic epithelium, accompanied by calcified patches of the underlying tissue.</s><s coords="13,434.35,704.63,89.72,10.70;13,70.94,717.59,453.03,10.70;14,70.94,791.77,123.59,9.65;14,70.94,76.95,224.67,10.70">The hyperplasic and calcified tissues often protruded into the renal pelvis and were localised most often in the papilla near EFSA Journal 2010; 8(9):1772 the junction of the papillary and pelvic epithelium.</s><s coords="14,298.38,76.95,225.64,10.70;14,70.94,89.91,453.35,10.70;14,70.94,102.87,216.82,10.70">This lesion was seen to a slight or moderate degree in both sexes at most dose levels as well as in the controls but was more pronounced and of higher occurrence in males at the highest dose level.</s><s coords="14,292.91,102.87,230.97,10.70;14,70.94,115.83,453.07,10.70;14,70.94,128.79,453.19,10.70">On the basis of a review of this type of mineral deposition in the renal pelvis of rats <ref type="bibr" coords="14,251.69,115.83,116.00,10.70">(Roe, 1979, unpublished)</ref>, the JECFA considered that the observed kidney lesion was associated with imbalances of Ca/P and Mg in the diet <ref type="bibr" coords="14,448.34,128.79,71.02,10.70">(JECFA, 1982a)</ref>.</s><s coords="14,70.94,141.75,453.42,10.70;14,70.94,154.71,453.33,10.70;14,70.94,167.67,386.17,10.70">The Scientific Committee on Food (SCF) of the European Commission also considered the evidence on the appearance and mechanism of formation of pelvic nephrocalcinosis associated with consumption of PDP and other modified starches in its opinion on modified starches.</s><s coords="14,460.72,167.67,63.29,10.70;14,70.94,180.63,453.03,10.70;14,70.94,193.59,64.24,10.70">The incidence apparently increased with the degree of substitution of the starch and with the age of animals when first exposed.</s><s coords="14,142.52,193.59,276.20,10.70">The rat appeared to be a particularly sensitive species.</s><s coords="14,425.91,193.59,98.42,10.70;14,70.94,206.55,452.99,10.70;14,70.94,219.51,336.51,10.70">Slow degradation of carbohydrates in the upper intestine led to the formation of absorbable breakdown products in the lower intestine, which was associated with enhanced calcium absorption.</s><s coords="14,411.88,219.51,112.07,10.70;14,70.94,232.47,453.12,10.70;14,70.94,245.46,133.11,10.70">The SCF concluded that these findings were peculiar for the rat and had little relevance for the safety assessment of modified starches for man (SCF, 1982).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.3.4.">Developmental and reproductive studies</head><p><s coords="14,70.94,300.42,453.04,10.70;14,70.94,313.38,453.14,10.70;14,70.94,326.34,146.13,10.70">A 3-generation reproduction study was carried out starting with groups of ten male and twenty female rats fed diets containing 10 % of various modified starches, including PDP derived from maize <ref type="bibr" coords="14,496.47,313.38,27.61,10.70;14,70.94,326.34,42.28,10.70">(Til et al., 1971;</ref><ref type="bibr" coords="14,116.86,326.34,95.45,10.70" target="#b24">de Groot et al., 1974)</ref>.</s><s coords="14,220.54,326.34,303.40,10.70;14,70.94,339.30,193.02,10.70">The PDP as well as the unmodified starch used as the control were the same materials as in the chronic study.</s><s coords="14,267.56,339.30,256.90,10.70;14,70.94,352.26,452.97,10.70;14,70.94,365.22,136.31,10.70">The rats (P1, F1 and F2 generation) were mated at week twelve and week twenty post weaning with the second litter of each additional generation used to produce the next generation.</s><s coords="14,213.48,365.22,310.68,10.70;14,70.94,378.18,453.21,10.70;14,70.94,391.14,43.16,10.70">In animals fed PDP no adverse effects were observed regarding appearance, behaviour, body weights, fertility, litter size, resorption quotient, pup weights and mortality.</s><s coords="14,117.57,391.14,406.49,10.70;14,70.94,404.12,36.44,10.70">The caecal weights were not affected, except for F1 parent males (increased filled caecum weight).</s><s coords="14,111.57,404.12,262.42,10.70">Increased spleen weights were observed for F3b females.</s><s coords="14,378.07,404.12,145.94,10.70;14,70.94,417.08,417.49,10.70">In gross examinations of the F3 generation rats no pathological changes attributable to the test material were observed.</s><s coords="14,494.32,417.08,29.58,10.70;14,70.94,430.04,453.00,10.70;14,70.94,443.00,32.34,10.70">It was concluded that administration of none of these modified starches was associated with reproductive effects.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.3.5.">Previous evaluations</head><p><s coords="14,70.94,497.96,453.21,10.70;14,70.94,510.92,453.17,10.70;14,70.94,523.88,192.38,10.70">On the basis of the studies described in the previous sections, JECFA in assessing the safety of PDP concluded that the available short-term studies in the rat, dog and pig do not reveal any significant adverse effects even at high dietary levels.</s><s coords="14,270.53,523.88,253.89,10.70;14,70.94,536.84,453.00,10.70;14,70.94,549.80,108.95,10.70">The available evidence for modified starches as a group indicates that caecal enlargement without associated histopathological changes is without toxicological relevance.</s><s coords="14,186.03,549.80,338.04,10.70;14,70.94,562.76,453.20,10.70;14,70.94,575.75,452.97,10.70;14,70.94,588.71,35.73,10.70">The long term and reproductive studies in the rat did not reveal any significant effects except for a slight increase in the incidence of renal focal hyperplasia and mineral deposit (at higher doses) which were considered to be associated with imbalances of Ca/P and Mg in the diet.</s><s coords="14,109.43,588.71,374.09,10.70">The JECFA did not derive a numerical ADI ("ADI not specified"<ref type="foot" coords="14,398.35,586.37,3.48,6.74" target="#foot_4">8</ref> ) (JECFA, 1982a).</s></p><p><s coords="14,70.94,625.67,453.26,10.70;14,70.94,638.63,453.09,10.70;14,70.94,651.59,442.62,10.70">The SCF also accepted PDP (as well as several other types of modified starches, including monostarch phosphate and distarch phosphate) for use in food and considered it unnecessary to establish individual ADIs provided technological usage remained at present-day levels <ref type="bibr" coords="14,456.15,651.59,52.66,10.70">(SCF, 1982)</ref>.</s><s coords="15,70.94,791.77,123.59,9.65;15,70.94,76.95,453.38,10.70;15,70.94,89.91,373.28,10.70">EFSA Journal 2010; 8(9):1772 However as indicated above, the estimated intake of the novel ingredient could be up to 50 times higher than the estimated intake resulting from current food additive uses in the UK.</s><s coords="15,70.94,212.79,453.48,10.70;15,70.94,225.75,453.38,10.70;15,70.94,238.74,60.57,10.70">In response to UK ACNFP questions concerning possible effects of the novel ingredient in diabetics, the applicant commissioned a study in healthy non-diabetic adults <ref type="bibr" coords="15,410.63,225.75,113.69,10.70;15,70.94,238.74,55.91,10.70">(Ellis and Frost, 2007, unpublished)</ref>.</s><s coords="15,136.54,238.74,387.90,10.70;15,70.94,251.70,453.18,10.70;15,70.94,264.66,116.47,10.70">Eleven fasted subjects were fed biscuits containing the novel ingredient at various levels <ref type="bibr" coords="15,100.08,251.70,68.36,10.70">(6.8, 13.6, 20.4</ref> or 27.1 %) vs. control biscuits; the glycaemic response was measured over the subsequent 2-hour period.</s><s coords="15,190.88,264.66,333.53,10.70;15,70.94,277.62,145.23,10.70">The presence of the novel ingredient at levels up to 27.1 % in biscuits did not alter the glycaemic response.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.4.1.2.">Intolerance</head><p><s coords="15,70.94,332.58,453.16,10.70;15,70.94,345.54,453.13,10.70;15,70.94,358.50,453.21,10.70;15,70.94,371.46,241.96,10.70">In response to a review article <ref type="bibr" coords="15,213.96,332.58,68.56,10.70" target="#b55">(Nugent, 2005)</ref> on possible intolerance to resistant starch caused by regular high consumption levels, the applicant described a summary report of unpublished human digestibility studies using one unmodified potato starch and five chemically modified starches, including one PDP from maize <ref type="bibr" coords="15,216.64,371.46,91.51,10.70" target="#b58">(Pieters et al., 1971)</ref>.</s><s coords="15,316.98,371.46,207.46,10.70;15,70.94,384.42,453.39,10.70;15,70.94,397.38,128.54,10.70">Ten volunteers completed this 6 week-trial in which they consumed 60 g/day (approximately 1,000 mg/kg bw per day) of one particular starch on 4 consecutive days each week.</s><s coords="15,202.83,397.38,321.10,10.70;15,70.94,410.36,453.18,10.70;15,70.94,423.32,453.30,10.70;15,70.94,436.28,173.80,10.70">The summary report of this study indicates that no adverse effects were reported, the frequency of faeces, faecal water and lactic acid were not affected and the modified starches were well tolerated, although the observations were not separately provided for each of the five kinds of modified starches tested.</s><s coords="15,248.59,436.28,275.42,10.70;15,70.94,449.24,453.07,10.70">One subject showed an abnormally high water percentage in faeces accompanied by an increased lactic acid excretion (modified starch consumed not specified).</s></p><p><s coords="15,70.94,462.20,453.04,10.70;15,70.94,475.16,295.11,10.70">The authors report that on further inquiry, the subject declared that he had been sick one day after a meal containing fish, which apparently was not well tolerated.</s><s coords="15,371.34,475.16,152.60,10.70;15,70.94,488.12,398.33,10.70">The applicant suggested that the <ref type="bibr" coords="15,70.94,488.12,97.35,10.70">Nugent review (2005)</ref> points to an absence of available data rather than specific concerns.</s></p><p><s coords="15,70.94,512.12,453.49,10.70;15,70.94,525.08,432.06,10.70">The Panel notes that this study used one PDP that is different from the novel ingredient under evaluation, which limits the conclusions that can be drawn with regard to the novel ingredient.</s><s coords="15,506.71,525.08,17.26,10.70;15,70.94,538.04,453.28,10.70;15,70.94,551.00,453.56,10.70">The Panel notes, however, that resistant starches (mainly Type 2 and 3) have been shown to have a high laxation threshold in adults, since reports of diarrhoea were rare, even at levels as high as 80 g/day.</s></p><p><s coords="15,70.94,563.96,453.66,10.70;15,70.94,576.95,278.69,10.70">The main side effect, excessive flatulence, is related to colonic fermentation and is significantly greater at intakes above 45 g/day <ref type="bibr" coords="15,219.29,576.95,125.59,10.70" target="#b42">(Grabitske and Slavin, 2009)</ref>.</s></p><p><s coords="15,70.94,600.95,453.37,10.70;15,70.94,613.91,453.41,10.70;15,70.94,626.87,301.35,10.70">The Panel notes that there are relatively few published clinical studies on gastro-intestinal effects of low-digestible carbohydrates in children and adolescents and that these mostly have concerned sugar alcohols <ref type="bibr" coords="15,111.95,626.87,125.65,10.70" target="#b31">(Elia and Cummings, 2007;</ref><ref type="bibr" coords="15,241.71,626.87,125.82,10.70" target="#b42">Grabitske and Slavin, 2009)</ref>.</s><s coords="15,376.37,626.87,147.68,10.70;15,70.94,639.83,453.41,10.70;15,70.94,652.79,39.07,10.70">The applicant suggested that the natural gelling properties of the starch would act to reduce diarrhoea and increase faecal bulk in small children.</s><s coords="15,113.14,652.79,411.36,10.70;15,70.94,665.75,28.55,10.70">Resistant starch has been studied for its role in oral re-hydration therapy <ref type="bibr" coords="15,439.81,652.79,84.69,10.70;15,70.94,665.75,23.79,10.70" target="#b59">(Raghupathy et al., 2006)</ref>.</s><s coords="15,104.76,665.75,419.21,10.70;15,70.94,678.71,453.46,10.70;15,70.94,691.67,153.38,10.70">In children aged six months to three years with acute diarrhoea the addition of amylase resistant starch to glucose oral re-hydration solution significantly shortened the duration of diarrhoea compared with standard treatment.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.4.2.">Effect of phosphorus intake</head><p><s coords="15,70.94,746.65,431.96,10.70">The applicant has provided nine human studies involving the oral administration of phosphate.</s><s coords="15,506.75,746.65,17.26,10.70;15,70.94,759.61,350.94,10.70">The administered doses ranged from 750 mg/day for 7 days to 9.9 g/day for 2 years.</s><s coords="15,424.88,759.61,99.53,10.70;16,70.94,791.77,123.59,9.65;16,70.94,76.95,453.03,10.70;16,70.94,89.91,453.03,10.70;16,70.94,102.87,310.63,10.70">Many of these studies, EFSA Journal 2010; 8(9):1772 especially those with a high dose, were carried out on patients with osteoporosis or idiopathic hypercalcuria and therefore it is possible that these people have calcium and phosphate imbalances that may make them more tolerant of high doses of phosphates.</s><s coords="16,387.33,102.87,136.91,10.70;16,70.94,115.83,453.04,10.70;16,70.94,128.79,91.11,10.70">Clinical blood chemistry and urinalysis were carried out in most of the studies and any subjective side effects reported by the subjects were noted.</s><s coords="16,165.30,128.79,358.65,10.70;16,70.94,141.75,78.65,10.70">The main side effect of phosphate consumption was the occurrence of diarrhoea in many subjects.</s><s coords="16,153.20,141.75,370.72,10.70;16,70.94,154.71,316.88,10.70">In one study <ref type="bibr" coords="16,212.80,141.75,134.36,10.70" target="#b22">(Bernstein and Newton, 1966)</ref>, the rate of recurrence of renal calculi was reported to be reduced by the administration of sodium phosphate.</s><s coords="16,390.95,154.71,133.19,10.70;16,70.94,167.67,453.48,10.70;16,70.94,180.63,453.09,10.70;16,70.94,193.59,184.04,10.70">Studies carried out on healthy subjects with doses of 3 g/day of phosphorus supplemented on top of a standard diet containing 1.7 g phosphorus/day, appeared to show similar incidences of diarrhoea and few effects on bone resorption or bone turnover <ref type="bibr" coords="16,154.51,193.59,95.72,10.70" target="#b43">(Grimm et al., 2001)</ref>.</s><s coords="16,260.02,193.59,264.03,10.70;16,70.94,206.55,453.15,10.70;16,70.94,219.51,452.99,10.70;16,70.94,232.47,321.87,10.70">In a study on the effect of oral phosphate therapy on 7 postmenopausal women with osteoporosis (a daily dose of approximately 1 g of phosphorus for more than 12 months), the number of bone resorption surfaces was reported to increase in all patients while the number of bone-forming surfaces decreased <ref type="bibr" coords="16,284.17,232.47,103.89,10.70" target="#b41">(Goldsmith et al., 1976)</ref>.</s></p><p><s coords="16,70.94,256.50,417.66,10.70">The applicant referred to a number of scientific reports and safety evaluations for phosphorus.</s><s coords="16,491.50,256.50,32.58,10.70;16,70.94,269.46,453.15,10.70;16,70.94,282.42,76.04,10.70">JECFA has set a maximum tolerable daily intake (MTDI) of 70 mg/kg for phosphoric acid and phosphate salts <ref type="bibr" coords="16,70.94,282.42,71.18,10.70">(JECFA, 1982b)</ref>.</s><s coords="16,149.98,282.42,374.27,10.70;16,70.94,295.38,221.70,10.70">The Food and Nutrition Board of the Institute of Medicine has set an upper level for phosphorus of 4.0 g/day for adults <ref type="bibr" coords="16,234.60,295.38,53.29,10.70">(IoM, 1997)</ref>.</s><s coords="16,296.83,295.38,227.16,10.70;16,70.94,308.34,453.07,10.70;16,70.94,321.30,432.89,10.70">The UK Expert Group on Vitamins and Minerals established a guidance level for the supplemental intake of phosphorus of 250 mg/day, equivalent to 4.2 mg/kg bw in a 60 kg adult, which was expected not to produce adverse effects <ref type="bibr" coords="16,441.24,321.30,57.84,10.70">(EVM, 2003)</ref>.</s><s coords="16,506.83,321.30,17.26,10.70;16,70.94,334.26,453.49,10.70;16,70.94,347.22,226.84,10.70">The applicant concluded that the phosphorus consumption as a result of the consumption of the novel ingredient will be well within this guidance level.</s><s coords="16,301.61,347.22,222.72,10.70;16,70.94,360.18,453.00,10.70;16,70.94,373.14,269.76,10.70">In addition, PDP will largely replace wheat flour which itself has a significant level of phosphorus, varying between 110 mg/100 g in plain white flour to 450 mg/100 g in white self-raising flour <ref type="bibr" coords="16,263.60,373.14,72.35,10.70">(UK FSA, 2002)</ref>.</s><s coords="16,343.70,373.14,180.42,10.70;16,70.94,386.10,453.15,10.70;16,70.94,399.06,309.64,10.70">Assuming a theoretical substitution ratio flour:novel ingredient of 1:1, the applicant has calculated that the addition of 15 g PDP to a food to replace flour would result in 47.1 mg phosphorus replacing 17-68 mg.</s></p><p><s coords="16,70.94,423.08,452.98,10.70;16,70.94,436.04,355.97,10.70">A report by EFSA (2005) estimated the habitual dietary intakes of phosphorus in European countries to be on average 1000 to 1500 mg/person per day, ranging up to about 2600 mg.</s><s coords="16,429.79,436.04,94.46,10.70;16,70.94,449.00,452.98,10.70;16,70.94,461.96,453.39,10.70;16,70.94,474.92,453.02,10.70">EFSA concluded that the available data indicated that normal healthy individuals can tolerate phosphorus (as phosphate) intakes up to at least 3000 mg/person per day without adverse systemic effects and that there is no evidence of adverse effects associated with current dietary intakes of phosphorus in EU countries.</s></p><p><s coords="16,70.94,487.88,453.43,10.70;16,70.94,500.84,110.21,10.70;16,181.22,498.50,5.40,6.74;16,192.65,500.84,331.49,10.70;16,70.94,513.80,287.45,10.70">The worst case scenario for the novel ingredient is calculated to be a daily intake of 101 mg phosphorus at the 97.5 th percentile for male teenagers and this would be partly offset by the phosphorus in digestible starch replaced by the novel ingredient.</s><s coords="16,361.38,513.80,162.95,10.70;16,70.94,526.76,453.71,10.70;16,70.94,539.72,453.21,10.70;16,70.94,552.68,453.57,10.70;16,70.94,565.67,295.45,10.70">Member States have drawn attention to a number of reports that high phosphorus intakes may have a deleterious effect on bone metabolism <ref type="bibr" coords="16,70.94,539.72,78.29,10.70" target="#b52">(Kemi et al., 2006</ref><ref type="bibr" coords="16,157.08,539.72,19.87,10.70" target="#b53">(Kemi et al., , 2008</ref><ref type="bibr" coords="16,184.79,539.72,25.76,10.70" target="#b54">(Kemi et al., , 2009) )</ref> while high serum phosphorus as well as high phosphorus intake levels are related to an increased risk of vascular calcification and cardiovascular disease and mortality <ref type="bibr" coords="16,70.94,565.67,99.06,10.70" target="#b57">(Onufrak et al., 2008;</ref><ref type="bibr" coords="16,174.00,565.67,90.70,10.70" target="#b62">Tonelli et al., 2005;</ref><ref type="bibr" coords="16,268.58,565.67,93.06,10.70" target="#b26">Dhingra et al., 2007)</ref>.</s><s coords="16,370.23,565.67,154.02,10.70;16,70.94,578.63,381.73,10.70">However the anticipated intake of phosphorus with the novel ingredient is low in comparison to the average daily intake.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.5.">Allergenicity</head><p><s coords="16,70.94,633.59,453.55,10.70;16,70.94,646.55,152.26,10.70">The applicant states that the novel ingredient has no allergenic potential although he has not provided any data to support this statement.</s><s coords="16,226.08,646.55,297.88,10.70;16,70.94,659.51,277.58,10.70">The product specification allows up to 0.8 % protein, which can be assumed to be derived from the starting material, maize starch.</s><s coords="16,351.28,659.51,172.83,10.70;16,70.94,672.47,211.11,10.70">Maize is not a common allergenic food and is only a rare cause of occupational allergy.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p><s coords="16,70.94,728.65,453.17,10.70;16,70.94,741.61,453.20,10.70;16,70.94,754.57,367.61,10.70">The specification, composition of production batches, manufacture and checks on the levels of heavy metals, mycotoxins, pesticide residues, nitrosamines and microbiological contaminants are adequately described and details provided on the accreditation of the analytical laboratories.</s><s coords="16,442.26,754.57,81.86,10.70;17,70.94,791.77,123.59,9.65;17,70.94,76.95,452.96,10.70;17,70.94,89.91,31.59,10.70">The production of EFSA Journal 2010; 8(9):1772 the novel ingredient and its chemical characteristics meet the EU specification for the PDP additive E1413.</s><s coords="17,105.29,89.91,329.15,10.70">The Panel has no concerns regarding these aspects of the novel ingredient.</s></p><p><s coords="17,70.94,113.91,453.04,10.70;17,70.94,126.87,222.18,10.70">The applicant has described the uses of modified resistant starches in Australia since 1994, Japan since 1995 and Canada and America since 2003.</s><s coords="17,296.95,126.87,227.08,10.70;17,70.94,139.83,317.76,10.70">However these PDPs are not manufactured by the applicant who would be unaware of any reported adverse health effects.</s></p><p><s coords="17,70.94,163.83,453.06,10.70;17,70.94,176.79,350.74,10.70">The applicant has estimated the intake of the novel ingredient, added at a level of 15 % in the range of low-moisture food products described, in various groups of the UK population.</s><s coords="17,424.44,176.79,99.61,10.70;17,70.94,189.75,453.46,10.70;17,70.94,202.71,453.10,10.70;17,70.94,215.67,243.75,10.70">The highest calculated intake at the 97.5th percentile would be 25.9 g/person per day for male teenagers" equivalent to 0.53 g/kg bw per day while the highest 97.5th percentile intake on a body weight basis would be for children aged 1½ to 4½ years at 1.09 g/kg bw per day.</s><s coords="17,317.69,215.67,206.55,10.70;17,70.94,228.63,431.66,10.70">These would be worst case scenarios based on all the food categories consumed having the maximum level of 15 % novel ingredient added.</s><s coords="17,506.79,228.63,17.26,10.70;17,70.94,241.62,453.06,10.70;17,70.94,254.58,371.40,10.70">The novel ingredient has a composition of not more than 0.4 % phosphorus (as phosphate) and the highest intake would be 101 mg/person per day for male teenagers at the 97.5th percentile.</s><s coords="17,445.47,254.58,78.85,10.70;17,70.94,267.54,453.04,10.70;17,70.94,280.50,176.21,10.70">The applicant has provided information showing that the estimated intake of PDP from food additive use (E1413) is up to 420 mg/day for a UK high consumer.</s></p><p><s coords="17,70.94,304.50,453.54,10.70;17,70.94,317.46,452.95,10.70;17,70.94,330.42,72.30,10.70">Some concerns have been raised that high levels of serum phosphorus and high intakes could have consequences for increased levels of vascular calcification, cardiovascular disease and mortality and bone resorption.</s><s coords="17,146.36,330.42,377.70,10.70;17,70.94,343.38,453.36,10.70;17,70.94,356.34,401.04,10.70">However the average intake of phosphorus in European countries is between 1000 to 1500 mg/day ranging up to 2600 mg/day so that the addition of 101 mg/day in the highest consumers and an average for all consumers of less than 30 mg/day would be a very small increase.</s><s coords="17,475.33,356.34,48.67,10.70;17,70.94,369.30,453.05,10.70;17,70.94,382.26,401.15,10.70">In addition the novel ingredient would replace digestible starches in flour which make their own contribution of phosphorus so that the novel ingredient phosphorus is not a net increase to the diet.</s><s coords="17,477.13,382.26,46.83,10.70;17,70.94,395.22,415.36,10.70">The Panel concludes that the additional phosphorus in the novel ingredient will not have adverse effects.</s></p><p><s coords="17,70.94,419.24,453.42,10.70;17,70.94,432.20,453.06,10.70;17,70.94,445.16,327.21,10.70">The toxicological data described by the applicant have been accumulated over many years but have been carried out using monostarch phosphates (esterified only), distarch phosphates (cross linked only) and phosphated distarch phosphates (esterified and cross linked).</s><s coords="17,402.46,445.16,121.56,10.70;17,70.94,458.12,453.37,10.70;17,70.94,471.08,453.31,10.70;17,70.94,484.04,233.85,10.70">All have consistently been shown to be non-toxic, adverse effects (pelvic nephrocalcinosis and associated hyperplasia) being observed only at high doses in the rat (30 g/kg bw per day) and interpreted by JECFA as probably the result of imbalances of Ca/P and Mg in the diet.</s><s coords="17,309.94,484.04,214.56,10.70;17,70.94,497.00,362.28,10.70">The Panel concludes that phosphated distarch phosphates including the novel ingredient are non toxic at the intended use levels.</s></p><p><s coords="17,70.94,521.00,452.98,10.70;17,70.94,533.96,331.11,10.70">The initial assessment by the UK ACNFP concluded that the products containing the novel ingredient should carry a label that "products may cause laxation in small children".</s><s coords="17,405.42,533.96,118.87,10.70;17,70.94,546.92,452.98,10.70;17,70.94,559.88,401.44,10.70">There is little evidence for this in the data provided and the applicant refers to a study that shows that the gelling properties of resistant starch act to reduce diarrhoea and to increase faecal bulk in small children.</s><s coords="17,477.43,559.88,46.83,10.70;17,70.94,572.87,453.05,10.70;17,70.94,585.83,155.40,10.70">The Panel concludes that the novel ingredient is unlikely to cause laxation in small children at the proposed conditions of use and intake levels.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p><s coords="17,70.94,641.99,453.14,10.70;17,70.94,654.95,155.46,10.70">The Panel concludes that the novel ingredient, a phosphated distarch phosphate is safe at the proposed conditions of use and intake levels.</s></p><p><s coords="17,70.94,691.26,191.43,10.80">DOCUMENTATION PROVIDED TO EFSA</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="4,70.94,209.91,453.03,10.70;4,70.94,222.87,341.89,10.70;4,70.94,246.90,453.10,10.70;4,70.94,259.86,73.89,10.70"><head>On 4</head><label>4</label><figDesc><div><p><s coords="4,96.35,209.91,427.62,10.70">May 2009, the Commission forwarded the initial assessment report to the other Member States.</s><s coords="4,70.94,222.87,341.89,10.70">Several of the Member States submitted additional comments and objections.</s><s coords="4,70.94,246.90,453.10,10.70;4,70.94,259.86,73.89,10.70">In consequence, a Community Decision is now required under Article 7, paragraph 1 of Regulation (EC) No 258/97.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="7,70.94,76.96,366.10,10.93"><head>Table 1 :</head><label>1</label><figDesc><div><p><s coords="7,124.94,77.19,312.10,10.70">Chemical, Physical and Microbiological Specifications for Novelose®</s></p></div></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="7,70.94,77.19,446.59,606.49"><head>480HA Parameter Specification 1 Test Method General Specifications</head><label></label><figDesc><div><p><s coords="7,76.70,603.47,199.59,9.65;7,70.94,612.97,3.24,6.28;7,76.70,615.23,434.35,9.65">All values expressed on an "as is", as packed basis2Directive 2000/63/EC specifies no more than 15.0 % for cereal starch as the source (i.e., high amylose maize</s></p></div></figDesc><table coords="7,70.94,136.47,446.59,547.21"><row><cell>Appearance</cell><cell>Free flowing fine white powder</cell><cell>Visual inspection</cell></row><row><cell>Residual (bound) phosphorus</cell><cell>Not more than 0.4% (as phosphorus)</cell><cell>JECFA, 2001</cell></row><row><cell></cell><cell>"high amylose maize starch" as</cell><cell></cell></row><row><cell>Loss on drying (moisture content)</cell><cell>source 10 to 14% 2</cell><cell>Sample dried for 4 -6 hours at 130 o C (+/-2) in a convection oven 3</cell></row><row><cell>Arsenic</cell><cell>Not more than 1 mg/kg</cell><cell>AOAC 985.01, 990.08, 984.27</cell></row><row><cell>Lead</cell><cell>Not more than 2 mg/kg</cell><cell>AOAC 985.01, 990.08, 984.27</cell></row><row><cell>Mercury</cell><cell>Not more than 0.1 mg/kg</cell><cell>AOAC 977.15</cell></row><row><cell>pH</cell><cell>4.5 to 7.5</cell><cell>CML 100A:20 4 (using a pH</cell></row><row><cell></cell><cell></cell><cell>meter)</cell></row><row><cell>Sulphur dioxide</cell><cell>Not more than 10 mg/kg (dry basis)</cell><cell>AOAC 990.28 (AOAC, 1995)</cell></row><row><cell cols="2">Nutritional Data -Typical Values</cell><cell></cell></row><row><cell>Carbohydrate</cell><cell>7.0 % to 14 %</cell><cell>Calculation</cell></row><row><cell>Starch 5</cell><cell>7.0 % to 14 %</cell><cell>Calculation</cell></row><row><cell>Sugar 5</cell><cell>0 %</cell><cell>Calculation</cell></row><row><cell>Protein</cell><cell>0.8 %</cell><cell>Kjeldahl Method</cell></row><row><cell>Fat</cell><cell>1 %</cell><cell>AOAC 996.06</cell></row><row><cell>Saturated 6</cell><cell>0.45 %</cell><cell>AOAC 996.06</cell></row><row><cell>Cholesterol 6</cell><cell>None detected</cell><cell>AOAC 920.39, 983.23, 933.05</cell></row><row><cell>Energy (caloric value)</cell><cell>2 kcal/g</cell><cell>Calculation</cell></row><row><cell>Total dietary Fibre</cell><cell>Minimum 70 %</cell><cell>AOAC 991.43</cell></row><row><cell>Microbiological Specifications</cell><cell></cell><cell></cell></row><row><cell>Total viable count (TVC)</cell><cell>Not more than 10,000 cfu/g</cell><cell>USP23/NF18 1995 (AOAC,1995)</cell></row><row><cell>Yeasts</cell><cell>Not more than 200 cfu/g</cell><cell>USP24/NF19 2000</cell></row><row><cell>Moulds</cell><cell>Not more than 200 cfu/g</cell><cell>USP24/NF19 2000</cell></row><row><cell>Escherichia coli</cell><cell>Absent in 1 g</cell><cell></cell></row><row><cell></cell><cell></cell><cell>USP23/NF18 1995 (AOAC,</cell></row><row><cell></cell><cell></cell><cell>1995)</cell></row><row><cell>Salmonella</cell><cell>Absent in 25 g</cell><cell>USP23/NF18 1995 (AOAC,</cell></row><row><cell></cell><cell></cell><cell>1995)</cell></row><row><cell cols="2">Adapted from Directive 2000/63/EC 1 starch) 3 Analysis conducted for 4 hours at 130°C 4 10 % aqueous suspension 5 Percentage of content 6 Percentage of content</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="8,70.94,74.83,448.26,496.25"><head>Table 2 :</head><label>2</label><figDesc><div><p><s coords="8,124.94,77.19,201.20,10.70;8,326.23,74.83,5.29,6.74;8,334.27,77.19,32.45,10.70">Results of analyses for 5 batches of Novelose ® 480HA</s></p></div></figDesc><table coords="8,76.34,102.42,442.86,468.67"><row><cell>Analysis</cell><cell></cell><cell></cell><cell></cell><cell cols="2">Lot Number</cell><cell></cell></row><row><cell></cell><cell>Specifications</cell><cell>Batch 1</cell><cell>Batch 2</cell><cell>Batch 3</cell><cell>Batch 4</cell><cell>Batch 5</cell></row><row><cell cols="2">General Specifications</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Appearance</cell><cell>White powder</cell><cell>Yes</cell><cell>Yes</cell><cell>Yes</cell><cell>Yes</cell><cell>Yes</cell></row><row><cell>Residual (bound)</cell><cell>≤0.4</cell><cell>0.365</cell><cell>0.354</cell><cell>0.358</cell><cell>0.233</cell><cell>0.258</cell></row><row><cell>phosphate (% as</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>phosphorus)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Loss on drying (%) 10 to 14</cell><cell>12.1</cell><cell>11.7</cell><cell>12.0</cell><cell>13.2</cell><cell>10.9</cell></row><row><cell>Arsenic (mg/kg)</cell><cell>&lt; 1</cell><cell>&lt;0.1</cell><cell>&lt;0.1</cell><cell>&lt;0.1</cell><cell>&lt;0.1</cell><cell>&lt;0.1</cell></row><row><cell>Lead (mg/kg)</cell><cell>&lt; 2</cell><cell>&lt;0.1</cell><cell>&lt;0.1</cell><cell>&lt;0.1</cell><cell>&lt;0.1</cell><cell>&lt;0.1</cell></row><row><cell>Mercury (mg/kg)</cell><cell>&lt; 0.1</cell><cell>&lt;0.02</cell><cell>&lt;0.02</cell><cell>&lt;0.02</cell><cell>&lt;0.02</cell><cell>&lt;0.02</cell></row><row><cell>pH</cell><cell>4.5 to 7.5</cell><cell>5.6</cell><cell>5.6</cell><cell>5.8</cell><cell>6.1</cell><cell>5.9</cell></row><row><cell>Sulphur dioxide</cell><cell>&lt;10</cell><cell>&lt;10</cell><cell>&lt;10</cell><cell>&lt;10</cell><cell>&lt;10</cell><cell>&lt;10</cell></row><row><cell>(mg/kg)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Nutritional Composition -Typical Values</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Carbohydrate (%)</cell><cell>7-14</cell><cell>14.0</cell><cell>7.0</cell><cell>9.0</cell><cell>9.0</cell><cell>8.0</cell></row><row><cell>Starch (%)</cell><cell>7-14</cell><cell>14.0</cell><cell>7.0</cell><cell>9.0</cell><cell>9.0</cell><cell>8.0</cell></row><row><cell>Sugar (%)</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Protein (%)</cell><cell>0.8</cell><cell>&lt;0.625</cell><cell>&lt;0.625</cell><cell>&lt;0.625</cell><cell>&lt;0.625</cell><cell>&lt;0.625</cell></row><row><cell>Fat (%)</cell><cell>1</cell><cell>0.99</cell><cell>1.0</cell><cell>0.96</cell><cell>1.0</cell><cell>0.93</cell></row><row><cell>Saturated (%)</cell><cell>0.45</cell><cell>0.42</cell><cell>0.44</cell><cell>0.43</cell><cell>0.46</cell><cell>0.40</cell></row><row><cell>Cholesterol</cell><cell>None detected</cell><cell>&lt;1.0</cell><cell>&lt;1.0</cell><cell>&lt;1.0</cell><cell>&lt;1.0</cell><cell>&lt;1.0</cell></row><row><cell>(mg/100g)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total Dietary Fibre</cell><cell>&gt; 70</cell><cell>72</cell><cell>79.5</cell><cell>77</cell><cell>77</cell><cell>79</cell></row><row><cell>(%)("as is", as</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>packed)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Microbiological Specifications</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total viable count</cell><cell>&lt; 10,000</cell><cell>&lt; 10,000</cell><cell>&lt; 10,000</cell><cell>&lt; 10,000</cell><cell>&lt; 10,000</cell><cell>&lt; 10,000</cell></row><row><cell>(TVC) (cfu/g)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yeasts (cfu/g)</cell><cell>&lt; 200</cell><cell>&lt;10</cell><cell>&lt;10</cell><cell>70</cell><cell>&lt;10</cell><cell>&lt;10</cell></row><row><cell>Moulds (cfu/g)</cell><cell>&lt; 200</cell><cell>&lt;10</cell><cell>&lt;10</cell><cell>&lt;10</cell><cell>&lt;10</cell><cell>&lt;10</cell></row><row><cell>Escherichia coli</cell><cell>Absent in 1 g</cell><cell cols="3">Negative Negative Negative</cell><cell>Negative</cell><cell>Negative</cell></row><row><cell>Salmonella</cell><cell cols="4">Absent in 25 g Negative Negative Negative</cell><cell>Negative</cell><cell>Negative</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3" coords="10,69.14,316.51,455.35,238.74"><head>Table 3 :</head><label>3</label><figDesc><div><p><s coords="10,120.62,316.74,403.88,10.70;10,120.62,329.70,360.99,10.70">Summary of the Estimated Daily Intake of Novelose® 480HA from All Proposed Food Categories in the U.K. by Population Group, all-users consumption (NDNS Data)</s></p></div></figDesc><table coords="10,69.14,354.93,453.47,200.32"><row><cell>Population</cell><cell>Age</cell><cell>%</cell><cell>Actu</cell><cell></cell><cell cols="2">Total Intake</cell><cell></cell><cell cols="4">Intake Per Kilogram Body</cell></row><row><cell>Group</cell><cell>Group</cell><cell>User</cell><cell>al</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Weight</cell><cell></cell></row><row><cell></cell><cell>(Years)</cell><cell></cell><cell>nbr of</cell><cell>Mean (g)</cell><cell cols="3">Percentile (g)</cell><cell>Mean (g/kg)</cell><cell cols="3">Percentile (g/kg)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Total</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Users</cell><cell></cell><cell>90</cell><cell>95</cell><cell>97.5</cell><cell></cell><cell>90</cell><cell>95</cell><cell>97.5</cell></row><row><cell>Children</cell><cell>1½ -4½</cell><cell>96.8</cell><cell>1,595</cell><cell>5.5</cell><cell>10.7</cell><cell>12.9</cell><cell>15.6</cell><cell>0.38</cell><cell>0.76</cell><cell>0.94</cell><cell>1.09</cell></row><row><cell>Young People</cell><cell>4-10</cell><cell>99.5</cell><cell>833</cell><cell>8.1</cell><cell>13.5</cell><cell>15.8</cell><cell>18.4</cell><cell>0.32</cell><cell>0.55</cell><cell>0.65</cell><cell>0.74</cell></row><row><cell>Female Teenagers</cell><cell>11-18</cell><cell>96.6</cell><cell>431</cell><cell>7.0</cell><cell>12.4</cell><cell>14.4</cell><cell>16.9</cell><cell>0.14</cell><cell>0.27</cell><cell>0.32</cell><cell>0.38</cell></row><row><cell>Male Teenagers</cell><cell>11-18</cell><cell>98.3</cell><cell>409</cell><cell>9.0</cell><cell>16.9</cell><cell>21.1</cell><cell>25.3</cell><cell>0.17</cell><cell>0.33</cell><cell>0.39</cell><cell>0.53</cell></row><row><cell>Female Adults</cell><cell>16-64</cell><cell>87.2</cell><cell>835</cell><cell>4.9</cell><cell>10.0</cell><cell>12.1</cell><cell>14.2</cell><cell>0.07</cell><cell>0.15</cell><cell>0.19</cell><cell>0.22</cell></row><row><cell>Male Adults</cell><cell>16-64</cell><cell>89.4</cell><cell>685</cell><cell>6.8</cell><cell>14.6</cell><cell>17.8</cell><cell>20.8</cell><cell>0.08</cell><cell>0.18</cell><cell>0.22</cell><cell>0.25</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4" coords="11,70.94,125.92,453.48,253.39"><head>Table 4 :</head><label>4</label><figDesc><div><p><s coords="11,124.94,126.15,399.48,10.70;11,124.94,139.11,360.99,10.70">Summary of the Estimated Daily Intake of Phosphorus from All Proposed Food Categories in the U.K. by Population Group, all-users consumption (NDNS Data)</s></p></div></figDesc><table coords="11,75.14,164.34,441.47,214.97"><row><cell>Population</cell><cell>Age</cell><cell>%</cell><cell>Actu</cell><cell></cell><cell cols="2">Total Intake</cell><cell></cell><cell cols="4">Intake Per Kilogram Body</cell></row><row><cell>Group</cell><cell>Gro</cell><cell>User</cell><cell>al</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Weight</cell><cell></cell></row><row><cell></cell><cell>up (Ye</cell><cell></cell><cell>nbr of</cell><cell>Mean (mg)</cell><cell cols="3">Percentile (mg)</cell><cell>Mean (mg/kg)</cell><cell cols="3">Percentile (mg/kg)</cell></row><row><cell></cell><cell>ars)</cell><cell></cell><cell>Total Users</cell><cell></cell><cell>90</cell><cell>95</cell><cell>97.5</cell><cell></cell><cell>90</cell><cell>95</cell><cell>97.5</cell></row><row><cell>Children</cell><cell>1½ -4½</cell><cell>96.8</cell><cell>1,595</cell><cell>21.8</cell><cell>42.9</cell><cell>51.8</cell><cell>62.5</cell><cell>1.54</cell><cell>3.05</cell><cell>3.78</cell><cell>4.37</cell></row><row><cell>Young People</cell><cell cols="2">4-10 99.5</cell><cell>833</cell><cell>32.4</cell><cell>54.1</cell><cell>63.0</cell><cell>73.5</cell><cell>1.28</cell><cell>2.19</cell><cell>2.60</cell><cell>2.95</cell></row><row><cell>Female Teenagers</cell><cell>11-18</cell><cell>96.6</cell><cell>431</cell><cell>27.9</cell><cell>49.8</cell><cell>57.4</cell><cell>67.7</cell><cell>0.55</cell><cell>1.08</cell><cell>1.28</cell><cell>1.51</cell></row><row><cell>Male Teenagers</cell><cell>11-18</cell><cell>98.3</cell><cell>409</cell><cell>36.2</cell><cell>67.6</cell><cell>84.2</cell><cell>101.1</cell><cell>0.68</cell><cell>1.33</cell><cell>1.57</cell><cell>2.11</cell></row><row><cell>Female Adults</cell><cell>16-64</cell><cell>87.2</cell><cell>835</cell><cell>19.4</cell><cell>39.9</cell><cell>48.4</cell><cell>56.9</cell><cell>0.29</cell><cell>0.61</cell><cell>0.74</cell><cell>0.87</cell></row><row><cell>Male Adults</cell><cell>16-64</cell><cell>89.4</cell><cell>685</cell><cell>27.2</cell><cell>58.4</cell><cell>71.1</cell><cell>83.2</cell><cell>0.33</cell><cell>0.70</cell><cell>0.87</cell><cell>1.01</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5" coords="17,70.94,711.11,453.09,23.66"><head></head><label></label><figDesc><div><p><s coords="17,70.94,711.11,344.76,10.70">1. Dossier on "phosphated distarch phosphate" received on 8 March 2010.</s><s coords="17,420.37,711.11,103.67,10.70;17,85.10,724.07,193.86,10.70">Submitted by National Starch Food Innovation on 23 August 2005.</s><s coords="18,70.94,76.95,453.41,10.70;18,85.10,89.91,269.43,10.70">2. Letter from the European Commission to the European Food Safety Authority with the request for an opinion on the safety of "phosphated distarch phosphate".</s><s coords="18,357.53,89.91,166.84,10.70;18,85.10,102.87,107.97,10.70">SANCO E4/AK/bs (2010) D/540062, dated 10 February 2010.</s><s coords="18,70.94,121.83,453.04,10.70;18,85.10,134.79,283.01,10.70">3. Initial assessment report carried out by UK: Advisory Committee on Novel Foods and Processes opinion on Phosphated Distarch Phosphate as a food ingredient.</s><s coords="18,70.94,153.75,200.02,10.70;18,70.94,172.71,453.06,10.70;18,85.10,185.67,48.41,10.70">4. Member States" comments and objections. 5. Response by the applicant to the initial assessment report and the Member States' comments and objections.</s></p></div></figDesc><table coords="21,70.94,89.26,302.12,205.29"><row><cell cols="2">GLOSSARY AND ABBREVIATIONS</cell></row><row><cell>ACNFP</cell><cell>Advisory Committee on Novel Foods and Processes</cell></row><row><cell>ADI</cell><cell>Acceptable Daily Intake</cell></row><row><cell>AOAC</cell><cell>Association of Official Analytical Chemists</cell></row><row><cell>MTDI</cell><cell>Maximum Tolerable Daily Intake</cell></row><row><cell>PDP</cell><cell>Phosphated Distarch Phosphate</cell></row><row><cell>RS</cell><cell>Resistant Starch</cell></row><row><cell>SCFA</cell><cell>Short Chain Fatty Acids</cell></row><row><cell>UK NDNS</cell><cell>UK National Diet and Nutrition Surveys</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0" coords="5,70.94,791.77,123.59,9.65"><p><s coords="5,70.94,791.77,123.59,9.65">EFSA Journal 2010; 8(9):1772</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_1" coords="9,78.02,731.32,445.42,8.72;9,78.02,741.88,256.45,8.72"><p><s coords="9,78.02,731.32,445.42,8.72;9,78.02,741.88,256.45,8.72">Commission Directive 2000/63/EC of 5 October 2000 amending Directive 96/77/EC laying down specific purity criteria on food additives other than colours and sweeteners (OJ 30.10.200 L277).</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_2" coords="9,78.02,752.44,446.35,8.72;9,78.02,763.00,35.33,8.72"><p><s coords="9,78.02,752.44,446.35,8.72;9,78.02,763.00,35.33,8.72">Original text: The maize grains are obtained from two proprietary non-GM maize hybrids specifically grown for the applicant.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_3" coords="13,76.22,763.00,278.29,8.72"><p><s coords="13,76.22,763.00,278.29,8.72">"sodium trimetaphosphate" has been replaced by "sodium tripolyphosphate".</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_4" coords="14,76.35,720.74,447.80,8.72;14,78.02,731.32,446.61,8.72;14,78.02,741.88,445.96,8.72;14,78.02,752.44,446.03,8.72;14,78.02,763.00,80.91,8.72"><p><s coords="14,76.35,720.74,447.80,8.72;14,78.02,731.32,446.61,8.72;14,78.02,741.88,387.00,8.72">The statement "ADI not specified" means that, on the basis of the available data (toxicological, biochemical, and other), the total daily intake of the substance arising from its use or uses at the levels necessary to achieve the desired effect and from its acceptable background in food, does not, in the opinion of the Committee, represent a hazard to health.</s><s coords="14,467.55,741.88,56.43,8.72;14,78.02,752.44,446.03,8.72;14,78.02,763.00,80.91,8.72">For this reason, and for the reasons stated in individual evaluations, the establishment of an acceptable daily intake (ADI) in mg/kg bw is not deemed necessary.</s></p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="3,75.08,186.87,4.14,10.70;3,94.94,186.87,424.01,10.70" xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,94.94,186.87,421.25,10.70">Specification of the Novel Food (NF) ............................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,199.83,4.14,10.70;3,94.94,199.83,424.04,10.70" xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,302.86,199.83,213.36,10.70">NF ........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,212.79,4.14,10.70;3,94.94,212.79,424.05,10.70" xml:id="b2">
+	<monogr>
+		<title level="m" type="main" coord="3,94.94,212.79,188.00,10.70">History of the organism used as the source</title>
+		<author>
+			<orgName type="collaboration" coords="3,284.34,212.79,231.89,10.70">....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,225.75,4.14,10.70;3,94.94,225.75,424.03,10.70" xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,283.42,225.75,232.80,10.70">NF ...............................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Anticipated intake/extent of the use of the</note>
+</biblStruct>
+
+<biblStruct coords="3,75.08,238.74,4.14,10.70;3,94.94,238.74,418.53,10.70" xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,285.48,238.74,225.23,10.70">NF or its source .......................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Information from previous exposure to the</note>
+</biblStruct>
+
+<biblStruct coords="3,75.08,251.70,4.14,10.70;3,94.94,251.70,418.53,10.70" xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,94.94,251.70,415.77,10.70">Nutritional information on the NF ................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,264.66,4.14,10.70;3,94.94,264.66,418.53,10.70" xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,94.94,264.66,415.77,10.70">Microbiological information on the NF .......................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,277.62,4.14,10.70;3,94.94,277.62,418.49,10.70;3,82.94,290.58,16.56,10.70;3,118.94,290.58,394.53,10.70" xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,94.94,277.62,418.49,10.70;3,82.94,290.58,16.56,10.70;3,118.94,290.58,391.76,10.70">Toxicological information on the NF ............................................................................................ 8.1. Absorption, Distribution, Metabolism and Excretion (ADME) ..........................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,95.36,303.54,4.14,10.70;3,118.94,303.54,394.49,10.70" xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,118.94,303.54,391.55,10.70">Genotoxicity.........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,87.08,316.50,12.42,10.70;3,118.94,316.50,394.54,10.70" xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,91.22,316.50,8.28,10.70;3,118.94,316.50,391.78,10.70">3. Animal studies .....................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,115.64,329.46,397.83,10.70" xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,130.94,329.46,379.77,10.70">Acute studies ...................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,115.64,342.42,397.82,10.70" xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,130.94,342.42,379.76,10.70">Short-term studies ............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,99.08,355.38,414.38,10.70" xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,103.22,355.38,407.48,10.70">3.3. Chronic studies ................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,115.64,368.34,397.82,10.70" xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,130.94,368.34,379.76,10.70">Developmental and reproductive studies ........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,99.08,381.30,414.38,10.70" xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,103.22,381.30,407.48,10.70">3.5. Previous evaluations ........................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,95.36,394.26,4.14,10.70;3,118.94,394.26,394.53,10.70" xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,118.94,394.26,391.76,10.70">Human studies ......................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,99.08,407.24,414.38,10.70" xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,103.22,407.24,407.48,10.70">4.1. Studies on PDPs ..............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,111.08,420.20,402.36,10.70" xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,154.94,420.20,355.74,10.70">Effect in diabetic people .........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,111.08,433.16,402.38,10.70" xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,131.78,433.16,378.92,10.70">2. Intolerance ..............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,99.08,446.12,414.35,10.70" xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,111.50,446.12,399.17,10.70">2. Effect of phosphorus intake .............................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,95.36,459.08,4.14,10.70;3,118.94,459.08,394.54,10.70" xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,118.94,459.08,391.78,10.70">Allergenicity ........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,70.94,472.04,442.53,10.70;3,70.94,485.00,442.53,10.70;3,70.94,497.96,442.52,10.70;3,70.94,510.92,442.53,10.70;3,70.94,523.88,442.53,10.70;18,70.94,216.94,65.58,10.80;18,70.94,236.79,453.36,10.70;18,85.10,249.78,110.75,10.70" xml:id="b21">
+	<analytic>
+		<title level="a" type="main" coord="18,236.17,236.79,257.99,10.70">Establishment of the gut microbiota in Western infants</title>
+		<author>
+			<orgName type="collaboration" coords="3,70.94,472.04,442.53,10.70;3,70.94,485.00,442.53,10.70;3,70.94,497.96,442.52,10.70;3,70.94,510.92,442.53,10.70;3,70.94,523.88,437.01,10.70">Discussion .............................................................................................................................................. Conclusions ............................................................................................................................................ Documentation provided to EFSA ......................................................................................................... References .............................................................................................................................................. Glossary and abbreviations ..................................................................................................................</orgName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="18,70.94,216.94,65.58,10.80;18,70.94,236.79,124.31,10.70">REFERENCES Adlerberth I and Wold AE</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="229" to="238" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="18,70.94,268.74,453.18,10.70;18,85.10,281.70,274.96,10.70" xml:id="b22">
+	<analytic>
+		<title level="a" type="main" coord="18,237.77,268.74,286.36,10.70;18,85.10,281.70,170.44,10.70">The effect of oral sodium phosphate on the formation of renal calculi and on idiopathic hypercalcuria</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">S</forename><surname>Bernstein</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Newton</forename><forename type="middle">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="18,262.80,281.70,28.18,10.70">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1105" to="1107" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="18,70.94,300.66,453.33,10.70;18,85.10,313.62,438.83,10.70;18,85.10,326.58,439.03,10.70;18,85.10,339.54,437.68,10.70" xml:id="b23">
+	<analytic>
+		<title level="a" type="main" coord="18,364.94,300.66,159.34,10.70;18,85.10,313.62,205.00,10.70">Dietary Reference Values for Food Energy and Nutrients for the United Kingdom</title>
+		<author>
+			<persName coords=""><surname>Coma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="18,298.98,313.62,224.95,10.70;18,85.10,326.58,439.03,10.70;18,85.10,339.54,182.31,10.70">Report of the Panel on Dietary References Values of the Committee on Medicinal Aspects of Food Policy. U.K. Department of Health, Committee on Medical Aspects of Food Policy (COMA)</title>
+		<title level="s" coord="18,113.02,300.66,210.75,10.70">Committee on Medical Aspects of Food Policy</title>
+		<meeting><address><addrLine>London, UK.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Her Majesty&apos;s Stationary Office (HMSO</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="18,70.94,358.50,453.45,10.70;18,85.10,371.46,439.27,10.70;18,85.10,384.42,112.32,10.70" xml:id="b24">
+	<analytic>
+		<title level="a" type="main" coord="18,424.03,358.50,100.36,10.70;18,85.10,371.46,329.94,10.70">Two-year feeding and multigeneration studies in rats on five chemically modified starches</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">P</forename><surname>De Groot</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">P</forename><surname>Til</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><forename type="middle">J</forename><surname>Feron</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Hcd</forename><surname>Van Der Meulle</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">I</forename><surname>Willems</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="18,426.43,371.46,97.95,10.70;18,85.10,384.42,48.74,10.70">Food and Cosmetics Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="651" to="664" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="18,70.94,403.40,453.53,10.70;18,85.10,416.36,439.36,10.70;18,85.10,429.32,338.12,10.70" xml:id="b25">
+	<monogr>
+		<title level="m" type="main" coord="18,379.99,403.40,144.48,10.70;18,85.10,416.36,381.38,10.70">Chronic (2-Year) Feeding Study in Albino Rats With Phosphated Distarch Phosphate (a Chemically Modified Starch)</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>De Knecht-Van Eekelen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">P</forename><surname>Til</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">I</forename><surname>Willems</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">P</forename><surname>De Groot</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>Centraal Instituut voor Voedingsonderzoek</publisher>
+			<pubPlace>Zeist, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report No. R 3392</note>
+</biblStruct>
+
+<biblStruct coords="18,70.94,448.28,453.18,10.70;18,85.10,461.24,438.87,10.70;18,85.10,474.20,258.05,10.70" xml:id="b26">
+	<analytic>
+		<title level="a" type="main" coord="18,85.10,461.24,438.87,10.70;18,85.10,474.20,47.40,10.70">Relations of serum phosphorus and calcium levels to the incidence of cardiovascular disease in the community</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Dhingra</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">S</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D"</forename><surname>Agostino</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">B</forename><surname>Sr</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Gaziano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">S</forename><surname>Vasan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="18,140.54,474.20,131.24,10.70">Archives of Internal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="page" from="879" to="885" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="18,70.94,493.16,453.21,10.70;18,85.10,506.12,439.26,10.70;18,85.10,519.08,27.60,10.70;18,70.94,538.04,453.49,10.70;18,85.10,551.00,438.88,10.70;18,85.10,563.96,332.79,10.70" xml:id="b27">
+	<analytic>
+		<title level="a" type="main" coord="18,237.90,493.16,286.26,10.70;18,85.10,506.12,193.49,10.70;18,232.74,538.04,291.70,10.70;18,85.10,551.00,438.88,10.70;18,85.10,563.96,46.64,10.70">Commission Directive 2000/63/EC of 5 October 2000 amending Directive 96/77/EC laying down specific purity criteria on food additives other than colours and sweeteners</title>
+		<author>
+			<persName coords=""><surname>Ec</surname></persName>
+		</author>
+		<ptr target="L277/1" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="18,70.94,538.04,124.36,10.70">EC (European Commission)</title>
+		<imprint>
+			<publisher>European Commission</publisher>
+			<date type="published" when="1995">1995. 2000</date>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page">61</biblScope>
+		</imprint>
+	</monogr>
+	<note>Official Journal of the European Communities</note>
+</biblStruct>
+
+<biblStruct coords="18,70.94,582.95,453.30,10.70;18,85.10,595.91,438.94,10.70;18,85.10,608.87,138.07,10.70" xml:id="b28">
+	<analytic>
+		<title level="a" type="main" coord="18,229.50,582.95,294.75,10.70;18,85.10,595.91,265.31,10.70">Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives</title>
+		<author>
+			<persName coords=""><surname>Ec</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="18,362.11,595.91,161.94,10.70;18,85.10,608.87,71.52,10.70">Official Journal of the European Communities</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page">18</biblScope>
+			<date type="published" when="2008">2008</date>
+			<publisher>European Commission</publisher>
+		</imprint>
+	</monogr>
+	<note>L</note>
+</biblStruct>
+
+<biblStruct coords="18,70.94,627.83,453.51,10.70;18,85.10,640.79,438.86,10.70;18,85.10,653.75,229.83,10.70" xml:id="b29">
+	<analytic>
+		<title level="a" type="main" coord="18,288.32,627.83,236.14,10.70;18,85.10,640.79,438.86,10.70;18,85.10,653.75,89.20,10.70">Opinion of the Scientific Panel on Dietetic Products, Nutrition and Allergies on a request from the Commission related to the Tolerable Upper Intake Level of Phosphorus</title>
+		<author>
+			<persName coords=""><surname>Efsa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="18,182.00,653.75,80.74,10.70">The EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">233</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2005">2005</date>
+			<publisher>European Food Safety Authority</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="18,70.94,672.71,453.22,10.70;18,85.10,685.67,438.85,10.70;18,85.10,698.63,356.57,10.70" xml:id="b30">
+	<analytic>
+		<title level="a" type="main" coord="18,289.72,672.71,234.45,10.70;18,85.10,685.67,438.85,10.70;18,85.10,698.63,152.36,10.70">Scientific Opinion of the Panel on Dietetic Products Nutrition and Allergies on a request from the European Commission on Dietary Reference Values for carbohydrates and dietary fibre</title>
+		<author>
+			<persName coords=""><surname>Efsa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="18,106.42,672.71,147.11,10.70">European Food Safety Authority)</title>
+		<imprint>
+			<date type="published" when="2010">2010. 2010</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">77</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="18,70.94,717.59,453.46,10.70;18,85.10,730.57,339.77,10.70" xml:id="b31">
+	<analytic>
+		<title level="a" type="main" coord="18,230.57,717.59,293.83,10.70;18,85.10,730.57,104.46,10.70">Physiological aspects of energy metabolism and gastrointestinal effects of carbohydrates</title>
+		<author>
+			<persName coords=""><forename type="first">Elia</forename><forename type="middle">M</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="18,196.95,730.57,169.52,10.70">European Journal of Clinical Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="40" to="74" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,791.77,123.59,9.65" xml:id="b32">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,70.94,791.77,56.09,9.65">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">1772</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,76.95,452.98,10.70;19,85.10,89.91,439.25,10.70;19,85.10,102.87,337.77,10.70" xml:id="b33">
+	<analytic>
+		<title level="a" type="main" coord="19,191.31,76.95,332.61,10.70;19,85.10,89.91,59.36,10.70">Report on Testing of Glycaemic Response to 6 Biscuits of Various Levels of RS4-Fibre</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Frost</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="19,302.28,89.91,222.07,10.70;19,85.10,102.87,241.67,10.70">Resistant Starch Compared to a Control Biscuit. Unpublished study report. Hammersmith food research</title>
+		<meeting><address><addrLine>London, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+	<note>phosphated distarch phosphate</note>
+</biblStruct>
+
+<biblStruct coords="19,70.94,121.60,453.49,10.93;19,85.10,134.56,231.26,10.93" xml:id="b34">
+	<analytic>
+		<title level="a" type="main" coord="19,347.00,121.60,177.44,10.93;19,85.10,134.56,47.11,10.93">Measurement of resistant starch in vitro and in vivo</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">N</forename><surname>Englyst</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">M</forename><surname>Kingman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">J</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">H</forename><surname>Cummings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,139.22,134.79,119.50,10.70">British Journal of Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="749" to="755" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,153.75,453.05,10.70;19,85.10,166.71,438.92,10.70;19,85.10,179.67,245.02,10.70" xml:id="b35">
+	<monogr>
+		<author>
+			<persName coords=""><surname>Evm (expert</surname></persName>
+		</author>
+		<title level="m" coord="19,134.51,153.75,389.48,10.70;19,85.10,166.71,438.92,10.70;19,85.10,179.67,177.92,10.70">Group on Vitamins and Minerals), 2003. Safe Upper Levels for Vitamins and Minerals: Report of the Expert Group on Vitamins and Minerals. Food Standards Agency (FSA), Expert Group on Vitamins and Minerals (EVM)</title>
+		<meeting><address><addrLine>London, UK.</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,198.63,453.28,10.70;19,85.10,211.59,233.07,10.70" xml:id="b36">
+	<analytic>
+		<title level="a" type="main" coord="19,294.89,198.63,229.33,10.70;19,85.10,211.59,73.35,10.70">Intestinal microflora in early infancy: composition and development</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Fanaro</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Chierici</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Guerrini</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Vigi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,166.18,211.59,71.30,10.70">Acta Paediatrica</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="48" to="55" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct coords="19,70.94,230.55,453.49,10.70;19,85.10,243.54,433.91,10.70;19,519.22,241.20,5.40,6.74;19,85.10,256.50,412.52,10.70" xml:id="b37">
+	<analytic>
+		<title level="a" type="main" coord="19,312.64,230.55,79.35,10.70">Modified Staches</title>
+		<author>
+			<persName coords=""><surname>Fao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="19,420.79,230.55,103.64,10.70;19,85.10,243.54,433.91,10.70;19,519.22,241.20,5.40,6.74;19,85.10,256.50,30.43,10.70">Compendium of Food Additive Specifications. Addendum 5. Joint FAO/WHO Expert Committee on Food Additives 49 th session</title>
+		<title level="s" coord="19,233.39,256.50,176.69,10.70">FAO Food and Nutrition Paper -52 Add</title>
+		<meeting><address><addrLine>Rome; Rome</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997-06">1997. June 1997</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="91" to="110" />
+		</imprint>
+	</monogr>
+	<note>Food and Agriculture Organization</note>
+</biblStruct>
+
+<biblStruct coords="19,70.94,275.46,444.52,10.70" xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName coords=""><surname>Fcc</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>National Academy Press</publisher>
+			<biblScope unit="page">183</biblScope>
+			<pubPlace>Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Food Chemicals Codex. 5th Edition</note>
+</biblStruct>
+
+<biblStruct coords="19,70.94,294.42,453.24,10.70;19,85.10,307.38,438.96,10.70;19,85.10,320.34,50.40,10.70" xml:id="b39">
+	<analytic>
+		<title level="a" type="main" coord="19,309.73,294.42,214.45,10.70;19,85.10,307.38,286.01,10.70">Interactions and competition within microbial community of the human colon: links between diet and health</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">J</forename><surname>Flint</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">H</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">P</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Louis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,379.68,307.38,127.03,10.70">Environmental microbiology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1101" to="1111" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,339.30,453.19,10.70;19,85.10,352.26,165.91,10.70" xml:id="b40">
+	<monogr>
+		<author>
+			<persName coords=""><surname>Fsa</surname></persName>
+		</author>
+		<title level="m" coord="19,253.46,339.30,237.05,10.70">McCance and Widdowson&quot;s Composition of Foods</title>
+		<meeting><address><addrLine>London, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">32</biblScope>
+		</imprint>
+	</monogr>
+	<note>Food Standards Agency. Sixth summary edition</note>
+</biblStruct>
+
+<biblStruct coords="19,70.94,371.22,453.09,10.70;19,85.10,384.18,438.95,10.70;19,85.10,397.14,239.19,10.70" xml:id="b41">
+	<analytic>
+		<title level="a" type="main" coord="19,417.58,371.22,106.46,10.70;19,85.10,384.18,385.59,10.70">Effects of phosphorous supplementation on serum parathyroid hormone and bone morphology in osteoporosis</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">S</forename><surname>Goldsmith</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Jowsey</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">J</forename><surname>Dube</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">L</forename><surname>Riggs</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">D</forename><surname>Arnaud</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Kelly</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,478.67,384.18,45.39,10.70;19,85.10,397.14,175.31,10.70">Journal of Clinical Endocrinology and Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="523" to="532" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,416.12,453.33,10.70;19,85.10,429.08,235.59,10.70" xml:id="b42">
+	<analytic>
+		<title level="a" type="main" coord="19,229.82,416.12,253.64,10.70">Gastrointestinal Effects of Low-Digestible Carbohydrates</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">A</forename><surname>Grabitske</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">L</forename><surname>Slavin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,491.02,416.12,33.26,10.70;19,85.10,429.08,172.44,10.70">Critical Reviews in Food Science and Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="327" to="360" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,448.04,453.50,10.70;19,85.10,461.00,438.93,10.70;19,85.10,473.96,232.71,10.70" xml:id="b43">
+	<analytic>
+		<title level="a" type="main" coord="19,357.55,448.04,166.90,10.70;19,85.10,461.00,433.09,10.70">High phosphorous intake only slight affects serum minerals, urinary pyridinium crosslinks and renal function in young women</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Grimm</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Hein</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Fünfstück</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Jahreis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,85.10,473.96,169.52,10.70">European Journal of Clinical Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="153" to="161" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,492.92,453.40,10.70;19,85.10,505.88,439.00,10.70;19,85.10,518.84,438.95,10.70;19,85.10,531.80,50.40,10.70" xml:id="b44">
+	<analytic>
+		<title level="a" type="main" coord="19,85.10,505.88,439.00,10.70;19,85.10,518.84,278.82,10.70">Maternal breat-milk and intestinal bifidobacteria guide the compositional developement of the Bifidobacterium microbiota in infants at risk of allergic disease</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">M</forename><surname>Grönlund</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Gueimonde</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Laitinen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Kociubinski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Grönroos</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Salminen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Isolauri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,371.03,518.84,131.92,10.70">Clinical Experimental Allergy</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1764" to="1772" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,550.76,453.47,10.70;19,85.10,563.72,215.18,10.70" xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">C</forename><surname>Hodge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,392.59,550.76,131.83,10.70;19,85.10,563.72,48.74,10.70;19,232.51,563.72,29.39,10.70">Division of Pharmacology &amp; Toxicology</title>
+		<imprint>
+			<date type="published" when="1954-10-08">1954. 8 October. 1974</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Rochester</orgName>
+		</respStmt>
+	</monogr>
+	<note>JECFA</note>
+</biblStruct>
+
+<biblStruct coords="19,70.94,582.71,453.18,10.70;19,85.10,595.67,205.23,10.70" xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">C</forename><surname>Hodge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,222.56,595.67,29.39,10.70">JECFA</title>
+		<imprint>
+			<date type="published" when="1956-05-26">1956. 26 May. 1974</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Rochester, Division of Pharmacology &amp; Toxicology</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished Report from</note>
+</biblStruct>
+
+<biblStruct coords="19,70.94,614.63,453.32,10.70;19,85.10,627.59,439.16,10.70;19,85.10,640.55,438.95,10.70;19,85.10,653.51,274.06,10.70" xml:id="b47">
+	<analytic>
+		<title level="a" type="main" coord="19,249.84,614.63,49.39,10.70">Phosphorus</title>
+	</analytic>
+	<monogr>
+		<title level="m" coord="19,331.59,614.63,192.67,10.70;19,85.10,627.59,439.16,10.70;19,85.10,640.55,310.78,10.70">Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. National Academy of Sciences, Standing Committee on the Scientific Evaluation of Dietary Reference Intakes</title>
+		<imprint>
+			<publisher>Institute of Medicine (IOM). National Academy Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+		<respStmt>
+			<orgName>IoM (Institute of Medicine)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,70.94,672.47,453.50,10.70;19,85.10,685.43,439.02,10.70;19,85.10,698.39,439.17,10.70" xml:id="b48">
+	<analytic>
+		<title level="a" type="main" coord="19,116.32,672.47,408.13,10.70;19,85.10,685.43,439.02,10.70;19,85.10,698.39,165.46,10.70">Joint FAO/WHO Expert Committee on Food Additives) / WHO (World Health Organization), 1982a. Phosphated distarch phosphate: In: Toxicological Evaluation of Certain Food Additives. 26th JECFA Session</title>
+		<author>
+			<persName coords=""><surname>Jecfa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" coord="19,341.30,698.39,159.29,10.70">Rome. WHO Food Additives Series</title>
+		<imprint>
+			<date type="published" when="1982">Apr. 19-28, 1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,94.30,711.35,4.60,10.70;19,70.94,730.33,453.17,10.70;19,85.10,743.29,438.98,10.70;20,70.94,791.77,123.59,9.65" xml:id="b49">
+	<analytic>
+		<title level="a" type="main" coord="19,116.32,730.33,407.80,10.70;19,85.10,743.29,279.63,10.70">Joint FAO/WHO Expert Committee on Food Additives) / WHO (World Health Organization), 1982b. Phosphoric acid and phosphate salts</title>
+		<author>
+			<persName coords=""><surname>Jecfa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="19,393.09,743.29,131.00,10.70;20,70.94,791.77,56.09,9.65">Toxicological Evaluation of EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">1772</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,85.10,76.95,439.24,10.70;20,85.10,89.91,65.37,10.70" xml:id="b50">
+	<analytic>
+		<title level="a" type="main" coord="20,85.10,76.95,208.68,10.70">Certain Food Additives. 26th JECFA Session</title>
+	</analytic>
+	<monogr>
+		<title level="s" coord="20,389.93,76.95,134.41,10.70;20,85.10,89.91,25.59,10.70">Rome. WHO Food Additives Series</title>
+		<imprint>
+			<biblScope unit="issue">17</biblScope>
+			<date type="published" when="1982">Apr. 19-28, 1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,108.87,453.36,10.70;20,85.10,121.83,439.39,10.70;20,85.10,134.79,275.30,10.70" xml:id="b51">
+	<analytic>
+		<title level="a" type="main" coord="20,374.44,121.83,93.05,10.70">57th JECFA Session</title>
+		<author>
+			<persName coords=""><surname>Jecfa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="20,420.40,108.87,103.90,10.70;20,85.10,121.83,211.14,10.70">Modified starches: In: Compendium of Food Additive Specifications</title>
+		<title level="s" coord="20,112.70,134.79,167.24,10.70">Rome. FAO Food and Nutrition Paper</title>
+		<imprint>
+			<date type="published" when="2001-06-05">2001. June 5-14, 2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,153.75,453.46,10.70;20,85.10,166.71,439.18,10.70;20,85.10,179.67,185.43,10.70" xml:id="b52">
+	<analytic>
+		<title level="a" type="main" coord="20,303.29,153.75,221.11,10.70;20,85.10,166.71,434.25,10.70">High Phosphorus Intakes Acutely and Negatively Affect Calcium and Bone Metabolism in a Dose-Dependent Manner in Healthy Young Females</title>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Kemi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kärkkäinen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Lamberg-Allardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,85.10,179.67,119.58,10.70">British Journal of Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="545" to="552" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,198.63,453.41,10.70;20,85.10,211.59,439.59,10.70;20,85.10,224.55,347.56,10.70" xml:id="b53">
+	<analytic>
+		<title level="a" type="main" coord="20,408.91,198.63,115.45,10.70;20,85.10,211.59,439.59,10.70;20,85.10,224.55,157.10,10.70">Increased Calcium Intake Does Not Completely Counteract the Effects of Increased Phosphorus Intake on Bone: A Dose-Response Study in Healthy Females</title>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Kemi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kärkkäinen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Karp</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Laitinen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Lamberg-Allardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,249.90,224.55,119.69,10.70">British Journal of Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="832" to="839" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,243.54,453.52,10.70;20,85.10,256.50,438.91,10.70;20,85.10,269.46,439.28,10.70;20,85.10,282.42,109.56,10.70" xml:id="b54">
+	<analytic>
+		<title level="a" type="main" coord="20,115.34,256.50,408.68,10.70;20,85.10,269.46,399.86,10.70">Habitual high phosphorus intakes and foods with phosphate additives negatively affect serum PTH concentration: A cross-sectional study on healthy pre-menopausal women</title>
+		<author>
+			<persName coords=""><forename type="first">V</forename><forename type="middle">E</forename><surname>Kemi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Rita</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Mum</forename><surname>Kärkkäinen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Viljakainen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Outila</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Lamberg-Allardt</forename><surname>Cje</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,496.09,269.46,28.30,10.70;20,85.10,282.42,71.31,10.70">Public Health Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,301.38,399.44,10.70" xml:id="b55">
+	<analytic>
+		<title level="a" type="main" coord="20,153.26,301.38,156.20,10.70">Health properties of resistant starch</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">P</forename><surname>Nugent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,316.40,301.38,100.02,10.70">Nutrition Bulletin BNF</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="27" to="54" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,320.34,453.49,10.70;20,85.10,333.30,91.28,10.70" xml:id="b56">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">O"</forename><surname>Grady</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">M</forename></persName>
+		</author>
+		<title level="m" coord="20,163.77,320.34,274.29,10.70">National starch project, final report. Unpublished study report</title>
+		<meeting><address><addrLine>UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>The University of Reading</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,352.26,453.00,10.70;20,85.10,365.22,438.93,10.70;20,85.10,378.18,138.03,10.70" xml:id="b57">
+	<analytic>
+		<title level="a" type="main" coord="20,85.10,365.22,434.37,10.70">Phosphorus levels are associated with subclinical atherosclerosis in the general population</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">J</forename><surname>Onufrak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Bellasi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">J</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">A</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Cardarelli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">W</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Vaccarino</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Raggi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,85.10,378.18,67.20,10.70">Atherosclerosis</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page" from="424" to="431" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,397.14,453.45,10.70;20,85.10,410.12,438.90,10.70;20,85.10,423.08,245.28,10.70" xml:id="b58">
+	<monogr>
+		<title level="m" type="main" coord="20,351.19,397.14,173.21,10.70;20,85.10,410.12,113.65,10.70">Digestibility studies with chemically modified starches in man</title>
+		<author>
+			<persName coords=""><forename type="first">Jjl</forename><surname>Pieters</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><forename type="middle">A</forename><surname>Van Staveren</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Bgam</forename><surname>Brinkhuis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<biblScope unit="page">7</biblScope>
+			<pubPlace>Zeist, The Netherlands</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>TNO Central Instituut voor Voedingsonderzoek</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Report No. R3433. Unpublished study report</note>
+</biblStruct>
+
+<biblStruct coords="20,70.94,442.04,453.33,10.70;20,85.10,455.00,439.00,10.70;20,85.10,467.96,356.81,10.70" xml:id="b59">
+	<analytic>
+		<title level="a" type="main" coord="20,169.45,455.00,354.66,10.70;20,85.10,467.96,59.29,10.70">Amylase-Resistant Starch as Adjunct to Oral Rehydration Therapy in Children with Diarrhea</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Raghupathy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><forename type="middle">S</forename><surname>Ramakrishna</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">P</forename><surname>Oommen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Shovkat</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Priyaa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Dziura</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">P</forename><surname>Binder</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,151.76,467.96,226.86,10.70">Journal of Pediatric Gastroenterology and Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="362" to="368" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,486.92,432.13,10.70;20,70.94,505.88,453.28,10.70;20,85.10,518.84,439.35,10.70;20,85.10,531.80,438.86,10.70;20,85.10,544.76,140.07,10.70" xml:id="b60">
+	<analytic>
+		<title level="a" type="main" coord="20,142.45,486.92,195.65,10.70;20,274.23,505.88,250.00,10.70;20,85.10,518.84,65.28,10.70">Second report on modified starches (Opinion expressed 12 June 1981)</title>
+		<author>
+			<persName coords=""><forename type="first">Fjc</forename><surname>Roe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="20,344.62,486.92,158.46,10.70;20,70.94,505.88,166.38,10.70;20,177.32,518.84,347.13,10.70;20,85.10,531.80,412.27,10.70">Food Science and Techniques. Commission of the European Communities (EEC), Scientific Committee for Food (SCF); Reports of the Scientific Committee for Food</title>
+		<meeting><address><addrLine>Brussels, Belgium</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1979">1979. 1982</date>
+			<biblScope unit="page" from="7" to="9" />
+		</imprint>
+	</monogr>
+	<note>A brief review. Unpublished report. SCF (Scientific Committee for Food). th Series</note>
+</biblStruct>
+
+<biblStruct coords="20,70.94,563.72,453.38,10.70;20,85.10,576.71,439.14,10.70;20,85.10,589.67,290.36,10.70" xml:id="b61">
+	<monogr>
+		<title level="m" type="main" coord="20,284.21,563.72,240.11,10.70;20,85.10,576.71,77.60,10.70">Multi-generation study in rats with five chemically modified starches</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">P</forename><surname>Til</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Spanjers</forename><surname>Mth</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">P</forename><surname>De Groot</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<biblScope unit="page">17</biblScope>
+			<pubPlace>Zeist, The Netherlands</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>TNO Centraal Instituut voor Voedingsonderzoek</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Report No. 3403. Unpublished study report</note>
+</biblStruct>
+
+<biblStruct coords="20,70.94,608.63,453.33,10.70;20,85.10,621.59,389.12,10.70" xml:id="b62">
+	<analytic>
+		<title level="a" type="main" coord="20,325.15,608.63,199.13,10.70;20,85.10,621.59,251.91,10.70">Relation between serum phosphate level and cardiovascular event rate in people with coronary disease</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Tonelli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Sacks</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Pfeffer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Z</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Curhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,344.12,621.59,48.26,10.70">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="2627" to="2633" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,640.55,453.38,10.70;20,85.10,653.51,438.89,10.70;20,85.10,666.47,439.07,10.70;20,85.10,679.43,74.36,10.70" xml:id="b63">
+	<analytic>
+		<title level="a" type="main" coord="20,242.09,666.47,253.81,10.70">Evolution of symbiotic bacteria in distal human intestine</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">A</forename><surname>Mahowald</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">E</forename><surname>Ley</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">A</forename><surname>Lozupone</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Hamady</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">C</forename><surname>Martens</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Henrissat</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">M</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Minx</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Latreille</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Cordum</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Van Brunt</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">S</forename><surname>Fulton</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">A</forename><surname>Fulton</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">W</forename><surname>Clifton</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">K</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">D</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">I</forename><surname>Gordon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,503.31,666.47,20.87,10.70;20,85.10,679.43,31.80,10.70">PloS biology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">156</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.94,698.39,453.11,10.70;20,85.10,711.35,211.95,10.70" xml:id="b64">
+	<analytic>
+		<title level="a" type="main" coord="20,240.04,698.39,211.54,10.70">Overview of the gastrointestinal microbiota</title>
+		<author>
+			<persName coords=""><forename type="first">V</forename><forename type="middle">B</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><forename type="middle">M</forename><surname>Schmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="20,464.11,698.39,59.95,10.70;20,85.10,711.35,154.10,10.70">Advances in experimental medicine and biology</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">635</biblScope>
+			<biblScope unit="page" from="29" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

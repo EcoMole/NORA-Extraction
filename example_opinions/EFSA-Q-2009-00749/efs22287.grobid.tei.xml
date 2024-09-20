@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" coord="1,80.30,160.47,273.78,12.64;1,354.19,157.43,6.72,8.10;1,360.91,160.47,154.15,12.64;1,71.78,177.03,447.09,12.64;1,518.98,173.99,4.50,8.10;1,126.38,205.30,330.30,10.80;1,456.82,202.49,12.18,7.24">Scientific Opinion on the safety of ‘Glavonoid®’, an extract derived from the roots or rootstock of Glycyrrhiza glabra L., as a Novel Food ingredient</title>
+				<funder ref="#_27j3ep6">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2011-07">2011-07</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,143.26,627.67,70.10,8.10"><forename type="first">Carlo</forename><forename type="middle">V</forename><surname>Agostoni</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,222.22,627.67,71.81,8.10"><forename type="first">Jean-Louis</forename><surname>Bresson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,302.87,627.67,85.39,8.10"><forename type="first">Susan</forename><surname>Fairweather-Tait</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,396.87,627.67,47.19,8.10"><forename type="first">Albert</forename><surname>Flynn</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,452.86,627.67,38.66,8.10"><forename type="first">Ines</forename><surname>Golly</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,500.21,627.67,24.05,8.10;1,78.02,638.23,34.18,8.10"><forename type="first">Hannu</forename><surname>Korhonen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,119.49,638.23,53.21,8.10"><forename type="first">Pagona</forename><surname>Lagiou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,179.54,638.23,55.14,8.10"><forename type="first">Martinus</forename><surname>Løvik</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,241.50,638.23,73.81,8.10"><forename type="first">Rosangela</forename><surname>Marchelli</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,321.94,638.23,61.13,8.10"><forename type="first">Ambroise</forename><surname>Martin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,389.79,638.23,54.73,8.10"><forename type="first">Bevan</forename><surname>Moseley</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,451.54,638.23,72.95,8.10;1,78.02,648.79,30.14,8.10"><forename type="first">Monika</forename><surname>Neuhäuser- Berthold</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,114.94,648.79,78.50,8.10"><forename type="first">Hildegard</forename><surname>Przyrembel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,200.42,648.79,57.81,8.10"><forename type="first">Seppo</forename><surname>Salminen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,265.26,648.79,49.26,8.10"><forename type="first">Yolanda</forename><surname>Sanz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,344.65,648.79,38.25,8.10"><forename type="first">J</forename><forename type="middle">J )</forename><surname>Strain</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,389.19,648.79,56.83,8.10"><forename type="first">Stephan</forename><surname>Strobel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,452.47,648.79,41.38,8.10"><forename type="first">Inge</forename><surname>Tetens</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,500.49,648.79,23.99,8.10;1,78.02,659.35,18.40,8.10"><forename type="first">Daniel</forename><surname>Tomé</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,103.31,659.35,76.81,8.10"><forename type="first">Hendrik</forename><surname>Van Loveren</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,203.66,680.47,62.93,8.10"><forename type="first">Karl-Heinz</forename><surname>Engel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,316.98,680.47,62.24,8.10"><forename type="first">Marina</forename><surname>Heinonen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,138.69,691.03,101.89,8.10"><forename type="first">Monika</forename><surname>Neuhäuser-Berthold</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,246.85,691.03,52.95,8.10"><forename type="first">Annette</forename><surname>Pöting</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,465.81,691.03,54.10,8.10"><forename type="first">Hans</forename><surname>Verhagen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" coord="1,80.30,160.47,273.78,12.64;1,354.19,157.43,6.72,8.10;1,360.91,160.47,154.15,12.64;1,71.78,177.03,447.09,12.64;1,518.98,173.99,4.50,8.10;1,126.38,205.30,330.30,10.80;1,456.82,202.49,12.18,7.24">Scientific Opinion on the safety of ‘Glavonoid®’, an extract derived from the roots or rootstock of Glycyrrhiza glabra L., as a Novel Food ingredient</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">EFSA Journal</title>
+						<title level="j" type="abbrev">EFS2</title>
+						<idno type="ISSN">1831-4732</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">9</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<date type="published" when="2011-07" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">0869D5C2AFDD6ECD6F892C3427F6149F</idno>
+					<idno type="DOI">10.2903/j.efsa.2011.2287</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-04-29T08:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Glycyrrhiza glabra</term>
+					<term>liquorice</term>
+					<term>ethanolic extract</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,70.94,282.09,453.03,8.96;1,70.94,293.75,453.06,9.05;1,70.94,305.61,453.03,8.96;1,70.94,317.37,102.23,8.96">Following a request from the European Commission, the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA) was asked to deliver a scientific opinion on the safety of "Glavonoid" as a food ingredient in the context of Regulation (EC) No 258/97 taking into account the comments and objections of a scientific nature raised by Member States.</s><s coords="1,176.06,317.37,348.58,8.96;1,70.94,329.13,355.53,8.96">Glavonoid is an extract derived from the root or rootstock of Glycyrrhiza glabra L. by extraction with ethanol followed by further extraction with medium-chain triglycerides.</s><s coords="1,429.84,329.13,94.39,8.96;1,70.94,340.89,395.61,8.96">The applicant provided sufficient information on the specification, production, composition and the stability of Glavonoid.</s><s coords="1,469.20,340.89,54.82,8.96;1,70.94,352.65,453.43,8.96;1,70.94,364.41,298.33,8.96">The applicant intends to market Glavonoid as food supplements and as an ingredient for fruit juices, yoghurts and yoghurt drinks up to a dose of 300 mg per day to the general adult population.</s><s coords="1,373.25,364.41,151.15,8.96;1,70.94,376.17,320.04,8.96">A 90-day rat study showed a lowest observed adverse effect level (LOAEL) at a dose of 400 mg/kg bw per day.</s><s coords="1,394.96,376.17,129.41,8.96;1,70.94,387.93,433.87,8.96">Prothrombin-time and activated partial thromboplastin time (APTT) were analysed using a Benchmark Dose (BMD) modelling approach.</s><s coords="1,508.42,387.93,15.58,8.96;1,70.94,399.69,427.12,9.77">The BMD lower confidence limit (BMDL 05 ) for this study derived from APTT data is 167 mg/kg bw per day.</s><s coords="1,501.07,399.69,23.37,8.96;1,70.94,411.47,161.08,8.96">There are no concerns related to genotoxicity.</s><s coords="1,235.27,411.47,288.95,8.96">Studies on reproductive and developmental toxicity were not provided.</s><s coords="1,70.94,423.23,453.33,9.77;1,70.94,434.99,61.61,8.96">Extrapolation of the BMDL 05 from the rat study to a maximum intake for a 70 kg person results in 117 mg Glavonoid/day.</s><s coords="1,136.16,434.99,237.24,8.96">The human studies provided do not raise safety concerns.</s><s coords="1,377.00,434.99,147.54,8.96;1,70.94,446.75,326.82,8.96">The Panel considers that the human studies are consistent with the maximum level derived from the BMD approach.</s><s coords="1,401.35,446.75,123.01,8.96;1,70.94,458.51,159.53,8.96">The Panel considers that there are no concerns related to genotoxicity.</s><s coords="1,233.57,458.51,290.83,8.96;1,70.94,470.27,69.65,8.96">The safety of Glavonoid for pregnant and breast-feeding women has not been established.</s><s coords="1,144.69,470.27,379.53,8.96;1,70.94,482.03,117.64,8.96">The Panel concludes that the novel food ingredient Glavonoid is safe for the general adult population up to 120 mg/day.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="25" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="26" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="27" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="2,70.94,159.76,453.03,9.94;2,70.94,172.72,453.53,9.94;2,70.94,185.68,258.36,9.94">Glavonoid is an extract rich in polyphenolic type substances, derived from the root or rootstock of Glycyrrhiza glabra L. (liquorice root) by extraction with ethanol followed by further extraction of this ethanolic extract with medium-chain triglycerides (MCT).</s><s coords="2,332.29,185.68,191.93,9.94;2,70.94,198.64,453.18,9.94;2,70.94,211.60,453.32,9.94;2,70.94,224.56,218.89,9.94">According to the specification proposed by the applicant Glavonoid is a dark-brown coloured liquid, standardised using MCT to a content of approximately 3.0 % of the prenylated flavonoid glabridin, which is the most abundant constituent of the polyphenol fraction contained in the product.</s><s coords="2,293.06,224.56,230.91,9.94;2,70.94,237.41,158.22,10.04">Other identified prenylated flavonoids are glabrene, glabrol and 4"-O-methylglabridin.</s><s coords="2,236.00,237.52,288.21,9.94;2,70.94,250.51,453.49,9.94;2,70.94,263.47,218.15,9.94">The forty-five identified polyphenolic type substances were classified as chalcones, isoflavans, isoflavenes, 3-aryl coumarins, pterocarpans, 2-aryl benzofurans, flavones, isoflavones, flavanones and flavanols.</s><s coords="2,293.54,263.47,230.52,9.94;2,70.94,276.43,146.83,9.94">Batch testing confirmed that the product complies with the given specifications.</s><s coords="2,226.31,276.43,298.07,9.94;2,70.94,289.39,298.70,9.94">The applicant provided sufficient information regarding the specification, manufacture, composition and stability of Glavonoid.</s></p><p><s coords="2,70.94,313.39,453.15,9.94;2,70.94,326.35,192.96,9.94">Glycyrrhiza glabra L., the source of the novel food ingredient is a member of the Fabaceae family, and has a history of human consumption.</s><s coords="2,268.45,326.35,205.07,9.94">The roots are chewed as a mouth freshener.</s><s coords="2,478.07,326.35,46.37,9.94;2,70.94,339.31,453.33,9.94;2,70.94,352.27,263.05,9.94">In the EU extracts produced by boiling the root of Glycyrrhiza glabra L. and subsequently evaporating most of the water, are widely used in candies and confectionary.</s><s coords="2,338.54,352.27,185.41,9.94;2,70.94,365.23,172.95,9.94">Liquorice products are also used in soft drinks, herbal teas and chewing gum.</s><s coords="2,248.33,365.23,275.86,9.94;2,70.94,378.19,132.40,9.94">According to the information provided, Glavonoid is on the market in Japan and the USA.</s></p><p><s coords="2,70.94,402.21,452.96,9.94;2,70.94,415.17,267.87,9.94">The applicant intends to market Glavonoid as food supplements and as an ingredient for fruit juices, yoghurts and yoghurt drinks up to a dose of 300 mg per day.</s><s coords="2,341.69,415.17,182.76,9.94;2,70.94,428.13,50.15,9.94">The target population is the general adult population.</s></p><p><s coords="2,70.94,452.02,453.43,10.05;2,70.94,465.09,453.05,9.94;2,70.94,478.05,453.04,9.94;2,70.94,491.01,452.99,9.94;2,70.94,503.97,310.95,9.94">In a subchronic (90-day) oral toxicity study a "Liquorice Flavonoid Oil (LFO) -concentrated form" containing 3 % glabridin, which can be considered representative for Glavonoid, induced an effect on blood coagulation parameters, evidenced in a prolongation of prothrombin time (PT) and activated partial thromboplastin time (APTT), which caused haemorrhage in several organs and tissues and the death of several animals in the highest dose group (1600 mg/kg bw).</s><s coords="2,385.36,503.97,138.91,9.94;2,70.94,516.93,453.45,9.94;2,70.94,529.89,342.36,9.94">Additional studies showed that the anticoagulant effect was caused by inhibition of the synthesis of vitamin K-dependent coagulation factors, though the identity of the responsible substance(s) remains unknown.</s></p><p><s coords="2,70.94,553.89,453.17,9.94;2,70.94,566.88,104.04,9.94">A prolonged PT was statistically significant in male animals receiving the lowest dose level of 400 mg/kg bw per day.</s><s coords="2,178.45,566.88,345.56,9.94;2,70.94,579.84,46.17,9.94">Therefore this dose is considered as the lowest observed adverse effect level (LOAEL).</s><s coords="2,123.38,579.84,400.89,9.94;2,70.94,592.80,348.65,9.94">There are no further studies e.g. a long-term exposure studies or reproductive and developmental toxicity studies that might have shed light on the NOAEL.</s><s coords="2,424.64,592.80,99.82,9.94;2,70.94,605.76,453.11,9.94;2,70.94,618.72,368.68,9.94">Prothrombin-time and APTT were also analysed using a Benchmark Dose (BMD) modelling approach, following the recommendations in the guidance document of the Scientific Committee of EFSA.</s><s coords="2,442.74,618.72,81.69,9.94;2,70.94,631.68,214.94,9.94;2,286.01,636.03,6.96,6.26;2,292.97,631.68,231.21,9.94;2,70.94,644.64,136.16,9.94">The values for the BMD and BMD lower confidence limit (BMDL 05 ) derived from the APTT data of male rats provided lower values than the PT data.</s><s coords="2,210.22,644.64,52.23,9.94;2,262.61,648.99,6.96,6.26;2,271.73,644.64,252.50,9.94">The BMDL 05 for this study derived from APTT data is 167 mg/kg bw.</s><s coords="2,70.94,657.60,176.12,9.94;2,247.01,661.95,6.96,6.26;2,257.69,657.60,266.73,9.94;2,70.94,670.56,171.08,9.94">The extrapolation of this study BMDL 05 to a maximum intake for a 70 kg person results in 117 mg Glavonoid/day, rounded up to 120 mg.</s></p><p><s coords="2,70.94,694.56,310.79,9.94">The Panel considers that there are no concerns related to genotoxicity.</s></p><p><s coords="2,70.94,718.56,453.47,9.94;2,70.94,731.54,453.36,9.94">The reported six human studies examining a dose range of 100 to 600 mg Glavonoid per day did not show relevant changes in haematology, coagulation, clinical-chemistry and urinalysis parameters.</s><s coords="2,70.94,744.50,453.09,9.94;2,70.94,757.46,453.32,9.94;3,70.94,76.72,267.94,9.94">Because of the short treatment times, the dose levels used, and in particular the low number of study participants receiving higher doses, the Panel considers that these studies are not adequate to derive a safe level of intake, especially for longer-term consumption.</s><s coords="3,341.76,76.72,182.47,9.94;3,70.94,89.68,453.25,9.94;3,70.94,102.64,171.66,9.94">However, since the human studies do not raise safety concerns, the Panel considers that the human studies are consistent with the maximum level derived from the BMD approach.</s></p><p><s coords="3,70.94,126.64,453.07,9.94;3,70.94,139.60,453.34,9.94;3,70.94,152.56,97.97,9.94">Regarding the uncertainties concerning a possible impact on anticoagulant therapy, the Panel notes that no studies have been conducted to evaluate a possible interaction between Glavonoid and drugs on blood coagulation.</s><s coords="3,172.50,152.56,351.86,9.94;3,70.94,165.52,52.03,9.94">The safety of Glavonoid for pregnant and breast-feeding women has not been established.</s></p><p><s coords="3,70.94,189.52,453.04,9.94;3,70.94,202.48,80.04,9.94">The Panel concludes that the novel food ingredient Glavonoid is safe for the general adult population up to 120 mg/day.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BACKGROUND AS PROVIDED BY THE EUROPEAN COMMISSION</head><p><s coords="5,70.94,96.88,453.05,9.94;5,70.94,109.84,453.38,9.94;5,70.94,122.80,295.42,9.94">On 1 November 2007, KANEKA Pharma Europe N.V. submitted a request under Article 4 of the Novel Food Regulation (EC) N° 258/97 to the competent authorities of Belgium for placing on the market Glavonoid as a novel food ingredient and food supplement.</s></p><p><s coords="5,70.94,146.80,452.93,9.94;5,70.94,159.76,453.28,9.94;5,70.94,172.72,232.31,9.94">On 23 January 2009, the competent authorities of Belgium forwarded to the Commission their initial assessment report, which came to the conclusion that health risks related to the placing on the market of Glavonoid as food supplement are extremely low.</s></p><p><s coords="5,70.94,196.72,453.06,9.94;5,70.94,209.68,29.26,9.94">On 19 February 2009, the Commission forwarded the initial assessment report to the other Member States.</s><s coords="5,102.96,209.68,317.52,9.94">Several of the Member States submitted comments or raised objections.</s></p><p><s coords="5,70.94,233.68,453.08,9.94;5,70.94,246.67,73.89,9.94">In consequence, a Community Decision is now required under Article 7, paragraph 1 of Regulation (EC) No 258/97.</s></p><p><s coords="5,70.94,270.67,420.22,9.94;5,85.10,295.39,425.06,9.94">The concerns of a scientific nature raised by the Member States can be summarized as follows: Specification of the source and composition of the novel food ingredient is not sufficient.</s><s coords="5,515.20,295.39,9.00,9.94;5,85.10,308.35,438.87,9.94;5,85.10,321.31,383.25,9.94">In particular, clarification is needed regarding the composition of the lipid fraction including the polyphenol-type substances as well as the fraction of uncharacterised constituents.</s><s coords="5,473.17,321.31,50.79,9.94;5,85.10,334.27,227.26,9.94">The use of minimum and maximum values is recommended.</s><s coords="5,317.15,334.27,206.97,9.94;5,85.10,347.23,438.87,9.94;5,85.10,360.19,298.18,9.94">Furthermore, the documents provided do not show whether the testing laboratories were accredited under an internationally recognised system, which is a general requirement in the case of approval applications.</s></p><p><s coords="5,85.10,384.91,438.95,9.94;5,85.10,397.87,143.48,9.94">The Folin-Ciocalteu test does not allow determination of the polyphenol content but determination of the total reducing capacity.</s><s coords="5,234.21,397.87,289.82,9.94;5,85.10,410.85,150.98,9.94">Determination by HPLC is regarded as a suitable method to determine the polyphenol content.</s></p><p><s coords="5,85.10,435.57,307.34,9.94">The use of medium-chain triglycerides (MCT) is questionable.</s><s coords="5,399.53,435.57,124.63,9.94;5,85.10,448.53,291.05,9.94">In the scientific literature gastrointestinal problems after ingestion of MCTs were reported.</s><s coords="5,379.40,448.53,144.56,9.94;5,85.10,461.49,329.33,9.94">In addition, MCTs may alter the blood lipid concentrations (increase of cholesterol and triglyceride levels).</s></p><p><s coords="5,85.10,486.21,439.19,9.94;5,85.10,499.17,131.04,9.94">The manufacturing process of Glavonoid is described in sufficient detail except for the preliminary treatment of the raw material.</s><s coords="5,218.91,499.17,177.89,9.94">There is no mention of an HACCP plan.</s></p><p><s coords="5,85.10,523.89,362.34,9.94">Information on the stability of Glavonoid in the different food matrices is lacking.</s></p><p><s coords="5,85.10,548.61,439.01,9.94;5,85.10,561.57,327.88,9.94">The applicant is of the opinion that Glavonoid is substantially equivalent to liquorice extracts currently on the market except for the glycyrrhizinic acid content.</s><s coords="5,419.81,561.57,104.22,9.94;5,85.10,574.56,438.95,9.94;5,85.10,587.52,438.83,9.94;5,85.10,600.48,154.01,9.94">However, there is no information on possible selective isolation and concentration of constituents relative to existing liquorice products (i.e. the root and aqueous root extracts) that are used as the basis for arguments for a history of apparent safe use.</s><s coords="5,242.82,600.48,281.07,9.94;5,85.10,613.44,50.36,9.94">Therefore toxicological studies with the novel food ingredient are needed.</s></p><p><s coords="5,85.10,638.16,439.06,9.94;5,85.10,651.12,438.92,9.94;5,85.10,664.08,341.29,9.94">With regards to the use of Glavonoid in foodstuffs no information on the intended use levels was provided and no assessment of the anticipated intake levels on the basis of representative consumption data of the respective foodstuffs in the EU has been carried out.</s></p><p><s coords="5,85.10,688.80,439.23,9.94;5,85.10,701.76,206.23,9.94">The maximum daily intake of Glavonoid as recommended by the applicant (300 mg/day) is very close to the maximum doses tested in humans.</s><s coords="5,294.32,701.76,229.73,9.94;5,85.10,714.72,63.77,9.94">The doses used in the human studies are considered relatively low.</s><s coords="5,151.63,714.72,239.51,9.94">No long-term studies have been conducted in humans.</s></p><p><s coords="5,85.10,739.46,439.01,9.94;5,85.10,752.42,184.54,9.94">The equivalence between Liquorice Flavonoid Oil (LFO) used as test material in the clinical trials and Glavonoid needs to be demonstrated.</s><s coords="5,272.77,752.42,251.21,9.94;6,85.10,76.72,439.37,9.94;6,85.10,89.68,380.25,9.94">It is not clear whether or not LFO, which is described as a diluted form of Glavonoid, has also undergone extraction with MCT under the same conditions and therefore what is the content of glycyrrhizinic acid and other constituents in LFO.</s></p><p><s coords="6,85.10,114.40,438.93,9.94;6,85.10,127.36,300.16,9.94">There is a concern regarding the addition of Glavonoid to general foodstuffs that may cause an uncontrolled and excess intake in the elderly as well as in children.</s><s coords="6,388.38,127.36,135.96,9.94;6,85.10,140.32,438.91,9.94;6,85.10,153.28,251.93,9.94">No data on the likely intake in teenagers and younger children were provided but many of the food categories that might contain Glavonoid are potentially attractive to young age groups.</s></p><p><s coords="6,85.10,178.00,264.95,9.94">Full reports of the toxicological studies should be provided.</s><s coords="6,352.81,178.00,171.57,9.94;6,85.10,190.96,439.59,9.94;6,85.10,203.92,191.82,9.94">In the subchronic oral toxicity study in rats an anti-coagulant effect was observed and it was considered questionable to derive a noobservable adverse effect level (NOAEL).</s><s coords="6,280.88,203.92,243.10,9.94;6,85.10,216.88,261.93,9.94">A higher safety factor should be applied to derive an acceptable intake level for long-term human consumption.</s><s coords="6,350.51,216.88,173.69,9.94;6,85.10,229.84,129.02,9.94">Detailed results of the examinations in humans were not provided.</s><s coords="6,219.78,229.84,304.30,9.94;6,85.10,242.83,439.30,9.94;6,85.10,255.79,35.87,9.94">Thus there are concerns over the potential for effects on blood coagulation, particularly in sensitive individuals including patients undergoing anti-coagulant therapy.</s><s coords="6,125.67,255.79,256.52,9.94">The potential for an interaction with other factors (e.g.</s><s coords="6,386.86,255.79,137.14,9.94;6,85.10,268.75,45.56,9.94">aspirin intake) should also be examined.</s><s coords="6,136.08,268.75,387.88,9.94;6,85.10,281.71,239.88,9.94">In a scientific publication <ref type="bibr" coords="6,261.81,268.75,88.78,9.94" target="#b17">(Aoki et al., 2007)</ref> changes in haematology and related parameters were reported to have occurred in humans.</s><s coords="6,85.10,306.43,438.88,9.94;6,85.10,319.39,271.95,9.94">Specific constituents of the extract have structural similarities with oestrogens and there is therefore a potential for interaction with oestrogen receptors.</s><s coords="6,360.07,319.39,163.90,9.94;6,85.10,332.35,439.30,9.94;6,85.10,345.31,391.30,9.94">Furthermore, since a high proportion of the components in the extract have not been characterised the potential of Glavonoid to induce endocrine effects, including effects in infants and young children, should be examined.</s><s coords="6,479.77,345.31,44.23,9.94;6,85.10,358.27,291.52,9.94">Questions also arise over potential effects on the efficacy of drugs (e.g.</s><s coords="6,381.66,358.27,54.94,9.94">Tamoxifen).</s><s coords="6,441.63,358.27,82.31,9.94;6,85.10,371.23,416.63,9.94">Additional animal experiments are necessary to rule out undesirable effects on embryonic or foetal development.</s></p><p><s coords="6,85.10,395.95,428.13,9.94">The applicant should further clarify the record of the in vivo micronucleus test in rat liver cells.</s><s coords="6,516.37,395.95,7.97,9.94;6,85.10,408.93,439.30,9.94;6,85.10,421.89,130.81,9.94">A test on unscheduled DNA synthesis (UDS) on mammalian cells in vivo should also be conducted to confirm the negative results.</s><s coords="6,220.37,421.89,303.63,9.94;6,85.10,434.85,318.61,9.94">The effects of chronic exposure in experimental animals have not been examined and there is no proof that Glavonoid is not carcinogenic.</s></p><p><s coords="6,85.10,459.57,438.82,9.94;6,85.10,472.53,217.47,9.94">Long-term clinical studies on nutritional safety and effectiveness are missing and there are concerns in relation to usefulness and necessity.</s><s coords="6,306.16,472.53,217.81,9.94;6,85.10,485.49,245.31,9.94">The effects of Glavonoid on the availability and metabolism of nutrients in the diet cannot be evaluated.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TERMS OF REFERENCE AS PROVIDED BY THE EUROPEAN COMMISSION</head><p><s coords="6,70.94,541.65,453.45,9.94;6,70.94,554.61,452.99,9.94;6,70.94,567.60,171.26,9.94">In accordance with Article 29 (1) (a) of Regulation (EC) No 178/2002, the European Food Safety Authority is asked to carry out the additional assessment for Glavonoid as food ingredient in the context of Regulation (EC) N° 258/97.</s></p><p><s coords="6,70.94,591.60,453.36,9.94;6,70.94,604.56,229.65,9.94">EFSA is asked to carry out the additional assessment and to consider the elements of scientific nature in the comments raised by the other Member States.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ASSESSMENT</head><p><s coords="7,70.94,108.88,453.36,9.94;7,70.94,121.73,453.46,10.05;7,70.94,134.69,453.05,10.04">In accordance with the Commission Recommendation 97/618/EC (EC, 1997) Glavonoid derived from the root or rootstock of Glycyrrhiza glabra L. is allocated to Class 2.1 "a complex (non-GM derived) novel food ingredient the source of the novel food having a history of food use in the community".</s><s coords="7,70.94,147.76,452.94,9.94;7,70.94,160.72,453.08,9.94;7,70.94,173.68,453.01,9.94">The assessment of the safety of this novel food ingredient is based on data supplied in the original application, the initial assessment by the Belgian competent authority, the concerns and objections of the other Member States and the responses of the applicant to these questions and those of Belgium.</s><s coords="7,70.94,186.64,453.44,9.94;7,70.94,199.60,229.86,9.94">The data are required to comply with the information required for novel foods of Class 2.1 i.e. structured schemes I, II, III, IX, X, XI, XII and XIII.</s></p><p><s coords="7,70.94,223.60,453.02,9.94;7,70.94,236.56,453.42,9.94">In its initial assessment report, the competent authority of Belgium came to the conclusion that health risks related to the placing on the market of Glavonoid as food supplement are extremely low.</s><s coords="7,70.94,249.55,453.11,9.94;7,70.94,262.51,453.04,9.94;7,70.94,275.47,27.32,9.94">Regarding the use of Glavonoid in foods it was considered that health risks are extremely low at doses of 300 mg/day with proper labelling and clear information for consumers on the maximum tolerated doses.</s><s coords="7,103.45,275.47,420.65,9.94;7,70.94,288.43,362.62,9.94">However, particular attention should be paid to potential risks linked to a multiplicity of applications for the placing on the market of products containing polyphenols.</s><s coords="7,437.90,288.43,86.05,9.94;7,70.94,301.39,453.52,9.94;7,70.94,314.35,373.46,9.94">It is noted that the novel food ingredient is intended by the applicant to be marketed to overweight subjects in order to reduce body fat and body weight as well as total and LDL blood cholesterol.</s><s coords="7,449.79,314.35,74.16,9.94;7,70.94,327.31,453.15,9.94;7,70.94,340.27,215.88,9.94">This assessment concerns only risk that might be associated with consumption and is not an assessment of the efficacy of Glavonoid with regard to any claimed benefit.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Specification of the Novel Food (NF)</head><p><s coords="7,70.94,395.23,453.03,9.94;7,70.94,408.21,453.14,9.94;7,70.94,421.17,258.36,9.94">Glavonoid is an extract rich in polyphenolic type substances, derived from the root or rootstock of Glycyrrhiza glabra L. (liquorice root) by extraction with ethanol followed by further extraction of this ethanolic extract with medium-chain triglycerides (MCT).</s><s coords="7,332.29,421.17,191.93,9.94;7,70.94,434.13,453.17,9.94;7,70.94,447.09,453.48,9.94;7,70.94,460.05,153.85,9.94">According to the specification proposed by the applicant, Glavonoid is a dark-brown coloured liquid, standardised using MCT to a content of 3.0 % +/-0.5 % glabridin, which is the most abundant constituent of the polyphenol fraction contained in the product (Table <ref type="table" coords="7,212.79,460.05,4.00,9.94" target="#tab_0">1</ref>).</s></p><p><s coords="7,70.94,484.05,452.96,9.94;7,70.94,497.01,170.59,9.94">According to the information in the application dossier, Glavonoid comprises 30 % ethanolic extract from liquorice roots and 70 % MCT.</s><s coords="7,245.61,497.01,278.40,9.94;7,70.94,509.97,398.62,9.94">The content of polyphenolic type substances was determined using a colourimetric method (Folin-Ciocalteu) and a single value of 24 % was reported.</s><s coords="7,472.81,509.97,51.31,9.94;7,70.94,522.93,453.08,9.94;7,70.94,535.78,222.03,10.05">In addition, single values determined by HPLC were reported for the contents of glabridin (3%), glabrene (0.3 %), glabrol (0.6 %) and 4"-O-methylglabridin (0.6 %).</s><s coords="8,388.27,76.98,136.14,8.96;8,388.27,88.74,65.52,8.96;8,70.94,100.98,270.20,8.96;8,70.94,124.00,274.07,9.94">Brilliant green lactose bile (BGLB) method * quantification limit 0.005 % (w/w); detection limit 0.001 % (w/w) These specifications were verified for each production batch.</s><s coords="8,348.26,124.00,175.88,9.94;8,70.94,136.96,226.34,9.94">Additional analyses were performed on some production batches to assure quality control.</s><s coords="8,300.75,136.96,223.26,9.94;8,70.94,149.92,299.01,9.94">Pesticide residues were determined for every new batch of the starting material Glycyrrhiza glabra L. roots (Table <ref type="table" coords="8,357.94,149.92,4.00,9.94" target="#tab_1">2</ref>).</s><s coords="8,391.75,355.29,117.45,8.96;8,511.06,353.10,2.88,5.83;8,70.94,365.50,3.09,6.26;8,76.58,368.49,307.65,8.96">Standard agar plating method c a negative/10 g Glavonoid capsules (containing approximately 2 g Glavonoid).</s><s coords="8,386.77,368.49,133.31,8.96;8,78.02,380.49,176.57,8.96;8,70.94,390.22,3.48,6.26;8,76.94,393.21,307.63,8.96;8,70.94,403.18,3.09,6.26;8,76.58,406.09,422.08,9.05;8,78.02,418.09,420.97,9.06;8,70.94,449.13,453.00,9.94;8,70.94,462.09,389.55,9.94">Criterion for Salmonella does not comply with requirements of EU Regulation b negative/1 g Glavonoid capsules (containing approximately 0.2 g Glavonoid) c According to the additional information provided by the applicant the method complies with "the standard methods of analysis in food safety regulation" issued by the Health Labour and Welfare Ministry of Japan Analysis of three representative batches of Glavonoid confirmed that the product complies with the proposed specification (Table <ref type="table" coords="8,208.31,462.09,4.60,9.94" target="#tab_0">1</ref>) and the additional in-house criteria listed in Table <ref type="table" coords="8,452.21,462.09,4.14,9.94" target="#tab_1">2</ref>.</s><s coords="8,464.08,462.09,60.19,9.94;8,70.94,475.05,444.95,9.94">However, the NDA Panel notes that the analysis of microbial contaminants does not comply with the EU standard.</s></p><p><s coords="8,70.94,499.05,452.99,9.94;8,70.94,512.97,61.29,9.94">At the request of the Panel the applicant provided additional information concerning the composition of Glavonoid.</s><s coords="8,135.00,512.97,192.79,9.94">The results are presented in Tables <ref type="table" coords="8,292.06,512.97,5.52,9.94" target="#tab_2">3</ref> and<ref type="table" coords="8,319.05,512.97,4.37,9.94" target="#tab_3">4</ref>.</s><s coords="9,70.94,478.17,453.16,9.94;9,70.94,491.13,452.96,9.94;9,70.94,504.09,453.20,9.94;9,70.94,517.05,453.13,9.94;9,70.94,530.01,133.02,9.94">Considering that Glavonoid had a total fat content determined by extraction with ether (including polyphenolic type substances) of more than 99 % (Table <ref type="table" coords="9,333.23,491.13,4.60,9.94" target="#tab_2">3</ref>) and that the total content of MCT, free fatty acids, phospholipids and sterols was approximately 68 % (Table <ref type="table" coords="9,381.64,504.09,4.00,9.94" target="#tab_3">4</ref>), the applicant anticipated that the remaining constituents in the ether extract of Glavonoid, i.e. approximately 30 %, are hydrophobic polyphenolic-type substances.</s></p><p><s coords="9,70.94,554.01,453.28,9.94;9,70.94,567.00,175.54,9.94">In addition, the applicant provided a HPLC chromatogram (UV detector at 282 nm) of an ethanolic extract of Glycyrrhiza glabra L. roots.</s><s coords="9,250.34,567.00,203.07,9.94">The roots were extracted with 95 % ethanol.</s><s coords="9,457.12,567.00,67.02,9.94;9,70.94,579.96,453.42,9.94;9,70.94,592.92,322.44,9.94">Separation and refinement of the extract were performed with reverse-phase and normal-phase silica gel column chromatography and preparative HPLC with a reverse-phase column.</s><s coords="9,398.42,592.92,125.86,9.94;9,70.94,605.88,453.01,9.94;9,70.94,618.84,187.40,9.94">All peaks, whose area was larger than 0.2 % of the total peak area, were further analysed by mass spectrometry and structures for 45 compounds were tentatively assigned.</s><s coords="9,262.43,618.84,262.00,9.94;9,70.94,631.80,89.82,9.94">The most prominent peak corresponded to the prenylated flavonoid glabridin.</s><s coords="9,165.56,631.80,358.50,9.94;9,70.94,644.65,153.66,10.04">Other prominent peaks were identified as the prenylated flavonoids glabrene, glabrol and 4"-O-methylglabridin.</s><s coords="9,229.15,644.76,295.10,9.94;9,70.94,657.72,453.42,9.94;9,70.94,670.68,286.84,9.94">The 45 polyphenolic-type substances, for which structures were tentatively assigned, were classified as chalcone, isoflavan, isoflavene, 3-arylcoumarin, pterocarpan, 2-arylbenzofuran, flavone, isoflavone, flavanone and flavanol.</s><s coords="9,362.82,670.68,161.36,9.94;9,70.94,683.64,453.03,9.94;9,70.94,696.60,453.24,9.94;9,70.94,709.56,91.58,9.94">In addition, comparisons of HPLC chromatograms (UV detector at 282 nm and 254 nm) of five batches of ethanolic extracts of Glycyrrhiza glabra L. roots showed that the patterns of peaks were qualitatively and quantitatively relatively consistent.</s></p><p><s coords="9,70.94,733.58,453.06,9.94;9,70.94,746.54,453.43,9.94;9,70.94,759.50,243.67,9.94">The applicant claimed that there was no difference in polyphenolic type compounds between the ethanolic extract of Glycyrrhiza glabra L. root and the final product Glavonoid, which is obtained by further extraction of the ethanolic extract using MCT.</s><s coords="9,318.09,759.50,205.77,9.94;10,97.68,791.80,94.52,8.96;10,70.94,76.72,453.06,9.94;10,70.94,89.68,306.73,9.94">The total glabridin content in the end product  <ref type="table" coords="10,97.68,791.80,54.25,8.96" target="#tab_1">Journal 2011;</ref><ref type="table" coords="10,151.93,791.80,40.27,8.96" target="#tab_1">9(7):2287</ref> Glavonoid (one batch) corresponded to 87 % of the amount present at the first stage of the production process, i.e. after ethanol extraction of Glycyrrhiza glabra L. root.</s><s coords="10,381.86,89.68,142.38,9.94;10,70.94,102.64,357.12,9.94">According to the applicant, the recovery rate is also applicable to the total amount of hydrophobic polyphenols.</s><s coords="10,431.20,102.64,92.78,9.94;10,70.94,115.60,453.41,9.94;10,70.94,128.56,452.87,9.94;10,70.94,141.52,453.02,9.94;10,70.94,154.48,49.32,9.94">Determination of the relative peak areas corresponding to 28 polyphenolic type substances in relation to the glabridin peak area revealed that the relative abundance of these 28 substances at the first of the three stages of the production process, i.e. after ethanol extraction, was in the same range as in the end product Glavonoid.</s></p><p><s coords="10,70.94,178.48,291.34,9.94">The Panel concludes that the product is sufficiently characterised.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p><s coords="10,112.94,214.72,235.57,9.94;10,70.94,233.44,453.16,9.94;10,70.94,246.43,453.51,9.94;10,70.94,259.39,151.79,9.94">Effect of the production process applied to the NF Root or rootstock of Glycyrrhiza glabra L. (liquorice root) is extracted with ethanol and food grade MCT under proprietary process conditions, which are fully disclosed to the Member States, the European Commission and EFSA.</s></p><p><s coords="10,70.94,283.39,452.86,9.94;10,70.94,296.35,453.36,9.94;10,70.94,309.31,300.02,9.94">According to the applicant, extraction of the ethanolic extract from liquorice root with MCT reduces the amount of glycyrrhizinic acid from approximately 0.2 % in the concentrated ethanol solution to below the detection limit of 0.001 % in Glavonoid (see section 1).</s><s coords="10,374.43,309.31,149.44,9.94;10,70.94,322.27,149.04,9.94">The applicant anticipates that the levels of other constituents, e.g.</s><s coords="10,224.90,322.27,299.06,9.94;10,70.94,335.23,238.40,9.94">glycyrrhetinic acid, liquiritin and liquiritigenin, are also reduced although this was not substantiated by analytical data.</s></p><p><s coords="10,70.94,359.23,453.25,9.94;10,70.94,372.19,441.48,9.94">The food grade MCT used in the production process is produced by esterification of glycerol and fatty acids derived from coconut and/or palm oil followed by refining and deodorisation processes.</s><s coords="10,517.46,372.19,6.55,9.94;10,70.94,385.15,452.98,9.94">It contains mixed tocopherols obtained from soybean oil diluted with rice oil as a natural preservative.</s></p><p><s coords="10,70.94,398.11,211.02,9.94">A product specification for MCT was provided.</s></p><p><s coords="10,70.94,422.13,453.08,9.94;10,70.94,435.09,453.05,9.94;10,70.94,448.05,71.21,9.94">The NDA Panel asked for information on whether a HACCP or an equivalent system is applied to ensure the consistency of the production process and a constant quality and composition of the novel food ingredient.</s><s coords="10,145.50,448.05,378.43,9.94;10,70.94,461.01,240.47,9.94">The applicant confirmed that manufacture of Glavonoid is carried out in compliance with Good Manufacturing Practice (GMP) provisions.</s><s coords="10,314.31,461.01,210.07,9.94;10,70.94,473.86,453.14,10.04;10,70.94,486.93,192.36,9.94">As for HACCP, hazard analysis is based on the procedure described in "Recommended International Code of Practice General Principle of Food Hygiene (CAC/RCP <ref type="bibr" coords="10,163.79,486.93,29.03,9.94">1-1969</ref><ref type="bibr" coords="10,229.44,486.93,24.18,9.94">1- , Rev.4-2003))</ref>".</s></p><p><s coords="10,70.94,510.93,453.58,9.94;10,70.94,523.78,453.75,10.05;10,70.94,536.85,173.59,9.94">The stability of Glavonoid under different storage conditions (-4, +4, 15 and 40° C) was analysed by determination of the levels of the prenylated flavonoids glabridin, glabrene, glabrol and 4"Omethylglabridin using HPLC analysis.</s><s coords="10,248.88,536.85,275.42,9.94;10,70.94,549.70,453.33,10.05;10,70.94,562.77,52.40,9.94">Under all conditions applied, the levels of glabrene, glabrol and 4"O-methylglabridin after 6 months were practically identical to the levels at the start of the experiment.</s><s coords="10,126.81,562.77,397.63,9.94;10,70.94,575.76,266.54,9.94">The levels of glabridin were slightly reduced after storage at 25 and 40° C but still 98.0 and 92.7 %, respectively, of the initial levels after 6 months.</s></p><p><s coords="10,70.94,599.76,453.38,9.94;10,70.94,612.61,453.40,10.05;10,70.94,625.68,377.62,9.94">In a photostability study (test apparatus EYELA, LST-300D, 25° C, 60 % relative humidity, 5000 Lux) the levels of glabridin, glabrene, glabrol and 4"-O-methylglabridin after 8 weeks were 91.5, 77.9, 93.3 and 104.7 %, respectively, of the initial levels as determined by HPLC analysis.</s></p><p><s coords="10,70.94,649.57,453.12,10.05;10,70.94,662.64,380.68,9.94">In response to the Member States" comments, the applicant provided information on the stability of water-soluble formulations in powder form containing 10 % and 30 % Glavonoid.</s><s coords="10,455.93,662.64,68.08,9.94;10,70.94,675.60,362.21,9.94">The amount of glabridin was determined (method not indicated) after storage at 5, 25 and 40° C.</s><s coords="10,436.14,675.60,88.30,9.94;10,70.94,688.56,453.12,9.94;10,70.94,701.52,143.45,9.94">After storage for 12 months at 25° C the level of glabridin in the 10 % and 30 % formulation was 94.7 % and 95.1 %, respectively, of the initial level.</s><s coords="10,217.99,701.52,305.93,9.94;10,70.94,714.48,451.16,9.94">After storage of both formulations at 40° C the amount of glabridin was 90.6 % and 92.7 %, respectively, of the initial level after 6 months, which was the last time point.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">History of the organism used as the source of the NF</head><p><s coords="11,70.94,95.68,453.09,9.94;11,70.94,108.64,291.70,9.94">Glycyrrhiza glabra L., the plant used as the source for the production of Glavonoid, is a member of the Fabaceae family and has a history of human consumption.</s><s coords="11,367.31,108.64,156.97,9.94;11,70.94,121.60,43.98,9.94">The roots are chewed as a mouth freshener.</s><s coords="11,118.15,121.60,406.38,9.94;11,70.94,134.56,348.64,9.94">In the EU extracts produced by boiling the root of Glycyrrhiza glabra L. and subsequently evaporating most of the water, are widely used in candies and confectionary.</s><s coords="11,423.18,134.56,100.81,9.94;11,70.94,147.52,453.07,9.94;11,70.94,160.48,109.19,9.94">These extracts contain glycyrrhizinic acid, a sweetener more than 50 times as sweet as sucrose, which also has pharmacological effects.</s><s coords="11,183.51,160.48,340.53,9.94;11,70.94,173.44,22.08,9.94">Liquorice root extracts are also used in soft drinks, herbal teas and chewing gum.</s><s coords="11,95.78,173.44,228.16,9.94">Liquorice extract is also added to tobacco products.</s></p><p><s coords="11,70.94,197.44,453.01,9.94;11,70.94,210.40,452.99,9.94;11,70.94,223.36,159.25,9.94">In the USA liquorice (glycyrrhiza) root, liquorice root extract (extracted by boiling water) and ammoniated glycyrrhizinic acid are direct food substances generally recognised as safe (GRAS) in accordance with 21 CFR 184.1408.</s><s coords="11,233.66,223.36,290.64,9.94;11,70.94,236.32,383.47,9.94">These regulations allow the use of these ingredients as a flavour enhancer and flavouring agent in various food categories at specified maximum levels.</s></p><p><s coords="11,70.94,260.35,453.50,9.94;11,70.94,273.31,371.20,9.94">According to the applicant ethanolic extracts from the roots of Glycyrrhiza glabra L. are used in Japan and the USA as food additives and as health-ingredients in food supplements.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Anticipated intake/extent of the use of the NF</head><p><s coords="11,70.94,328.16,453.04,10.04;11,70.94,341.23,453.45,9.94;11,70.94,354.19,21.80,9.94">As a reaction to the Member States" concerns regarding potential intake levels of Glavonoid for specific population groups, the applicant provided more detailed information regarding the intended uses.</s><s coords="11,97.44,354.19,426.56,9.94;11,70.94,367.15,291.55,9.94">Glavonoid is intended to be marketed first as food supplement in the form of capsules and tablets containing 100 to 300 mg of the novel food ingredient.</s><s coords="11,366.93,367.15,157.00,9.94;11,70.94,380.11,266.09,9.94">Daily dose, directions for use and specific warnings would be included in the product label.</s><s coords="11,341.34,380.11,182.78,9.94;11,70.94,393.07,452.98,9.94;11,70.94,406.05,107.18,9.94">The applicant proposes that pregnant or breast-feeding women as well as individuals taking prescription drugs should consult their healthcare practitioner prior to use.</s></p><p><s coords="11,70.94,430.05,453.28,9.94;11,70.94,442.90,64.25,10.04">The applicant had originally proposed to incorporate Glavonoid also into a relatively large variety of food products.</s><s coords="11,138.33,442.90,385.70,10.04;11,70.94,455.97,293.52,9.94">However, as a reaction to the Member States" comments, the number of food products was reduced to fruit juices, yoghurts and yoghurt drinks (Table <ref type="table" coords="11,352.45,455.97,4.00,9.94" target="#tab_4">5</ref>).</s><s coords="11,70.94,623.52,453.06,9.94;11,70.94,636.48,453.07,9.94;11,70.94,649.44,98.93,9.94">The applicant proposes to advise consumers by product labelling to limit their daily intake to a maximum of two products containing the novel ingredient, equivalent to a maximum total daily intake of 300 mg Glavonoid.</s><s coords="11,173.22,649.44,350.72,9.94;11,70.94,662.40,218.74,9.94">The specific warnings for particular population groups (as indicated above for supplements) would also be included in the label.</s></p><p><s coords="11,70.94,686.40,453.13,9.94;11,70.94,699.36,453.00,9.94;11,70.94,712.32,232.23,9.94">Based on data from the Concise European Food Consumption Database for the United Kingdom (UK) the applicant has estimated the potential intake of Glavonoid resulting from the proposed food uses for the UK population (16-64 years) <ref type="bibr" coords="11,233.62,712.32,64.79,9.94" target="#b47">(UKDA, 2002)</ref>.</s><s coords="11,305.93,712.32,171.90,9.94">The results are summarised in Table <ref type="table" coords="11,469.55,712.32,4.14,9.94" target="#tab_6">6</ref>.</s><s coords="11,480.59,712.32,43.80,9.94;11,70.94,725.28,453.04,9.94;11,70.94,738.26,174.96,9.94">The mean (consumer only) combined intake from consumption of fruit juices, yoghurts and yoghurt drinks was estimated to be 273 mg Glavonoid/day.</s><s coords="11,248.90,738.26,275.13,9.94;11,70.94,751.22,315.30,9.94">This is still below the intake of 300 mg/day, which should not be exceeded according to the recommendation made by the applicant.</s><s coords="11,389.83,751.22,134.29,9.94;12,70.94,76.72,328.44,9.94">High level consumption (95th percentile) would result in a combined Glavonoid intake of 675 mg/day.</s><s coords="12,402.97,76.72,121.02,9.94;12,70.94,89.57,453.46,10.05;12,70.94,102.64,453.05,9.94;12,70.94,115.60,333.60,9.94">It is noted that this type of intake assessment methodology is generally considered to be "worst case" as a result of several conservative assumptions made in the consumption estimates, assuming that all food items within a food category contain the ingredient at the maximum specified level of use.</s><s coords="12,70.94,310.99,453.32,9.94;12,70.94,323.95,71.57,9.94">The NDA Panel noted that in the intake assessment only the population group from 16 to 64 years was considered.</s><s coords="12,146.25,323.95,378.20,9.94;12,70.94,336.91,452.97,9.94;12,70.94,349.87,453.46,9.94;12,70.94,362.83,75.07,9.94">On request of the Panel to provide an intake assessment for children (12-16 years), the applicant indicated that he does not conduct additional intake estimation for children between 12 and 16 years and that products containing Glavonoid would specifically be targeted to the general adult population.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Information from previous exposure to the NF or its source</head><p><s coords="12,70.94,417.81,147.10,9.94">A diluted form of Glavonoid, i.e.</s><s coords="12,221.04,417.81,303.42,9.94;12,70.94,430.77,52.88,9.94">Liquorice Flavonoid Oil (LFO), is marketed by Kaneka Corporation in the USA.</s><s coords="12,126.82,430.77,397.20,9.94;12,70.94,443.73,453.04,9.94;12,70.94,456.69,361.46,9.94">The company has notified the use of LFO to the Food and Drug Administration (FDA) as a new dietary ingredient to be used in dietary supplements (capsules) at doses up to 900 mg/day, which is equivalent to 300 mg Glavonoid/day (Docket No.1995S-0316, RPT348).</s></p><p><s coords="12,70.94,480.69,453.09,9.94;12,70.94,493.54,453.27,10.04;12,70.94,506.61,65.00,9.94">According to the applicant there were no reports of undesirable events from more than 66,000 "bottles" sold in the Japanese market and from more than 56,400 products sold in the US market from 2008 onwards.</s></p><p><s coords="12,70.94,530.50,453.32,10.05;12,70.94,543.57,453.09,9.94;12,70.94,556.53,219.59,9.94">One "bottle" refers to a food supplement product that contains capsules for one month with a daily dose of 300 mg Glavonoid for the USA and 200 mg for Japan (until February 2009, 3000 bottles were sold in Japan with a daily dose of only 100 mg).</s><s coords="12,294.00,556.53,230.43,9.94;12,70.94,569.52,453.06,9.94;12,70.94,582.48,267.87,9.94">Kaneka indicates that 3,600 and 5,700 bottles were sold to its employees which provided capsules with a daily dose of 100 and 300 mg, respectively and which contain a safety survey in the form of a questionnaire.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Nutritional information on the NF</head><p><s coords="12,70.94,637.44,384.89,9.94">Glavonoid contains approximately 70 g medium-chain triglycerides (MCT) per 100 g.</s><s coords="12,458.94,637.44,65.22,9.94;12,70.94,650.40,453.05,9.94;12,70.94,663.36,241.36,9.94">With regard to the fatty acid content, 99.7 % is octanoic acid (C8:0, common name caprylic acid) and 0.3 % is decanoic acid (C10:0, common name capric acid).</s><s coords="12,318.28,663.36,205.70,9.94">The energy content of MCT is 8.4 kcal/g.</s><s coords="12,70.94,676.32,453.24,9.94;12,70.94,689.28,452.98,9.94;12,70.94,702.24,175.99,9.94">Considering a daily intake of 300 mg Glavonoid/person/day, which should not be exceeded as suggested by the applicant, the nutritional value contributed by the additional MCT intake is marginal in relation to the total daily lipid intake.</s></p><p><s coords="12,70.94,726.24,453.17,9.94;12,70.94,739.22,237.85,9.94">MCT are normal constituents of the human diet; they occur for example in coconut oil, palm kernel oil and in the milk fat of cows, goats and sheep.</s><s coords="12,314.20,739.22,209.77,9.94;12,70.94,752.18,453.04,9.94">In the human gastrointestinal tract MCT are hydrolysed, and the fatty acids are absorbed and further metabolised using the normal pathways of</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Microbiological information on the NF</head><p><s coords="13,70.94,157.60,453.17,9.94;13,70.94,170.56,134.63,9.94">The microbiological analysis of Glavonoid showed numbers for aerobic plate counts &lt; 1000 cfu/g, and absence of coliforms/2.22</s><s coords="13,208.80,170.56,8.16,9.94">g.</s><s coords="13,223.61,170.56,300.62,9.94;13,70.94,183.52,158.36,9.94">E. coli and Salmonella were absent in 2 g and fungi were absent in 0.2 g (see section 2 of the opinion).</s><s coords="13,232.29,183.52,292.03,9.94;13,70.94,196.48,350.32,9.94">These data do not raise concern but the NDA Panel notes that the microbiological analysis was not carried out according to the EU requirements.</s></p><p><s coords="13,70.94,220.48,453.04,9.94;13,70.94,233.44,453.30,9.94;13,70.94,246.43,232.33,9.94">Analyses of two batches of Glavonoid for the presence of mycotoxins showed that the levels of aflatoxins (B1, B2, G1, G2) and ochratoxin A were below the minimum limit of detection of the methods applied (5 ppb and 0.05 ppm, respectively).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.">Toxicological information on the NF</head><p><s coords="13,70.94,301.39,452.98,9.94;13,70.94,314.35,441.18,9.94">The applicant has conducted a study on subchronic oral toxicity using rats as well as several genotoxicity studies using a concentrated form of liquorice flavonoid oil (LFO) as test material.</s><s coords="13,516.20,314.35,7.97,9.94;13,70.94,327.31,435.35,9.94">A summary of these toxicological studies was published by <ref type="bibr" coords="13,338.76,327.31,129.13,9.94">Nakagawa et al. (2008a and</ref><ref type="bibr" coords="13,472.23,327.31,29.20,9.94">2008b)</ref>.</s><s coords="13,510.60,327.31,13.44,9.94;13,70.94,340.27,453.10,9.94;13,70.94,353.23,452.95,9.94;13,70.94,366.19,453.04,9.94;13,70.94,379.15,132.21,9.94">On request of EFSA, the applicant provided the full study reports and confirmed that the production process of LFO, which is a commercial product containing 1 % glabridin, is identical with that of Glavonoid except that the latter product is further diluted with MCT in order to obtain a glabridin concentration of 1 % in LFO.</s><s coords="13,206.27,379.15,318.01,9.94;13,70.94,392.00,408.02,10.05">Thus, the test material containing 3 % glabridin, which is used in these studies (named "LFOconcentrated form") can be considered representative for Glavonoid.</s></p><p><s coords="13,70.94,416.13,453.04,9.94;13,70.94,429.09,453.09,9.94;13,70.94,442.05,34.77,9.94">In addition, the Panel requested additional information on the bioavailability of Glavonoid in rats and humans and a comparison and estimate to which extent the bioavailability may differ between these species.</s><s coords="13,109.30,442.05,414.80,9.94;13,70.94,455.01,328.72,9.94">As a response, the applicant provided data on the bioavailability of glabridin determined by administration of LFO containing 1 % glabridin in rats <ref type="bibr" coords="13,322.91,455.01,71.92,9.94" target="#b30">(Ito et al., 2007)</ref>.</s><s coords="13,403.13,455.01,121.20,9.94;13,70.94,467.86,208.73,10.04">The respective information for humans is described under "Clinical trials".</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.1.">Kinetics</head><p><s coords="13,70.94,522.93,453.21,9.94;13,70.94,535.89,453.41,9.94;13,70.94,548.85,74.80,9.94">Male Sprague-Dawley rats (n = 12) were administered by stomach tube a single dose of LFO containing 1 % glabridin, equivalent to a dose of approximately 10 mg glabridin/kg bodyweight (bw) <ref type="bibr" coords="13,70.94,548.85,70.04,9.94" target="#b30">(Ito et al., 2007)</ref>.</s><s coords="13,148.61,548.85,375.43,9.94;13,70.94,561.81,233.63,9.94">Blood samples were obtained 0, 0.5, 1, 2, 4, 6, 16 and 24 hrs after the administration and the concentration of glabridin was determined.</s><s coords="13,308.78,561.81,215.23,9.94;13,70.94,574.80,453.16,9.94;13,70.94,587.76,150.95,9.94;13,222.17,592.11,5.22,6.26;13,233.57,587.76,47.23,9.94">Glabridin showed a maximum concentration in blood of 145 nmol/L (46.9 µg/L) at 1 hr after the administration which decreased gradually over 24 hr after dosing with elimination T ½ of 8.5 hr.</s><s coords="13,286.90,587.76,116.58,9.94;13,403.63,592.11,15.28,6.26;13,424.99,587.76,99.35,9.94;13,70.94,600.72,152.16,9.94">The bioavailability AUC (o-∞) was calculated to be 1.3 µmol/L x h (0.42 µg/mL x h).</s><s coords="13,226.57,600.72,297.44,9.94;13,70.94,613.68,358.53,9.94">Further examinations showed that glabridin was also detectable in the liver, kidneys, mesenteric fat and kidney leaf fat 2 hr after the administration.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.2.">Subchronic oral toxicity</head><p><s coords="13,70.94,668.53,453.26,10.05;13,70.94,681.60,453.37,9.94;13,70.94,694.56,113.46,9.94">"LFO -concentrated form" was administered by gastric intubation to groups of 10 male and 10 female Sprague-Dawley rats at doses of 400, 600, 800 or 1600 mg/kg bw per day for 90 days <ref type="bibr" coords="13,453.60,681.60,70.71,9.94" target="#b33">(Kawabe, 2004;</ref><ref type="bibr" coords="13,70.94,694.56,108.59,9.94">Nakagawa et al., 2008b)</ref>.</s><s coords="13,188.23,694.56,336.13,9.94;13,70.94,707.52,77.08,9.94">The vehicle control group received MCT, and an additional control group received corn oil.</s></p><p><s coords="13,70.94,731.54,353.61,9.94">The animals were observed daily for clinical signs of toxicity and mortality.</s><s coords="13,428.86,731.54,95.00,9.94;13,70.94,744.50,453.04,9.94;13,70.94,757.46,453.55,9.94;14,70.94,76.72,453.54,9.94">During the treatment period several rats died (one female in the MCT control group, one female each in the groups receiving 400 and 800 mg/kg bw per day, and two females receiving 1600 mg/kg bw per day; two males receiving 800 mg/kg bw per day and eight males receiving 1600 mg/kg bw per day).</s></p><p><s coords="14,70.94,89.68,453.09,9.94;14,70.94,102.64,453.53,9.94;14,70.94,115.60,301.05,9.94">Considering the results of the haematology, macroscopic and histopathological examinations (haemorrhage in several organs and tissues, see below) the death of eight males as well as one female receiving 1600 mg/kg bw per day is related to the test material.</s><s coords="14,376.66,115.60,147.50,9.94;14,70.94,128.56,453.32,9.94;14,70.94,141.52,38.34,9.94">Due to the number of only two surviving animals, the data for males of the highest dose group were not included in the statistical analysis.</s><s coords="14,114.81,141.52,355.93,9.94">There were no relevant differences in food and water intake between the groups.</s></p><p><s coords="14,70.94,165.52,453.07,9.94;14,70.94,178.48,352.19,9.94">Haematology examinations carried out at the end of the treatment period showed a number of differences in groups receiving LFO compared with the MCT control group.</s><s coords="14,427.32,178.48,96.83,9.94;14,70.94,191.44,452.97,9.94;14,70.94,204.40,452.99,9.94;14,70.94,217.36,273.78,9.94">In particular, in male rats, prothrombin time (PT) was statistically significantly prolonged at 400 mg/kg bw (12.5 sec versus 11.1 sec in the MCT control group) and 800 mg/kg bw (21.9 sec), and a trend was evident at 600 mg/kg bw (15.2 sec) and 1600 mg/kg bw (24.1 sec).</s><s coords="14,350.11,217.36,173.93,9.94;14,70.94,230.32,452.94,9.94;14,70.94,243.31,453.38,9.94;14,70.94,256.27,137.79,9.94">Activated partial thromboplastin time (APTT) was statistically significantly prolonged at 800 mg/kg bw (81.8 sec versus 32.9 sec in the MCT control group), and trends were evident at 400 mg/kg bw (37.5 sec), 600 mg/kg bw (48.9 sec) and 1600 mg/kg bw (97.1 sec).</s><s coords="14,211.73,256.27,143.12,9.94">These effects were dose-related.</s><s coords="14,357.74,256.27,166.55,9.94;14,70.94,269.23,184.88,9.94">PT and APTT were also prolonged in female animals of the highest dose group.</s><s coords="14,258.69,269.23,265.69,9.94;14,70.94,282.19,453.21,9.94;14,70.94,295.15,453.07,9.94;14,70.94,308.11,453.41,9.94;14,70.94,321.07,31.07,9.94">In addition, male animals showed a dose-related decrease in red blood cell counts at 600 mg/kg bw and higher doses and haematocrit at 400 mg/kg bw and higher doses, and there was an increase of mean corpuscular haemoglobin (MCH) (800 mg/kg bw and 1600 mg/kg bw) and in mean corpuscular haemoglobin concentration MCHC (600 mg/kg bw and higher doses).</s><s coords="14,105.36,321.07,418.74,9.94;14,70.94,334.03,306.04,9.94">White blood cell counts in male animals administered LFO were consistently higher reaching statistical significance only in the group receiving 600 mg/kg bw.</s><s coords="14,381.53,334.03,142.39,9.94;14,70.94,346.99,251.10,9.94">An increase in the reticulocyte counts was identified in males of the highest dose group.</s></p><p><s coords="14,70.94,370.99,453.10,9.94;14,70.94,383.95,453.36,9.94;14,70.94,396.91,453.43,9.94;14,70.94,409.89,452.94,9.94;14,70.94,422.85,56.48,9.94">In clinical-chemistry analyses males of the groups receiving 400 mg/kg bw and higher doses and females receiving 600 mg/kg bw and higher doses showed a dose-related increase in alanine amino transferase (ALT) activity compared with the MCT control group (regarding the male animals in relation to the corn oil control group, a relevant increase in ALT activity was only seen in the highest dose group).</s><s coords="14,131.50,422.85,392.54,9.94;14,70.94,435.81,453.20,9.94">The activity of aspartate amino transferase (AST) was lower in males (800 mg/kg bw and 1600 mg/kg bw) and females (1600 mg/kg bw), which is not considered toxicologically relevant.</s></p><p><s coords="14,70.94,448.77,453.03,9.94;14,70.94,461.73,453.64,9.94;14,70.94,474.69,49.50,9.94">Females of the highest dose group showed a higher alkaline phosphatase (ALP) activity, and in males the values were consistently higher (600 mg/kg bw and higher doses) although not statistically significant.</s><s coords="14,125.00,474.69,385.56,9.94">Males and females of the highest dose group showed a higher total bilirubin level.</s><s coords="14,514.98,474.69,9.00,9.94;14,70.94,487.65,332.98,9.94">In males (800 mg/kg bw and 1600 mg/kg bw) creatinine levels were higher.</s><s coords="14,407.63,487.65,116.43,9.94;14,70.94,500.61,453.38,9.94;14,70.94,513.57,324.86,9.94">Female animals showed a reduced glucose level at 600 mg/kg bw and higher doses compared with the MCT control group and at 800 and 1600 mg/kg bw also in relation to the corn oil control group.</s><s coords="14,399.99,513.57,123.87,9.94;14,70.94,526.53,453.07,9.94;14,70.94,539.49,320.30,9.94">In males the levels of total cholesterol and phospholipids were higher (400 mg/kg bw and higher doses) compared with the MCT control group but comparable to the levels in the corn oil control croup.</s><s coords="14,394.24,539.49,129.81,9.94;14,70.94,552.45,382.61,9.94">These differences in glucose, cholesterol and phospholipid levels are not considered toxicologically relevant.</s><s coords="14,460.27,552.45,63.76,9.94;14,70.94,565.44,453.47,9.94;14,70.94,578.40,174.28,9.94">Male animals (600 mg/kg bw and higher doses) showed a dose-dependently reduced blood potassium level compared with the MCT control group.</s></p><p><s coords="14,70.94,602.40,452.98,9.94;14,70.94,615.36,356.05,9.94">Determinations of the weights of selected organs and tissues at necropsy showed higher absolute but not relative pituitary weights in male animals (600 mg/kg bw and higher doses).</s><s coords="14,429.99,615.36,93.96,9.94;14,70.94,628.32,371.21,9.94">The differences were not dose-related and not accompanied by histopathological changes in this organ.</s><s coords="14,446.12,628.32,77.91,9.94;14,70.94,641.28,429.49,9.94">In females of the highest dose group, absolute spleen weights were lower and relative kidney weights were higher.</s><s coords="14,503.19,641.28,20.84,9.94;14,70.94,654.24,269.91,9.94">Also in these organs no histopathological changes were identified.</s></p><p><s coords="14,70.94,678.24,453.42,9.94;14,70.94,691.20,453.02,9.94;14,70.94,704.16,32.14,9.94">Macroscopic examination of the animals in the high dose group (1600 mg/kg bw), whose deaths were due to treatment with LFO showed signs of haemorrhage, such as dark red discoloration in several organs.</s><s coords="14,106.43,704.16,417.79,9.94;14,70.94,717.12,197.53,9.94">In one of the surviving male rats dark red discoloration of the musculature was found, which is also probably related to the test material.</s><s coords="14,272.18,717.12,251.79,9.94;14,70.94,730.10,453.09,9.94;14,70.94,743.06,453.15,9.94">Histopathological examination of these animals showed signs of haemorrhage in several organs and tissues, including lymph nodes, thymus, nasal cavity, stomach, pancreas, testes, epididymides, prostate, skeletal musculature, brain and skin.</s><s coords="14,70.94,756.02,239.42,9.94">Haematopoesis in the bone marrow was also noted.</s><s coords="14,314.82,756.02,209.22,9.94;15,70.94,76.72,453.66,9.94;15,70.94,89.68,77.09,9.94">Furthermore, inflammatory lesions, apoptosis, necrosis and atrophy, were observed in several organs and considered to be changes accompanying the haemorrhage.</s><s coords="15,151.40,89.68,372.63,9.94;15,70.94,102.64,28.55,9.94">In the salivary glands, minimal or slight hypertrophy of acinar cells was frequently found.</s><s coords="15,104.04,102.64,420.41,9.94;15,70.94,115.60,337.10,9.94">Several other findings, which appeared with equal frequency and severity in the high-dose group and the control groups, were considered unrelated to the test material.</s></p><p><s coords="15,70.94,139.60,391.98,9.94">In the 90-day study a variety of changes were observed in animals administered LFO.</s><s coords="15,466.75,139.60,57.29,9.94;15,70.94,152.56,453.09,9.94;15,70.94,165.52,411.86,9.94">The decisive effect is an impact on blood coagulation, i.e. prolongation of PT and APTT, which caused haemorrhage and the death of one female and eight male animals at the highest dose level.</s><s coords="15,486.39,165.52,37.75,9.94;15,70.94,178.48,395.00,9.94">Some of the observed other changes in haematology and clinical-chemistry parameters, e.g.</s><s coords="15,472.05,178.48,52.25,9.94;15,70.94,191.44,453.53,9.94;15,70.94,204.40,121.32,9.94">reticulocyte counts, red blood cell counts and haematocrit are probably related to the blood coagulation effect and the resulting haemorrhage.</s><s coords="15,196.71,204.40,327.17,9.94;15,70.94,217.36,453.06,9.94;15,70.94,230.32,324.42,9.94">Since the difference in PT in male animals was statistically significant even at the lowest dose level, the lowest dose administered in this study, i.e. 400 mg/kg bw per day, should be regarded as the lowest observed adverse effect level (LOAEL).</s></p><p><s coords="15,70.94,254.35,453.29,9.94;15,70.94,267.31,453.04,9.94;15,70.94,280.27,96.45,9.94">Prothrombin-time and APTT were also analysed using a Benchmark Dose (BMD) modelling approach, following the recommendations in the guidance document of the Scientific Committee of EFSA <ref type="bibr" coords="15,101.66,280.27,60.97,9.94" target="#b22">(EFSA, 2009)</ref>.</s><s coords="15,171.22,280.27,305.68,9.94;15,476.98,284.62,6.96,6.26;15,483.94,280.27,40.50,9.94;15,70.94,293.23,328.99,9.94">The values for the BMD and BMD lower confidence limit (BMDL 05 ) derived from the APTT data of male rats provided lower values than the PT data.</s><s coords="15,403.18,293.23,52.35,9.94;15,455.98,297.58,6.96,6.26;15,465.22,293.23,59.33,9.94;15,70.94,306.19,322.22,9.94">The BMDL 05 for this study derived from APTT data is 167 mg/kg bw (see Appendix for the details).</s></p><p><s coords="15,70.94,330.19,453.30,9.94;15,70.94,343.15,453.75,9.94;15,70.94,356.11,60.90,9.94">The publication of <ref type="bibr" coords="15,165.52,330.19,87.29,9.94">Nakagawa (2008b)</ref> contains a summary of an additional study, which was conducted in order to determine the mechanism of the anticoagulant effect induced by LFO in the 90day rat study.</s><s coords="15,135.19,356.11,388.88,9.94;15,70.94,368.96,179.66,10.05">Three groups of male Sprague-Dawley rats (n = 5 or 3) received a diet containing 5 % "LFOconcentrated form" for 20 days.</s><s coords="15,253.74,368.96,270.30,10.04;15,70.94,382.03,260.72,9.94">One group (n = 5) received a diet with 5 % LFO for 13 days followed by a normal rodent diet for the remaining 7 days.</s><s coords="15,334.68,382.03,189.25,9.94;15,70.94,394.99,144.92,9.94">Two control groups (n = 5 or 3) received a standard rodent diet for 20 days.</s><s coords="15,219.00,394.99,305.33,9.94;15,70.94,407.97,266.17,9.94">One of the groups (n = 5) fed with the LFO-containing diet received doses of 70 mg/kg bw by i.p. injection on days 13 and 14.</s><s coords="15,340.71,407.97,183.63,9.94;15,70.94,420.93,349.59,9.94">As in the 90-day study administration of LFO induced prolongation of PT and APTT compared with the control group.</s><s coords="15,423.65,420.93,100.33,9.94;15,70.94,433.89,241.59,9.94">The values returned to normal levels within 2 days after vitamin K injection.</s><s coords="15,315.88,433.89,208.24,9.94;15,70.94,446.85,379.90,9.94">Furthermore, PT and APTT values returned to normal levels within 2 days after cessation of feeding the LFO-containing diet.</s><s coords="15,456.35,446.85,67.97,9.94;15,70.94,459.81,453.74,9.94;15,70.94,472.77,452.99,9.94;15,70.94,485.73,49.51,9.94">At day 20 the activities of the vitamin K-dependent coagulation factors II, VII, IX and X were decreased in LFOtreated animals, while there was no decrease in the group receiving the additional treatment with vitamin K.</s><s coords="15,125.60,485.73,398.42,9.94;15,70.94,498.69,453.35,9.94;15,70.94,511.65,283.55,9.94">The PT and APTT remained prolonged on day 20 in animals treated with LFO, but animals that had received vitamin K on days 13 and 14 showed normal levels at day 20 indicating that the effect of vitamin K was maintained for at least 7 days.</s><s coords="15,359.79,511.65,164.10,9.94;15,70.94,524.61,338.02,9.94">In animals receiving only LFO the concentration of fibrinogen was increased compared with untreated animals.</s></p><p><s coords="15,70.94,548.61,453.25,9.94;15,70.94,561.57,430.24,9.94">Based on these results the authors concluded that the blood anticoagulant effect was caused by an inhibition of the synthesis of vitamin K-dependent coagulation factors II, VII, IX and X.</s><s coords="15,506.94,561.57,17.26,9.94;15,70.94,574.56,453.02,9.94;15,70.94,587.52,453.04,9.94;15,70.94,600.48,106.11,9.94">The mechanism of action of LFO was considered to be the same, in terms of inhibition of the synthesis of vitamin K-dependent coagulation factors, as in the case of warfarin, which is used as a rodenticide and anticoagulant drug.</s><s coords="15,180.88,600.48,343.05,9.94;15,70.94,613.44,134.27,9.94">The similarly is also reflected in observed higher sensitivity of male rats in comparison with female rats.</s><s coords="15,210.03,613.44,314.28,9.94;15,70.94,626.40,453.05,9.94">The authors assume that flavonoids contained in LFO, in particular compounds with structures similar to that of coumarin, are responsible for the anticoagulant effect.</s><s coords="15,70.94,639.36,453.42,9.94;15,70.94,652.32,196.27,9.94">The NDA Panel is aware that specific coumarin derivatives, i.e. 4-hydroxycoumarins like warfarin, are therapeutically used as anticoagulants.</s><s coords="15,272.39,652.32,251.87,9.94;15,70.94,665.28,453.03,9.94;15,70.94,678.24,209.95,9.94">All 4-hydroxycoumarin anticoagulants share an enolic benzopyran structure, which is considered essential to their common pharmacological activity as vitamin K antagonists <ref type="bibr" coords="15,176.33,678.24,99.80,9.94" target="#b20">(Au and Rettie, 2008)</ref>.</s><s coords="15,285.44,678.24,239.03,9.94;15,70.94,691.20,452.94,9.94;15,70.94,704.16,279.05,9.94">However, none of the polyphenolic type substances identified in Glavonoid shows this specific chemical structure or that of the structurally related indane-1,3-diones, which also acts as vitamin K antagonist.</s><s coords="15,355.03,704.16,169.14,9.94;15,70.94,717.12,409.64,9.94">The substance(s) responsible for the anticoagulant effect of Glavonoid and also the exact mechanism of action remains unknown.</s></p><p><s coords="15,70.94,741.14,453.20,9.94;15,70.94,754.10,253.75,9.94">The Panel notes by in vitro data that glabridin inhibits the activity of cytochrome P450 (CYP) enzymes 3A4, 2B6 and 2C9 in a reconstituted system.</s><s coords="15,329.25,754.10,194.70,9.94;16,70.94,76.72,453.74,9.94;16,70.94,89.68,153.05,9.94">Glabridin as well as liquorice root extract inhibit the activity of the major human drug metabolising isozyme CYP3A4 in a time, concentrationand NADPH-dependent manner.</s><s coords="16,231.18,89.68,293.30,9.94;16,70.94,102.64,265.35,9.94">The concentration required for half-maximal inactivation by glabridin was 7 µM for CYP3A4 and 12 µM for CYP2B6.</s><s coords="16,339.76,102.64,184.38,9.94;16,70.94,115.60,453.10,9.94;16,70.94,128.56,187.87,9.94;16,259.13,132.91,2.32,6.26;16,261.41,128.56,91.57,9.94">The Panel notes that the observed steady state levels of plasma glabridin reached in the human studies after oral administration of LFO are low in relation to the inactivation constant (K I ) <ref type="bibr" coords="16,268.83,128.56,74.63,9.94" target="#b17">(Aoki et al. 2007</ref>).</s><s coords="16,356.69,128.56,167.51,9.94;16,70.94,141.52,453.30,9.94;16,70.94,154.48,288.42,9.94">However, the inhibition of CYP 3A4 and 2B6 by the flavan glabridin is a mechanism-based irreversible inactivation and correlates with a loss of the intact haem moiety of the enzyme <ref type="bibr" coords="16,274.62,154.48,79.98,9.94" target="#b34">(Kent et al., 2002)</ref>.</s><s coords="16,362.48,154.48,161.97,9.94;16,70.94,167.44,453.07,9.94;16,70.94,180.40,302.65,9.94">If this effect occurs in vivo it can be anticipated that the inactivated isozymes have to be replaced by newly synthesised CYP proteins, which would cause effects on substrate/drug pharmacokinetics.</s><s coords="16,380.19,180.40,143.82,9.94;16,70.94,193.36,453.06,9.94;16,70.94,206.32,261.65,9.94">The impact of inactivation of CYP3A4 moreover depends on the relative contribution of intestinal and hepatic metabolism to the first-pass metabolism of a given drug <ref type="bibr" coords="16,241.59,206.32,86.22,9.94">(Zhou et al., 2005a)</ref>.</s><s coords="16,335.59,206.32,188.93,9.94;16,70.94,219.28,101.29,9.94">No information has been provided relating to this kinetic context.</s><s coords="16,175.95,219.28,348.07,9.94;16,70.94,232.24,346.90,9.94">Moreover, information on whether an irreversible inhibition of CYP3A4 and 2B6 by glabridin and liquorice root extract also occurs in vivo is not available.</s></p><p><s coords="16,70.94,256.27,453.44,9.94;16,70.94,269.23,453.39,9.94;16,70.94,282.19,453.11,9.94;16,70.94,295.15,407.56,9.94">The Panel notes that despite the knowledge of in vitro data of a mechanism-based inhibition, the clinical importance of CYP3A4 inactivation cannot be assessed without in vivo studies, i.e. the risk of a potential food-drug interaction and subsequent toxicities of concomitant drugs that are CYP3A4 substrates, is neither qualitatively nor quantitatively predictable exclusively by in vitro data.</s></p><p><s coords="16,70.94,319.15,453.26,9.94;16,70.94,332.11,453.49,9.94;16,70.94,345.07,187.68,9.94">The Panel concludes that in the absence of in vivo data (e.g. the altered clearance of coadministered drugs) the relevance of the mentioned findings with regard to a possible impact on concomitant drug metabolism or therapy cannot be assessed.</s></p><p><s coords="16,70.94,369.07,453.11,9.94;16,70.94,382.03,453.46,9.94;16,70.94,394.88,117.90,10.04">According to the applicant Glavonoid does not only contain the most abundant polyphenolic flavonoid among all liquorice flavanoids, the glabridin, but also polyphenols such as glabrene, glabrol and 4"-O-methylglabridin.</s><s coords="16,193.51,394.99,330.51,9.94;16,70.94,407.97,302.23,9.94">No data have been provided that could exclude further inactivations of human cytochrome P450s by these structure-analogous components.</s></p><p><s coords="16,70.94,431.97,453.75,9.94;16,70.94,444.93,453.40,9.94;16,70.94,457.89,453.10,9.94;16,70.94,470.85,337.11,9.94">The phase I -metabolism of the prodrug tamoxifen is catalysed by the cytochromes CYP3A4 /5 to N-Desmethyl-Tamoxifen and additionally by CYP 2C9 to 4-hydroxytamoxifen in humans; the CYP2D6 and CYP3A5 isoforms are predominantly involved in the ensuing formation of Endoxifen, which is the pharmacologically active substance <ref type="bibr" coords="16,247.77,470.85,85.57,9.94" target="#b24">(Goetz et al., 2008;</ref><ref type="bibr" coords="16,336.26,470.85,67.04,9.94" target="#b31">Jin et al., 2005)</ref>.</s><s coords="16,410.92,470.85,113.24,9.94;16,70.94,483.81,453.17,9.94;16,70.94,496.77,453.56,9.94">Although it is known that the anticancer agent tamoxifen and its main metabolites are potent inhibitors of oxidases of the cytochrome P-450 system, clinical data on tamoxifen-food interactions are scant <ref type="bibr" coords="16,434.86,496.77,79.85,9.94">(Zhou et al. 2005b</ref>).</s></p><p><s coords="16,70.94,509.73,453.09,9.94;16,70.94,522.69,397.85,9.94">The Panel notes that due to a possible prothrombin time prolongation in humans the tamoxifen therapy is not recommended in combination with anticoagulant drugs of coumarin-type.</s><s coords="16,472.40,522.69,52.29,9.94;16,70.94,535.65,229.71,9.94">As such, S-Warfarin is mainly metabolised through CYP2C9.</s><s coords="16,304.96,535.65,219.54,9.94;16,70.94,548.61,23.76,9.94">Glabridin competitively inhibits this isozyme in vitro.</s><s coords="16,98.05,548.61,425.93,9.94;16,70.94,561.57,438.44,9.94">The Panel notes that no human intervention data have been provided from which the relevance of a potential pharmacokinetic interaction of glabridin-tamoxifen could have been assessed in vivo.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.3.">Genotoxicity</head><p><s coords="16,70.94,616.45,453.29,10.05;16,70.94,629.52,315.63,9.94">Tests on gene mutations in bacteria using "LFOconcentrated form" were conducted in accordance with OECD Guideline 471 using 4 strains of Salmonella enterica var.</s><s coords="16,390.05,629.52,134.31,9.94;16,70.94,642.48,453.55,9.94;16,70.94,655.44,84.53,9.94">Typhimurium (TA98, TA100, TA1535 and TA1537) and E. coli strain WP2 uvrA (pKM101) and the pre-incubation method <ref type="bibr" coords="16,70.94,655.44,79.77,9.94" target="#b32">(Kamigaito, 2003)</ref>.</s><s coords="16,158.47,655.44,365.85,9.94;16,70.94,668.29,453.04,10.04;16,70.94,681.36,88.00,9.94">There was no increase in the number of revertant colonies in any of the five tested strains up to the highest concentration of 5000 μg LFO/plate in the presence and absence of metabolic activation (S9 mix).</s></p><p><s coords="16,70.94,705.25,453.05,10.04;16,70.94,718.32,453.14,9.94">"LFO-concentrated form" was tested for induction of chromosomal aberrations in mammalian cells in accordance with OECD Guideline 473 using Chinese hamster lung (CHL/IU) cells <ref type="bibr" coords="16,448.78,718.32,70.55,9.94" target="#b19">(Asakura, 2003)</ref>.</s></p><p><s coords="16,70.94,731.30,453.14,9.94;16,70.94,744.26,453.41,9.94;16,70.94,757.22,111.27,9.94">There was no increase in the number of cells with structural chromosomal aberrations or polyploidy after continuous treatment of cells (for 24 hours and 48 hours) and after short-time treatment (6 hrs) in the absence of S9 mix.</s><s coords="16,187.73,757.22,336.21,9.94;17,70.94,791.80,121.26,8.96;17,70.94,76.72,453.08,9.94;17,70.94,89.68,351.91,9.94">However, there was an increase in the number of cells with structural EFSA Journal 2011;9(7):2287 chromosome aberrations (chromatid breaks and chromatid exchanges) at the highest concentration that could be evaluated, after short-time treatment in the presence of S9 Mix.</s><s coords="17,426.56,89.68,97.54,9.94;17,70.94,102.64,453.36,9.94;17,70.94,115.60,274.02,9.94">In a confirmation test (short-time treatment in the presence of S9 mix, only) a dose-dependent increase in the number of cells with structural chromosome aberrations was observed.</s><s coords="17,349.30,115.60,175.14,9.94;17,70.94,128.56,453.52,9.94;17,70.94,141.52,453.14,9.94;17,70.94,154.48,453.28,9.94;17,70.94,167.44,158.40,9.94">Although the purpose of the test is to detect structural chromosome aberrations, the NDA Panel notes that in both the main (short-time treatment in the presence of S9 mix, only) and the confirmation test the number of cells showing polyploidy was also increased, indicating that the test material may have the potential to induce numerical chromosome aberrations.</s><s coords="17,232.11,167.44,268.15,9.94">This issue was not specifically addressed in the study report.</s></p><p><s coords="17,70.94,191.33,453.18,10.05;17,70.94,204.40,453.18,9.94">A bone marrow micronucleus test with "LFOconcentrated form" was carried out in male Fisher (F344) rats, the protocol being largely in accordance with OECD Guideline 474 <ref type="bibr" coords="17,442.33,204.40,77.01,9.94">(Noguchi, 2003a)</ref>.</s><s coords="17,70.94,217.36,453.05,9.94;17,70.94,230.32,148.61,9.94">The animals received LFO twice at 24 hour intervals by gavage at doses of 625, 1250, 2500 and 5000 mg/kg bw per day (n = 5).</s><s coords="17,223.74,230.32,300.71,9.94;17,70.94,243.31,102.76,9.94">A negative control group as well as a solvent control group were included in the study.</s><s coords="17,178.97,243.31,344.99,9.94">A positive control group received mitomycin C (MMC) by i.p. injection.</s><s coords="17,70.94,256.27,431.28,9.94">Twenty-four hours after the second treatment bone marrow cells were isolated and analysed.</s><s coords="17,506.77,256.27,17.26,9.94;17,70.94,269.23,453.32,9.94;17,70.94,282.19,191.93,9.94">The frequencies of micronucleated polychromatic erythrocytes and the ratio of polychromatic erythrocytes (PCE) to total erythrocytes were counted.</s><s coords="17,267.32,282.19,256.80,9.94;17,70.94,295.15,452.86,9.94;17,70.94,308.11,27.81,9.94">At the highest dose LFO induced bone marrow toxicity (decreased ratio of PCE to total erythrocytes) showing that the test material has reached the target organ.</s><s coords="17,101.76,308.11,422.31,9.94">The test material did not increase the frequency of micronucleated polychromatic erythrocytes.</s></p><p><s coords="17,70.94,321.07,453.03,9.94;17,70.94,334.03,26.62,9.94">The NDA Panel agrees with the conclusion of the study report that LFO was not mutagenic in this assay.</s></p><p><s coords="17,70.94,358.03,453.38,9.94;17,70.94,370.88,123.27,10.04">The applicant also provided a micronucleus test, in which peripheral blood erythrocytes were analysed <ref type="bibr" coords="17,112.66,370.88,76.69,10.04">(Noguchi, 2003b)</ref>.</s><s coords="17,197.33,370.88,327.10,10.05;17,70.94,383.84,384.14,10.04">Groups of male F344 rats (n = 4) were administered "LFO -concentrated form" by gavage at doses of 2500 or 5000 mg/kg bw/day on day 1 and 2 of the study.</s><s coords="17,458.19,383.84,65.82,10.04;17,70.94,396.91,389.84,9.94">Both doses are higher than the limit dose recommended in OECD Guideline 474 (2000 mg/kg bw).</s><s coords="17,465.22,396.91,58.99,9.94;17,70.94,409.89,223.21,9.94">The negative control group received olive oil on the same days.</s><s coords="17,297.29,409.89,226.69,9.94;17,70.94,422.85,453.05,9.94;17,70.94,435.81,171.58,9.94">A positive control group was administered a single dose of MMC by i.p. injection on day 2. On day 4 peripheral blood was collected and smear preparations were made and stained.</s><s coords="17,247.82,435.81,276.19,9.94;17,70.94,448.77,453.04,9.94;17,70.94,461.73,453.39,9.94">There was no increase in the frequency of micronucleated polychromatic erythrocytes in blood obtained from rats treated with LFO and from the negative control group, whereas a statistically significant increase was observed in the positive control group.</s></p><p><s coords="17,70.94,474.69,453.05,9.94;17,70.94,487.65,80.60,9.94">The Panel notes that exposure to the target tissue can be concluded on the basis of the study above <ref type="bibr" coords="17,70.94,487.65,75.82,9.94">(Noguchi, 2003a)</ref>.</s></p><p><s coords="17,70.94,511.65,434.32,9.94">In the same study also the frequency of micronucleated hepatocytes in the liver was determined.</s><s coords="17,508.64,511.65,15.33,9.94;17,70.94,524.61,453.14,9.94;17,70.94,537.57,409.22,9.94">For this purpose, two-thirds of the livers of the same animals were excised (partial hepatectomy) on day 5, and the animals received an additional treatment with the test material or olive oil on day 6.</s><s coords="17,483.16,537.57,40.78,9.94;17,70.94,550.53,388.09,9.94">On day 9 hepatocytes were obtained from the liver by collagenase treatment, fixed and stained.</s><s coords="17,462.76,550.53,61.51,9.94;17,70.94,563.49,453.01,9.94;17,70.94,576.48,452.95,9.94;17,70.94,589.44,100.42,9.94">There was no increase in the frequency of micronucleated hepatocytes obtained from rats treated with LFO and from the negative control group, whereas a statistically significant increase was observed in the positive control group.</s></p><p><s coords="17,70.94,613.44,453.09,9.94">The NDA Panel considers that the endpoint chromosome mutations has been adequately analysed.</s></p><p><s coords="17,70.94,626.40,453.42,9.94;17,70.94,639.36,453.30,9.94;17,70.94,652.32,453.49,9.94;17,70.94,665.28,136.11,9.94">Although the in vitro chromosomal aberration test showed a positive result after short-time treatment with LFO in the presence of metabolic activation, the NDA Panel sees no concern since there were no indications for chromosomal mutations in the two in vivo studies showing that the positive in vitro effect is not expressed in vivo.</s><s coords="17,210.16,665.28,314.02,9.94;17,70.94,678.24,258.80,9.94">Regarding the endpoint gene mutations the Panel notes that a study on gene mutations in mammalian cells has not been provided.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.4.">Other toxicological studies</head><p><s coords="17,70.94,733.22,345.25,9.94">Studies on reproductive and developmental toxicity have not been carried out.</s></p><p><s coords="17,70.94,757.22,273.63,9.94">A study on chronic toxicity/carcinogenicity was not provided.</s><s coords="18,70.94,791.80,121.26,8.96">EFSA Journal 2011;9(7):2287</s></p><p><s coords="18,70.94,76.72,453.22,9.94;18,70.94,89.68,452.95,9.94;18,70.94,102.64,77.59,9.94">The applicant has studied the tumour promoting potential of LFO (concentrated form) in male F344 rats after initiation of hepatocarcinogenesis by a single i.p. injection of diethylnitrosamine (DEN) <ref type="bibr" coords="18,70.94,102.64,72.83,9.94" target="#b48">(Yoshino, 2004)</ref>.</s><s coords="18,153.68,102.64,370.25,9.94;18,70.94,115.60,263.84,9.94">Starting two weeks later, the animals received LFO at dose levels of 0 (MCT control), 150, 300 or 600 mg/kg bw per day for six weeks.</s><s coords="18,338.17,115.60,186.23,9.94;18,70.94,128.56,95.79,9.94">A positive control group received sodium phenobarbital (SPB).</s><s coords="18,171.88,128.56,352.24,9.94;18,70.94,141.52,93.84,9.94">Additional control groups not treated with DEN received MCT or 600 mg LFO/kg bw per day.</s><s coords="18,169.09,141.52,355.21,9.94;18,70.94,154.48,145.03,9.94">The animals were subjected to partial hepatectomy at the end of week 3 and sacrificed at the end of week 8.</s><s coords="18,219.93,154.48,303.90,9.94;18,70.94,167.44,105.63,9.94">There was a statistically significant increase in liver weights in all groups receiving LFO.</s><s coords="18,182.08,167.44,341.94,9.94;18,70.94,180.40,220.50,9.94">According to the study report, the changes were slight and microscopic analysis of liver sections did not reveal changes.</s><s coords="18,295.16,180.40,229.30,9.94;18,70.94,193.36,453.26,9.94;18,70.94,206.32,453.58,9.94;18,70.94,219.28,453.06,9.94;18,70.94,232.24,43.38,9.94">Microscopic analysis showed that in the high-dose group with DEN initiation the numbers of GST-P (glutathione-S-transferase P) positive foci per liver section as well as the areas of GST-P positive foci per liver section were statistically significantly decreased compared with the control group, whereas the positive control group showed the expected increases.</s><s coords="18,117.93,232.24,405.97,9.94;18,70.94,245.23,453.52,9.94;18,70.94,258.19,56.24,9.94">According to the study report, the results demonstrate that LFO lacks promoting potential for liver carcinogenesis at the tested dose levels, and at a dose of 600 mg/kg bw per day inhibition was evident.</s><s coords="18,131.01,258.19,393.00,9.94;18,70.94,271.15,395.14,9.94">In the opinion of the NDA Panel the study, which is normally not part of the standard toxicological testing programme, does not add much information to the safety evaluation.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.5.">Oestrogenic activity</head><p><s coords="18,70.94,326.11,452.98,9.94;18,70.94,339.07,277.48,9.94">According to scientific publications, glabridin, glabrene and other constituents present in liquorice root showed oestrogen-like activity in vitro and/or in vivo (e.g.</s><s coords="18,351.18,339.07,173.17,9.94;18,70.94,352.03,49.78,9.94"><ref type="bibr" coords="18,351.18,339.07,91.46,9.94" target="#b43">Somjen, et al., 2004;</ref><ref type="bibr" coords="18,445.44,339.07,78.91,9.94;18,70.94,352.03,15.94,9.94" target="#b44">Tamir et al., 2000 and</ref><ref type="bibr" coords="18,92.17,352.03,23.79,9.94" target="#b45">2001)</ref>.</s><s coords="18,125.99,352.03,398.07,9.94;18,70.94,364.99,271.40,9.94">With regard to potential oestrogenic activity of Glavonoid, the applicant argues that 45 phenolic compounds have been identified in Glavonoid.</s><s coords="18,346.65,364.99,177.37,9.94;18,70.94,377.95,403.95,9.94">Five of these are isoflavones, the total amount of these being approximately 0.6 % corresponding to 1.8 mg/300 mg of Glavonoid.</s><s coords="18,477.66,377.95,46.95,9.94;18,70.94,390.91,453.05,9.94;18,70.94,403.89,453.21,9.94;18,70.94,416.85,80.14,9.94">According to the Food Safety Commission of the Japanese authorities, the average daily intake of soy isoflavone aglycone from foods is estimated to be 16-22 mg/day, and the upper limit of safe daily intake was set at 70-75 mg/day.</s><s coords="18,156.59,416.85,367.65,9.94;18,70.94,429.81,453.51,9.94;18,70.94,442.77,452.98,9.94;18,70.94,455.73,50.13,9.94">The French food safety authority AFSSA has assessed the safety (and health benefits) of phytoestrogens and came to the conclusion that an intake of 1 mg/kg bw per day of aglycone isoflavones, i.e. 60 mg for a person weighing 60 kg, presents no risk for the general population.</s><s coords="18,123.95,455.73,400.13,9.94;18,70.94,468.69,453.09,9.94;18,70.94,481.65,102.64,9.94">Some consumers, however, need to take special precautions, i.e. people with breast cancer or a personal or family history of breast cancer as well as infants and young children taking soy protein-based formula.</s><s coords="18,178.51,481.65,345.99,9.94;18,70.94,494.61,453.04,9.94;18,70.94,507.57,89.54,9.94">Considering a maximum daily intake of 300 mg Glavonoid/day, the NDA Panel concludes that the resulting intake of 1.8 mg isoflavones/day does not raise concern in terms of oestrogenic activity.</s></p><p><s coords="18,70.94,531.57,453.03,9.94;18,70.94,544.53,453.17,9.94;18,70.94,557.49,28.55,9.94">In addition, the applicant makes reference to a scientific publication describing characteristic phenolic compounds present in Glycyrrhiza species and biological activities of some of these <ref type="bibr" coords="18,455.67,544.53,68.45,9.94;18,70.94,557.49,23.79,9.94" target="#b41">(Nomura et al., 2002)</ref>.</s><s coords="18,102.84,557.49,421.13,9.94;18,70.94,570.48,453.49,9.94;18,70.94,583.44,26.62,9.94">According to this publication, about 100 phenolic compounds from medicinal plants and their derivatives were evaluated for potential oestrogenic activity using an oestradiol receptor binding assay.</s><s coords="18,101.75,583.44,422.72,9.94;18,70.94,596.40,231.50,9.94">Altogether 13 compounds, of which six compounds were isolated from Glycyrrhiza species, exhibited weak binding affinities (IC50 &lt; 1 µg/mL).</s><s coords="18,305.20,596.40,201.17,9.94">The IC50 value of 17ß-estradiol was 0.47-2.0</s><s coords="18,509.13,596.40,15.33,9.94;18,70.94,609.25,220.51,10.05">nM (128 -544 pg/mL according to the applicant).</s><s coords="18,296.59,609.36,227.61,9.94;18,70.94,622.21,453.42,10.05;18,70.94,635.28,61.03,9.94">In comparison, the IC50 of phenolic compounds present in Glycyrrhiza glabra was higher than 0.2 µg/mL, which is 370 -1560 fold higher than that of 17ß-estradiol.</s><s coords="18,135.56,635.28,388.84,9.94;18,70.94,648.24,221.33,9.94">According to the applicant, the relative binding affinities (in relation to 17ß-estradiol) of typical polyphenols present in Glavonoid, e.g.</s><s coords="18,295.98,648.24,228.02,9.94;18,70.94,661.20,452.99,9.94;18,70.94,674.16,104.95,9.94">glabrene (0.0022), glabridin (&lt;0.0016) and glabrol (&lt;0.0016), are similar to the binding affinities of isoflavones present in soybean, i.e. genistein (0.004) and daidzein (0.00035).</s></p><p><s coords="18,70.94,698.16,453.03,9.94;18,70.94,711.12,245.65,9.94">The NDA Panel considers that the information provided on the potential oestrogenic activity of these specific constituents does not indicate a safety concern.</s><s coords="18,319.36,711.12,204.70,9.94;18,70.94,724.08,453.35,9.94;18,70.94,737.06,453.11,9.94;18,70.94,750.02,162.65,9.94">However, the Panel noted that the information only relates to a limited number of substances, whereas experimental studies using Glavonoid, which contains a complex mixture of polyphenolic type compounds with largely unknown biological activities have not been carried out.</s><s coords="18,237.43,750.02,286.72,9.94;19,70.94,76.72,247.16,9.94">Therefore, the Panel has asked for experimental data, e.g. a rat uterotrophic bioassay using Glavonoid as test material.</s><s coords="19,321.45,76.72,202.56,9.94;19,70.94,89.68,60.68,9.94">However, the applicant was unable to submit such a study.</s><s coords="19,136.05,89.68,387.89,9.94;19,70.94,102.64,238.12,9.94">The Panel agrees with the applicant in that there were no indications for effects on reproductive organs in the subchronic rat study.</s><s coords="19,316.25,102.64,208.18,9.94;19,70.94,115.60,287.55,9.94">However, this study provides only limited information on other relevant parameters related to reproduction.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.6.">Clinical trials</head><p><s coords="19,70.94,170.56,453.03,9.94;19,70.94,183.52,110.04,9.94">The results of several human studies using LFO (diluted form containing 1 % glabridin) as test material were presented.</s><s coords="19,184.59,183.52,339.72,9.94">On request of the NDA Panel the applicant provided the full study reports.</s></p><p><s coords="19,70.94,196.48,421.48,9.94">The data from the first three studies described below were also published by <ref type="bibr" coords="19,411.13,196.48,76.69,9.94" target="#b17">Aoki et al. (2007)</ref>.</s></p><p><s coords="19,70.94,220.48,452.92,9.94;19,70.94,233.44,453.38,9.94;19,70.94,246.43,84.32,9.94">LFO was administered orally (after breakfast) to groups of healthy male subjects (n = 5) at single doses of 300, 600 or 1200 mg/day, corresponding to doses of 100, 200 or 400 mg Glavonoid/day <ref type="bibr" coords="19,70.94,246.43,79.54,9.94">(Ikematsu, 2004a)</ref>.</s><s coords="19,159.57,246.43,364.43,9.94;19,70.94,259.39,209.49,9.94">Blood samples to determine plasma glabridin concentration were collected at 0 (pre-dose), 2, 4, 6, 8 and 24 hours after dosing.</s><s coords="19,283.43,259.39,241.00,9.94;19,70.94,272.35,237.04,9.94">Glabridin was absorbed and plasma levels reached the maximum concentration after approximately 4 hours.</s><s coords="19,311.12,272.35,212.93,9.94;19,70.94,285.31,225.12,9.94">The maximum concentration and area under the curve (AUC) increased almost linearly with dose.</s><s coords="19,299.77,285.31,224.13,9.94;19,70.94,298.27,6.75,9.94;19,77.78,302.62,5.22,6.26;19,87.15,298.27,160.40,9.94">Glabridin was eliminated relatively slowly with a T ½ of approximately 10 h at all doses.</s><s coords="19,251.64,298.16,272.52,10.05;19,70.94,311.23,452.94,9.94;19,70.94,324.19,30.77,9.94">Considering the respective data in rats (see "Kinetics"), the bioavailability of glabridin in humans was estimated by the applicant to be about 5 times higher than in rats.</s><s coords="19,105.09,324.19,419.22,9.94;19,70.94,337.15,453.06,9.94;19,70.94,350.11,453.07,9.94;19,70.94,363.07,122.15,9.94">The Panel notes that the evidence provided does not support accepting glabridin as a marker for the bioavailability of the bulk of other substances in Glavonoid since even small differences in chemical structure may have a profound impact on absorption, distribution, metabolism and elimination of a substance.</s><s coords="19,196.93,363.07,327.36,9.94;19,70.94,376.03,453.04,9.94;19,70.94,388.99,121.41,9.94">The Panel considers that no conclusions regarding the bioavailability of the unidentified substance(s), which is responsible for the anticoagulant effect in rats, can be drawn based on data for glabridin.</s></p><p><s coords="19,70.94,413.01,453.58,9.94;19,70.94,425.97,453.11,9.94;19,70.94,438.93,188.56,9.94">In a repeated-dose study groups of male (n = 5) and female (n = 5) subjects received once daily LFO at doses of 0 (placebo), 300, 600 or 1200 mg for 7 days, corresponding to doses of 0, 100, 200 or 400 mg Glavonoid/day <ref type="bibr" coords="19,175.79,438.93,78.85,9.94">(Ikematsu, 2004b)</ref>.</s><s coords="19,262.62,438.93,261.47,9.94;19,70.94,451.89,453.18,9.94;19,70.94,464.85,31.07,9.94">Blood samples for measurement of plasma glabridin levels were collected at pre-dose, 4 and 24 h after dosing on the first and on the last day of the treatment period.</s><s coords="19,105.12,464.85,418.87,9.94;19,70.94,477.81,172.57,9.94">The plasma glabridin levels increased almost linearly with the doses of LFO administered and were higher on day 7 than on day 1.</s><s coords="19,247.94,477.81,276.43,9.94;19,70.94,490.77,453.12,9.94;19,70.94,503.73,370.90,9.94">In the high-dose group (corresponding to a dose of 400 mg Glavonoid) mean plasma glabridin levels were 2.88 and 0.66 ng/mL after 4 and 24 h, respectively, on day 1 and increased to 4.47 and 0.87 ng/mL after 4 and 24 h, respectively, on day 7.</s></p><p><s coords="19,70.94,527.73,453.46,9.94;19,70.94,540.69,453.14,9.94">In a single-blind study healthy males (n = 7) and females (n = 7) consumed LFO at doses of 300, 600 or 1200 mg/day, corresponding to 100, 200 or 400 mg Glavonoid/day for 4 weeks <ref type="bibr" coords="19,445.52,540.69,73.80,9.94" target="#b28">(Ikematsu, 2005)</ref>.</s><s coords="19,70.94,553.65,344.38,9.94">Additional groups of males (n = 9) and females (n = 7) received a placebo.</s><s coords="19,419.06,553.65,104.86,9.94;19,70.94,566.64,453.16,9.94;19,70.94,579.60,453.06,9.94;19,70.94,592.56,453.18,9.94;19,70.94,605.52,453.13,9.94;19,70.94,618.48,453.03,9.94;19,70.94,631.44,149.02,9.94">Prior to the start of the treatment, after two and 4 weeks as well as two weeks after the end of the treatment period, a number of parameters were evaluated, including body weight, blood pressure, pulse rate, haematology and clinical-chemistry parameters (including WBC count, differential WBC count, RBC count, haemoglobin, haematocrit, platelet count, PT, APTT, blood lipids, blood glucose, insulin, AST, ALT, gamma-GT, LDH, ALP, total bilirubin, protein and albumin, urea nitrogen, uric acid, creatinine, Na, K, Cl,) and urinalysis parameters.</s><s coords="19,222.72,631.44,301.62,9.94;19,70.94,644.40,290.34,9.94">Comparison of the mean values after treatment with Glavonoid with the values prior to the treatment, showed no relevant differences.</s><s coords="19,364.40,644.40,159.56,9.94;19,70.94,657.36,453.37,9.94;19,70.94,670.32,111.96,9.94">Mean glabridin plasma levels in the high-dose group were 1.82 ng/mL after 2 weeks and 1.75 ng/mL after 4 weeks suggesting that a steady-state was reached.</s></p><p><s coords="19,70.94,694.32,453.05,9.94;19,70.94,707.28,453.28,9.94;19,70.94,720.24,402.82,9.94">In a double-blind study using a similar design mildly obese but otherwise healthy male (n = 10) and female (n = 10) subjects consumed LFO at a dose of 1800 mg/day, corresponding to 600 mg Glavonoid/day for four weeks <ref type="bibr" coords="19,213.49,720.24,147.17,9.94" target="#b29">(Ikematsu and Nakamura, 2005;</ref><ref type="bibr" coords="19,365.35,720.24,103.66,9.94" target="#b46">Tominaga et al., 2006)</ref>.</s><s coords="19,478.19,720.24,46.13,9.94;19,70.94,733.22,453.00,9.94">Groups of mildly obese but otherwise healthy male (n = 10) and female (n = 10) subjects received a placebo.</s><s coords="19,70.94,746.18,453.00,9.94;19,70.94,759.14,351.28,9.94">One male receiving Glavonoid showed minor increases in AST and ALT at week 2 of the treatment, which, according to the author of the report, was not related to the treatment.</s><s coords="19,425.81,759.14,98.28,9.94;20,70.94,113.68,453.30,9.94;20,70.94,126.64,453.09,9.94;20,70.94,139.60,197.59,9.94">Apart from this, there In a double-blind study groups of healthy male (n = 13 or 14) and female (n = 7) subjects received LFO at doses of 300, 600 or 900 mg/day, corresponding to 100, 200 or 300 mg Glavonoid/day for 8 weeks <ref type="bibr" coords="20,102.47,139.60,55.34,9.94" target="#b18">(Arai, 2004;</ref><ref type="bibr" coords="20,161.94,139.60,101.84,9.94" target="#b46">Tominaga et al., 2006)</ref>.</s><s coords="20,272.49,139.60,251.47,9.94;20,70.94,152.56,37.16,9.94">Healthy males (n = 12) and females (n = 7) received a placebo.</s><s coords="20,111.11,152.56,413.07,9.94;20,70.94,165.52,314.32,9.94">Analysis of haematology and clinical-chemistry parameters prior to treatment and after 4 and 8 weeks did not show relevant changes after treatment with Glavonoid.</s></p><p><s coords="20,70.94,189.52,453.50,9.94;20,70.94,202.48,141.70,9.94">The publication of <ref type="bibr" coords="20,155.94,189.52,101.52,9.94" target="#b46">Tominaga et al. (2006)</ref> also reports a randomised, double-blind, placebo-controlled study with overweight subjects.</s><s coords="20,216.02,202.48,307.95,9.94;20,70.94,215.44,325.46,9.94">Men (n = 32) and women (n = 19) were administered LFO at a dose of 300 mg/day, corresponding to 100 mg Glavonoid/day, for 12 weeks.</s><s coords="20,400.38,215.44,123.73,9.94;20,70.94,228.40,158.60,9.94">The control group (31 men and 21 women) received a placebo.</s><s coords="20,232.79,228.40,291.49,9.94;20,70.94,241.39,453.20,9.94;20,70.94,254.35,453.41,9.94">At the start of the treatment, after 4, 8 and 12 weeks as well as 4 weeks after the end of the treatment period, a number of parameters were evaluated, including body weight, body fat ratio, blood pressure, pulse rate, haematology and clinical-chemistry parameters (i.e.</s><s coords="20,70.94,267.31,453.22,9.94;20,70.94,280.27,453.53,9.94;20,70.94,293.23,347.01,9.94">RBC count, haemoglobin level, WBC and platelet counts, PT, APTT, total protein, albumin, albumin/globulin ratio, blood lipid, blood glucose and insulin levels, AST, ALT, gamma-GT, ALP, LDH activities, urea nitrogen, total bilirubin, creatinine, Na, K and Cl levels).</s><s coords="20,420.95,293.23,103.46,9.94;20,70.94,306.19,228.24,9.94">There were no relevant differences between the test and control group.</s><s coords="20,305.41,306.19,218.52,9.94;20,70.94,319.15,293.76,9.94">Compared with the baseline situation, several statistically significant differences were observed in both groups.</s><s coords="20,368.21,319.15,155.75,9.94;20,70.94,332.11,453.45,9.94;20,70.94,345.07,38.36,9.94">However, the changes were within physiological ranges, showed no clear time dependency and were thus not considered clinically relevant.</s></p><p><s coords="20,70.94,369.07,453.49,9.94;20,70.94,382.03,453.30,9.94;20,70.94,394.99,129.15,9.94">In sum, the six human studies examining a dose range of 100 to 600 mg Glavonoid per day did not show changes in haematology, coagulation, clinical-chemistry and urinalysis parameters after administration of Glavonoid.</s><s coords="20,203.44,394.99,320.51,9.94;20,70.94,407.97,356.76,9.94">The highest dose repeatedly (4 weeks) administered to humans in these studies was 600 mg/day (approximately 8.6 mg/kg bw per day for a 70 kg adult).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.7.">Studies using different liquorice extracts</head><p><s coords="20,70.94,462.93,453.43,9.94;20,70.94,475.89,169.87,9.94">The results of a number of animal and human studies using different extracts of Glycyrrhiza glabra roots were provided by the applicant.</s><s coords="20,244.65,475.89,279.38,9.94;20,70.94,488.85,247.66,9.94">However, the method of production and composition of these extracts differed considerably from that of Glavonoid.</s><s coords="20,322.68,488.85,201.29,9.94;20,70.94,501.81,209.63,9.94">Therefore these studies were not considered relevant for the safety evaluation of Glavonoid.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.8.">Allergenicity</head><p><s coords="20,70.94,556.77,452.94,9.94;20,70.94,569.76,347.33,9.94">According to the applicant no reports of allergic reactions or sensitivity following consumption of liquorice or its components were reported in the published scientific literature.</s></p><p><s coords="20,70.94,593.76,453.27,9.94;20,70.94,606.72,184.00,9.94">The protein content of LFO, the three-fold dilution of Glavonoid with MCT, was determined to be less than 0.1 g/100 g (Kjeldahl method).</s><s coords="20,258.66,606.72,265.27,9.94;20,70.94,619.68,320.37,9.94">Using a different analytical method (Bradford method) the protein content of Glavonoid was determined to be less than 0.2 mg/mL.</s></p><p><s coords="20,70.94,643.68,452.93,9.94;20,70.94,656.64,453.49,9.94;20,70.94,669.60,134.07,9.94">Case reports of contact allergy in Japan associated with ethanolic liquorice root extracts contained in cosmetic products were published in the scientific literature <ref type="bibr" coords="20,368.47,656.64,155.96,9.94" target="#b35">(Matsunaga and Fujisawa, 1995;</ref><ref type="bibr" coords="20,70.94,669.60,129.31,9.94" target="#b38">Nishioka and Seguchi, 1999)</ref>.</s><s coords="20,208.84,669.60,315.46,9.94;20,70.94,682.56,166.63,9.94">A case of contact allergy in the United Kingdom was also associated with the use of a cosmetic product.</s><s coords="20,242.24,682.56,281.72,9.94;20,70.94,695.52,452.97,9.94;20,70.94,708.37,144.58,10.05">When the patient was subsequently patch tested, she reacted positive to liquorice root extract, one of the ingredients of the cream that had induced the previous reaction <ref type="bibr" coords="20,109.42,708.37,101.35,10.05">(O"Connell et al, 2008)</ref>.</s></p><p><s coords="20,70.94,732.50,452.99,9.94">In addition, a case of occupational rhinitis and asthma in an anis liqueur factory worker was reported.</s></p><p><s coords="20,70.94,745.46,453.20,9.94;20,70.94,758.42,199.35,9.94">The worker developed IgE-mediated sensitisation to five of the eight plants, which he handled habitually, among them Glycyrrhiza glabra.</s><s coords="20,274.12,758.42,250.27,9.94;21,70.94,76.72,453.40,9.94;21,70.94,89.68,80.68,9.94">The symptoms appeared mainly while he was handling Glycyrrhiza glabra, and skin prick test and RAST values for Glycyrrhiza glabra were higher than for the other species.</s><s coords="21,156.42,89.68,367.52,9.94;21,70.94,102.64,453.48,9.94;21,70.94,115.60,28.55,9.94">Therefore the authors considered that this species was the major source of the respiratory symptoms of the patient who showed oral tolerance to liquorice <ref type="bibr" coords="21,406.58,102.64,117.84,9.94;21,70.94,115.60,23.79,9.94">(González-Gutièrrez et al., 2000)</ref>.</s><s coords="21,102.49,115.60,323.68,9.94">A case of a herbalist who developed occupational asthma was described.</s><s coords="21,429.17,115.60,94.80,9.94;21,70.94,128.56,453.33,9.94;21,70.94,141.52,432.40,9.94">Skin prick test with a liquorice extract gave a positive reaction and inhalation challenges using liquorice root powder induced an immediate fall in forced expiratory volume (FEV) without a significant late reaction.</s><s coords="21,506.57,141.52,17.26,9.94;21,70.94,154.48,453.75,9.94;21,70.94,167.44,453.00,9.94;21,70.94,180.40,92.92,9.94">The authors concluded that liquorice roots could cause occupational allergy through an apparently IgEmediated mechanism as seen by immediate skin reactivity reaction to the powder of liquorice root <ref type="bibr" coords="21,70.94,180.40,88.17,9.94" target="#b21">(Cartier et al., 2002)</ref>.</s></p><p><s coords="21,70.94,204.40,453.47,9.94;21,70.94,217.36,287.76,9.94">The described cases relate to inhalation exposure to the plant Glycyrrhiza glabra at the workplace and dermal exposure to root extracts contained in cosmetic products.</s><s coords="21,361.72,217.36,162.56,9.94;21,70.94,230.32,366.06,9.94">Allergic reactions after consumption of Glycyrrhiza glabra extracts have not been reported in the scientific literature.</s><s coords="21,440.74,230.32,83.41,9.94;21,70.94,243.31,452.99,9.94;21,70.94,256.27,306.44,9.94">Regarding the low protein content of Glavonoid and the anticipated intake levels, the NDA Panel is of the opinion that allergic reactions induced by consumption of Glavonoid are unlikely.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p><s coords="21,70.94,312.43,453.04,9.94;21,70.94,325.39,220.89,9.94">The applicant has provided sufficient information regarding the composition and specification of Glavonoid and on the manufacturing process.</s><s coords="21,298.54,325.39,226.11,9.94;21,70.94,338.35,369.47,9.94">Glavonoid consists of an extract derived from Glycyrrhiza glabra roots (approximately 30 %) and MCT (approximately 70 %).</s><s coords="21,444.25,338.35,80.22,9.94;21,70.94,351.31,439.15,9.94">The plant-derived material is rich in polyphenolic type substances of which 45 substances have been identified.</s><s coords="21,515.02,351.31,9.00,9.94;21,70.94,364.27,453.41,9.94;21,70.94,377.23,209.90,9.94">In contrast to traditional products derived from the roots of Glycyrrhiza glabra, Glavonoid does not contain detectable levels of glycyrrhizinic acid.</s><s coords="21,283.72,377.23,240.23,9.94;21,70.94,390.19,453.02,9.94">Analyses of several batches using recognised methods have confirmed that the manufacturing process is well controlled and the product meets specification.</s></p><p><s coords="21,70.94,403.17,430.44,9.94">There are no anticipated problems with heavy metals, microbial or pesticide contaminants.</s><s coords="21,506.79,403.17,17.26,9.94;21,70.94,416.13,425.08,9.94">The stability of Glavonoid was analysed under relevant storage conditions and considered sufficient.</s></p><p><s coords="21,70.94,440.13,453.47,9.94;21,70.94,453.09,430.58,9.94">Glavonoid is intended to be marketed as food supplement in the form of capsules and tablets containing up to 300 mg and as an ingredient in fruit juices, yoghurts and yoghurt drinks.</s><s coords="21,506.70,453.09,17.26,9.94;21,70.94,466.05,453.25,9.94;21,70.94,479.01,104.69,9.94">The applicant proposes to advise consumers by product labelling to limit their daily intake to a maximum of 300 mg Glavonoid.</s><s coords="21,180.78,479.01,153.40,9.94">The target population are adults.</s><s coords="21,339.36,479.01,184.84,9.94;21,70.94,491.97,453.38,9.94;21,70.94,504.93,93.40,9.94;21,164.42,502.68,5.40,6.26;21,172.82,504.93,351.26,9.94;21,70.94,517.89,375.70,9.94">Based on intake data from the Concise European Food Consumption Database for the UK population aged 16 -64 years, it was estimated that the mean and 95 th percentile (consumer only) intakes from combined consumption of fruit juices, yoghurts and yoghurt drinks would be 273 mg/day and 675 mg/day, respectively.</s><s coords="21,450.95,517.89,73.13,9.94;21,70.94,530.74,453.00,10.04;21,70.94,543.81,76.74,9.94">These would be "worst case" scenarios based on all food categories consumed having the maximum level of the novel ingredient added.</s></p><p><s coords="21,70.94,567.84,373.86,9.94">Tests on the induction of gene mutations in bacteria produced negative results.</s><s coords="21,449.86,567.84,74.45,9.94;21,70.94,580.80,453.08,9.94;21,70.94,593.76,200.83,9.94">Studies on gene mutations in mammalian cells, which would have added further relevant information for the genotoxicity assessment, were not provided.</s><s coords="21,275.86,593.76,248.17,9.94;21,70.94,606.72,453.52,9.94;21,70.94,619.68,227.25,9.94">Tests on chromosomal aberrations in mammalian cells showed an increase in the number of cells with structural chromosome aberrations after short-time treatment in the presence of metabolic activation.</s><s coords="21,302.38,619.68,221.52,9.94;21,70.94,632.64,453.51,9.94;21,70.94,645.60,169.47,9.94">However, the NDA Panel sees no concern since there were no indications for chromosomal mutations in two in vivo studies showing that the positive in vitro effect is not expressed in vivo.</s></p><p><s coords="21,70.94,669.49,453.30,10.05;21,70.94,682.56,453.09,9.94;21,70.94,695.52,453.09,9.94;21,70.94,708.48,453.46,9.94;21,70.94,721.44,22.31,9.94">In a subchronic (90-day) oral toxicity study "LFOconcentrated form" containing 3 % glabridin, which can be considered representative for Glavonoid, induced an effect on blood coagulation parameters, evidenced in a prolongation of PT and APTT, which caused haemorrhage in several organs and tissues and the death of several animals in the highest dose group (1600 mg/kg bw per day).</s><s coords="21,97.33,721.44,427.09,9.94;21,70.94,734.42,244.64,9.94">Additional examinations showed that the anticoagulant effect was caused by inhibition of the synthesis of vitamin K-dependent coagulation factors.</s><s coords="21,319.55,734.42,204.51,9.94;21,70.94,747.38,453.01,9.94;21,70.94,760.34,453.26,9.94">A substance or substances having a structure similar to that of specific coumarin derivatives are considered likely to be responsible for the anticoagulant effect, but the identity of the substance(s) and also the exact mechanism of action</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="13,516.10,46.61,5.29,6.26;13,521.38,49.50,3.32,9.05;13,514.42,791.92,10.02,8.96;13,70.94,791.80,121.26,8.96;13,70.94,76.72,453.11,9.94;13,70.94,89.68,453.06,9.94;13,70.94,102.64,71.73,9.94"><head></head><label></label><figDesc><div><p><s coords="13,169.13,76.72,354.93,9.94;13,70.94,89.68,453.06,9.94;13,70.94,102.64,71.73,9.94">. Considering the occurrence of MCT in the human diet and the very low anticipated intake level resulting from consumption of Glavonoid, the NDA Panel sees no concern regarding MCT.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="20,521.38,49.50,3.32,9.05;20,514.42,791.92,10.02,8.96;20,70.94,791.80,121.26,8.96;20,70.94,76.72,452.96,9.94;20,70.94,89.68,111.01,9.94"><head></head><label></label><figDesc><div><p><s coords="20,149.10,76.72,374.81,9.94;20,70.94,89.68,111.01,9.94">changes in values after treatment with Glavonoid compared with the values prior to the start of the treatment.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" coords="26,71.28,180.95,325.82,276.95"><head></head><label></label><figDesc><div><p></p></div></figDesc><graphic coords="26,71.28,180.95,325.82,276.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="7,70.94,572.16,453.45,189.00"><head>Table 1 :</head><label>1</label><figDesc><div><p><s coords="7,124.94,572.16,240.14,9.94">Specification for Glavonoid proposed by the applicant</s></p></div></figDesc><table coords="7,70.94,596.54,453.45,164.62"><row><cell>Parameter</cell><cell>Specification</cell><cell>Method of analysis</cell></row><row><cell>Appearance</cell><cell>Dark brown coloured liquid</cell><cell>Visual check and organoleptic</cell></row><row><cell></cell><cell>Distinct smell and taste</cell><cell>examination</cell></row><row><cell>Identification</cell><cell>Correspond to the standard UV-VIS</cell><cell>UV-VIS</cell></row><row><cell></cell><cell>chart</cell><cell>HPLC</cell></row><row><cell></cell><cell>Correspond to the standard HPLC</cell><cell></cell></row><row><cell></cell><cell>chart</cell><cell></cell></row><row><cell>Glabridin</cell><cell>3.0 % +/-0.5 %</cell><cell>HPLC</cell></row><row><cell>Glycyrrhizinic acid</cell><cell>&lt; 0.005 % (w/w) *</cell><cell>HPLC</cell></row><row><cell>Peroxide Value</cell><cell>&lt; 0.5 meq/kg</cell><cell>Conform to standard method for</cell></row><row><cell></cell><cell></cell><cell>the analysis of fats, oil and</cell></row><row><cell></cell><cell></cell><cell>related materials (Japanese Oil</cell></row><row><cell></cell><cell></cell><cell>Chemists" Society)</cell></row><row><cell>Aerobic Plate Count</cell><cell>&lt; 1000 cfu/g</cell><cell>Standard agar plating method</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="8,70.94,186.16,453.58,178.09"><head>Table 2 :</head><label>2</label><figDesc><div><p><s coords="8,124.94,186.16,299.65,9.94">Additional quality criteria for Glavonoid suggested by the applicant</s></p></div></figDesc><table coords="8,70.94,210.54,453.58,153.71"><row><cell cols="2">Parameter</cell><cell></cell><cell>In-house criterion</cell><cell>Method of analysis</cell></row><row><cell cols="2">Residual ethanol</cell><cell></cell><cell>&lt; 0.5 % (w/w)</cell><cell>Gas chromatography</cell></row><row><cell>Moisture</cell><cell></cell><cell></cell><cell>&lt; 0.5 % (w/w)</cell><cell>Karl Fisher"s method</cell></row><row><cell cols="2">Residue on ignition</cell><cell></cell><cell>&lt; 0.5 %</cell><cell>Conform to Japanese standard of</cell></row><row><cell>Arsenic</cell><cell></cell><cell></cell><cell>&lt; 2 ppm</cell><cell>food additives</cell></row><row><cell>Lead</cell><cell></cell><cell></cell><cell>&lt; 0.3 ppm</cell><cell></cell></row><row><cell>Pesticide</cell><cell>residues</cell><cell>(benzene</cell><cell>Not detected</cell><cell>GC-MS</cell></row><row><cell>hexachlorides</cell><cell>(BHC),</cell><cell>di-</cell><cell></cell><cell></cell></row><row><cell cols="3">chlorodiphenyltrichloroethane</cell><cell></cell><cell></cell></row><row><cell cols="3">(DDT), aldrin, endrin, dieldrin,</cell><cell></cell><cell></cell></row><row><cell cols="3">parathion, malathion, fenitrothion)</cell><cell></cell><cell></cell></row><row><cell cols="2">E. coli / Salmonella</cell><cell></cell><cell>Negative a</cell><cell>Conform to USP 2021</cell></row><row><cell cols="2">Yeasts and moulds</cell><cell></cell><cell>Negative b</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="8,70.94,549.45,453.57,145.17"><head>Table 3 :</head><label>3</label><figDesc><div><p><s coords="8,124.94,549.45,332.30,9.94">Nutrient composition of Glavonoid (based on the analysis of three batches)</s></p></div></figDesc><table coords="8,70.94,573.86,453.57,120.77"><row><cell>Parameter</cell><cell>Test results</cell><cell>Method of analysis</cell></row><row><cell>Water (g/100 g)</cell><cell>0.2 -0.5</cell><cell>Atmospheric heated-air drying</cell></row><row><cell></cell><cell></cell><cell>method</cell></row><row><cell>Protein (g/100 g)</cell><cell>0.1</cell><cell>Kjeldahl method</cell></row><row><cell>Fat (g/100 g)</cell><cell>99.4 -99.7 *</cell><cell>Ether extraction method</cell></row><row><cell>Ash (g/100 g)</cell><cell>&lt; 0.1</cell><cell>Direct ashing method</cell></row><row><cell>Carbohydrate (g/100 g)</cell><cell>0</cell><cell>Enzymatic-gravimetric method</cell></row><row><cell>Energy (kcal/100 g)</cell><cell>895 -897</cell><cell>Calculation</cell></row><row><cell>Sodium (mg/100 g)</cell><cell>0.6 -1.1</cell><cell>Atomic absorption method</cell></row><row><cell>* including polyphenol-type substances</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3" coords="9,70.94,76.96,453.47,387.15"><head>Table 4 :</head><label>4</label><figDesc><div><p><s coords="9,124.94,76.96,303.91,9.94">Lipid composition of Glavonoid (based on the analysis of one batch)</s></p></div></figDesc><table coords="9,115.94,101.34,59.62,8.96"><row><cell>Lipid fraction</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4" coords="11,70.94,492.21,270.61,9.94"><head>Table 5 :</head><label>5</label><figDesc><div><p><s coords="11,124.94,492.21,216.62,9.94">Proposed food uses and use-levels for Glavonoid</s></p></div></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5" coords="11,70.94,516.59,441.23,92.87"><head>Food Category Proposed food use Serving size Use-level (mg/serving) Use-level (g/100 g)*</head><label></label><figDesc><div><p><s coords="11,78.25,600.50,410.46,8.96">Serving sizes in mL converted to g using the specific gravities provided by the Food Standards Agency</s></p></div></figDesc><table coords="11,70.94,540.13,441.23,69.33"><row><cell>Fruit and vegetable juices,</cell><cell>Fruit juices</cell><cell>250 mL</cell><cell>100 -150</cell><cell>0.04 -0.06</cell></row><row><cell>soft drinks and bottled</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>water</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Milk and dairy-based</cell><cell>Yoghurt</cell><cell>150 g</cell><cell>100 -150</cell><cell>0.07 -0.1</cell></row><row><cell>products</cell><cell>Yoghurt drinks</cell><cell>200 mL</cell><cell>100 -150</cell><cell>0.05 -0.07</cell></row><row><cell>*</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6" coords="12,70.94,151.73,453.56,130.56"><head>Table 6 :</head><label>6</label><figDesc><div><p><s coords="12,124.94,151.73,399.56,10.05;12,124.94,164.80,153.09,9.94">Summary of the estimated daily intake of Glavonoid by the UK population (16 -64 years) from all proposed food uses</s></p></div></figDesc><table coords="12,70.94,189.18,198.61,93.11"><row><cell>Food Group</cell><cell cols="2">Consumer only intake</cell></row><row><cell></cell><cell>(mg/day)</cell><cell></cell></row><row><cell></cell><cell>Mean</cell><cell>95 th</cell></row><row><cell></cell><cell cols="2">percentile</cell></row><row><cell>Fruit juices</cell><cell>60</cell><cell>169</cell></row><row><cell>Yoghurts</cell><cell>50</cell><cell>138</cell></row><row><cell>Yoghurt drinks</cell><cell>163</cell><cell>368</cell></row><row><cell>Total</cell><cell>273</cell><cell>675</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7" coords="22,70.94,557.25,453.53,146.77"><head></head><label></label><figDesc><div><p><s coords="22,70.94,557.25,453.05,9.94;22,92.30,570.13,431.95,10.05;22,92.30,583.20,210.15,9.94">2. Letter from the European Commission to the European Food Safety Authority with the request for an opinion on the safety of the safety of "Glavonoid (Flavonoids and Polyphenols, in particular Glabridin from Glycyrrhiza glabra)".</s><s coords="22,305.21,583.20,166.14,9.94">SANCO E4/AK/bs (2009) D/540491.</s><s coords="22,70.94,607.20,453.06,9.94;22,92.30,620.16,432.17,9.94;22,92.30,633.12,196.50,9.94;22,70.94,657.01,206.62,10.05;22,70.94,681.12,453.05,9.94;22,92.30,694.08,45.65,9.94;26,106.95,160.00,35.70,9.94">3. Initial assessment report carried out by Belgium: Advisory Report of the Superior Health Council on a marketing authorization application for Glavonoid as a novel food ingredient and food supplement under Regulation EC No 258/97 4. Member States" comments and objections 5. Response by the applicant to the initial assessment report and the Member States' comments and objections Figures</s></p></div></figDesc><table coords="27,70.94,89.26,258.81,336.32"><row><cell cols="2">GLOSSARY AND ABBREVIATIONS</cell></row><row><cell>ALP</cell><cell>Alkaline Phosphatase</cell></row><row><cell>ALT</cell><cell>Alanine Amino Transferase</cell></row><row><cell>APTT</cell><cell>Activated Partial Thromboplastin Time</cell></row><row><cell>AST</cell><cell>Aspartate Amino Transferase</cell></row><row><cell>AUC</cell><cell>Area Under the Curve</cell></row><row><cell>BMD</cell><cell>Benchmark Dose</cell></row><row><cell>BMDL</cell><cell>Benchmark Dose Lower confidence limit</cell></row><row><cell>DEN</cell><cell>Diethylnitrosamine</cell></row><row><cell>GMP</cell><cell>Good Manufacturing Practice</cell></row><row><cell>GST-P</cell><cell>Glutathione-S-Transferase P-type</cell></row><row><cell>LDL</cell><cell>Low Density Lipoproteins</cell></row><row><cell>LFO</cell><cell>Liquorice Flavonoid Oil</cell></row><row><cell>LOAEL</cell><cell>Lowest observed adverse effect level</cell></row><row><cell>MCT</cell><cell>Medium-Chain Triglycerides</cell></row><row><cell>NOAEL</cell><cell>No observed adverse effect level</cell></row><row><cell>PT</cell><cell>Prothrombin time</cell></row><row><cell>RBC</cell><cell>Red Blood Cells</cell></row><row><cell>UDS</cell><cell>Unscheduled DNA synthesis</cell></row><row><cell>WBC</cell><cell>White Blood Cells</cell></row></table><note coords="26,70.94,471.81,293.42,9.94"><p><s coords="26,70.94,471.81,293.42,9.94">Figure: Fitted curves for male (red) and female (black) APTT data</s></p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0" coords="3,70.94,791.80,121.26,8.96"><p><s coords="3,70.94,791.80,121.26,8.96">EFSA Journal 2011;9(7):2287</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1" coords="22,92.30,507.33,431.96,9.94;22,92.30,520.29,431.93,9.94;22,92.30,533.25,72.82,9.94"><p><s coords="22,92.30,507.33,101.87,9.94">Dossier on Glavonoid.</s><s coords="22,198.00,507.33,75.82,9.94">September 2009.</s><s coords="22,277.65,507.33,195.60,9.94">Submitted by Kaneka Pharma Europe N.V.</s><s coords="22,476.96,507.33,47.31,9.94;22,92.30,520.29,431.93,9.94;22,92.30,533.25,72.82,9.94">Additional information was submitted on 11 and 26 March, 14 and 20 April, 25 May, 24 June and 16 December 2010.</s></p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>" 23 EFSA Journal 2011;9(7):<rs type="grantNumber">2287</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_27j3ep6">
+					<idno type="grant-number">2287</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="22,516.10,46.61,5.29,6.26;22,521.38,49.50,3.32,9.05;22,514.42,791.92,10.02,8.96;22,70.94,791.80,121.26,8.96;22,70.94,76.72,82.16,9.94">® " 22 EFSA Journal 2011;9 <ref type="bibr" coords="22,156.40,791.80,13.42,8.96" target="#b6">(7)</ref>:2287 remains unknown.</s><s coords="22,156.69,76.72,367.20,9.94;22,70.94,89.68,162.63,9.94">A prolonged PT was statistically significant in male animals receiving the lowest dose level of 400 mg/kg bw per day.</s><s coords="22,236.57,89.68,287.57,9.94;22,70.94,102.64,100.09,9.94">Therefore this dose is considered as the lowest observed adverse effect level (LOAEL).</s><s coords="22,174.50,102.64,349.79,9.94;22,70.94,115.60,343.83,9.94">There are no further studies e.g. a long-term exposure studies or reproductive and developmental toxicity studies that might have shed light on the NOAEL.</s></p><p><s coords="22,70.94,139.60,370.48,9.94">Prothrombin-time and APTT were also analysed using a BMD modelling approach.</s><s coords="22,444.22,139.60,80.21,9.94;22,70.94,152.56,214.94,9.94;22,286.01,156.91,6.96,6.26;22,292.97,152.56,231.21,9.94;22,70.94,165.52,136.16,9.94">The values for the BMD and BMD lower confidence limit (BMDL 05 ) derived from the APTT data of male rats provided lower values than the PT data.</s><s coords="22,210.22,165.52,52.23,9.94;22,262.61,169.87,6.96,6.26;22,271.73,165.52,252.50,9.94">The BMDL 05 for this study derived from APTT data is 167 mg/kg bw.</s><s coords="22,70.94,178.48,176.07,9.94;22,247.01,182.83,6.96,6.26;22,257.69,178.48,266.69,9.94;22,70.94,191.44,186.50,9.94">The extrapolation of this study BMDL 05 to a maximum intake for a 70 kg person results in 117 mg (rounded up to 120 mg) Glavonoid/day.</s><s coords="22,262.36,191.44,261.65,9.94;22,70.94,204.40,453.53,9.94;22,70.94,217.36,236.03,9.94">The application of an uncertainty factor of three on the LOAEL of 400 mg/kg of this study in addition to the application of the default factor of 100 would provide a similar, albeit slightly lower value (93 mg).</s></p><p><s coords="22,70.94,241.39,453.47,9.94;22,70.94,254.35,453.36,9.94">The reported six human studies examining a dose range of 100 to 600 mg Glavonoid per day did not show relevant changes in haematology, coagulation, clinical-chemistry and urinalysis parameters.</s><s coords="22,70.94,267.31,453.27,9.94;22,70.94,280.27,453.01,9.94;22,70.94,293.23,327.34,9.94">Because of the short treatment time, the dose levels used and in particular the low number of study participants receiving higher doses, the Panel considers that these studies are not adequate to derive a safe level of intake, especially in the case of longer-term consumption.</s><s coords="22,402.54,293.23,121.82,9.94;22,70.94,306.19,453.04,9.94;22,70.94,319.15,218.67,9.94">However, since the human studies do not raise safety concerns, the Panel considers that the human studies are consistent with the maximum level derived from the BMD approach.</s></p><p><s coords="22,70.94,343.15,453.42,9.94;22,70.94,356.11,453.05,9.94;22,70.94,369.07,125.87,9.94">Regarding the uncertainties concerning a possible impact on anticoagulant therapy, the Panel notes that no studies have been conducted to evaluate interaction between Glavonoid and drugs with an effect on blood coagulation.</s><s coords="22,200.16,369.07,324.17,9.94;22,70.94,382.03,75.66,9.94">The safety of Glavonoid for pregnant and breast-feeding women has not been established.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p><s coords="22,70.94,438.21,453.08,9.94;22,70.94,451.17,80.04,9.94">The Panel concludes that the novel food ingredient Glavonoid is safe for the general adult population up to 120 mg/day.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DOCUMENTATION PROVIDED TO EFSA APPENDIX -BENCHMARK ANALYSIS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A.</head><p><s coords="25,106.93,121.12,41.97,9.94">The data</s></p><p><s coords="25,70.94,145.06,423.43,10.92;25,70.94,159.22,245.99,10.91">Prothrombin time and APTT results from the 90 day rat study using "LFOconcentrated solution" <ref type="bibr" coords="25,118.00,159.22,76.39,10.91" target="#b33">(Kawabe, 2004;</ref><ref type="bibr" coords="25,197.39,159.22,114.26,10.91">Nakagawa et al., 2008b)</ref>.</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="4,75.08,186.64,4.14,9.94;4,94.94,186.64,424.01,9.94" xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,94.94,186.64,421.25,9.94">Specification of the Novel Food (NF) ............................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,75.08,199.60,4.14,9.94;4,94.94,199.60,418.52,9.94" xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,302.86,199.60,207.84,9.94">NF ......................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,75.08,212.56,4.14,9.94;4,94.94,212.56,418.53,9.94" xml:id="b2">
+	<monogr>
+		<title level="m" type="main" coord="4,94.94,212.56,233.18,9.94">History of the organism used as the source of the NF</title>
+		<author>
+			<orgName type="collaboration" coords="4,328.52,212.56,182.19,9.94">..................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,75.08,225.52,4.14,9.94;4,94.94,225.52,418.52,9.94" xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,283.42,225.52,227.28,9.94">NF .............................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Anticipated intake/extent of the use of the</note>
+</biblStruct>
+
+<biblStruct coords="4,75.08,238.51,4.14,9.94;4,94.94,238.51,418.53,9.94" xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,285.48,238.51,225.23,9.94">NF or its source .......................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Information from previous exposure to the</note>
+</biblStruct>
+
+<biblStruct coords="4,75.08,251.47,4.14,9.94;4,94.94,251.47,418.53,9.94" xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,94.94,251.47,415.77,9.94">Nutritional information on the NF ................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,75.08,264.43,4.14,9.94;4,94.94,264.43,418.54,9.94" xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,94.94,264.43,415.78,9.94">Microbiological information on the NF .......................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,75.08,277.39,4.14,9.94;4,94.94,277.39,418.49,9.94;4,82.94,290.35,16.56,9.94;4,118.94,290.35,394.54,9.94" xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,94.94,277.39,418.49,9.94;4,82.94,290.35,16.56,9.94;4,118.94,290.35,391.78,9.94">Toxicological information on the NF ............................................................................................ 8.1. Kinetics ................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,87.08,303.31,12.42,9.94;4,118.94,303.31,394.53,9.94" xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,91.22,303.31,8.28,9.94;4,118.94,303.31,391.76,9.94">2. Subchronic oral toxicity .......................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,95.36,316.27,4.14,9.94;4,118.94,316.27,394.49,9.94" xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,118.94,316.27,391.55,9.94">Genotoxicity.........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,95.36,329.23,4.14,9.94;4,118.94,329.23,394.53,9.94" xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,118.94,329.23,391.76,9.94">Other toxicological studies ..................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,87.08,342.19,12.42,9.94;4,118.94,342.19,394.52,9.94" xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,91.22,342.19,8.28,9.94;4,118.94,342.19,391.76,9.94">5. Oestrogenic activity .............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,87.08,355.15,12.42,9.94;4,118.94,355.15,394.54,9.94" xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,91.22,355.15,8.28,9.94;4,118.94,355.15,391.78,9.94">6. Clinical trials ........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,87.08,368.11,12.42,9.94;4,118.94,368.11,394.52,9.94" xml:id="b13">
+	<monogr>
+		<title level="m" type="main" coord="4,118.94,368.11,179.69,9.94">Studies using different liquorice extracts</title>
+		<author>
+			<orgName type="collaboration" coords="4,300.89,368.11,209.81,9.94">............................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,95.36,381.07,4.14,9.94;4,118.94,381.07,394.54,9.94" xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,118.94,381.07,391.78,9.94">Allergenicity ........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="4,70.94,394.03,442.53,9.94;4,70.94,407.01,442.53,9.94;4,70.94,419.97,442.52,9.94;4,70.94,432.93,442.53,9.94" xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,70.94,394.03,442.53,9.94;4,70.94,407.01,442.53,9.94;4,70.94,419.97,442.52,9.94;4,70.94,432.93,318.30,9.94">Discussion .............................................................................................................................................. Conclusions ............................................................................................................................................ Documentation provided to EFSA ......................................................................................................... References .................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>............................................</note>
+</biblStruct>
+
+<biblStruct coords="4,70.94,445.89,442.51,9.94;4,70.94,458.85,442.53,9.94" xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="4,70.94,445.89,442.51,9.94;4,70.94,458.85,439.77,9.94">Appendix -Benchmark analysis............................................................................................................. Glossary and abbreviations ...................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,77.26,65.58,10.80;23,70.94,96.88,453.33,9.94;23,85.10,109.84,438.93,9.94;23,85.10,122.80,348.90,9.94" xml:id="b17">
+	<analytic>
+		<title level="a" type="main" coord="23,114.74,109.84,409.30,9.94;23,85.10,122.80,71.37,9.94">Clinical Safety of Liquorice Flavonoid Oil (LFO) and Pharmacokinetics of Glabridin in Healthy Humans</title>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Aoki</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kitano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Ikematsu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Yokota</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Arai</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Mae</forename><forename type="middle">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,164.86,122.80,199.86,9.94">Journal of the American College of Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="209" to="218" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,141.76,453.22,9.94;23,85.10,154.72,153.65,9.94" xml:id="b18">
+	<monogr>
+		<title level="m" type="main" coord="23,127.78,141.76,396.39,9.94;23,85.10,154.72,56.84,9.94">Study protocol. Confirmation of the body fat reducing effect of LFO. Effective dose finding study</title>
+		<author>
+			<persName coords=""><surname>Arai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>Protocol No. 16139</note>
+</biblStruct>
+
+<biblStruct coords="23,70.94,173.68,453.08,9.94;23,85.10,186.64,164.58,9.94" xml:id="b19">
+	<monogr>
+		<title level="m" type="main" coord="23,154.76,173.68,369.27,9.94;23,85.10,186.64,95.55,9.94">Chromosomal Aberration Test of Liquorice Flavonoid Oil in Cultured Mammalian Cells. Study No. 7352</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Asakura</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Study Report</note>
+</biblStruct>
+
+<biblStruct coords="23,70.94,205.60,453.56,9.94;23,85.10,218.56,96.59,9.94" xml:id="b20">
+	<analytic>
+		<title level="a" type="main" coord="23,185.86,205.60,253.16,9.94">Pharmacogenomics of 4-hydroxycoumarin anticoagulants</title>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Au</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Rettie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,446.23,205.60,78.27,9.94;23,85.10,218.56,37.92,9.94">Drug Metabolism Reviews</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="355" to="375" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,237.52,453.15,9.94;23,85.10,250.51,19.32,9.94;23,70.94,269.47,453.55,9.94;23,85.10,282.43,438.84,9.94;23,85.10,295.39,438.91,9.94;23,85.10,308.35,439.27,9.94;23,85.10,321.31,438.93,9.94;23,85.10,334.27,33.84,9.94" xml:id="b21">
+	<analytic>
+		<title level="a" type="main" coord="23,267.54,237.52,196.50,9.94;23,70.94,269.47,129.88,9.94;23,243.78,269.47,280.71,9.94;23,85.10,282.43,438.84,9.94;23,85.10,295.39,438.91,9.94;23,85.10,308.35,439.27,9.94;23,85.10,321.31,133.52,9.94">Commission Recommendation 97/618/EC of 29 July 1997 concerning the scientific aspects and the presentation of information necessary to support applications for the placing on the market of novel foods and novel food ingredients and the preparation of initial assessment reports under Regulation (EC) No 258/97 of the European Parliament and of the Council</title>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Cartier</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J-L</forename><surname>Malo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Labrecque</surname></persName>
+		</author>
+		<idno>16.09</idno>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,472.54,237.52,33.69,9.94;23,226.81,321.31,208.67,9.94">Official Journal of the European Communities</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="1" to="36" />
+			<date type="published" when="1997">2002. 1997. 1997</date>
+		</imprint>
+	</monogr>
+	<note>Allergy</note>
+</biblStruct>
+
+<biblStruct coords="23,70.94,353.23,453.18,9.94;23,85.10,366.19,439.03,9.94;23,85.10,379.15,316.52,9.94" xml:id="b22">
+	<analytic>
+		<title level="a" type="main" coord="23,292.84,353.23,231.29,9.94;23,85.10,366.19,344.57,9.94">Guidance of the Scientific Committee on a request from EFSA on the use of the benchmark dose approach in risk assessment</title>
+		<author>
+			<persName coords=""><surname>Efsa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,438.69,366.19,85.44,9.94">The EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">1150</biblScope>
+			<biblScope unit="page" from="1" to="72" />
+			<date type="published" when="2009">2009. 2009</date>
+		</imprint>
+	</monogr>
+	<note>2 External expert of the EFSA Scientific Committee</note>
+</biblStruct>
+
+<biblStruct coords="23,70.94,398.11,453.47,9.94;23,85.10,411.09,199.94,9.94" xml:id="b23">
+	<analytic>
+		<title level="a" type="main" coord="23,124.36,411.09,64.20,9.94">Allergy to anis</title>
+		<author>
+			<persName coords=""><forename type="first">Gonzales-Gutierrez Ml</forename><surname>Sanchez-Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Esteban</forename><forename type="middle">-</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">I</forename><surname>Sempere-Ortells</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Diaz-Alperi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,195.44,411.09,33.73,9.94">Allergy</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="195" to="204" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,430.05,453.29,9.94;23,85.10,443.01,357.79,9.94" xml:id="b24">
+	<analytic>
+		<title level="a" type="main" coord="23,262.49,430.05,261.75,9.94;23,85.10,443.01,114.57,9.94">Tamoxifen pharmacogenomics: the role of CYP2D6 as a predictor of drug response</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">P</forename><surname>Goetz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Kamal</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">M</forename><surname>Ames</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,207.17,443.01,90.71,9.94">Clin Pharmacol Ther</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="160" to="166" />
+			<date type="published" when="2008-01">2008. 2008 Jan</date>
+		</imprint>
+	</monogr>
+	<note>Review</note>
+</biblStruct>
+
+<biblStruct coords="23,70.94,461.97,273.52,9.94" xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Hikino</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note>Recent research on oriental medicinal plants</note>
+</biblStruct>
+
+<biblStruct coords="23,70.94,480.93,453.75,9.94;23,85.10,493.89,228.56,9.94" xml:id="b26">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Ikematsu</surname></persName>
+		</author>
+		<title level="m" coord="23,162.21,480.93,362.48,9.94;23,85.10,493.89,34.96,9.94">Study Report: Safety Study of LFO in Single-dose Ingestion. Protocol No. H16-KA0212</title>
+		<imprint>
+			<publisher>Total Technological Consultant, Co., Ltd</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,512.85,453.40,9.94;23,85.10,525.81,239.85,9.94" xml:id="b27">
+	<monogr>
+		<title level="m" type="main" coord="23,163.58,512.85,360.76,9.94;23,85.10,525.81,193.27,9.94">Study Report. Safety Study of LFO in I-week Repeated-dose Ingestion.Protocol No. 161 12. Total Technological Consultant</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Ikematsu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Co., Ltd</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,544.77,453.48,9.94;23,85.10,557.73,237.09,9.94" xml:id="b28">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Ikematsu</surname></persName>
+		</author>
+		<title level="m" coord="23,157.77,544.77,366.65,9.94;23,85.10,557.73,190.51,9.94">Study Report. Safety Study of LFO in 4-week Repeated-dose Ingestion. Protocol No. 16113. Total Technological Consultant</title>
+		<meeting><address><addrLine>Co., Ltd</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,576.72,453.66,9.94;23,85.10,589.68,385.95,9.94" xml:id="b29">
+	<monogr>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Ikematsu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Nakamura</surname></persName>
+		</author>
+		<title level="m" coord="23,249.29,576.72,275.31,9.94;23,85.10,589.68,339.36,9.94">Study Report. Safety Study of LFO (1800 mg) in 4-week Repeated-ose Ingestion. Protocol No. 17218. Total Technological Consultant</title>
+		<meeting><address><addrLine>Co., Ltd</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,608.64,453.09,9.94;23,85.10,621.60,438.87,9.94;23,85.10,634.45,234.87,10.05" xml:id="b30">
+	<analytic>
+		<title level="a" type="main" coord="23,126.99,621.60,345.31,9.94">Absorption of dietary liquorice isoflavan glabridin to blood circulation in rats</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Ito</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Oi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Hashimoto</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Nakabayashi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Aoki</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Yokota</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Hosoe</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Kanazawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,479.07,621.60,44.91,9.94;23,85.10,634.56,168.59,9.94">Journal of Nutritional Science and Vitaminology</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="358" to="365" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,653.52,453.04,9.94;23,85.10,666.48,438.97,9.94;23,85.10,679.44,438.97,9.94;23,85.10,692.40,243.29,9.94" xml:id="b31">
+	<analytic>
+		<title level="a" type="main" coord="23,139.10,679.44,384.98,9.94;23,85.10,692.40,100.91,9.94">CYP2D6 genotype, antidepressant use, and tamoxifen metabolism during adjuvant breast cancer treatment</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Jin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Z</forename><surname>Desta</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Stearns</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Skaar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><forename type="middle">M</forename><surname>Storniolo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Araba</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Blanchard</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Ullmer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Hayden</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Lemler</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">M</forename><surname>Weinshilboum</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>Rae</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><forename type="middle">A</forename><surname>Flockhart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,193.37,692.40,78.44,9.94">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="30" to="39" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,711.36,453.10,9.94;23,85.10,724.32,58.41,9.94" xml:id="b32">
+	<analytic>
+		<title level="a" type="main" coord="23,163.39,711.36,355.69,9.94">Reverse Mutation Test of Liquorice Flavonoid Oil in Bacteria. Study No 6208</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Kamigaito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,85.10,724.32,53.72,9.94">Final Report</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,70.94,743.30,453.16,9.94;23,85.10,756.26,348.83,9.94;24,70.94,791.80,121.26,8.96" xml:id="b33">
+	<analytic>
+		<title level="a" type="main" coord="23,157.18,743.30,313.12,9.94">90-day repeated dose toxicity study of liquorice flavonoid oil in rats</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kawabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="23,271.43,756.26,162.50,9.94;24,70.94,791.80,56.09,8.96">Medical Science. Ichinomiya, Japan. EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">2287</biblScope>
+			<date type="published" when="2004">2004. 2011</date>
+		</imprint>
+	</monogr>
+	<note>Study No. 0326. Final Report. Daiyu-kai Institute of</note>
+</biblStruct>
+
+<biblStruct coords="24,70.94,76.72,453.08,9.94;24,85.10,89.68,439.12,9.94;24,85.10,102.53,133.35,10.05" xml:id="b34">
+	<analytic>
+		<title level="a" type="main" coord="24,356.68,76.72,167.34,9.94;24,85.10,89.68,352.14,9.94">The liquorice root derived isoflavan glabridin inhibits the activities of human cytochrome P450s 3A4, 2B6 and 2C9</title>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Aviram</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Rosenblat</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><forename type="middle">F</forename><surname>Hollenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,445.64,89.68,78.58,9.94;24,85.10,102.64,69.84,9.94">Drug Metabolism and Disposition</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="709" to="715" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,121.60,453.00,9.94;24,85.10,134.56,147.15,9.94" xml:id="b35">
+	<analytic>
+		<title level="a" type="main" coord="24,238.30,121.60,281.23,9.94">2 cases with allergic contact dermatitis due to whitening agents</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Matsunaga</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Fujisawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,85.10,134.56,102.66,9.94">Aesthetic Dermatology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="81" to="86" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,153.52,453.53,9.94;24,85.10,166.48,439.60,9.94;24,85.10,179.44,13.80,9.94" xml:id="b36">
+	<analytic>
+		<title level="a" type="main" coord="24,85.10,166.48,235.71,9.94">Genotoxicity studies on liquorice flavonoid oil (LFO)</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Hidaka</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kitano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Asakura</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Kamigaito</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Noguchi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Hosoe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,328.99,166.48,140.11,9.94">Food and Chemical Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="2525" to="2532" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,198.40,453.65,9.94;24,85.10,211.36,439.27,9.94;24,85.10,224.32,120.15,9.94" xml:id="b37">
+	<analytic>
+		<title level="a" type="main" coord="24,491.73,198.40,32.87,9.94;24,85.10,211.36,334.22,9.94">90-Day repeated-dose toxicity study of liquorice flavonoid oil (LFO) in rats</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kitano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Kishida</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Hidaka</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Nabae</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kawabe</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Hosoe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,430.15,211.36,94.23,9.94;24,85.10,224.32,50.97,9.94">Food and Chemical Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="2349" to="2357" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,243.31,453.31,9.94;24,85.10,256.27,160.94,9.94" xml:id="b38">
+	<analytic>
+		<title level="a" type="main" coord="24,230.89,243.31,293.37,9.94;24,85.10,256.27,36.33,9.94">Contact allergy due to oil-soluble liquorice extracts in cosmetic products</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Nishioka</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Seguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,128.73,256.27,83.81,9.94">Contact Dermatitis</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">56</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,275.23,453.10,9.94;24,85.10,288.19,88.91,9.94" xml:id="b39">
+	<monogr>
+		<title level="m" type="main" coord="24,158.17,275.23,313.04,9.94">Bone Marrow Micronucleus test of Liquorice Flavonoid Oil with Rats</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Noguchi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Study No. 7038, Study Report</note>
+</biblStruct>
+
+<biblStruct coords="24,70.94,307.15,453.17,9.94;24,85.10,320.11,161.47,9.94" xml:id="b40">
+	<monogr>
+		<title level="m" type="main" coord="24,161.05,307.15,363.06,9.94;24,85.10,320.11,17.92,9.94">Liver and Peripheral Blood Micronucleus Test of Liquorice Flavonoid Oil with Rats</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Noguchi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Study No. 7035, Study Report</note>
+</biblStruct>
+
+<biblStruct coords="24,70.94,339.07,453.27,9.94;24,85.10,352.03,439.59,9.94;24,85.10,364.99,22.08,9.94" xml:id="b41">
+	<analytic>
+		<title level="a" type="main" coord="24,252.65,339.07,271.56,9.94;24,85.10,352.03,239.32,9.94">Chemistry of phenolic compounds of liquorice (Glycyrrhiza species) and their estrogenic and cytotoxic activities</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Nomura</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Fukai</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Akiyama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,332.62,352.03,130.47,9.94">Pure and Applied Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1199" to="1206" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,383.95,453.22,9.94;24,85.10,396.91,234.96,9.94" xml:id="b42">
+	<analytic>
+		<title level="a" type="main" coord="24,342.74,383.95,181.42,9.94;24,85.10,396.91,100.38,9.94">Liquorice extract in a cosmetic product causing contact allergy</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">L</forename><surname>O'connell</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">R</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">M</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">P</forename><surname>Mcfadden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,192.53,396.91,83.78,9.94">Contact Dermatitis</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">52</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,415.89,453.28,9.94;24,85.10,428.85,439.37,9.94;24,85.10,441.81,233.90,9.94" xml:id="b43">
+	<analytic>
+		<title level="a" type="main" coord="24,341.47,415.89,182.76,9.94;24,85.10,428.85,347.51,9.94">Estrogen-like activity of liquorice root constituents; glabridin and glabrene, in vascular tissues in vitro and in vivo</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Somjen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Knoll</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Vaya</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Tamir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,441.35,428.85,83.12,9.94;24,85.10,441.81,164.69,9.94">Journal of Steroid Biochemistry and Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="147" to="155" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,460.77,453.43,9.94;24,85.10,473.73,439.32,9.94;24,85.10,486.69,109.80,9.94" xml:id="b44">
+	<analytic>
+		<title level="a" type="main" coord="24,456.04,460.77,68.34,9.94;24,85.10,473.73,397.82,9.94">Estrogenic and antiproliferative properties of glabridin from liquorice in human breast cancer cells</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Tamir</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Eizenberg</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Somjen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Shelach</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Vaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,493.18,473.73,31.24,9.94;24,85.10,486.69,40.51,9.94">Cancer Research</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="5704" to="5709" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,505.65,453.30,9.94;24,85.10,518.61,439.41,9.94;24,85.10,531.57,55.43,9.94" xml:id="b45">
+	<analytic>
+		<title level="a" type="main" coord="24,330.99,505.65,193.26,9.94;24,85.10,518.61,179.39,9.94">Estrogen-like activity of glabrene and other constituents isolated from liquorice root</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Tamir</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Eizenberg</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Somjen</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Izrael</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Vaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,272.21,518.61,252.31,9.94">Journal of Steroid Biochemistry and Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="291" to="298" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,550.53,453.37,9.94;24,85.10,563.49,438.82,9.94;24,85.10,576.48,103.68,9.94" xml:id="b46">
+	<analytic>
+		<title level="a" type="main" coord="24,421.71,550.53,102.61,9.94;24,85.10,563.49,352.30,9.94">Liquorice flavonoid oil effects body weight loss by reduction of body fat mass in overweight subjects</title>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Tominaga</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Mae</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Kitano</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Sakamoto</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Ikematsu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Nakagawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,445.31,563.49,78.62,9.94;24,85.10,576.48,34.40,9.94">Journal of Health Science</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="672" to="683" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,595.44,453.42,9.94;24,85.10,608.40,438.82,9.94;24,85.10,621.36,347.13,9.94" xml:id="b47">
+	<monogr>
+		<title level="m" type="main" coord="24,295.59,595.44,228.78,9.94;24,85.10,608.40,386.27,9.94">National Diet and Nutrition Survey: Adult aged 19 to 64 Years. A survey carried in Great Britain on behalf of the Food Standards Agency</title>
+		<author>
+			<persName coords=""><forename type="first">Henderson</forename><forename type="middle">L</forename><surname>Ukda</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Irving</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Gregory</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+		<respStmt>
+			<orgName>Office for National Statistics and Medical Research, Council Human Nutrition Research</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,640.32,453.51,9.94;24,85.10,653.28,403.71,9.94" xml:id="b48">
+	<analytic>
+		<title level="a" type="main" coord="24,152.28,640.32,372.18,9.94;24,85.10,653.28,124.82,9.94">Rat Medium-term Liver Carcinogenesis Bioassay of Liquorice Flavonoid Oil. Study No. 0406. DIMS Institute of</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Yoshino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,212.74,653.28,205.75,9.94">Medical Science Inc. English translation dated</title>
+		<imprint>
+			<date type="published" when="2004-04-19">2004. April 19. 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,672.24,453.53,9.94;24,85.10,685.20,324.17,9.94" xml:id="b49">
+	<analytic>
+		<title level="a" type="main" coord="24,270.29,672.24,254.19,9.94;24,85.10,685.20,151.55,9.94">Clinical outcomes and management of mechanism-based inhibition of cytochrome P4503A4</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,244.96,685.20,106.73,9.94">Therap Clin Risk Manag</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="13" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,70.94,704.16,453.76,9.94;24,85.10,717.12,439.30,9.94;24,85.10,730.10,91.68,9.94" xml:id="b50">
+	<analytic>
+		<title level="a" type="main" coord="24,469.52,704.16,55.19,9.94;24,85.10,717.12,332.33,9.94">Mechanismbased inhibition of cytochrome P450 3A4 by therapeutic drugs</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Yung</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Cher</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Chan</forename><forename type="middle">E</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="24,427.03,717.12,92.46,9.94">Clin Pharmacokinet</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="279" to="304" />
+			<date type="published" when="2005">2005. 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

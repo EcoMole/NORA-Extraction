@@ -6,7 +6,7 @@ from category_extractor import OpinionAExtraction, OpinionBExtraction, OpinionCE
 
 def get_opinions(root_dir: str) -> typing.List[Opinion]:
     opinions: typing.List[Opinion] = []
-    data_info = pd.read_csv('../outputs/data_info.csv')
+    data_info = pd.read_csv('outputs/data_info.csv')
     data_tuples = zip(data_info['question'], data_info['group'], data_info['type'])
 
     for data_tuple in data_tuples:
@@ -21,7 +21,7 @@ def get_opinions(root_dir: str) -> typing.List[Opinion]:
                 if file.endswith('.xml') and not file.endswith('.tei.xml'):
                     xml_file = os.path.join(root, file)
 
-        if xml_file is not None: #TODO better
+        if xml_file is not None:
                 if data_tuple[1] == 'A':
                     opinions.append(Opinion(xml_file, tei_file, OpinionAExtraction()))
                 elif data_tuple[1] == 'B':
@@ -36,7 +36,7 @@ def get_opinions(root_dir: str) -> typing.List[Opinion]:
 
 
 def main():
-    opinions = get_opinions('../../NFs/')
+    opinions = get_opinions('../example_opinions')
     print(f' {len(opinions)} opinions created')
     dfs = [opinion.into_df() for opinion in opinions]
     df = pd.concat(dfs)
@@ -44,9 +44,13 @@ def main():
     #get not null categories:
     print(len(df))
     # get categories that are not '':
-    print(len(df[df['categories'] != '']))
+    print(f"not null categories: {len(df[df['categories'] != ''])}")
+    print(f"not null applicants: {len(df[df['applicant'] != ''])}")
+    print(f"not null nf name: {len(df[df['nf_name'] != ''])}")
+    print(f"not null scientific officers: {len(df[df['scientific officers'] != ''])}")
 
-    df.to_csv('../outputs/test_output.csv')
+
+    df.to_csv('../outputs/example_extracted_info.csv')
 
 
 if __name__=="__main__": 

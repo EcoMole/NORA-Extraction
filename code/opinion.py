@@ -1,13 +1,10 @@
-#import xml.etree.ElementTree as ET 
 import lxml.etree as ET
-import typing
 import pandas as pd
 import re 
 import datetime
 from name_extractor import NameExtractor
 from data_store import DataStore
 from unidecode import unidecode
-# TODO Add typehints
 from category_extractor import CategoryExtractionStrategy
 
 class Opinion():

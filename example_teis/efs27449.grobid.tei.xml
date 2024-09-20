@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2015">2015/2283</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Dominique</forename><surname>Turck</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Torsten</forename><surname>Bohn</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jacqueline</forename><surname>Castenmiller</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Stefaan</forename><surname>De Henauw</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Karen</forename><surname>Ildico</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alexandre</forename><surname>Maciuk</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Inge</forename><surname>Mangelsdorf</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Harry</forename><forename type="middle">J</forename><surname>Mcardle</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Androniki</forename><surname>Naska</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Carmen</forename><surname>Pelaez</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kristina</forename><surname>Pentieva</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alfonso</forename><surname>Siani</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Frank</forename><surname>Thies</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sophia</forename><surname>Tsabouri</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Marco</forename><surname>Vinceti</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Francesco</forename><surname>Cubadda</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><surname>Frenzel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Marina</forename><surname>Heinonen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Miguel</forename><surname>Prieto Maradona</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rosangela</forename><surname>Marchelli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Monika</forename><surname>Neuh € Auser-Berthold</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Morten</forename><surname>Poulsen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Josef</forename><forename type="middle">Rudolf</forename><surname>Schlatter</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Henk</forename><surname>Van Loveren</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Eane</forename><surname>Oc</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tilemachos</forename><surname>Albert</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Katrine</forename><surname>Goumperis</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Knutsen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Katrine</forename><surname>Knutsen</surname></persName>
+						</author>
+						<title level="a" type="main">EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA)</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1831-4732</idno>
+						<imprint>
+							<date type="published" when="2015">2015/2283</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">23CE7704FE660C6C0195A49D083865A0</idno>
+					<idno type="DOI">10.2903/j.efsa.2022.7449</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-20T10:10+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>novel food</term>
+					<term>b-hydroxybutyrate</term>
+					<term>calcium</term>
+					<term>magnesium</term>
+					<term>sodium</term>
+					<term>chemical synthesis</term>
+					<term>food supplements Requestor: European Commission</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Following a request from the European Commission, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver an opinion on b-hydroxybutyrate (BHB) salts as a novel food (NF) pursuant to Regulation (EU) 2015/2283. The NF consists of sodium, magnesium and calcium BHB salts, and is proposed to be used by adults as a food ingredient in a number of food categories and as food supplement. The data provided by the applicant about the identity, the production process and the compositional data of the NF over the course of the risk assessment period were overall considered unsatisfactory. The Panel noted inconsistencies in the reporting of the test item used in the subchronic toxicity study and human studies provided by the applicant. Owing to these deficiencies, the Panel cannot establish a safe intake level of the NF. The Panel concludes that the safety of the NF has not been established.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In accordance with Article 10(3) of Regulation (EU) 2015/2283, the European Commission asks the European Food Safety Authority to provide a scientific opinion by carrying out the assessment for b-hydroxybutyrate salts (sodium/magnesium/calcium) as a NF ingredient.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>Data and methodologies</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Data</head><p>The safety assessment of this NF is based on data supplied in the application and information submitted by the applicant following several EFSA requests for supplementary information.</p><p>During the assessment, the Panel identified additional data that were not included in the application.</p><p>Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469 <ref type="foot" target="#foot_1">1</ref> .</p><p>A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application (EFSA NDA Panel, 2016). As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data (including both data in favour and not in favour) that are pertinent to the safety of the NF.</p><p>This NF application includes a request for protection of proprietary data in accordance with Article 26 of Regulation (EU) 2015/2283. The data requested by the applicant to be protected comprise the production process.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Methodologies</head><p>The assessment follows the methodology set out in the EFSA guidance on NF applications (EFSA NDA Panel, 2016) and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee. The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of the Commission Implementing Regulation (EU) 2017/2469. Additional information which was not included in the application was retrieved by literature search following a search strategy and standard operating procedure as described by UCT Prague (2020).</p><p>This assessment concerns only the risks that might be associated with consumption of the NF under the proposed conditions of use and is not an assessment of the efficacy of the NF with regard to any claimed benefit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Assessment</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Introduction</head><p>The NF which is the subject of the application is a mixture of b-hydroxybutyrate (BHB) salts (sodium, magnesium or calcium) in specific proportions. BHB is a chiral molecule with a stereocentre at C-3.</p><p>With reference to Article 3 of Regulation (EU) 2015/2283, the NF falls under the category 2(a)(i), i.e., food with a new or intentionally modified molecular structure, where that structure was not used as, or in, a food within the Union before 15 May 1997. The NF is proposed to be used as food supplements and as a food ingredient in drink mixes, both liquid and powdered drink bases. The applicant indicated that the target population is adults.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.2.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Identity of the NF</head><p>The NF consists of a mixture of sodium (Na), magnesium (Mg) and calcium (Ca) BHB salts (Table <ref type="table" target="#tab_1">1</ref>). The structures of the individual salts were characterised by 1 H-NMR and HPLC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.1.">Salt proportions</head><p>In their original submission from April 2019, the applicant provided individual certificates of analysis for each BHB salt (BHB-Na, BHB-Mg and BHB-Ca), which EFSA considered as three individual entities to assess.</p><p>Following a request for clarifications sent by EFSA in December 2020 about the composition of the NF, the applicant submitted new certificates of analysis for two salts, BHB-Na and BHB-CaMg, in January 2021.</p><p>In subsequent requests for clarification, sent by EFSA in January 2021 and May 2021, the applicant was asked to clarify unequivocally the nature of the NF. The NF as intended to be placed on the market was clarified in June 2021 to be a mixture of 59% BHB-Na, 27% BHB-Mg, 14% BHB-Ca.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.2.">Chirality</head><p>In their original submission from April 2019, the applicant implied that the individual salts were racemic mixtures of D,L-BHB but did not provide supportive analytical data. Considering the difference in metabolism between the two enantiomers D-and L-BHB reported in the literature, EFSA subsequently asked the applicant to provide analytical data on the chirality of BHB salts in December 2020.</p><p>In January 2021, the applicant provided certificates of analyses indicating that the BHB salts consisted of 72-98% BHB of the D-(R)-enantiomer and 2-28% BHB of the L-(S)-enantiomer.</p><p>In April 2021, the applicant provided new certificates of analysis for each individual salt, indicating that the enantiomeric ratio D:L was 95:5. In March 2022, the applicant provided chromatograms supporting the enantiomeric ratio D:L of 95:5 for the final product constituted of sodium, calcium and magnesium salts. The Panel notes that minor inaccuracies in the reporting of the chirality data remain.</p><p>With respect to the identity of the NF, the Panel assumes from this point on that the NF is a mixture of 59% BHB-Na, 27% BHB-Mg, 14% BHB-Ca in 95:5 D:L enantiomeric ratio.</p><p>The Panel considers that the identity of the NF is overall sufficiently demonstrated. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Production process</head><p>The Panel notes that no Good Manufacturing Practice (GMP) certificate issued for the producer of the NF was provided.</p><p>In its original submission in April 2019, the applicant indicated that the NF was produced via a synthetic process involving the reduction of methyl acetoacetate with NaBH 4 to methyl 3-hydroxybutyrate, followed by hydrolysis of the methyl ester to 3-hydroxybutyric acid and a subsequent addition of either Na, Mg or Ca hydroxides to obtain the salts. The Panel notes that such production process gives rise to a racemic mixture of D,L-BHB.</p><p>In April 2021, following requests for clarification from January 2021 motivated by the enquiries about the chirality of BHB (see Section 3.2.2), the applicant indicated that the NF was produced starting from methyl acetoacetate obtained by fermentation. In May 2021, the applicant indicated that the synthetic process leads to a 95:5 D:L enantiomeric ratio, without providing the enantioselective condition details or analytical data to support this information.</p><p>In January 2022, following requests for clarification from June 2021, the applicant indicated that neither methyl acetoacetate nor NaBH 4 are used in the production process. Instead, the applicant reported that the NF is obtained by two parallel reductions of ethyl acetoacetate with hydrogen and Raney nickel or with a chiral catalyst, leading to either a racemic mixture of D,L-BHB salts or pure D-BHB salts, respectively, subsequently blended to obtain a 95:5 D:L mixture of BHB salts. In April 2022, the applicant clarified that the starting material is commercial ethyl acetoacetate.</p><p>The Panel notes that only minor imprecisions remain about the latest description of the production process, which conforms to the latest characterisation of the NF. However, the Panel also notes that each of the three production processes sequentially described by the applicant theoretically leads to different final products. Considering that the description of the production process has changed without justification several times over the course of the risk assessment period, the Panel has doubts regarding the robustness, consistency and credibility of the data submitted by the applicant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Compositional data</head><p>In their original submission from April 2019, the applicant provided individual certificates of analysis for each individual BHB salt (BHB-Na, BHB-Mg and BHB-Ca).</p><p>Following a request for clarification about optical rotation from December 2020, the applicant submitted new certificates of analysis for two salts, BHB-Na and BHB-CaMg in January 2021.</p><p>In June 2021, subsequent to the clarification about salt proportions in the NF (cf. Section 3.2.1), the applicant was requested to provide new certificates of analysis for the NF as intended to be placed on the market (i.e., a mixture of 59% BHB-Na, 27% BHB-Mg, 14% BHB-Ca in the 95:5 D:L enantiomeric ratio). New certificates of analysis, dated December 2021, were submitted in January 2022. Upon request from EFSA, updated certificates of analysis for the same batches were submitted with additional microbiological analyses in March 2022.</p><p>The Panel notes that there were discrepancies in the reported values for some parameters in the certificates of analysis submitted for identical sample batches that were analysed in December 2021 and in March 2022. These data were therefore deemed unsatisfactory with respect to the composition of the NF.</p><p>Considering the repeated alterations made to the identity and production process of the NF over the course of the risk assessment, and considering the reporting discrepancies herein described, the Panel considers that the information provided on the composition of the NF precludes a safety assessment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.1.">Stability</head><p>In their original submission from April 2019, the applicant provided stability tests for three individual salts (BHB-Na, BHB-Mg and BHB-Ca) for 24 months. These data were updated up to 36 months in March 2021. The Panel notes that these data did not include microbiological analyses of the NF. No accreditation was provided for the laboratory carrying out the analysis.</p><p>In June 2021, subsequent to the clarification about salt proportions in the NF (cf. Section 3.2.1), the applicant was requested to provide new stability data for the NF as intended to be placed on the market (i.e., a mixture of 59% BHB-Na, 27% BHB-Mg, 14% BHB-Ca in the 95:5 D:L enantiomeric ratio). In January 2022, the applicant provided stability data for 5 independently produced batches of the NF. The tests were carried out in accelerated conditions at 30°C and at 65% relative humidity (RH) for a period of 24 weeks. The temperature conditions of the accelerated stability test were considered inadequate. The Panel therefore considers that the information provided on the stability of the NF is insufficient.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Specifications</head><p>Owing to the conclusions made about the identity, the production process, and the composition of the NF, the Panel decided not to report specifications for the NF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.6.</head><p>History of use of the NF and/or of its source</p><p>The Panel notes that there is no history of use of the NF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.7.</head><p>Proposed uses and use levels and anticipated intake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.1.">Target population</head><p>The target population proposed by the applicant is adults.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.2.">Proposed uses and use levels</head><p>The NF is proposed to be used as an ingredient in drink mixes, both 'liquid drink bases (including concentrates and home-made preparations)' and 'powdered drink bases' and/or in food supplements, at a maximum dose of 6 g/day.</p><p>Owing to the conclusions made about the identity, the production process, the composition and therefore the specifications of the NF, an exposure assessment was not carried out.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.8.">Absorption, distribution, metabolism and excretion (ADME)</head><p>The Panel notes that no ADME studies carried out with the NF have been provided by the applicant. The applicant provided literature data on absorption and metabolism of exogenous ketone bodies in humans, which was complemented by EFSA by an outsourced literature search.</p><p>The toxicokinetics of BHB varies depending on its form (e.g. keto acid, keto esters or keto salts) and chirality. For instance, D-BHB is readily converted to acetone, but L-BHB is not, and keto esters are more efficient than keto salts at elevating BHB concentrations in blood <ref type="bibr" target="#b47">(Stubbs et al., 2017)</ref>. Considering such specificities, the Panel considered that a proper characterisation of the NF was needed prior to proceeding with the ADME assessment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.9.">Nutritional information</head><p>Owing to the conclusions made about the identity, the production process, the stability, the composition and therefore the specifications of the NF, the Panel could not conclude whether or not the NF is nutritionally disadvantageous.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.10.</head><p>Toxicological information</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.1.">Genotoxicity</head><p>The applicant did not provide any genotoxicity study carried out with the NF but referred to literature studies. The Panel notes that EFSA's genotoxicity assessment was hindered by the repeated alterations made to the reporting of the identity and production process of the NF, and by the uncertainties on the composition and specifications of the NF as submitted over the course of the risk assessment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.2.">Subchronic toxicity</head><p>In their original submission from April 2019, the applicant did not provide subchronic toxicity data on the NF as intended to be placed on the market. The applicant referred to literature and regulatory data <ref type="bibr" target="#b37">(JECFA, 1980</ref> Considering the substantial differences in the metabolic fate of ketone bodies depending on their nature and chirality, EFSA considered that these studies were not relevant for the safety assessment of the NF. Consequently, in July 2019, in accordance with the Guidance on the preparation and submission of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283, EFSA requested a subchronic toxicity study with the NF as intended to be placed on the market.</p><p>In their reply in November 2019, the applicant did not provide any new study and referred to further literature data. The information provided was considered insufficient and the request for a subchronic toxicity study with the NF was reiterated in January 2020.</p><p>In January 2021, the applicant provided an interim report for a 90-day subchronic toxicity study conducted with '3-hydroxybutyric acid sodium (R form) w/1% calcium silicate (KetoNat-Na and KetoNat-CaMg)' according to the title, and with '3-hydroxybutyric acid sodium (containing D and L salts) w/1% calcium silicate (KetoNat-Na and KetoNat-CaMg)' according to the materials and methods section. No information was provided about individual salt proportions. The Panel notes that the certificates of analysis of the NF provided at the time indicate that the enantiomeric ratio of BHB salts was 72-98% D-form and 2-28% L-form, and that the production process included a microbial fermentation step.</p><p>A request for the full study report was sent to the applicant later in January 2021. The final report was provided in March 2021, where the test item was changed to '3-hydroxybutyric acid (KetoNat-Na, KetoNat-Ca, KetoNat-Mg)', with '3-hydroxybutyric acid at 95:5 D:L ratio'. No information was provided about individual salt proportions.</p><p>The Panel notes that, after this full report was provided, the production process as submitted in the dossier was modified and was described as a chemical synthesis without fermentation step.</p><p>In a further request sent in May 2021, the applicant was asked to clarify unequivocally what was the test item employed in the 90-day animal toxicity study, i.e., the proportions of each salt in the testing compound, and whether this corresponds to the NF as intended to be placed on the market. In June 2021, the applicant declared, without providing analytical data, that the test material for this study was a 59% BHB-Na, 27% BHB-Mg, 14% BHB-Ca mixture.</p><p>The Panel notes that the study report includes a claim for GLP compliance. Upon verification, the laboratory which conducted the study was found not to be GLP certified. The study therefore cannot be considered a reliable source of information for the risk assessment of the NF.</p><p>Considering the lack of GLP certification of the laboratory in which the subchronic toxicity study provided by the applicant was carried out, and considering the discrepancies observed in the reporting of the test item, the Panel considers that the study cannot be considered a reliable source of information. Therefore, the Panel cannot conclude on the relevance of the study to assess the safety of the NF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.3.">Human data</head><p>In their original submission in April 2019, the applicant did not provide human data on the NF as intended to be placed on the market but referred to literature data <ref type="bibr" target="#b43">(Sherwin et al., 1975;</ref><ref type="bibr" target="#b36">Frolund et al., 1980;</ref><ref type="bibr" target="#b40">Nair et al., 1988;</ref><ref type="bibr" target="#b41">Pan et al., 2002;</ref><ref type="bibr" target="#b42">Plecko et al., 2002</ref>  <ref type="bibr" target="#b52">Urbain et al., 2017)</ref>. This information was not considered relevant for the safety assessment of the NF as characterised at the time.</p><p>The applicant was requested in July 2019 to provide scientific evidence on the bioavailability and metabolism of both D-and L-BHB enantiomers and on the long-term effects of daily consumption of the NF under normal dietary conditions in humans. A reiteration of this request was made in January 2020.</p><p>The applicant later provided two reports for human studies: one in adults submitted in December 2020, and one in adolescents submitted in January 2021.</p><p>In the version submitted in December 2020, the report of the study in adults (dated November 2020) indicated that the test item was an 'R-beta hydroxybutyrate salt blend'. In a newly submitted version of the same report in January 2021, the test item was indicated to be a 'DL-beta hydroxybutyrate salt blend containing D and L salts'. In a further update in March 2021, the denomination was changed to a 'DL-beta hydroxybutyrate salt blend containing D and L salts at a 95:5 D:L ratio'. The Panel notes that the data were published in the literature in December 2020 <ref type="bibr" target="#b45">(Stefan et al., 2020)</ref>, indicating that the test material was a 'R-BHB salt blend', prior to the modifications made on the reporting of the identity and production process of the NF.</p><p>In the version submitted in January 2021, the report of the study in adolescents indicated that the test item was a 'beta-hydroxybutyrate salt blend containing D and L salts'. In a newly submitted version of the report in March 2021, the test item was indicated to be a 'beta-hydroxybutyrate salt blend containing D and L salts at a 95:5 D:L ratio'. The Panel notes that the data were published in the literature in March 2021 <ref type="bibr" target="#b46">(Stefan et al., 2021)</ref>, with no indication about the nature and chirality of the test material, and prior to the modifications made to the reporting of the identity and production process of the NF.</p><p>Following a further request from EFSA, the applicant clarified in June 2021 that the test item for both studies was a blend of 59% BHB-Na, 27% BHB-Mg, 14% BHB-Ca in 95:5 D,L enantiomeric ratio. The Panel notes that this information is not reported in the study reports.</p><p>Considering the discrepancies observed in the reporting of the test item used in the human studies provided by the applicant, the Panel cannot conclude on the relevance of these studies to assess the safety of the NF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.11.">Allergenicity</head><p>The applicant indicates that, because of its endogenous status, sensitising or allergenicity to BHB is not expected. Considering the synthetic nature of the production process involved, despite the overall uncertainties observed, the Panel concludes that the risk of potential allergenicity is low.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>The NF which is the subject of the application consists of sodium, magnesium and calcium BHB salts. It is proposed to be used by adults as a food ingredient in a number of food categories, and as food supplement.</p><p>Considering that the description of the identity, production process and composition of the NF has changed without justification several times over the course of the risk assessment period, the Panel has doubts regarding the robustness, consistency and credibility of the data submitted by the applicant.</p><p>Consequently, the Panel cannot conclude whether the test item used in the literature data, animal and human toxicological studies provided by the applicant is representative of the NF. Therefore, the Panel cannot establish the safety of the NF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>The Panel concludes that the safety of the NF has not been established.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6.</head><p>Steps taken by EFSA 3) On 01/07/2019, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended. 4) On 25/11/2019, additional information was provided by the applicant through the Commission e-submission portal and the scientific evaluation was restarted. 5) On 16/01/2020, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended. 6) On 03/12/2020, additional information was provided by the applicant through the Commission e-submission portal and the scientific evaluation was restarted. 7) During its meeting on 01/07/2022, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of b-hydroxybutyrate salts as a NF pursuant to Regulation (EU) 2015/2283.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Introduction 1 . 1 .</head><label>11</label><figDesc>Background and Terms of Reference as provided by the requestor On 28 February 2018, the company Pr € uvit Ventures Inc. submitted a request to the European Commission in accordance with Article 10 of Regulation (EU) No 2015/2283 to place on the EU market b-hydroxybutyrate salts (sodium/magnesium/calcium) as a novel food (NF).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table of contents</head><label>of</label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 :</head><label>1</label><figDesc>Chemical identity of b-hydroxybutyrate salts</figDesc><table><row><cell>Chemical substance</cell><cell></cell></row><row><cell>Chemical (IUPAC) name (PubChem)</cell><cell>calcium;3-hydroxybutanoate</cell></row><row><cell></cell><cell>magnesium;3-hydroxybutanoate</cell></row><row><cell></cell><cell>sodium;3-hydroxybutanoate</cell></row><row><cell>Common name</cell><cell>b-hydroxybutyrate salts</cell></row><row><cell>Other names (synonyms, trade names,</cell><cell>b-hydroxybutyric acid salts</cell></row><row><cell>abbreviations)</cell><cell>b-hydroxybutanoic acid salts</cell></row><row><cell></cell><cell>3-hydroxybutyric acid salts</cell></row><row><cell></cell><cell>3-hydroxybutanoic acid salts</cell></row><row><cell></cell><cell>calcium bis(hydroxybutyrate)</cell></row><row><cell></cell><cell>magnesium bis(hydroxybutyrate)</cell></row><row><cell></cell><cell>sodium hydroxybutyrate</cell></row><row><cell>CAS number</cell><cell>586976-56-9 [calcium-3-hydroxybutyrate]</cell></row><row><cell></cell><cell>586976-57-0 [magnesium-3-hydroxybutyrate]</cell></row><row><cell></cell><cell>150-83-4 [sodium-3-hydroxybutyrate]</cell></row><row><cell>Molecular formula</cell><cell>calcium salt: (C 4 H 7 O 3 ) 2 Ca</cell></row><row><cell></cell><cell>magnesium salt: (C 4 H 7 O 3 )</cell></row></table><note><p>2 Mg sodium salt: C 4 H 7 O 3 Na Molecular weight calcium salt: 246.27 g/mol magnesium salt: 230.50 g/mol sodium salt: 126.09 g/mol 3.3.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>; Smith et al., 2005; Clarke et al., 2012a; Clarke et al., 2012b; CFSAN/Office of Food Additive Safety, 2015; AIBMR Life Sciences, 2016).</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>; Van Hove et al., 2003; Tenenbaum et al., 2005; Li et al., 2012; Clarke et al., 2012b; Ulamek-Koziol et al., 2016; Woolf et al., 2016; Cervenka et al., 2017; Joseph et al., 2017; Thompson et al., 2017;</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>1 )</head><label>1</label><figDesc>On 11/04/2019, EFSA received a letter from the European Commission with the request for a scientific opinion on the safety of b-hydroxybutyrate salts. Ref. SANTE/E2/TD/amf(2019) 2869175. 2) On 11/04/2019, a valid application on b-hydroxybutyrate salts, which was submitted by Pr € uvit Ventures Inc., was made available to EFSA by the European Commission through the Commission e-submission portal (NF 2018/0291) and the scientific evaluation procedure was initiated.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>www.efsa.europa.eu/efsajournal</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1"><p>Commission Implementing Regulation (EU)</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>2017/2469 of 20 December 2017 laying down administrative and scientific requirements for applications referred to in Article 10 of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods. OJ L 351, 30.12.2017, pp. 64-71.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>EFSA Journal 2022;20(10):7449</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Abstract.....................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Introduction..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Background and Terms of Reference as provided by the requestor</title>
+		<author>
+			<orgName type="collaboration">....................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Data and methodologies ................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Data.............................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Methodologies...............................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Assessment...................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Introduction..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2. Identity of the NF..........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Salt proportions.............................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Chirality ........................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Production process ........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Compositional data........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Stability ........................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">5. Specifications ................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">History of use of the NF and/or of its source</title>
+		<author>
+			<orgName type="collaboration">...................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Proposed uses and use levels and anticipated intake</title>
+		<author>
+			<orgName type="collaboration">........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Target population ..........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Proposed uses and use levels .........................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Absorption, distribution, metabolism and excretion</title>
+		<author>
+			<orgName type="collaboration">ADME) ..............................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Nutritional information ...................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">10. Toxicological information ................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Genotoxicity..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Subchronic toxicity ........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Human data..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">11. Allergenicity ..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Discussion ....................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Conclusions...................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Steps taken by EFSA .....................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">References.................................................................................................................................................. Abbreviations .............................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Generally Recognized as Safe (GRAS) Status of Beta-hydroxybutyrate Salts</title>
+	</analytic>
+	<monogr>
+		<title level="j">References AIBMR Life Sciences I</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Phase I/II multicenter ketogenic diet study for adult superrefractory status epilepticus</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Cervenka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koenig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Henry-Barron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kossoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Hartman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Probasco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Benavides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Venkatesan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Hagen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dittrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Radzik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Depew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Caserta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nyquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Geocadin</surname></persName>
+		</author>
+		<idno type="DOI">10.1212/WNL.0000000000003690</idno>
+		<ptr target="https://doi.org/10.1212/WNL.0000000000003690" />
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="938" to="943" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Agency Response Letter GRAS Notice</title>
+		<idno>No. 000515</idno>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>CFSAN/Office of Food Additive Safety</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Oral 28-day and developmental toxicity studies of (R)-3-hydroxybutyl (R)-3hydroxybutyrate</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tchabanenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pawlosky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Cochlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robertson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Veech</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.yrtph.2012.04.001</idno>
+		<ptr target="https://doi.org/10.1016/j.yrtph.2012.04.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Regulatory Toxicology and Pharmacology</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="196" to="208" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Kinetics, safety and tolerability of (R)-3-hydroxybutyl (R)-3-hydroxybutyrate in healthy adult subjects</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tchabanenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pawlosky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Todd</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Musa-Veloso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Robertson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vanitallie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Veech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.yrtph.2012.04.008</idno>
+		<ptr target="https://doi.org/10.1016/j.yrtph.2012.04.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Regulatory Toxicology and Pharmacology</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="401" to="408" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283</title>
+		<author>
+			<persName><surname>Efsa Nda Panel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">24</biblScope>
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>EFSA Panel on Dietetic Products, Nutrition and Allergies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Effect of ketone body infusion on plasma catecholamine and substrate concentrations during acute hypoglycemia in man</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Frolund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kehlet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kgmm</forename><surname>Alberti</surname></persName>
+		</author>
+		<idno type="DOI">10.1210/jcem-50-3-557</idno>
+		<ptr target="https://doi.org/10.1210/jcem-50-3-557" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Clinical Endocrinology &amp; Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="557" to="559" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Toxicological evaluation of certain food additives</title>
+		<author>
+			<persName><surname>Jecfa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Food Additives Series 40</title>
+		<imprint>
+			<publisher>World Health Organization</publisher>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note>Joint FAO/WHO Expert Committee on Food Additives)</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Modified Mediterranean diet for enrichment of short chain fatty acids: potential adjunctive therapeutic to target immune and metabolic dysfunction in Schizophrenia?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Joseph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Depp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Shih</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Cadenhead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schmid-Schonbein</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fnins.2017.00155</idno>
+		<ptr target="https://doi.org/10.3389/fnins.2017.00155" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">155</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Sodium butyrate stimulates expression of fibroblast growth factor 21 in liver by inhibition of histone deacetylase 3</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jia</surname></persName>
+		</author>
+		<idno type="DOI">10.2337/db11-0846</idno>
+		<ptr target="https://doi.org/10.2337/db11-0846" />
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="797" to="806" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Effect of beta-hydroxybutyrate on whole-body leucine kinetics and fractional mixed skeletal muscle protein synthesis in humans</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Nair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Welle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Halliday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Clinical Investigation</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="198" to="205" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">C2]-b-Hydroxybutyrate metabolism in human brain</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>De Graaf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Shulman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hetherington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Rothman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cerebral Blood Flow &amp; Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="890" to="898" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Oral beta-hydroxybutyrate supplementation in two patients with hyperinsulinemic hypoglycemia: monitoring of beta-hydroxybutyrate levels in blood and cerebrospinal fluid, and in the brain by in vivo magnetic resonance spectroscopy</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Plecko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stoeckler-Ipsiroglu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schober</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Harrer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mlynarik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gruber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moeslinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Silgoner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ipsiroglu</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/01.PDR.0000019439.27135.2B</idno>
+		<ptr target="https://doi.org/10.1023/01.PDR.0000019439.27135.2B" />
+	</analytic>
+	<monogr>
+		<title level="j">Pediatric Research</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="301" to="306" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Effect of ketone infusions on amino acid and nitrogen metabolism in man</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Sherwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Hendler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Felig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Clinical Investigation</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1382" to="1390" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">KTX 0101: a potential metabolic approach to cytoprotection in major surgery and neurological disorders</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Heal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CNS Drug Reviews</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="113" to="140" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The effects of exogenous beta-hydroxybutyrate supplementation on metrics of safety and health</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stefan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gheith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lowery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wilson</forename><forename type="middle">J</forename></persName>
+		</author>
+		<idno type="DOI">10.11648/j.ijnfs.20200906.13</idno>
+		<ptr target="https://doi.org/10.11648/j.ijnfs.20200906.13" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Nutrition and Food Sciences</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="154" to="162" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The Effect of Exogenous Beta-Hydroxybutyrate Salt Supplementation on Metrics of Safety and Health in Adolescents</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stefan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gheith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lowery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wilson</forename><forename type="middle">J</forename></persName>
+		</author>
+		<idno type="DOI">10.3390/nu13030854</idno>
+		<ptr target="https://doi.org/10.3390/nu" />
+	</analytic>
+	<monogr>
+		<title level="j">Nutrients</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">13030854</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">On the metabolism of exogenous ketones in humans</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Stubbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Santer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">K</forename><surname>Faull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Magor-Elliott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stirling</forename><forename type="middle">M</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clarke</forename><forename type="middle">K</forename></persName>
+		</author>
+		<idno type="DOI">10.3389/fphys.2017.00848</idno>
+		<ptr target="https://doi.org/10.3389/fphys.2017.00848" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Physiology</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">848</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Dual and pan-peroxisome proliferator-activated receptors (PPAR) co-agonism: the bezafibrate lessons</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tenenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Motro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Z</forename><surname>Fisman</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1475-2840-4-14</idno>
+		<ptr target="https://doi.org/10.1186/1475-2840-4-14" />
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovascular Diabetology</title>
+		<imprint>
+			<biblScope unit="page" from="4" to="14" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Use of the ketogenic diet in the neonatal intensive care unitsafety and tolerability</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fecske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Salim</forename><forename type="middle">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1111/epi.13650</idno>
+		<ptr target="https://doi.org/10.1111/epi.13650" />
+	</analytic>
+	<monogr>
+		<title level="j">Epilepsia</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="36" to="e39" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Systematic literature search to assist EFSA in the preparatory work for the safety assessment of Novel Food applications and Traditional Food notifications</title>
+		<author>
+			<persName><forename type="first">Ecomole</forename><surname>Uct ; Prague</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">EN-1774</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dibusz</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">EN-1774</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vejvodova</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">EN-1774</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.2903/sp.efsa.2019.EN-1774</idno>
+		<ptr target="https://doi.org/10.2903/sp.efsa.2019.EN-1774" />
+	</analytic>
+	<monogr>
+		<title level="j">EFSA supporting publication</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<date type="published" when="2020">2020. 2020</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Chemistry and Technology of</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">To treat or not to treat drug-refractory epilepsy by the ketogenic diet? That is the question</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ulamek-Koziol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pluta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bogucka-Kocka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Czuczwar</surname></persName>
+		</author>
+		<idno type="DOI">10.5604/12321966.1226841</idno>
+		<ptr target="https://doi.org/10.5604/12321966.1226841" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Agricultural and Environmental Medicine</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="533" to="536" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Impact of a 6-week non-energy-restricted ketogenic diet on physical fitness, body composition and biochemical parameters in healthy adults</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Urbain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Strom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Morawski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wehrle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Deibert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bertz</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12986-017-0175-5</idno>
+		<ptr target="https://doi.org/10.1186/s12986-017-0175-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Nutrition &amp; Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">17</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">D,L-3-hydroxybutyrate treatment of multiple acyl-CoA dehydrogenase deficiency (MADD). The Lancet</title>
+		<author>
+			<persName><forename type="first">Jlk</forename><surname>Van Hove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gr€ Unewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jaeken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Demaerel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Declercq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bourdoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Niezen-Koning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Deanfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Leonard</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0140-6736(03)13105-4</idno>
+		<ptr target="https://doi.org/10.1016/s0140-6736(03)13105-4" />
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">361</biblScope>
+			<biblScope unit="page" from="1433" to="1435" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Tumor metabolism, the ketogenic diet and beta-hydroxybutyrate: novel approaches to adjuvant brain tumor therapy</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Syed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Scheck</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fnmol.2016.00122</idno>
+		<ptr target="https://doi.org/10.3389/fnmol.2016.00122" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Molecular Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">122</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

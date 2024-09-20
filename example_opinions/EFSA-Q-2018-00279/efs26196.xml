@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN" "JATS-archive-oasis-article1-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" id="efs26196" dtd-version="1.1" xml:lang="en" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="doi">10.1002/(ISSN)1831-4732</journal-id>
+<journal-id journal-id-type="publisher-id">EFS2</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">EFSA Journal</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="en">EFSA Journal</abbrev-journal-title>
+</journal-title-group>
+<issn publication-format="ppub">1831-4732</issn>
+<issn publication-format="epub">1831-4732</issn>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.2903/j.efsa.2020.6196</article-id>
+<article-id pub-id-type="publisher-id">EFS26196</article-id>
+<article-categories>
+<subj-group subj-group-type="overline" xml:lang="en"><subject>Scientific Opinion</subject></subj-group>
+<subj-group subj-group-type="heading" xml:lang="en"><subject>Scientific Opinion</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="en">Safety of hot water extract of fruits and peduncles of <italic>Hovenia dulcis</italic> as a novel food pursuant to Regulation 1(EU) 2015/2283</article-title>
+</title-group>
+<contrib-group>
+<contrib id="efs26196-cr-0001" contrib-type="author" corresp="yes"><collab collab-type="authors">EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA)</collab>
+<address><email>nda@efsa.europa.eu</email></address><xref ref-type="correspondence-address" rid="correspondenceTo">*</xref>
+</contrib>
+<contrib id="efs26196-cr-0002" contrib-type="author"><name>
+<surname>Turck</surname>
+<given-names>Dominique</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0003" contrib-type="author"><name>
+<surname>Castenmiller</surname>
+<given-names>Jacqueline</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0004" contrib-type="author"><name>
+<surname>De Henauw</surname>
+<given-names>Stefaan</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0005" contrib-type="author"><name>
+<surname>Hirsch‐Ernst</surname>
+<given-names>Karen Ildico</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0006" contrib-type="author"><name>
+<surname>Kearney</surname>
+<given-names>John</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0007" contrib-type="author"><name>
+<surname>Maciuk</surname>
+<given-names>Alexandre</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0008" contrib-type="author"><name>
+<surname>Mangelsdorf</surname>
+<given-names>Inge</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0009" contrib-type="author"><name>
+<surname>McArdle</surname>
+<given-names>Harry J</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0010" contrib-type="author"><name>
+<surname>Naska</surname>
+<given-names>Androniki</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0011" contrib-type="author"><name>
+<surname>Pelaez</surname>
+<given-names>Carmen</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0012" contrib-type="author"><name>
+<surname>Pentieva</surname>
+<given-names>Kristina</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0013" contrib-type="author"><name>
+<surname>Siani</surname>
+<given-names>Alfonso</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0014" contrib-type="author"><name>
+<surname>Thies</surname>
+<given-names>Frank</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0015" contrib-type="author"><name>
+<surname>Tsabouri</surname>
+<given-names>Sophia</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0016" contrib-type="author"><name>
+<surname>Vinceti</surname>
+<given-names>Marco</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0017" contrib-type="author"><name>
+<surname>Cubadda</surname>
+<given-names>Francesco</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0018" contrib-type="author"><name>
+<surname>Frenzel</surname>
+<given-names>Thomas</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0019" contrib-type="author"><name>
+<surname>Heinonen</surname>
+<given-names>Marina</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0020" contrib-type="author"><name>
+<surname>Marchelli</surname>
+<given-names>Rosangela</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0021" contrib-type="author"><name>
+<surname>Neuhäuser‐Berthold</surname>
+<given-names>Monika</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0022" contrib-type="author"><name>
+<surname>Poulsen</surname>
+<given-names>Morten</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0023" contrib-type="author"><name>
+<surname>Schlatter</surname>
+<given-names>Josef Rudolf</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0024" contrib-type="author"><name>
+<surname>van Loveren</surname>
+<given-names>Henk</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0025" contrib-type="author"><name>
+<surname>Gelbmann</surname>
+<given-names>Wolfgang</given-names>
+</name>
+</contrib>
+<contrib id="efs26196-cr-0026" contrib-type="author"><name>
+<surname>Knutsen</surname>
+<given-names>Helle Katrine</given-names>
+</name>
+</contrib>
+</contrib-group>
+<author-notes>
+<corresp id="correspondenceTo"><label>*</label><bold>Correspondence:  </bold> <email>nda@efsa.europa.eu</email></corresp></author-notes>
+<pub-date pub-type="epub">
+<day>28</day>
+<month>08</month>
+<year>2020</year>
+</pub-date>
+<pub-date pub-type="ppub">
+<day>28</day>
+<month>08</month>
+<year>2020</year>
+</pub-date>
+<volume>18</volume>
+<issue seq="66">8</issue>
+<issue-id pub-id-type="doi">10.1002/efs2.v18.8</issue-id>
+<elocation-id>e06196</elocation-id>
+<permissions>
+<copyright-statement content-type="issue-copyright">© European Food Safety Authority</copyright-statement>
+<copyright-statement content-type="article-copyright">© 2020 European Food Safety Authority. <italic>EFSA Journal</italic> published by John Wiley and Sons Ltd on behalf of European Food Safety Authority.</copyright-statement>
+<license license-type="creativeCommonsBy-nd">
+<license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution‐NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited and no modifications or adaptations are made.</license-p>
+</license><license license-type="open-access"><license-p/></license></permissions>
+<self-uri xlink:href="file:efs26196.pdf" content-type="pdf"/><abstract xml:lang="en" abstract-type="main" id="efs26196-abs-0001">
+<title>Abstract</title>
+<p xml:lang="en">Following a request from the European Commission, the <styled-content style="fixed-case" toggle="no">EFSA</styled-content> Panel on Nutrition, Novel Foods and Food Allergens (<styled-content style="fixed-case" toggle="no">NDA</styled-content>) was asked to deliver an opinion on the safety of ‘<italic>Hovenia dulcis</italic> fruit extract’ as a novel food (<styled-content style="fixed-case" toggle="no">NF</styled-content>) for its use in food supplements. The <styled-content style="fixed-case" toggle="no">NF</styled-content> concerns a hot water extract of sliced and dried fruits and peduncles of <italic>Hovenia dulcis</italic> Thun. The production process is described in sufficient detail but contains contradictory information regarding the mixing with another ingredient of the <styled-content style="fixed-case" toggle="no">NF</styled-content>. The <styled-content style="fixed-case" toggle="no">NF</styled-content> is comprised of mostly carbohydrates (about 90%), about 2% proteins, 5% moisture, less than 1% fat and about 2% ash. In addition, the <styled-content style="fixed-case" toggle="no">NF</styled-content> contains small amounts of flavonoids such as dihydromyricetin, myricetin and quercetin. The Panel notes limitations of the data provided from the batch testing regarding proximate analyses and plant secondary metabolites. Given these limitations, the Panel considers that the data provided by the applicant do not demonstrate that different batches produced with the described production process meet the proposed specifications. The target population is the general adult population excluding pregnant and lactating women and people with a chronic disease, such as liver malfunction. Limited information was provided on a history of consumption of <italic>Hovenia dulcis</italic> fruits and on an extract approved in South Korea. A number of toxicological studies were performed. However, the study reports did not allow to verify that the test item was representative of the <styled-content style="fixed-case" toggle="no">NF</styled-content>. The same applied to a human study provided by the applicant. The Panel concludes that the safety of the <styled-content style="fixed-case" toggle="no">NF</styled-content> has not been established.</p>
+</abstract>
+<kwd-group kwd-group-type="author-generated" xml:lang="en">
+<kwd id="efs26196-kwd-0001">
+<italic>Hovenia dulcis</italic>
+</kwd>
+<kwd id="efs26196-kwd-0002">hot water extract</kwd>
+<kwd id="efs26196-kwd-0003">novel food</kwd>
+<kwd id="efs26196-kwd-0004">ingredient</kwd>
+<kwd id="efs26196-kwd-0005">flavonoids</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="6"/>
+<page-count count="14"/>
+<word-count count="7833"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>source-schema-version-number</meta-name>
+<meta-value>2.0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>cover-date</meta-name>
+<meta-value>August 2020</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>details-of-publishers-convertor</meta-name>
+<meta-value>Converter:WILEY_ML3GV2_TO_JATS version:6.3.6 mode:remove_FC converted:25.01.2024</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+<notes>
+<p content-type="self-citation"><mixed-citation publication-type="self-citation" id="efs26196-cit-1001"><bold>Suggested citation: </bold><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies)</collab>
+, <string-name><surname>Turck</surname> <given-names>D</given-names></string-name>, <string-name><surname>Castenmiller</surname> <given-names>J</given-names></string-name>, <string-name><surname>De Henauw</surname> <given-names>S</given-names></string-name>, <string-name><surname>Hirsch‐Ernst</surname> <given-names>KI</given-names></string-name>, <string-name><surname>Kearney</surname> <given-names>J</given-names></string-name>, <string-name><surname>Maciuk</surname> <given-names>A</given-names></string-name>, <string-name><surname>Mangelsdorf</surname> <given-names>I</given-names></string-name>, <string-name><surname>McArdle</surname> <given-names>HJ</given-names></string-name>, <string-name><surname>Naska</surname> <given-names>A</given-names></string-name>, <string-name><surname>Pelaez</surname> <given-names>C</given-names></string-name>, <string-name><surname>Pentieva</surname> <given-names>K</given-names></string-name>, <string-name><surname>Siani</surname> <given-names>A</given-names></string-name>, <string-name><surname>Thies</surname> <given-names>F</given-names></string-name>, <string-name><surname>Tsabouri</surname> <given-names>S</given-names></string-name>, <string-name><surname>Vinceti</surname> <given-names>M</given-names></string-name>, <string-name><surname>Cubadda</surname> <given-names>F</given-names></string-name>, <string-name><surname>Frenzel</surname> <given-names>T</given-names></string-name>, <string-name><surname>Heinonen</surname> <given-names>M</given-names></string-name>, <string-name><surname>Marchelli</surname> <given-names>R</given-names></string-name>, <string-name><surname>Neuhäuser‐Berthold</surname> <given-names>M</given-names></string-name>, <string-name><surname>Poulsen</surname> <given-names>M</given-names></string-name>, <string-name><surname>Schlatter</surname> <given-names>JR</given-names></string-name>, <string-name><surname>van Loveren</surname> <given-names>H</given-names></string-name>, <string-name><surname>Gelbmann</surname> <given-names>W</given-names></string-name> and <string-name><surname>Knutsen</surname> <given-names>HK</given-names></string-name>, <year>2020</year>. <article-title xml:lang="en">Scientific Opinion on the safety of hot water extract of fruits and peduncles of <italic>Hovenia dulcis</italic> as a novel food pursuant to Regulation 1(EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2020;18(8):6196, 14 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2020.6196">https://doi.org/10.2903/j.efsa.2020.6196</ext-link></mixed-citation></p>
+<fn-group id="efs26196-ntgp-0001">
+<fn id="efs26196-note-1001" xml:lang="en"><p><bold>Requestor:</bold> European Commission following an application by Hovenia Dulcis AB</p></fn>
+<fn id="efs26196-note-1002" xml:lang="en"><p><bold>Question number:</bold> EFSA‐Q‐2018‐00279</p></fn>
+<fn id="efs26196-note-1003" xml:lang="en"><p><bold>Panel members:</bold> Dominique Turck, Jacqueline Castenmiller, Stefaan De Henauw, Karen Ildico Hirsch‐Ernst, John Kearney, Helle Katrine Knutsen, Alexandre Maciuk, Inge Mangelsdorf, Harry J McArdle, Androniki Naska, Carmen Pelaez, Kristina Pentieva, Alfonso Siani, Frank Thies, Sophia Tsabouri and Marco Vinceti.</p></fn>
+<fn id="efs26196-note-1004" xml:lang="en"><p><bold>Acknowledgements:</bold> The Panel wishes to thank for the preparatory work on this scientific opinion: Qingqing Sun.</p></fn>
+<fn id="efs26196-note-1005" xml:lang="en"><p>Adopted: 30 June 2020</p></fn>
+</fn-group>
+</notes>
+</front>
+<body id="efs26196-body-0001">
+
+<sec id="efs26196-sec-0002" xml:lang="en">
+<label>1</label>
+<title>Introduction</title>
+<sec id="efs26196-sec-0003" xml:lang="en">
+<label>1.1</label>
+<title>Background and Terms of Reference as provided by the European Commission</title>
+<p xml:lang="en">On 28 of April 2014, the company Hovenia dulcis AB submitted a request in accordance with Article 4 of the Novel Food Regulation (EU) 258/1997<xref rid="efs26196-note-1006" ref-type="fn">1</xref> to place on the market the dried fruit and peduncle extract of <italic>Hovenia dulcis</italic> Thunberg (HDFPE), as a novel food (NF) to be used in food supplements.</p>
+<p xml:lang="en">On 20 July 2017, the competent authority of Germany forwarded to the Commission its initial assessment report, which came to the conclusion that the NF did not meet the criteria for acceptance of a NF defined in Article (3)1 of Regulation (EU) 258/1997.</p>
+<p xml:lang="en">On 14 December 2017, the Commission forwarded the initial assessment report to the other Member States (MSs).</p>
+<p xml:lang="en">The concerns of a scientific nature raised in the initial assessment and by other MSs can be summarised as follows:
+<list list-type="bullet" id="efs26196-list-0001">
+<list-item><p>The NF was inadequately characterised.</p></list-item>
+<list-item><p>Regarding the previous human exposure, the documents did not include any data on actual quantities consumed.</p></list-item>
+<list-item><p>The dose proposed and the intake of the NF had not been justified.</p></list-item>
+<list-item><p>Regarding the toxicological information, none of the reports contained precise information on the test material. In the study of subchronic toxicity, the applicant did not provide sufficient information to show that the test material used was representative of the NF.</p></list-item>
+<list-item><p>The potential allergenicity of the NF had not been well explored. No assessment of the botanical relationship between <italic>Hovenia dulcis</italic> fruits and other fruits known to cause allergic reactions in the European population had been undertaken which would have been a valuable indicator for potential cross reactivity to the food by allergic consumers.</p></list-item>
+</list></p>
+<p xml:lang="en">According to Article 35 (1) of Regulation (EU) 2015/2283<xref rid="efs26196-note-2002" ref-type="fn">2</xref>, any request for placing a novel food on the market within the Union submitted to a Member State in accordance with Article 4 of Regulation (EU) 258/1997 and for which the final decision has not been taken before 1 January 2018 shall be treated as an application under this Regulation.</p>
+<p xml:lang="en">In accordance with Article 10 (3) of Regulation (EU) 2015/2283, EFSA shall give its opinion as to whether the update of the Union List referred to in Article 10 (1) is liable to have an effect on human health.</p>
+</sec>
+</sec>
+<sec id="efs26196-sec-0004" xml:lang="en">
+<label>2</label>
+<title>Data and methodologies</title>
+<sec id="efs26196-sec-0005" xml:lang="en">
+<label>2.1</label>
+<title>Data</title>
+<p xml:lang="en">The safety assessment of this NF is based on data supplied in the application and information submitted by the applicant following two EFSA requests for supplementary information.</p>
+<p xml:lang="en">Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469<xref rid="efs26196-note-2003" ref-type="fn">3</xref>.</p>
+<p xml:lang="en">A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application.<xref rid="efs26196-note-1007" ref-type="fn">4</xref> As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data, including both data in favour and not in favour to supporting the safety of the proposed NF.</p>
+</sec>
+<sec id="efs26196-sec-0006" xml:lang="en">
+<label>2.2</label>
+<title>Methodologies</title>
+<p xml:lang="en">The assessment follows the methodology set out in the EFSA guidance on NF applications and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee. The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of the Commission Implementing Regulation (EU) 2017/2469.</p>
+<p xml:lang="en">This assessment concerns only risk that might be associated with consumption of the NF under the proposed conditions of use, and is not an assessment of the efficacy of HDFPE with regard to any claimed benefit.</p>
+</sec>
+</sec>
+<sec id="efs26196-sec-0007" xml:lang="en">
+<label>3</label>
+<title>Assessment</title>
+<sec id="efs26196-sec-0008" xml:lang="en">
+<label>3.1</label>
+<title>Introduction</title>
+<p xml:lang="en">The NF is a hot water extract of dried fruits and peduncles of <italic>Hovenia dulcis</italic> Thunberg (family: Rhamnaceae), which is commonly named as Japanese raisin tree, Japanese cherry tree and Chinese raisin tree. <italic>Hovenia dulcis</italic> trees originate from China, Korea, Himalaya region and Japan and are cultivated in China, South America and Tanzania (Hyun et al., <xref rid="efs26196-bib-0017" ref-type="ref">2010</xref>). The NF is intended to be used as an ingredient for food supplements.</p>
+<p xml:lang="en">The applicant indicated that according to Regulation (EU) 2015/2283 this NF falls under the following categories:</p>
+<p xml:lang="en">(iv) ‘foods and food ingredients consisting of or isolated from plants, except for foods and food ingredients obtained by traditional propagating or breeding practices and having a history of safe use’.</p>
+</sec>
+<sec id="efs26196-sec-0009" xml:lang="en">
+<label>3.2</label>
+<title>Identity of the NF</title>
+<p xml:lang="en">The NF is a hot water extract obtained from the dried fruits and peduncles of <italic>Hovenia dulcis</italic> Thunberg.</p>
+</sec>
+<sec id="efs26196-sec-0010" xml:lang="en">
+<label>3.3</label>
+<title>Production process</title>
+<p xml:lang="en">The fruits and peduncles are harvested manually in the wild in China in September and October. Once the fruits and peduncles are mature, they fall off the tree and the workers collect them by hand. After collection and sorting, the fruits and peduncles are packed in nylon bags of 25 kg and transported by ship to South Korea where they are screened for pesticide residues and other impurities.</p>
+<p xml:lang="en">Then they are stored frozen until they are sliced and dried in the dark, followed by an addition of water at a ratio of 1:10 (w/v). According to the applicant, the mixture of the dried slices and water is kept at a temperature of 110–150°C, preferably 120–125°C, and under a pressure ranging from 1 to 3 atm, optimally 1.5 atm, for 15 min to 48 h. In response to EFSA questioning, this wide range for the duration of the extraction, the applicant explained that the normal production schedule is between 15 min and 12 h and that due to weekends and holidays the schedule has to be adjusted and the extraction procedure will be different. After the extraction, the mixture is cooled, filtered and concentrated by evaporation at room temperature at –1.5 atm to a solid content of 40%. In response to an EFSA question, the applicant informed that subsequently dextrin or maltodextrin is added at a ratio of 10:6 [extract:(malto)dextrin] to avoid clotting of the pure dried extract, before the mixture is spray‐dried. The Panel notes discrepant information received from the applicant (i.e. file ‘Reply on EFSA Risk Assessment 1’ on the production process 4/5/2020 provides a Korean and an English package label which indicates ‘Dextrin 37.5%’, but the same file included also a copy of a certificate of analysis on a ‘maltodextrin’ product).</p>
+<p xml:lang="en">After addition of the dextrin/maltodextrin, the NF is delivered to Sweden in airtight polyethylene bags for encapsulation and packaging. The initial assessment raised concerns by a Member State regarding the use of ethanol in the production process, however, the applicant clarified that no ethanol is used. The applicant provided GMP certificates issued by the South Korean Ministry for Food and Drug Safety and the Korean Food and Drug Agency (KFDA) for the production of the ingredient and by Läkemedelsverket (Swedish Medical Products Agency) for the filling of capsules and packaging.</p>
+<p xml:lang="en">The Panel notes that no analytical data were provided on whether and to which degree the wide range of the extraction time (i.e. 15 min to 48 h) may impact the composition of the NF. It is also unclear whether the HDFPE is mixed with dextrin or maltodextrin. The Panel considers that the production process of the NF is not sufficiently described.</p>
+</sec>
+<sec id="efs26196-sec-0011" xml:lang="en">
+<label>3.4</label>
+<title>Compositional data</title>
+<p xml:lang="en">According to the application, the NF consists of a spray‐dried mixture of 62.5% HDFPE and 37.5% dextrin or maltodextrin. The NF is comprised of mostly carbohydrates (about 90%), about 2% proteins, 5% moisture, less than 1% fat and about 2% ash; in addition, the NF contains small amounts (&lt; 100 ppm) of flavonoids.</p>
+<p xml:lang="en">The applicant provided compositional information on <italic>Hovenia dulcis</italic> from the literature: Park et al. (<xref rid="efs26196-bib-0029" ref-type="ref">2015</xref>) studied the content of four flavonoids in four batches of an extract obtained from the manufacturer of the NF with a high‐performance liquid chromatographic (HPLC) method. That extract was produced of dried fruit powder extracted with hot water (100°C for 3 h) at a ratio at 1:40 (w/v). In addition to the differences of the processing of the raw material (i.e. powder) and the extraction conditions, also the further processing of the extract (centrifugation to remove insoluble particles) and the drying method (freeze‐drying) differed from the production process of the NF. There is also no note on an addition of (malto)dextrin in this publication by Park et al. (<xref rid="efs26196-bib-0029" ref-type="ref">2015</xref>). The results of this batch testing are provided in Table <xref rid="efs26196-tbl-0001" ref-type="table-wrap">1</xref>. Dihydromyricetin and taxifolin were the most abundant flavonoids in that extract.</p>
+<table-wrap id="efs26196-tbl-0001" xml:lang="en">
+
+<label>Table 1</label>
+<caption><title>Contents of flavonoids in four batches of a <italic>Hovenia dulcis</italic> extract (mg/g) produced differently to the NF, published by Park et al. (<xref rid="efs26196-bib-0029" ref-type="ref">2015</xref>) and measured by HPLC</title></caption>
+
+<table frame="hsides">
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<thead valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" valign="top">Flavonoids (mg/g)</th>
+<th align="center" colspan="4" style="border-bottom:solid 1px #000000" valign="top">Batch No.</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="top">703</th>
+<th align="center" valign="top">701</th>
+<th align="center" valign="top">0807‐5</th>
+<th align="center" valign="top">0807‐6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Dihydromyricetin</td>
+<td align="char" char="±">0.88 ± 0.05</td>
+<td align="char" char="±">1.19 ± 0.03</td>
+<td align="char" char="±">1.17 ± 0.03</td>
+<td align="char" char="±">0.33 ± 0.07</td>
+</tr>
+<tr>
+<td align="left">Taxifolin</td>
+<td align="char" char="±">0.86 ± 0.05</td>
+<td align="char" char="±">0.15 ± 0.01</td>
+<td align="char" char="±">0.93 ± 0.02</td>
+<td align="char" char="±">1.64 ± 0.01</td>
+</tr>
+<tr>
+<td align="left">Myricetin</td>
+<td align="char" char="±">0.17 ± 0.01</td>
+<td align="char" char="±">0.24 ± 0.01</td>
+<td align="char" char="±">0.06 ± 0.01</td>
+<td align="char" char="±">0.04 ± 0.01</td>
+</tr>
+<tr>
+<td align="left">Quercetin</td>
+<td align="char" char="±">0.13 ± 0.01</td>
+<td align="char" char="±">0.03 ± 0.00</td>
+<td align="char" char="±">0.04 ± 0.01</td>
+<td align="char" char="±">0.05 ± 0.01</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs26196-ntgp-0002">
+<fn id="efs26196-note-0006" xml:lang="en">
+<p xml:lang="en">HPLC: high‐performance liquid chromatography.</p>
+</fn>
+</table-wrap-foot>
+
+<permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions>
+</table-wrap>
+<p xml:lang="en">Park et al. (<xref rid="efs26196-bib-0029" ref-type="ref">2015</xref>) referred also to, but did not quantify, other components in the seeds or fruits of <italic>Hovenia dulcis,</italic> such as hovenodulinol, hovenitins I, II and III, (+)‐3,3′,5′,5,7‐pentahydroflavanone, laricitrin, myricetin, (+)‐gallocatechin, dihydrokaempferol, saponin C2, β‐daucosterol, hovenidulciosides A1, A2, B1 and B2, hodulosides I and III and hovenidulcigenin reported by Ding et al. (<xref rid="efs26196-bib-0009" ref-type="ref">1997</xref>), ShuZhen et al. (<xref rid="efs26196-bib-0952" ref-type="ref">2009</xref>), Yoshikawa et al. (<xref rid="efs26196-bib-0033" ref-type="ref">1995</xref>, <xref rid="efs26196-bib-0034" ref-type="ref">1996</xref>, <xref rid="efs26196-bib-0035" ref-type="ref">1997</xref>) and Xu et al. (<xref rid="efs26196-bib-0032" ref-type="ref">2003</xref>). In a letter to the applicant, EFSA noted scientific literature (Yoshikawa et al., <xref rid="efs26196-bib-0034" ref-type="ref">1996</xref>; Murakami et al., <xref rid="efs26196-bib-0024" ref-type="ref">1997</xref>) about other phenolic compounds and saponins present in the seeds and fruits of <italic>Hovenia dulcis, some</italic> of which may raise safety concerns at certain concentrations (Heim et al., <xref rid="efs26196-bib-0015" ref-type="ref">2002</xref>; Hobbs et al., <xref rid="efs26196-bib-0016" ref-type="ref">2013</xref>; Engen et al., <xref rid="efs26196-bib-0014" ref-type="ref">2015</xref>). The applicant did not address these concerns.</p>
+<p xml:lang="en">The applicant also provided information on other batches produced by the manufacturer of the NF in 2011 and 2013 and on batches produced in 2019. The certificates of analyses issued by the manufacturer of the NF for four different batches produced in 2011 and 2013 provided only information on moisture (ranging from 4.3% to 4.7%), quercetin (5.9–8.9 μg/g) and on some microbiological and chemical contaminants (Table <xref rid="efs26196-tbl-0002" ref-type="table-wrap">2</xref>).</p>
+<table-wrap id="efs26196-tbl-0002" xml:lang="en">
+
+<label>Table 2</label>
+<caption><title>Results from testing of batches produced in 2011 and 2013 provided by the applicant</title></caption>
+
+<table frame="hsides">
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<thead valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="3" valign="top">Parameter</th>
+<th align="center" colspan="4" style="border-bottom:solid 1px #000000" valign="top">Batch number<xref rid="efs26196-note-0008" ref-type="fn">*</xref></th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="top">LT111048P</th>
+<th align="center" valign="top">LT113028P</th>
+<th align="center" valign="top">LT113027P</th>
+<th align="center" valign="top">LT113026P</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="top">14 November 2011</th>
+<th align="center" valign="top">1 October 2013</th>
+<th align="center" valign="top">30 September 2013</th>
+<th align="center" valign="top">3 September 2013</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">
+<bold>Moisture (%)</bold>
+</td>
+<td align="center">4.7</td>
+<td align="center">4.3</td>
+<td align="center">4.5</td>
+<td align="center">4.7</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Quercetin (μg/g)</bold>
+</td>
+<td align="center">8.3</td>
+<td align="center">8.0</td>
+<td align="center">7.5</td>
+<td align="center">7.3</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Total Aerobic Count (CFU/g)</bold>
+</td>
+<td align="center">5</td>
+<td align="center">25</td>
+<td align="center">5</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Yeast and mould (CFU/g)</bold>
+</td>
+<td align="center">5</td>
+<td align="center">5</td>
+<td align="center">5</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Coliforms (CFU/g)</bold>
+</td>
+<td align="center">Negative</td>
+<td align="center">Negative</td>
+<td align="center">Negative</td>
+<td align="center">Negative</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Lead (ppm)</bold>
+</td>
+<td align="center">0.10</td>
+<td align="center">0.1</td>
+<td align="center">0.1</td>
+<td align="center">0.1</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Mercury (ppm)</bold>
+</td>
+<td align="center">0.003</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Arsenic (ppm)</bold>
+</td>
+<td align="center">0.07</td>
+<td align="center">0.1</td>
+<td align="center">0.1</td>
+<td align="center">0.1</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Cadmium (ppm)</bold>
+</td>
+<td align="center">0.01</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs26196-ntgp-0003">
+<fn id="efs26196-note-0007" xml:lang="en">
+<p xml:lang="en">CFU: colony forming unit.</p>
+</fn>
+<fn id="efs26196-note-0008" xml:lang="en">
+<label>*</label>
+
+<p xml:lang="en">The date below the batch number is the production date; n.d. not detected.</p>
+</fn>
+</table-wrap-foot>
+
+<permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions>
+</table-wrap>
+<p xml:lang="en">Consequently, EFSA asked the applicant to provide more qualitative and quantitative data on the main constituents/proximate analyses of the NF (i.e. ash, moisture, protein, fat, and carbohydrates, flavonoids) and batch‐to‐batch analyses in order to show that these parameters meet the limits of the proposed specifications of the NF.</p>
+<p xml:lang="en">In response to this request, the applicant provided certificates of analyses from the manufacturer of the NF on five batches produced in 2019. The results are provided in Table <xref rid="efs26196-tbl-0003" ref-type="table-wrap">3</xref>.</p>
+<table-wrap id="efs26196-tbl-0003" xml:lang="en">
+
+<label>Table 3</label>
+<caption><title>Results of batches produced in 2019 and certified by the manufacturer of the NF</title></caption>
+
+<table frame="hsides">
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<thead valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="3" valign="top">Parameter</th>
+<th align="center" colspan="5" style="border-bottom:solid 1px #000000" valign="top">Batch number<xref rid="efs26196-note-0010" ref-type="fn">*</xref></th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="top">LT119027P</th>
+<th align="center" valign="top">LT119037P</th>
+<th align="center" valign="top">LT119043P</th>
+<th align="center" valign="top">LT119044P</th>
+<th align="center" valign="top">LT119046P</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="top">31 July 2019</th>
+<th align="center" valign="top">23 October 2019</th>
+<th align="center" valign="top">28 November 2019</th>
+<th align="center" valign="top">3 December 2019</th>
+<th align="center" valign="top">26 December 2019</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">
+<bold>Moisture (%)</bold>
+</td>
+<td align="center">5.20</td>
+<td align="center">5.20</td>
+<td align="center">5.20</td>
+<td align="center">5.20</td>
+<td align="center">5.20</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Protein (%)</bold>
+</td>
+<td align="center">2.34</td>
+<td align="center">2.34</td>
+<td align="center">2.34</td>
+<td align="center">2.34</td>
+<td align="center">2.34</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Fat (%)</bold>
+</td>
+<td align="center">0.09</td>
+<td align="center">0.09</td>
+<td align="center">0.09</td>
+<td align="center">0.09</td>
+<td align="center">0.09</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Carbohydrates (%)</bold>
+</td>
+<td align="center">91.40</td>
+<td align="center">91.40</td>
+<td align="center">91.40</td>
+<td align="center">91.40</td>
+<td align="center">91.40</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Polysaccharides (mg/g)</bold>
+</td>
+<td align="center">185.17</td>
+<td align="center">185.17</td>
+<td align="center">185.17</td>
+<td align="center">185.17</td>
+<td align="center">185.17</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Ash (%)</bold>
+</td>
+<td align="center">1.4</td>
+<td align="center">1.4</td>
+<td align="center">1.4</td>
+<td align="center">1.4</td>
+<td align="center">1.4</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Sodium (mg/100 g)</bold>
+</td>
+<td align="center">20.97</td>
+<td align="center">20.97</td>
+<td align="center">20.97</td>
+<td align="center">20.97</td>
+<td align="center">20.97</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left">
+<bold>Quercetin (μg/g)</bold>
+</td>
+<td align="center">8.49</td>
+<td align="center">7.94</td>
+<td align="center">7.94</td>
+<td align="center">7.99</td>
+<td align="center">8.74</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" colspan="6">
+<bold>Microbiology</bold>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Aerobic counts (CFU)</bold>
+</td>
+<td align="center">&lt; 1,000/g</td>
+<td align="center">&lt; 1,000/g</td>
+<td align="center">&lt; 1,000/g</td>
+<td align="center">&lt; 1,000/g</td>
+<td align="center">&lt; 1,000/g</td>
+</tr>
+<tr>
+<td align="left"><italic>E. coli</italic> (per 50 g)</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Coliforms (CFU/g)</bold>
+</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left">
+<bold>Yeast and moulds (CFU/g)</bold>
+</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+<td align="center">n.d.</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" colspan="6"><bold>Heavy metals</bold><xref rid="efs26196-note-0011" ref-type="fn">**</xref> <bold>(ppm)</bold></td>
+</tr>
+<tr>
+<td align="left">
+<bold>Lead</bold>
+</td>
+<td align="center">0.111</td>
+<td align="center">0.111</td>
+<td align="center">0.111</td>
+<td align="center">0.111</td>
+<td align="center">0.111</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Mercury</bold>
+</td>
+<td align="center">0.001</td>
+<td align="center">0.001</td>
+<td align="center">0.001</td>
+<td align="center">0.001</td>
+<td align="center">0.001</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Cadmium</bold>
+</td>
+<td align="center">0.001</td>
+<td align="center">0.001</td>
+<td align="center">0.001</td>
+<td align="center">0.001</td>
+<td align="center">0.001</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Arsenic</bold>
+</td>
+<td align="center">0.080</td>
+<td align="center">0.080</td>
+<td align="center">0.080</td>
+<td align="center">0.080</td>
+<td align="center">0.080</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs26196-ntgp-0004">
+<fn id="efs26196-note-0110" xml:lang="en">
+<p xml:lang="en">NF: novel food; CFU: colony forming units.</p>
+</fn>
+<fn id="efs26196-note-0010" xml:lang="en">
+<label>*</label>
+
+<p xml:lang="en">The date below the batch number is the production date.</p>
+</fn>
+<fn id="efs26196-note-0011" xml:lang="en">
+<label>**</label>
+
+<p xml:lang="en">Not a specification parameter.</p>
+</fn>
+</table-wrap-foot>
+
+<permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions>
+</table-wrap>
+<p xml:lang="en">The Panel notes that the results of all tested parameters, except for quercetin (ranging from 7.94 to 8.74 μg/g), are identical for all five presented batches produced at different time points in 2019, which is considered unrealistic.</p>
+<p xml:lang="en">These five batches produced in 2019 and a sixth batch (LT119045P, production date not specified) were analysed by an external laboratory for their flavonoid content (Table <xref rid="efs26196-tbl-0004" ref-type="table-wrap">4</xref>).</p>
+<table-wrap id="efs26196-tbl-0004" xml:lang="en">
+
+<label>Table 4</label>
+<caption><title>Flavonoid content of six batches produced by the manufacturer of the NF and certified by an external laboratory</title></caption>
+
+<table frame="hsides">
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<thead valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" valign="top">Flavonoids (μg/g)</th>
+<th align="center" colspan="6" style="border-bottom:solid 1px #000000" valign="top">Batch no.</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="top">LT119027P 31 July 2019</th>
+<th align="center" valign="top">LT119037P 23 October 2019</th>
+<th align="center" valign="top">LT119043P 28 November 2019</th>
+<th align="center" valign="top">LT119044P 3 December 2019</th>
+<th align="center" valign="top">LT119045P no date</th>
+<th align="center" valign="top">LT119046P 26 December 2019</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">
+<bold>Dihydromyricetin</bold>
+</td>
+<td align="char" char=".">n.d.</td>
+<td align="char" char=".">91.37</td>
+<td align="char" char=".">67.30</td>
+<td align="char" char=".">66.02</td>
+<td align="char" char=".">73.20</td>
+<td align="char" char=".">42.83</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Taxifolin</bold>
+</td>
+<td align="char" char=".">n.d.</td>
+<td align="char" char=".">n.d.</td>
+<td align="char" char=".">n.d.</td>
+<td align="char" char=".">n.d.</td>
+<td align="char" char=".">n.d.</td>
+<td align="char" char=".">n.d.</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Myricetin</bold>
+</td>
+<td align="char" char=".">12.08</td>
+<td align="char" char=".">36.69</td>
+<td align="char" char=".">27.96</td>
+<td align="char" char=".">28.05</td>
+<td align="char" char=".">30.04</td>
+<td align="char" char=".">27.35</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Quercetin</bold>
+</td>
+<td align="char" char=".">5.18</td>
+<td align="char" char=".">3.39</td>
+<td align="char" char=".">4.64</td>
+<td align="char" char=".">5.13</td>
+<td align="char" char=".">4.47</td>
+<td align="char" char=".">4.46</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs26196-ntgp-0005">
+<fn id="efs26196-note-0013" xml:lang="en">
+<p xml:lang="en">n.d. not detected; NF: novel food.</p>
+</fn>
+</table-wrap-foot>
+
+<permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions>
+</table-wrap>
+<p xml:lang="en">The Panel notes that taxifolin could not be detected in these six batches and that the results for the contents of the other three flavonoids in these batches are up to more than 10‐fold lower (for dihydromyricetin) than the results (presented in Table <xref rid="efs26196-tbl-0001" ref-type="table-wrap">1</xref>) obtained on an extract produced differently to the NF and which have been proposed by the applicant for setting specifications for dihydromyricetin, taxifolin and myricetin. The information from this external laboratory indicated that the analysed substance was a mixture consisting of 62.5% <italic>Hovenia dulcis</italic> extract and 32.5% dextrin vs. ‘37.5%’ as indicated in the production process description in the application and as indicated on a product labelling provided by the applicant. Thus<bold>,</bold> it appears that the batches produced and tested in 2019 are not identical to the NF.</p>
+<p xml:lang="en">Another sample of a ‘<italic>Hovenia dulcis</italic> extract powder’ (as stated by the applicant) and two samples of food supplements provided by the manufacturer of the NF (without further information on the tested material) were analysed by the external laboratories Eurofins and the Korean Health Supplements Institute. The proximate analyses (moisture, protein, fat, carbohydrates, ash) of these samples were within the proposed specification limits. Flavonoids were not analysed by these laboratories.</p>
+<p xml:lang="en">The Panel notes the concerns described above for the proximate analyses provided by the certificates of the manufacturer of the NF (i.e. identical figures) and regarding the identity of the analysed batches produced in 2019. Furthermore<bold>,</bold> the Panel considers that the NF is not sufficiently characterised regarding secondary plant metabolites.</p>
+<sec id="efs26196-sec-0012" xml:lang="en">
+<label>3.4.1</label>
+<title>Stability</title>
+<p xml:lang="en">No data regarding the stability of the NF were provided by the applicant.</p>
+</sec>
+</sec>
+<sec id="efs26196-sec-0013" xml:lang="en">
+<label>3.5</label>
+<title>Specifications</title>
+<p xml:lang="en">The specifications of the NF proposed by the applicant are presented in Table <xref rid="efs26196-tbl-0005" ref-type="table-wrap">5</xref>. They include the parameters for proximate analyses, flavonoids, heavy metals and microbiological specifications.</p>
+<table-wrap id="efs26196-tbl-0005" xml:lang="en">
+
+<label>Table 5</label>
+<caption><title>Specifications of the NF proposed by the applicant</title></caption>
+
+<table frame="hsides">
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<thead valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="top">Parameter</th>
+<th align="center" valign="top">Specification</th>
+<th align="center" valign="top">Analytical method</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" colspan="3">
+<bold>Typical proximate analyses</bold>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Moisture (%)</bold>
+</td>
+<td align="center">4–6</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Protein (%)</bold>
+</td>
+<td align="center">1–3</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Fat (%)</bold>
+</td>
+<td align="center">&lt; 1</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Carbohydrates (%)</bold>
+</td>
+<td align="center">89–94</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Sugars (%)</bold>
+</td>
+<td align="center">18–21</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Ash (%)</bold>
+</td>
+<td align="center">1.0–2.5</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left">
+<bold>Sodium (mg/100 g)</bold>
+</td>
+<td align="center">≤ 70</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" colspan="3">
+<bold>Flavonoids</bold>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Quercetin (μg/g)</bold>
+</td>
+<td align="center">5.9–8.9</td>
+<td align="center">HPLC</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Dihydromyricetin (mg/g)</bold>
+</td>
+<td align="center">0.33–1.19</td>
+<td align="center">HPLC</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Taxifolin (mg/g)</bold>
+</td>
+<td align="center">0.15–1.64</td>
+<td align="center">HPLC</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left">
+<bold>Myricetin (mg/g)</bold>
+</td>
+<td align="center">0.04–0.24</td>
+<td align="center">HPLC</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" colspan="3">
+<bold>Microbiological parameters</bold>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Total aerobic count (CFU/g)</bold>
+</td>
+<td align="center">&lt; 5 × 10<sup>3</sup></td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Yeast and mould (CFU/g)</bold>
+</td>
+<td align="center">&lt; 30</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Coliforms (CFU/g)</bold>
+</td>
+<td align="center">&lt; 10</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left"><italic>E. coli</italic> (CFU/g)</td>
+<td align="center">&lt; 10</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">Coagulase‐positive <italic>Staphylococcus</italic> (CFU/g)</td>
+<td align="center">&lt; 10</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left"><italic>S. aureus</italic> (CFU/g)</td>
+<td align="center">&lt; 10</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left"><italic>Salmonella</italic> (CFU/g)</td>
+<td align="center">ND/25g</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" colspan="3">
+<bold>Heavy metals</bold>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Lead (ppm)</bold>
+</td>
+<td align="center">&lt; 1</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Mercury (ppm)</bold>
+</td>
+<td align="center">&lt; 0.1</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Arsenic (ppm)</bold>
+</td>
+<td align="center">&lt; 1</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+<tr>
+<td align="left">
+<bold>Cadmium (ppm)</bold>
+</td>
+<td align="center">&lt; 1</td>
+<td align="center">
+<xref rid="efs26196-note-0014" ref-type="fn">*</xref>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs26196-ntgp-0006">
+<fn id="efs26196-note-0014" xml:lang="en">
+<label>*</label>
+
+<p xml:lang="en">No methods were proposed in section ‘Specifications’ by the applicant, CFU: colony forming unit, ND: not detected; HPLC: high‐performance liquid chromatography; NF: novel food.</p>
+</fn>
+</table-wrap-foot>
+
+<permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions>
+</table-wrap>
+<p xml:lang="en">Given the limitations of the batch testing described in Section <xref rid="efs26196-sec-0011" ref-type="sec">3.4</xref>, the Panel considers that the data provided by the applicant do not demonstrate that different batches produced with the described production process meet the proposed specifications. It is also noted that the testing of batches produced in 2019 showed significantly lower contents of dihydromyricetin, taxifolin and myricetin (Table <xref rid="efs26196-tbl-0004" ref-type="table-wrap">4</xref>) as compared to the proposed specification limits for these flavonoids (Table <xref rid="efs26196-tbl-0005" ref-type="table-wrap">5</xref>) which were based on analyses of an extract, which was produced differently from the NF.</p>
+</sec>
+<sec id="efs26196-sec-0014" xml:lang="en">
+<label>3.6</label>
+<title>History of use of the NF and/or of its source</title>
+<p xml:lang="en">According to the applicant, literature (Bampi et al., 2010; Chau and Wu, <xref rid="efs26196-bib-0007" ref-type="ref">2006</xref>; Dieu, <xref rid="efs26196-bib-0008" ref-type="ref">1853</xref>; Eleotério et al., <xref rid="efs26196-bib-0013" ref-type="ref">2012</xref>; Lim, <xref rid="efs26196-bib-0022" ref-type="ref">2013</xref>; Martin‐Garcia and Diez, <xref rid="efs26196-bib-0023" ref-type="ref">2012</xref>) demonstrates that <italic>Hovenia dulcis</italic> fruits are a commonly used food in Taiwan, Japan, China and Brazil.</p>
+<p xml:lang="en">Bampi et al. (<xref rid="efs26196-bib-0001" ref-type="ref">2010</xref>), who studied the composition of <italic>Hovenia dulcis</italic> fruits and extracts and flour made of the fruits, noted that <italic>Hovenia dulcis</italic> is widely distributed in southern Brazil, but that there were no literature reports of its use in food products. According to two other references from Brazil, noted by the applicant, <italic>Hovenia dulcis</italic> is widespread in south Brazil but not well documented (Eleotério et al., <xref rid="efs26196-bib-0013" ref-type="ref">2012</xref>) and is considered as an invasive species (Martin‐Garcia and Diez, <xref rid="efs26196-bib-0023" ref-type="ref">2012</xref>). The applicant has provided a reference for recipes with Hovenia dulcis fruits published in a Brazilian Blog (Sexta‐Feira, <xref rid="efs26196-bib-0030" ref-type="ref">2008</xref>). According to Chau and Wu (<xref rid="efs26196-bib-0007" ref-type="ref">2006</xref>), fruits and seeds of <italic>Hovenia dulcis</italic> can be used as a food ingredient in Taiwan, but not in China. Dieu (<xref rid="efs26196-bib-0008" ref-type="ref">1853</xref>) noted in his medical and therapeutic compendium that fruits from <italic>Hovenia dulcis</italic> were tasting like pears when they are ripe, and that local Japanese called the tree ‘Siku’.</p>
+<p xml:lang="en">According to a compendium by Lim (<xref rid="efs26196-bib-0022" ref-type="ref">2013</xref>) on edible medicinal and non‐medicinal plants, the ripe fruits and fruit peduncles are edible raw or cooked and can be used to make candies and substitutes for honey and wine; it also has been used as a traditional Chinese medicine for more than 1,000 years to treat alcohol abuse in China.</p>
+<p xml:lang="en">The applicant also provided an inventory handbook from the US Department of Agriculture on ‘Perennial Edible Fruits of the Tropics’ which indicates the peduncle of <italic>Hovenia dulcis</italic> as edible parts under the list of ‘minor fruits’ of Southeast Asia (USDA, <xref rid="efs26196-bib-0031" ref-type="ref">1987</xref>). ‘Minor fruits’ were defined as ‘[citation] <italic>usually not widely distributed</italic>. <italic>They are often small. They may only grow wild and have little or no potential for cultivation and marketing. Most probably merit neglect, but some may have the potential to be improved and developed into a major fruit</italic>’.</p>
+<p xml:lang="en">The dossier contains a scientific article on dietary supplement use by South Korean adults based on data from the National Complementary and Alternative Medicine Use Survey in 2006 (Ock et al., <xref rid="efs26196-bib-0025" ref-type="ref">2010</xref>). According to this article, 5.2% of South Korean adults had consumed food supplements with ‘Hovenia dulcis’ in 2006. There was no information, however, in this article about the dose or duration of the intake or any other specific information on the consumption pattern or on the consumed supplements.</p>
+<p xml:lang="en">According to the applicant, <italic>Hovenia dulcis</italic> has been permitted for food use by the KFDA. The applicant also stated that <italic>Hovenia dulcis</italic> fruits and peduncles are consumed also as a fresh or dried fruit in Korea at an estimated quantity of 200,000 kg/year (no reference provided). The dossier also contains a table presenting 11 food products (eight beverages and three food supplements) from different companies with ‘Hovenia dulcis extracts’ on the market in South Korea (Table <xref rid="efs26196-tbl-0006" ref-type="table-wrap">6</xref>). According to the applicant, a product similar to the NF is already on the market in South Korea.</p>
+<table-wrap id="efs26196-tbl-0006" xml:lang="en">
+
+<label>Table 6</label>
+<caption><title>Hovenia dulcis extract products on the market in South Korea in 2013</title></caption>
+
+<table frame="hsides">
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<thead valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="top">Type of Product</th>
+<th align="left" valign="top">Country</th>
+<th align="left" valign="top">Daily Dose</th>
+<th align="center" valign="top">Yearly Total Consumption USD</th>
+<th align="left" valign="top">Volume in Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Beverage</td>
+<td align="left">Korea</td>
+<td align="left">140 mL (2,460 mg)</td>
+<td align="center">80,000,000</td>
+<td align="left">40,000,000 bottles</td>
+</tr>
+<tr>
+<td align="left">Beverage</td>
+<td align="left">Korea</td>
+<td align="left">100 mL (2,460 mg)</td>
+<td align="center">2,400,000</td>
+<td align="left">600,000 bottles</td>
+</tr>
+<tr>
+<td align="left">Tablet</td>
+<td align="left">Korea</td>
+<td align="left">2,460 mg/Tablet</td>
+<td align="center">60,000,000</td>
+<td align="left">600,000 boxes</td>
+</tr>
+<tr>
+<td align="left">Capsule</td>
+<td align="left">Korea</td>
+<td align="left">2,460 mg/Capsule</td>
+<td align="center">250,000</td>
+<td align="left">5,000 boxes</td>
+</tr>
+<tr>
+<td align="left">Tablet</td>
+<td align="left">Korea</td>
+<td align="left">2,460 mg/Tablet</td>
+<td align="center">360,000</td>
+<td align="left">6,000 boxes</td>
+</tr>
+<tr>
+<td align="left">Beverage</td>
+<td align="left">Korea</td>
+<td align="left">100 mL (1,000 mg)</td>
+<td align="center">24,000,000</td>
+<td align="left">6,000,000 bottles</td>
+</tr>
+<tr>
+<td align="left">Beverage</td>
+<td align="left">Korea</td>
+<td align="left">100 mL</td>
+<td align="center">75,000,000</td>
+<td align="left">18,750,000 bottles</td>
+</tr>
+<tr>
+<td align="left">Beverage (Tea Drinks)</td>
+<td align="left">Korea</td>
+<td align="left">350 mL or 500 mL</td>
+<td align="center">40,000,000</td>
+<td align="left">20,000,000 bottles</td>
+</tr>
+<tr>
+<td align="left">Beverage (Tea Drinks)</td>
+<td align="left">Korea</td>
+<td align="left">350 mL or 500 mL</td>
+<td align="center">25,000,000</td>
+<td align="left">16,600,000 bottles</td>
+</tr>
+<tr>
+<td align="left">Beverage (Tea Drinks)</td>
+<td align="left">Korea</td>
+<td align="left">500 mL</td>
+<td align="center">7,000,000</td>
+<td align="left">3,880,000 bottles</td>
+</tr>
+<tr>
+<td align="left">Beverage (Tea Drinks)</td>
+<td align="left">Korea</td>
+<td align="left">500 mL</td>
+<td align="center">5,000,000</td>
+<td align="left">2,500,000 bottles</td>
+</tr>
+</tbody>
+</table>
+
+
+<permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions>
+</table-wrap>
+</sec>
+<sec id="efs26196-sec-0015" xml:lang="en">
+<label>3.7</label>
+<title>Proposed uses and use levels and anticipated intake</title>
+<sec id="efs26196-sec-0016" xml:lang="en">
+<label>3.7.1</label>
+<title>Target population</title>
+<p xml:lang="en">The applicant intends to target the general adult population.</p>
+</sec>
+<sec id="efs26196-sec-0017" xml:lang="en">
+<label>3.7.2</label>
+<title>Proposed uses and use levels</title>
+<p xml:lang="en">The applicant intends to use the NF as an ingredient in food supplements in capsule or tablet form taken up to 6 times a day and with a maximum daily intake of 2.5 g.</p>
+</sec>
+<sec id="efs26196-sec-0018" xml:lang="en">
+<label>3.7.3</label>
+<title>Precautions and restrictions of use</title>
+<p xml:lang="en">According to the applicant, the NF is not recommended for children, pregnant women and individuals with chronic diseases such as liver malfunction. Following a request by EFSA to provide the rationale for these restrictions of use, the applicant indicated that no studies have been performed on pregnant women and children and that recommendations of the Swedish Food Administration regarding food supplements were followed.</p>
+</sec>
+</sec>
+<sec id="efs26196-sec-0019" xml:lang="en">
+<label>3.8</label>
+<title>Absorption, distribution, metabolism and excretion</title>
+<p xml:lang="en">No studies on the absorption, distribution, metabolism and excretion (ADME) of the NF or any constituent thereof were provided by the applicant. The applicant argued that the macronutrients of the NF are expected to be digested according to the usual digestion and absorption routes.</p>
+</sec>
+<sec id="efs26196-sec-0020" xml:lang="en">
+<label>3.9</label>
+<title>Nutritional information</title>
+<p xml:lang="en">Considering the compositional data as provided by the applicant and as presented in Section <xref rid="efs26196-sec-0011" ref-type="sec">3.4</xref> (Composition) and the maximum daily intake per day of 2.5 g, the Panel considers that consumption of the NF is not nutritionally disadvantageous.</p>
+</sec>
+<sec id="efs26196-sec-0021" xml:lang="en">
+<label>3.10</label>
+<title>Toxicological information</title>
+<p xml:lang="en">The applicant has provided an acute toxicity study in rats (Biotoxtech, <xref rid="efs26196-bib-0002" ref-type="ref">2002a</xref>), a bacterial reverse mutation test (Biotoxtech, <xref rid="efs26196-bib-0003" ref-type="ref">2002b</xref>; unpublished), an <italic>in vivo</italic> micronucleus test in mice (Biotoxtech, <xref rid="efs26196-bib-0004" ref-type="ref">2002c</xref>; unpublished), a chromosome aberration test with hamster lung cells (Biotoxtech, <xref rid="efs26196-bib-0005" ref-type="ref">2002d</xref>; unpublished) and a 90‐day subchronic rat study, (Biotoxtech, <xref rid="efs26196-bib-0006" ref-type="ref">2003</xref>; unpublished). According to the applicant, these studies followed KFDA Guidelines for Good Laboratory Practice (GLP). The study reports of these toxicological tests indicate that ‘<italic>Hovenia Dulcis Fruit Extracts</italic>’ was the test substance and describe it as a ‘dark brown powder’, but they also indicated that ‘[citation] <italic>other information such as identity, strength, purity and stability was not provided</italic>’.</p>
+<p xml:lang="en">In two letters to the applicant, EFSA expressed concerns on the genotoxicity testing strategy applied by the applicant and on the representativeness of the material tested in the toxicological studies. In order to address these concerns, EFSA asked the applicant to provide an <italic>in vitro</italic> mammalian cell micronucleus test performed in accordance to OECD TG 487 and in line with the tiered genotoxicity testing strategy as indicated by the EFSA Scientific Committee (<xref rid="efs26196-bib-0011" ref-type="ref">2011</xref>) and by the EFSA NDA Panel (<xref rid="efs26196-bib-0010" ref-type="ref">2016</xref>), and an <italic>in vitro</italic> mammalian cell gene mutation test performed in accordance to OECD TG 476. EFSA suggested to the applicant to consider the EFSA Scientific Committee Statement (<xref rid="efs26196-bib-0012" ref-type="ref">2019</xref>) on genotoxicity assessment of chemical mixtures in particular chapter 2.1.1 (‘Mixtures containing a substantial fraction of unidentified components’) and chapter 2.3 (‘Genotoxicity assessment of mixtures containing a substantial fraction of unidentified components’) for these two requested tests.</p>
+<p xml:lang="en">Regarding the provided toxicological studies, EFSA asked the applicant to provide information on the test substance in order to demonstrate that it met the compositional characteristics and specification limits of the NF. EFSA also noted to the applicant the OECD GLP Guidance requirement that evaluations of chemicals should be based on safety test data of sufficient quality, rigour and reproducibility (OECD, <xref rid="efs26196-bib-0026" ref-type="ref">1998</xref>). According to the OECD Guidance documents 487 (OECD, <xref rid="efs26196-bib-0027" ref-type="ref">2016</xref>) and 408 (OECD, <xref rid="efs26196-bib-0028" ref-type="ref">2018</xref>), study reports should include comprehensive qualitative and quantitative physicochemical information on the identity and characterisation of the test item.</p>
+<p xml:lang="en">In his response, the applicant provided a letter signed by the chief executive officer (dated 25/10/2017) which stated that ‘[citation] <italic>This is to confirm that the Hovenia Dulcis Extract substance used in the application for a Novel Food application to EFSA, submitted by Hovenia Dulcis AB, Sweden is the same as in the KFDA application for an approval for food supplements referred to in the submitted documents. The substance has also been used in the toxicological studies performed by Biotoxtech Inc. which are reported in the application</italic>’. However, no data regarding the compositional characteristics and specification parameters of the material tested in the toxicological studies were provided by the applicant.</p>
+<p xml:lang="en">The Panel notes that the letter provided by the applicant does not allow EFSA to validate that the identity of the test substance and its physicochemical composition are representative for the NF. Consequently, the Panel considers that the provided toxicological study reports are not informative for the assessment of the toxicological properties of the NF.</p>
+<sec id="efs26196-sec-0022" xml:lang="en">
+<label>3.10.1</label>
+<title>Human data</title>
+<p xml:lang="en">Two human studies in adults and a report on a paediatric case of toxic hepatitis associated with the consumption of products obtained from <italic>Hovenia dulcis</italic> were provided.</p>
+<p xml:lang="en">An unpublished report summarised a double‐blinded, placebo‐controlled trial with 74 subjects aged 18–70 years with alcohol‐induced liver damage (inclusion criterion: γ‐glutamyl transpeptidase (γ‐GTP) ≥ 60) who either received three times per day 900 mg of a ‘Hovenia dulcis berry extract powder’ produced by the manufacturer of the NF or placebo for 12 weeks (Lifetree Biotech, <xref rid="efs26196-bib-0021" ref-type="ref">undated</xref>). The trial was conducted in 2007–2008. The Panel notes that the study report did not provide information (e.g. certificate of analysis, any compositional characteristic of the NF) which would allow to verify that the test item was representative for the NF. The Panel considers therefore that this human study is not informative for the assessment of the safety of the NF.</p>
+<p xml:lang="en">The second human study used a hot water extract of <italic>Hovenia dulcis</italic> fruits (boiled for 4 h) produced by the manufacturer of the NF which met the specifications for quercetin of the NF (i.e. 5.9–8.9 μg/g) (Kim et al., <xref rid="efs26196-bib-0020" ref-type="ref">2017</xref>). It was a randomised controlled crossover trial with 26 male adults with a mean age of 24 years who received a single dose of 2.5 g of the NF together with 360 mL of Korean Soju (17.5% v/v alcohol) in order to evaluate effects of the NF on ‘hang over’ symptoms. The Panel notes the limitations of this study for its use to assess the safety of the NF (i.e. single dose, low number of subjects, co‐consumption with alcohol and the study objective) and considers that this study is not relevant for the safety assessment of the NF.</p>
+<p xml:lang="en">The case report concerned a 3.6‐year‐old boy who had consumed water boiled with <italic>Hovenia dulcis</italic> daily (plant part not specified) for about a year prior to the diagnosis of a severe toxic hepatitis and was evaluated for liver transplantation (Kim et al., <xref rid="efs26196-bib-0019" ref-type="ref">2012</xref>). There was no further information about the amount of beverage ingested, the concentration of <italic>Hovenia dulcis</italic> fruits in the beverage. According to the authors, the case was classified ‘probable’ causally related to the consumption of <italic>Hovenia dulcis</italic>. The Panel notes that case reports <italic>per se</italic> are not suitable to establish a cause and effect relationship. There is no information available on how the consumed item relates with the composition and proposed intake level of the NF, thus the relevance of this paediatric case remains unclear.</p>
+</sec>
+</sec>
+<sec id="efs26196-sec-0023" xml:lang="en">
+<label>3.11</label>
+<title>Allergenicity</title>
+<p xml:lang="en">According to the proposed specifications, the NF contains 1–3% protein. According to the applicant, there are no reports on allergic reactions associated with <italic>Hovenia dulcis</italic> fruits although more than 750 million ‘products’ of <italic>Hovenia dulcis</italic> fruit extract have been consumed since the substance was approved by the KFDA in 2008. The applicant also noted that he could not identify reports concerning allergenicity from China, Japan and Brazil where the fruit is consumed.</p>
+</sec>
+</sec>
+<sec id="efs26196-sec-0024" xml:lang="en">
+<label>4</label>
+<title>Discussion</title>
+<p xml:lang="en">The NF concerns a hot water extract from the ripe fruits and peduncles of <italic>Hovenia dulcis</italic> Thunb. collected from the wild in China. The Panel considers that the proposed specifications are not supported by an appropriate compositional characterisation and by batch testing.</p>
+<p xml:lang="en">The applicant has provided some information on a history of consumption of <italic>Hovenia dulcis</italic> fruits and extracts in foods, mainly beverages and food supplements, and in the traditional Chinese medicine in countries in South Asia.</p>
+<p xml:lang="en">The application includes study reports on an acute toxicity study, a bacterial reverse mutation test, an <italic>in vivo</italic> micronucleus test, a chromosome aberration test and a 90‐day subchronic toxicity study in rats. The genotoxicity studies provided by the applicant do not comply with EFSA Guidance documents, as an <italic>in vitro</italic> micronucleus test is missing. In addition, the studies provided did not include information that permitted the identification and characterization of the test substance.</p>
+<p xml:lang="en">Consequently, the Panel considers that the provided toxicological study reports are not informative for the assessment of the toxicological properties of the NF and cannot be used to derive safe intake levels for human consumption. Similarly, an unpublished study report on a human trial for 12 weeks did not provide information which would allow to verify that the test item was representative for the NF. Another human trial concerning the effect of a single dose of 2.5 g of the NF on hang‐over symptoms is considered not relevant for the safety assessment of the NF.</p>
+</sec>
+<sec id="efs26196-sec-0025" xml:lang="en">
+<label>5</label>
+<title>Conclusions</title>
+<p xml:lang="en">The Panel concludes that the safety of the NF has not been established.</p>
+</sec>
+<sec id="efs26196-sec-0026" xml:lang="en">
+<label>6</label>
+<title>Steps taken by EFSA</title>
+<p xml:lang="en">
+<list list-type="order" id="efs26196-list-0002">
+
+<list-item><p>Letter from the European Commission to the European Food Safety Authority with the request for a scientific opinion on the safety of <italic>Hovenia dulcis</italic> fruit extract as a novel food Ref. ARES(2018)5373981 dated 19.10.2018.</p></list-item>
+
+<list-item><p>On 19.10.2018, EFSA received a valid application from the European Commission on <italic>Hovenia dulcis</italic> fruit extract as a novel food, which was submitted by Hovenia dulcis AB, and the scientific evaluation procedure started.</p></list-item>
+
+<list-item><p>On 18.01.2019, 08.03.2019, 11.03.2019 and 29.05.2019 EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</p></list-item>
+
+<list-item><p>On 07.03.2019, 11.03.2019, 12.03.2019 and 04.05.2020 additional information was provided by the applicant and the scientific evaluation was restarted.</p></list-item>
+
+<list-item><p>During its meeting on 30.06.2020, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of <italic>Hovenia dulcis</italic> fruit extract as a novel food pursuant to Regulation (EU) 2015/2283.</p></list-item>
+</list>
+</p>
+</sec>
+
+
+<sec id="efs26196-sec-0027" xml:lang="en">
+<title>Abbreviations</title>
+<p xml:lang="en">
+<def-list list-type="simple">
+
+<def-item>
+
+<term>ADME</term>
+
+<def><p>absorption, distribution, metabolism and excretion</p></def>
+</def-item>
+
+<def-item>
+
+<term>CFU</term>
+
+<def><p>colony forming unit</p></def>
+</def-item>
+
+<def-item>
+
+<term>GLP</term>
+
+<def><p>good laboratory practice</p></def>
+</def-item>
+
+<def-item>
+
+<term>GMP</term>
+
+<def><p>Good Manufacturing Practices</p></def>
+</def-item>
+
+<def-item>
+
+<term>HDFPE</term>
+
+<def><p><italic>Hovenia dulcis</italic> fruit and peduncle extract</p></def>
+</def-item>
+
+<def-item>
+
+<term>HPLC</term>
+
+<def><p>high‐performance liquid chromatography</p></def>
+</def-item>
+
+<def-item>
+
+<term>ICP‐MS</term>
+
+<def><p>induced coupled plasma‐mass spectrometry</p></def>
+</def-item>
+
+<def-item>
+
+<term>KFDA</term>
+
+<def><p>Korean Food and Drug Agency</p></def>
+</def-item>
+
+<def-item>
+
+<term>MSs</term>
+
+<def><p>Member States</p></def>
+</def-item>
+
+<def-item>
+
+<term>NDA</term>
+
+<def><p>EFSA Panel on Nutrition, Novel Foods and Food Allergens</p></def>
+</def-item>
+
+<def-item>
+
+<term>NF</term>
+
+<def><p>novel food</p></def>
+</def-item>
+
+<def-item>
+
+<term>OECD</term>
+
+<def><p>Organisation for Economic Co‐operation and Development</p></def>
+</def-item>
+
+<def-item>
+
+<term>USDA</term>
+
+<def><p>United States Department of Agriculture</p></def>
+</def-item>
+</def-list>
+</p>
+</sec>
+</body>
+<back>
+<fn-group id="efs26196-ntgp-0007">
+<title>Notes</title>
+<fn id="efs26196-note-1006" xml:lang="en">
+<label>1</label>
+<p xml:lang="en">Regulation (EU) No 258/97 of the European Parliament and of the Council of 27 January 1997 concerning novel foods and novel food ingredients. OJ L 43, 14.2.1997, p. 1–6.</p>
+</fn>
+<fn id="efs26196-note-2002" xml:lang="en">
+<label>2</label>
+<p xml:lang="en">Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (2013/0435 (COD). OJ L 327, 11.12.2015, p. 1–22.</p>
+</fn>
+<fn id="efs26196-note-2003" xml:lang="en">
+<label>3</label>
+<p xml:lang="en">Commission Implementing Regulation (EU) 2017/2469 of 20 December 2017 laying down administrative and scientific requirements for applications referred to in Article 10 of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods. OJ L 351, 30.12.2017, pp. 64–71.</p>
+</fn>
+<fn id="efs26196-note-1007" xml:lang="en">
+<label>4</label>
+<p xml:lang="en">EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies), Turck D, Bresson J‐L, Burlingame B, Dean T, Fairweather‐Tait S, Heinonen M, Hirsch‐Ernst KI, Mangelsdorf I, McArdle H, Naska A, Neuhäuser‐Berthold M, Nowicka G, Pentieva K, Sanz Y, Siani A, Sjödin A, Stern M, Tomé D, Vinceti M, Willatts P, Engel K‐H, Marchelli R, Pöting A, Poulsen M, Salminen S, Schlatter J, Arcella D, Gelbmann W, de Sesmaisons‐Lecarré A, Verhagen H and van Loveren H, 2016. Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283. EFSA Journal 2016;14(11):4594, 24 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2016.4594">https://doi.org/10.2903/j.efsa.2016.4594</ext-link></p>
+</fn>
+</fn-group>
+<ref-list content-type="cited-references" id="efs26196-bibl-0001">
+<title>References</title>
+<ref id="efs26196-bib-0001">
+<mixed-citation publication-type="journal" id="efs26196-cit-0001"><string-name><surname>Bampi</surname> <given-names>M</given-names></string-name>, <string-name><surname>Bicudo</surname> <given-names>MOP</given-names></string-name>, <string-name><surname>Fontoura</surname> <given-names>PSG</given-names></string-name> and <string-name><surname>Ribani</surname> <given-names>RK</given-names></string-name>, <year>2010</year>. <article-title xml:lang="en">Chemical composition of fruit, concentrated extract and flour from “Japanese grape”</article-title>. <source xml:lang="en">Ciencia Rural</source>, <volume>40</volume>, <fpage>2361</fpage>–<lpage>2367</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0002">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0002"><collab collab-type="authors">Biotoxtech</collab>
+, <year>2002a</year>. <article-title xml:lang="en">Hovenia Dulcis Fruit Extracts; single dose toxicity study (oral) in rats (study number: B02063). Unpublished report</article-title>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0003">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0003"><collab collab-type="authors">Biotoxtech</collab>
+, <year>2002b</year>. <article-title xml:lang="en">Hovenia Dulcis Fruit Extracts; In vitro Reverse Mutation study. (study number: B02064). Unpublished report</article-title>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0004">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0004"><collab collab-type="authors">Biotoxtech</collab>
+, <year>2002c</year>. <article-title xml:lang="en">Hovenia Dulcis Fruit Extracts; Micronucleus test in Mice. (study number: B02066). Unpublished report</article-title>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0005">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0005"><collab collab-type="authors">Biotoxtech</collab>
+, <year>2002d</year>. <article-title xml:lang="en">Hovenia Dulcis Fruit Extracts; In vitro Chromosomal Aberration study using Chinese Hamster Lung (CHL) Cultured cell (study number: B02065). Unpublished report</article-title>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0006">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0006"><collab collab-type="authors">Biotoxtech</collab>
+, <year>2003</year>. <article-title xml:lang="en">Hovenia Dulcis Fruit Extracts; 13 week repeated dose toxicity study (oral) with 4 week recovery period in Rats (study number: B02067). Unpublished report</article-title>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0007">
+<mixed-citation publication-type="journal" id="efs26196-cit-0007"><string-name><surname>Chau</surname> <given-names>CF</given-names></string-name> and <string-name><surname>Wu</surname> <given-names>SH</given-names></string-name>, <year>2006</year>. <article-title xml:lang="en">The development of regulations of Chinese herbal medicines for both medicinal and food uses</article-title>. <source xml:lang="en">Trends in Food Science &amp; Technology</source>, <volume>17</volume>, <fpage>313</fpage>–<lpage>323</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0008">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0008"><string-name><surname>Dieu</surname> <given-names>S</given-names></string-name>, <year>1853</year>. <article-title xml:lang="en">Traité de matière médicale et de thérapeutique, précédé de considérations générales sur la zoologie et suivi de l'histoire des eaux naturelles. Volumen 4, Paris, Pallez et Rousseau, libraires‐éditeurs</article-title>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0009">
+<mixed-citation publication-type="journal" id="efs26196-cit-0009"><string-name><surname>Ding</surname> <given-names>L</given-names></string-name>, <string-name><surname>Liang</surname> <given-names>Q</given-names></string-name> and <string-name><surname>Teng</surname> <given-names>Y</given-names></string-name>, <year>1997</year>. <article-title xml:lang="en">Study on flavonoids in seeds of Hovenia dulcis</article-title>. <source xml:lang="en">Yao Xue Xue Bao</source>, <volume>32</volume>, <fpage>600</fpage>–<lpage>602</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0010">
+<mixed-citation publication-type="journal" id="efs26196-cit-0010"><collab collab-type="authors">EFSA NDA Panel</collab>
+ (EFSA Panel on Dietetic Products, Nutrition and Allergies), <year>2016</year>. <article-title xml:lang="en">Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2016;<volume>14</volume>(<issue>11</issue>):4594, 24 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2016.4594">https://doi.org/10.2903/j.efsa.2016.4594</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0011">
+<mixed-citation publication-type="journal" id="efs26196-cit-0011"><collab collab-type="authors">EFSA Scientific Committee</collab>
+, <year>2011</year>. <article-title xml:lang="en">Scientific Opinion on genotoxicity testing strategies applicable to food and feed safety assessment</article-title>. <source xml:lang="en">EFSA Journal</source> 2011;<volume>9</volume>(<issue>9</issue>):2379, 69 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2011.2379">https://doi.org/10.2903/j.efsa.2011.2379</ext-link>. Available online: <ext-link ext-link-type="uri" xlink:href="http://www.efsa.europa.eu/efsajournal">www.efsa.europa.eu/efsajournal</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0012">
+<mixed-citation publication-type="journal" id="efs26196-cit-0012"><collab collab-type="authors">EFSA Scientific Committee</collab>
+, <string-name><surname>More</surname> <given-names>S</given-names></string-name>, <string-name><surname>Bampidis</surname> <given-names>V</given-names></string-name>, <string-name><surname>Benford</surname> <given-names>D</given-names></string-name>, <string-name><surname>Boesten</surname> <given-names>J</given-names></string-name>, <string-name><surname>Bragard</surname> <given-names>C</given-names></string-name>, <string-name><surname>Halldorsson</surname> <given-names>T</given-names></string-name>, <string-name><surname>Hernandez‐Jerez</surname> <given-names>A</given-names></string-name>, <string-name><surname>Hougaard‐Bennekou</surname> <given-names>S</given-names></string-name>, <string-name><surname>Koutsoumanis</surname> <given-names>K</given-names></string-name>, <string-name><surname>Naegeli</surname> <given-names>H</given-names></string-name>, <string-name><surname>Nielsen</surname> <given-names>SS</given-names></string-name>, <string-name><surname>Schrenk</surname> <given-names>D</given-names></string-name>, <string-name><surname>Silano</surname> <given-names>V</given-names></string-name>, <string-name><surname>Turck</surname> <given-names>D</given-names></string-name>, <string-name><surname>Younes</surname> <given-names>M</given-names></string-name>, <string-name><surname>Aquilina</surname> <given-names>G</given-names></string-name>, <string-name><surname>Crebelli</surname> <given-names>R</given-names></string-name>, <string-name><surname>Gurtler</surname> <given-names>R</given-names></string-name>, <string-name><surname>Hirsch‐Ernst</surname> <given-names>KI</given-names></string-name>, <string-name><surname>Mosesso</surname> <given-names>P</given-names></string-name>, <string-name><surname>Nielsen</surname> <given-names>E</given-names></string-name>, <string-name><surname>Solecki</surname> <given-names>R</given-names></string-name>, <string-name><surname>Carfı</surname> <given-names>M</given-names></string-name>, <string-name><surname>Martino</surname> <given-names>C</given-names></string-name>, <string-name><surname>Maurici</surname> <given-names>D</given-names></string-name>, <string-name><surname>Parra Morte</surname> <given-names>J</given-names></string-name> and <string-name><surname>Schlatter</surname> <given-names>J</given-names></string-name>, <year>2019</year>. <article-title xml:lang="en">Statement on the genotoxicity assessment of chemical mixtures</article-title>. <source xml:lang="en">EFSA Journal</source> 2019;<volume>17</volume>(<issue>1</issue>):5519, 11 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2019.5519">https://doi.org/10.2903/j.efsa.2019.5519</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0013">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0013"><string-name><surname>Eleotério</surname> <given-names>J</given-names></string-name>, <string-name><surname>Pellens</surname> <given-names>G</given-names></string-name> and <string-name><surname>Commanduli</surname> <given-names>MJ</given-names></string-name>, <year>2012</year>. <article-title xml:lang="en">Diameter, height and volume growth of hovenia dulcis in south blumenau</article-title>, sc. 42, <fpage>733</fpage>–<lpage>740</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0014">
+<mixed-citation publication-type="journal" id="efs26196-cit-0014"><string-name><surname>Engen</surname> <given-names>A</given-names></string-name>, <string-name><surname>Maeda</surname> <given-names>J</given-names></string-name>, <string-name><surname>Wozniak</surname> <given-names>DE</given-names></string-name>, <string-name><surname>Brents</surname> <given-names>CA</given-names></string-name>, <string-name><surname>Bell</surname> <given-names>JJ</given-names></string-name>, <string-name><surname>Uesaka</surname> <given-names>M</given-names></string-name>, <string-name><surname>Aizawa</surname> <given-names>Y</given-names></string-name> and <string-name><surname>Kato</surname> <given-names>TA</given-names></string-name>, <year>2015</year>. <article-title xml:lang="en">Induction of cytotoxicity and genotoxicity responses by natural and novel quercetin glycosides</article-title>. <source xml:lang="en">Mutation Research</source>, <volume>2015</volume>, <fpage>15</fpage>–<lpage>22</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0015">
+<mixed-citation publication-type="journal" id="efs26196-cit-0015"><string-name><surname>Heim</surname> <given-names>KE</given-names></string-name>, <string-name><surname>Tagliaferro</surname> <given-names>AR</given-names></string-name> and <string-name><surname>Bobilya</surname> <given-names>DJ</given-names></string-name>, <year>2002</year>. <article-title xml:lang="en">Flavonoid antioxidants: chemistry, metabolism and structure‐activity relationships</article-title>. <source xml:lang="en">Journal of Nutrional Biochemistry</source>, <volume>13</volume>, <fpage>572</fpage>–<lpage>584</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0016">
+<mixed-citation publication-type="journal" id="efs26196-cit-0016"><string-name><surname>Hobbs</surname> <given-names>CA</given-names></string-name>, <string-name><surname>Swartz</surname> <given-names>C</given-names></string-name>, <string-name><surname>Maronpot</surname> <given-names>R</given-names></string-name>, <string-name><surname>Davis</surname> <given-names>J</given-names></string-name>, <string-name><surname>Recio</surname> <given-names>L</given-names></string-name>, <string-name><surname>Koyanagi</surname> <given-names>M</given-names></string-name> and <string-name><surname>Hayashi</surname> <given-names>S</given-names></string-name>, <year>2013</year>. <article-title xml:lang="en">Genotoxicity evaluation of the flavonoid, myricitrin, and its aglycone, myricetin</article-title>. <source xml:lang="en">Food and Chemistry Toxicology</source>, <volume>83</volume>, <fpage>283</fpage>–<lpage>292</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0017">
+<mixed-citation publication-type="journal" id="efs26196-cit-0017"><string-name><surname>Hyun</surname> <given-names>TK</given-names></string-name>, <string-name><surname>Eom</surname> <given-names>SH</given-names></string-name>, <string-name><surname>Yu</surname> <given-names>CY</given-names></string-name> and <string-name><surname>Roitsch</surname> <given-names>T</given-names></string-name>, <year>2010</year>. <article-title xml:lang="en">Hovenia dulcis – an Asian traditional herb</article-title>. <source xml:lang="en">Planta Medicine</source>, <volume>76</volume>, <fpage>943</fpage>–<lpage>949</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1055/s-0030-1249776">https://doi.org/10.1055/s-0030-1249776</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0019">
+<mixed-citation publication-type="journal" id="efs26196-cit-0019"><string-name><surname>Kim</surname> <given-names>YJ</given-names></string-name>, <string-name><surname>Ryu</surname> <given-names>SL</given-names></string-name>, <string-name><surname>Shim</surname> <given-names>JW</given-names></string-name>, <string-name><surname>Kim</surname> <given-names>DS</given-names></string-name>, <string-name><surname>Shim</surname> <given-names>JY</given-names></string-name>, <string-name><surname>Park</surname> <given-names>MS</given-names></string-name> and <string-name><surname>Jung</surname> <given-names>HL</given-names></string-name>, <year>2012</year>. <article-title xml:lang="en">A pediatric case of toxic hepatitis induced by Hovenia dulcis</article-title>. <source xml:lang="en">Pediatric Gastroenterology, Hepatology and Nutrition Journal</source>, <volume>15</volume>, <fpage>111</fpage>–<lpage>116</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0020">
+<mixed-citation publication-type="journal" id="efs26196-cit-0020"><string-name><surname>Kim</surname> <given-names>H</given-names></string-name>, <string-name><surname>Kim</surname> <given-names>YJ</given-names></string-name>, <string-name><surname>Jeong</surname> <given-names>HJ</given-names></string-name>, <string-name><surname>Kim</surname> <given-names>JY</given-names></string-name>, <string-name><surname>Choi</surname> <given-names>EK</given-names></string-name>, <string-name><surname>Chae</surname> <given-names>SW</given-names></string-name> and <string-name><surname>Kwon</surname> <given-names>O</given-names></string-name>, <year>2017</year>. <article-title xml:lang="en">A Standardized extract of the fruit of Hovenia Dulcis alleviated alcohol‐induced hangover in healthy subjects with heterozygous ALDH2: a and omized crossover, crossover trial</article-title>. <source xml:lang="en">Journal of Ethnopharmacology</source>, <volume>209</volume>, <fpage>167</fpage>–<lpage>174</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0021">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0021"><collab collab-type="authors">Lifetree Biotech Co.</collab>
+, undated. <article-title xml:lang="en">An Evaluation of Efficacy of Hovenia dulcis Berry extract powder to Repair Alcohol‐Induced Liver Damage in Double Blind, Randomization, Controlled Clinical Trials. Unpublished report</article-title>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0022">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0022"><string-name><surname>Lim</surname> <given-names>TK</given-names></string-name>, <year>2013</year>. <article-title xml:lang="en">Hovenia dulcis. Edible Medicinal And Non‐Medicinal Plants</article-title>. ISBN 978‐94-007‐5653-3 Volumen 5, Fruits. Springer Netherlands, 568–577.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0023">
+<mixed-citation publication-type="book" id="efs26196-cit-0023"><string-name><surname>Martin‐Garcia</surname> <given-names>Y</given-names></string-name> and <string-name><surname>Diez</surname> <given-names>JJ</given-names></string-name>, <year>2012</year>. <source xml:lang="en">Sustainable Forest Management: Case studies</source>. <publisher-name>Rijeka, Croatia</publisher-name>, <publisher-loc>Intech</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0024">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0024"><string-name><surname>Murakami</surname> <given-names>N</given-names></string-name>, <string-name><surname>Ueda</surname> <given-names>T</given-names></string-name>, <string-name><surname>Yoshikawa</surname> <given-names>M</given-names></string-name>, <string-name><surname>Matsuda</surname> <given-names>H</given-names></string-name>, <string-name><surname>Yamahara</surname> <given-names>J</given-names></string-name>, <string-name><surname>Saito</surname> <given-names>M</given-names></string-name> and <string-name><surname>Tanaka</surname> <given-names>T</given-names></string-name>, <year>1997</year>. <article-title xml:lang="en">Histamine release inhibitory and alcohol induced muscle relaxation inhibitory constituents from Hoveniae semen Seu Fructus</article-title>. Absolute structure of methyl‐migrated 16,17‐seco-dammarane triterpene glycosides, hovenidulciosides. Tennen Yuki Kagobutsu Toronkai Koen Yoshishu, 1995, 37th, 397.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0025">
+<mixed-citation publication-type="journal" id="efs26196-cit-0025"><string-name><surname>Ock</surname> <given-names>SM</given-names></string-name>, <string-name><surname>Hwang</surname> <given-names>SS</given-names></string-name>, <string-name><surname>Lee</surname> <given-names>JS</given-names></string-name>, <string-name><surname>Song</surname> <given-names>CH</given-names></string-name> and <string-name><surname>Ock</surname> <given-names>CM</given-names></string-name>, <year>2010</year>. <article-title xml:lang="en">Dietary supplement use by South Korean adults: data from the national complementary and alternative medicine use survey (NCAMUS) in 2006</article-title>. <source xml:lang="en">Nutritional Research Practice</source>, <volume>4</volume>, <fpage>69</fpage>–<lpage>74</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4162/nrp.2010.4.1.69">https://doi.org/10.4162/nrp.2010.4.1.69</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0026">
+<mixed-citation publication-type="book" id="efs26196-cit-0026"><collab collab-type="authors">OECD</collab>
+, <year>1998</year>. <source xml:lang="en">OECD Principles on Good Laboratory Practice, OECD Series on Principles of Good Laboratory Practice and Compliance Monitoring</source>. Vol <volume>No. 1</volume>. <publisher-name>OECD Publishing</publisher-name>, <publisher-loc>Paris</publisher-loc>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1787/9789264078536-en">https://doi.org/10.1787/9789264078536-en</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0027">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0027"><collab collab-type="authors">OECD</collab>
+, <year>2016</year>. <article-title xml:lang="en">Test No. 487: In Vitro Mammalian Cell Micronucleus Test, OECD Guidelines for the Testing of Chemicals, Section 4, OECD Publishing, Paris</article-title>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1787/9789264264861-en">https://doi.org/10.1787/9789264264861-en</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0028">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0028"><collab collab-type="authors">OECD</collab>
+, <year>2018</year>. <article-title xml:lang="en">Test No. 408: Repeated Dose 90‐Day Oral Toxicity Study in Rodents, OECD Guidelines for the Testing of Chemicals, Section 4, OECD Publishing, Paris</article-title>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1787/9789264070707-en">https://doi.org/10.1787/9789264070707-en</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0029">
+<mixed-citation publication-type="journal" id="efs26196-cit-0029"><string-name><surname>Park</surname> <given-names>JS</given-names></string-name>, <string-name><surname>Kim</surname> <given-names>IS</given-names></string-name>, <string-name><surname>Rehman Shaheed</surname> <given-names>Ur</given-names></string-name>, <string-name><surname>Na</surname> <given-names>CS</given-names></string-name> and <string-name><surname>Yoo</surname> <given-names>HH</given-names></string-name>, <year>2015</year>. <article-title xml:lang="en">HPLC determination of bioactive flavonoids in hovenia dulcis fruit extracts</article-title>. <source xml:lang="en">Journal of Chromatographic Science</source>, <volume>54</volume>, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/chromsci/bmv114">https://doi.org/10.1093/chromsci/bmv114</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0030">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0030"><collab collab-type="authors">Sexta‐Feira</collab>
+, <year>2008</year>. <article-title xml:lang="en">É tempo de uva japonesa</article-title>. Available online: <ext-link ext-link-type="uri" xlink:href="https://come-se.blogspot.com/2008/05/tempo-de-uva-japonesa.html">https://come-se.blogspot.com/2008/05/tempo-de-uva-japonesa.html</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0952">
+<mixed-citation publication-type="journal" id="efs26196-cit-0952"><string-name><surname>ShuZhen</surname> <given-names>Y</given-names></string-name> and <string-name><surname>QiuSheng</surname> <given-names>F</given-names></string-name>, <year>2009</year>. <article-title xml:lang="en">The nootropic components of Hovenia dulcis</article-title>. <source xml:lang="en">Academic Journal of Second Military Medical University</source>, <volume>30</volume>, <fpage>1281</fpage>–<lpage>1287</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0031">
+<mixed-citation publication-type="miscellaneous" id="efs26196-cit-0031"><collab collab-type="authors">USDA</collab>
+, <year>1987</year>. <article-title xml:lang="en">Perennial Edible Fruits of the Tropics: An. Inventory</article-title>. U.S. Department of Agriculture,. Agriculture Handbook No. 642, 252 pp. <ext-link ext-link-type="uri" xlink:href="https://naldc.nal.usda.gov/download/CAT87886130/PDF">https://naldc.nal.usda.gov/download/CAT87886130/PDF</ext-link></mixed-citation>
+</ref>
+<ref id="efs26196-bib-0032">
+<mixed-citation publication-type="journal" id="efs26196-cit-0032"><string-name><surname>Xu</surname> <given-names>BJ</given-names></string-name>, <string-name><surname>Lee</surname> <given-names>JH</given-names></string-name> and <string-name><surname>Sung</surname> <given-names>CK</given-names></string-name>, <year>2003</year>. <article-title xml:lang="en">Review: chemical compositions of the genus Hovenia</article-title>. <source xml:lang="en">Natural Product Sciences</source>, <volume>9</volume>, <fpage>143</fpage>–<lpage>153</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0033">
+<mixed-citation publication-type="journal" id="efs26196-cit-0033"><string-name><surname>Yoshikawa</surname> <given-names>M</given-names></string-name>, <string-name><surname>Ueda</surname> <given-names>T</given-names></string-name>, <string-name><surname>Muraoka</surname> <given-names>O</given-names></string-name>, <string-name><surname>Aoyama</surname> <given-names>H</given-names></string-name>, <string-name><surname>Matsuda</surname> <given-names>H</given-names></string-name>, <string-name><surname>Shimoda</surname> <given-names>H</given-names></string-name>, <string-name><surname>Yamahara</surname> <given-names>J</given-names></string-name> and <string-name><surname>Murakami</surname> <given-names>N</given-names></string-name>, <year>1995</year>. <article-title xml:lang="en">Absolute stereostructures of hovenidulciosides A1 and A2, bioactive novel triterpene glycosides from hoveniae semen seu fructus, the seeds and fruit of Hovenia dulcis Thunb</article-title>. <source xml:lang="en">Chemical and Pharmaceutical Bulletin</source>, <volume>43</volume>, <fpage>532</fpage>–<lpage>534</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0034">
+<mixed-citation publication-type="journal" id="efs26196-cit-0034"><string-name><surname>Yoshikawa</surname> <given-names>M</given-names></string-name>, <string-name><surname>Murakami</surname> <given-names>T</given-names></string-name>, <string-name><surname>Ueda</surname> <given-names>T</given-names></string-name>, <string-name><surname>Matsuda</surname> <given-names>H</given-names></string-name>, <string-name><surname>Yamahara</surname> <given-names>J</given-names></string-name> and <string-name><surname>Murakami</surname> <given-names>N</given-names></string-name>, <year>1996</year>. <article-title xml:lang="en">Bioactive saponins and glycosides. IV. Four methylmigrated 16,17‐seco‐dammarane triterpene gylcosides from Chinese natural medicine, hoveniae semen seu fructus, the seeds and fruit of Hovenia dulcis Thunb, absolute stereostructures and inhibitory activity on histamine release of hovenidulciosides A1, A2, B1, and B2</article-title>. <source xml:lang="en">Chemical &amp; Pharmaceutical Bulletin</source>, <volume>44</volume>, <fpage>1736</fpage>–<lpage>1743</lpage>.</mixed-citation>
+</ref>
+<ref id="efs26196-bib-0035">
+<mixed-citation publication-type="journal" id="efs26196-cit-0035"><string-name><surname>Yoshikawa</surname> <given-names>M</given-names></string-name>, <string-name><surname>Murakami</surname> <given-names>T</given-names></string-name>, <string-name><surname>Ueda</surname> <given-names>T</given-names></string-name>, <string-name><surname>Yoshizumi</surname> <given-names>S</given-names></string-name>, <string-name><surname>Ninomiya</surname> <given-names>K</given-names></string-name>, <string-name><surname>Murakami</surname> <given-names>N</given-names></string-name>, <string-name><surname>Matsuda</surname> <given-names>H</given-names></string-name>, <string-name><surname>Saito</surname> <given-names>M</given-names></string-name>, <string-name><surname>Fujii</surname> <given-names>W</given-names></string-name>, <string-name><surname>Tanaka</surname> <given-names>T</given-names></string-name> and <string-name><surname>Yamahara</surname> <given-names>J</given-names></string-name>, <year>1997</year>. <article-title xml:lang="en">Bioactive constituents of Chinese natural medicines. III. Absolute stereostructures of new dihydroflavonols, hovenitins I, II, and III, isolated from hoveniae semen seu fructus, the seed and fruit of Hovenia dulcis THUNB. (Rhamnaceae): inhibitory effect on alcohol‐induced muscular relaxation and hepatoprotective activity</article-title>. <source xml:lang="en">Yakugaku Zasshi</source>, <volume>117</volume>, <fpage>108</fpage>–<lpage>118</lpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

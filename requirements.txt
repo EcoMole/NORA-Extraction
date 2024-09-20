@@ -3,3 +3,5 @@ pymupdf
 unidecode
 openai
 python-dotenv
+grobid-client-python
+lxml

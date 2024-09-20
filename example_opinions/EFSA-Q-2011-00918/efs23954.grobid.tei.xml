@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" coord="1,76.10,166.11,436.58,12.64;1,512.74,163.07,4.50,8.10;1,126.38,194.38,330.37,10.80;1,456.82,191.57,10.14,7.24">Scientific Opinion on the safety of&lt;i&gt;Arracacia xanthorrhiza&lt;/i&gt;as a novel food</title>
+				<funder>
+					<orgName type="full">EFSA</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2015-01">2015-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,142.46,639.19,55.24,8.10"><forename type="first">Carlo</forename><surname>Agostoni</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,205.49,639.19,80.40,8.10"><forename type="first">Roberto</forename><forename type="middle">Berni</forename><surname>Canani</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,293.60,639.19,84.23,8.10"><forename type="first">Susan</forename><surname>Fairweather-Tait</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,385.24,639.19,62.96,8.10"><forename type="first">Marina</forename><surname>Heinonen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,456.08,639.19,61.99,8.10"><forename type="first">Hannu</forename><surname>Korhonen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,79.46,649.75,47.64,8.10"><forename type="first">La</forename><surname>Sébastien</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,130.77,649.75,68.00,8.10"><forename type="first">Rosangela</forename><surname>Vieille</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,202.34,649.75,76.18,8.10"><forename type="first">Ambroise</forename><surname>Marchelli</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,282.07,649.75,67.46,8.10"><forename type="first">Androniki</forename><surname>Martin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,353.15,649.75,56.27,8.10"><forename type="first">Monika</forename><surname>Naska</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,412.97,649.75,109.64,8.10"><forename type="first">Grażyna</forename><surname>Neuhäuser-Berthold</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,79.46,660.31,69.35,8.10"><forename type="first">Yolanda</forename><surname>Nowicka</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,152.98,660.31,52.84,8.10"><forename type="first">Alfonso</forename><surname>Sanz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,210.04,660.31,50.98,8.10"><forename type="first">Anders</forename><surname>Siani</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,265.19,660.31,54.71,8.10"><forename type="first">Martin</forename><surname>Sjödin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,324.15,660.31,42.98,8.10"><forename type="first">Sean</forename><surname>Stern</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,374.16,660.31,39.46,8.10"><forename type="first">J</forename><forename type="middle">J )</forename><surname>Strain</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,421.11,660.31,42.43,8.10"><forename type="first">Inge</forename><surname>Tetens</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,471.35,660.31,46.47,8.10"><forename type="first">Daniel</forename><surname>Tomé</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,79.46,670.87,64.22,8.10"><forename type="first">Dominique</forename><surname>Turck</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,79.46,691.99,44.41,8.10"><forename type="first">Heinz</forename><surname>Engel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,271.74,691.99,74.53,8.10"><forename type="first">Rosangela</forename><surname>Marchelli</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,353.62,691.99,103.45,8.10"><forename type="first">Monika</forename><surname>Neuhäuser-Berthold</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,464.55,691.99,54.16,8.10"><forename type="first">Annette</forename><surname>Pöting</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,79.46,702.55,56.27,8.10"><forename type="first">Morten</forename><surname>Poulsen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,142.14,702.55,57.33,8.10"><forename type="first">Seppo</forename><surname>Salminen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,206.02,702.55,51.72,8.10"><forename type="first">Josef</forename><surname>Schlatter</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,263.70,702.55,79.44,8.10"><forename type="first">Hendrik</forename><surname>Van Loveren</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName coords="1,361.61,702.55,54.16,8.10"><forename type="first">Hans</forename><surname>Verhagen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">European Food Safety Authority (EFSA)</orgName>
+								<address>
+									<settlement>Parma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" coord="1,76.10,166.11,436.58,12.64;1,512.74,163.07,4.50,8.10;1,126.38,194.38,330.37,10.80;1,456.82,191.57,10.14,7.24">Scientific Opinion on the safety of&lt;i&gt;Arracacia xanthorrhiza&lt;/i&gt;as a novel food</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">EFSA Journal</title>
+						<title level="j" type="abbrev">EFSA Journal</title>
+						<idno type="ISSN">1831-4732</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">13</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page">3954</biblScope>
+							<date type="published" when="2015-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">F1137A3181FA138101A61EDB4A20B66E</idno>
+					<idno type="DOI">10.2903/j.efsa.2015.3954</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-04-29T08:46+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Arracacia xanthorrhiza</term>
+					<term>novel food</term>
+					<term>arracacha</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,70.94,271.17,451.58,8.96;1,70.94,282.83,406.25,9.06">Following a request from the European Commission, the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA) was asked to deliver a scientific opinion on the safety of "Arracacia xanthorrhiza".</s><s coords="1,479.98,282.93,42.58,8.96;1,70.94,294.59,451.62,9.06;1,70.94,306.45,206.04,8.96">This novel food (NF) comprises pre-cooked and individually quick-frozen slices, chunks and "other formats" of the roots of Arracacia xanthorrhiza Bancroft (arracacha roots).</s><s coords="1,279.77,306.45,113.03,8.96">Arracacia xanthorrhiza var.</s><s coords="1,395.57,306.45,126.93,8.96;1,70.94,318.21,128.87,8.96">xanthorrhiza (cultivated) is one of three varieties of this species.</s><s coords="1,202.61,318.21,320.03,8.96;1,70.94,329.97,451.23,8.96;1,70.94,341.73,75.42,8.96">In the original application the analytical methods employed for the batch testing of these three lots from 2008 had not been described and certificates regarding the accreditation of the laboratory had been missing.</s><s coords="1,150.93,341.73,234.01,8.96">No data on secondary plant metabolites were provided.</s><s coords="1,389.83,341.73,132.81,8.96;1,70.94,353.49,451.50,8.96;1,70.94,365.25,195.36,8.96">The applicant provided data on cultivation, production tonnage and human consumption, including information on the preparation and recipes for arracacha used in South American countries.</s><s coords="1,269.33,365.25,252.97,8.96;1,70.94,377.01,233.97,8.96">According to the applicant, arracacha is consumed in the same way as other crops such as potato, cassava, yam or carrot.</s><s coords="1,307.80,377.01,214.63,8.96;1,70.94,388.67,149.28,9.06">The NF is intended for human consumption in dishes such as "sudados", soups and stews.</s><s coords="1,223.85,388.67,298.72,9.05;1,70.94,400.43,451.66,9.06;1,70.94,412.31,451.15,8.96;1,70.94,424.07,451.14,8.96;1,70.94,435.83,100.88,8.96">EFSA requested the applicant to provide information on potential "other formats" of the NF intended by the applicant, compositional data on a current lot of the NF covering all analyses contained in the specifications of the NF as proposed in the original application and analysed by a certified laboratory and analytical data on the presence of secondary metabolites, in particular of coumarin and monoterpene derivatives.</s><s coords="1,174.62,435.73,347.90,9.06;1,70.94,447.59,94.46,8.96">EFSA also asked for details on the two-step steam heating process, in particular timetemperature conditions.</s><s coords="1,168.41,447.59,353.68,8.96;1,70.94,459.35,81.29,8.96">As the applicant did not respond to the request by EFSA, the Panel cannot conclude on the safety of the NF.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.32" lry="841.92"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUMMARY</head><p><s coords="2,70.94,96.88,451.47,9.94;2,70.94,109.73,451.61,10.05;2,70.94,122.80,134.91,9.94">Following a request from the European Commission, the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA) was asked to deliver a scientific opinion on the safety of "Arracacia xanthorrhiza" as a novel food.</s><s coords="2,70.94,147.65,451.59,10.05;2,70.94,160.61,342.29,10.05">This novel food (NF) comprises pre-cooked and individually quick-frozen slices, chunks and "other formats" of the roots of Arracacia xanthorrhiza Bancroft (arracacha roots).</s><s coords="2,416.83,160.72,105.63,9.94;2,70.94,173.68,16.80,9.94">Arracacia xanthorrhiza var.</s><s coords="2,91.33,173.68,293.11,9.94">xanthorrhiza (cultivated) is one of three varieties of this species.</s><s coords="2,388.27,173.68,134.11,9.94;2,70.94,186.64,451.15,9.94;2,70.94,199.60,398.43,9.94">In the original application the analytical methods employed for the batch testing of these three lots from 2008 had not been described and certificates regarding the accreditation of the laboratory had been missing.</s><s coords="2,473.14,199.60,49.42,9.94;2,70.94,212.56,199.00,9.94">No data on secondary plant metabolites were provided.</s><s coords="2,274.61,212.56,247.68,9.94;2,70.94,225.52,187.99,9.94">The applicant provided information on the cultivation and the subsequent processing of the root.</s><s coords="2,262.25,225.52,260.00,9.94;2,70.94,238.51,76.51,9.94">The growing practices are usual for root vegetables grown for consumption.</s><s coords="2,151.34,238.51,370.97,9.94;2,70.94,251.47,451.55,9.94;2,70.94,264.43,360.83,9.94">The manufacturing process is standard for cut and frozen vegetables and includes selection of raw material, washing, abrasion peeling, dry cutting, steam pre-cooking in two stages, cooling, individual quick freezing, packaging, metal detection and frozen storage.</s></p><p><s coords="2,70.94,289.39,451.20,9.94;2,70.94,302.35,451.16,9.94;2,70.94,315.31,255.13,9.94">The applicant stated that arracacha is considered one of the oldest domestic plants in the Americas, and that the earliest documents concerning the arrival of Europeans on that continent contain references to its consumption by the native population.</s><s coords="2,330.91,315.31,191.61,9.94;2,70.94,328.27,451.14,9.94;2,70.94,341.23,370.59,9.94">Documents published by the <ref type="bibr" coords="2,466.54,315.31,55.98,9.94" target="#b15">FAO (1992)</ref> suggest that, although its domestication may well predate that of the potato, the fact that it can only grow under certain conditions has prevented it from spreading around the world.</s><s coords="2,446.02,341.23,76.46,9.94;2,70.94,354.19,133.43,9.94">In the regions of origin, arracacha is sold fresh.</s><s coords="2,207.29,354.19,315.03,9.94;2,70.94,367.15,309.65,9.94">The root is eaten boiled or fried in various preparations, such as salads, soups, purées, cakes, etc., in much the same way as other crops, e.g.</s><s coords="2,384.07,367.15,80.31,9.94">potato or cassava.</s><s coords="2,467.98,367.15,54.50,9.94;2,70.94,380.11,451.57,9.94;2,70.94,393.07,157.56,9.94">The product has been the subject of various studies conducted by the International Centre for Tropical Agriculture and the International Potato Centre.</s></p><p><s coords="2,70.94,418.05,451.14,9.94;2,70.94,431.01,106.70,9.94">According to the applicant, arracacha is consumed in the same way as other crops such as potato, cassava, yam or carrot.</s><s coords="2,182.19,430.90,340.35,10.05;2,70.94,443.97,74.75,9.94">The NF is intended for human consumption in dishes such as "sudados", soups and stews.</s><s coords="2,148.81,443.97,373.34,9.94;2,70.94,456.93,16.81,9.94">People of South American origin living in Spain are the primary target group of the NF.</s><s coords="2,91.22,456.93,430.89,9.94;2,70.94,469.89,345.09,9.94">Arracacha is included in the FAO Food Composition Table for use in Latin America and in the Composition Table of the most consumed foods in various Andean countries.</s><s coords="2,419.02,469.89,103.44,9.94;2,70.94,482.85,451.12,9.94;2,70.94,495.81,153.96,9.94">The applicant provided information on the estimated annual marketed volumes of arracacha and on the cultivated areas in various South American countries.</s><s coords="2,227.78,495.81,294.66,9.94;2,70.94,508.77,200.19,9.94">The main producer of arracacha is Colombia, with a production of approximately 111 000 metric tons per year.</s><s coords="2,274.73,508.77,247.57,9.94;2,70.94,521.73,23.03,9.94">Other producing countries are Venezuela, Ecuador and Peru.</s><s coords="2,97.68,521.73,424.86,9.94;2,70.94,534.69,63.30,9.94">For three locations in Ecuador, annual per capita purchases of arracacha roots (5-10 kg) have been reported.</s></p><p><s coords="2,70.94,559.65,449.64,9.94">No toxicological data and no information on the potential allergenicity of the NF have been provided.</s></p><p><s coords="2,70.94,584.53,451.52,10.05;2,70.94,597.60,451.15,9.94;2,70.94,610.56,451.37,9.94;2,70.94,623.52,451.13,9.94;2,70.94,636.48,113.88,9.94">EFSA requested the applicant to provide information on potential "other formats" of the NF intended by the applicant, compositional data on a current lot of the NF covering all analyses contained in the specifications of the NF as proposed in the original application and analysed by a certified laboratory and analytical data on the presence of secondary metabolites, in particular of coumarin and monoterpene derivatives.</s><s coords="2,189.87,636.48,332.56,9.94;2,70.94,649.44,175.95,9.94">EFSA also asked for details on the two-step steam heating process, in particular time-temperature conditions.</s><s coords="2,250.01,649.44,272.30,9.94;2,70.94,662.40,206.63,9.94">As the applicant did not respond to the request by EFSA, the Panel cannot conclude on the safety of the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BACKGROUND AS PROVIDED BY THE EUROPEAN COMMISSION</head><p><s coords="4,70.94,96.88,453.50,9.94;4,70.94,109.84,453.48,9.94;4,70.94,122.68,185.06,10.06">On 05 February 2009, the company Euroandina de Importaciones S.L (Madrid, Spain) submitted a request under Article 4 of the Novel Food Regulation (EC) N° 258/97 to place on the market 'Arracacia xanthorrhiza' as a novel food.</s></p><p><s coords="4,70.94,147.76,453.27,9.94;4,70.94,160.60,453.38,10.06;4,70.94,173.68,121.29,9.94">On 01 June 2009, the competent authorities of Spain forwarded to the Commission their initial assessment report, which came to the conclusion that 'Arracacia xanthorrhiza' meets the criteria for acceptance as a novel food.</s></p><p><s coords="4,70.94,198.64,453.07,9.94;4,70.94,211.60,29.26,9.94">On 11 August 2009, the Commission forwarded the initial assessment report to the other Member States.</s><s coords="4,102.96,211.60,317.28,9.94">Several of the Member States submitted comments or raised objections.</s></p><p><s coords="4,70.94,236.56,420.50,9.94">The concerns of a scientific nature raised by the Member States can be summarized as follows:</s></p><p><s coords="4,88.94,262.16,435.55,10.05"> The applicant did not provide detailed compositional analysis for the novel food.</s></p><p><s coords="4,106.94,275.23,417.22,9.94;4,106.94,288.19,300.40,9.94">Furthermore, the application documents do not show whether the test body holds an internationally recognised accreditation for the analysis in question.</s></p><p><s coords="4,88.94,313.76,435.31,10.05;4,106.94,326.83,40.30,9.94"> The specification should state which Arracacia species is to be used for the product in question.</s></p><p><s coords="4,88.94,352.40,435.23,10.05;4,106.94,365.47,417.43,9.94;4,106.94,378.43,100.36,9.94"> The arracacha belongs to the Apiaceae family, which is characterised by the presence of secretory ducts, found mainly in the roots, containing toxic aromatic compounds such as terpenes or coumarins.</s><s coords="4,210.06,378.43,314.49,9.94;4,106.94,391.39,350.88,9.94">As the aromatic terpenes and coumarins are easily steam-distilled, they are likely to be eliminated by traditional cooking and preparation methods.</s><s coords="4,462.64,391.39,61.39,9.94;4,106.94,404.37,417.27,9.94;4,106.94,417.33,133.21,9.94">However, the applicant has not provided evidence that his heating process effectively eliminates these potentially toxic compounds.</s><s coords="4,245.21,417.33,278.83,9.94;4,106.94,430.29,312.31,9.94">The applicant should provide analytical data relating to the terpene and coumarin compounds in the product offered to consumers.</s></p><p><s coords="4,88.94,455.86,435.43,10.05;4,106.94,468.93,380.03,9.94"> The declared vitamin A content is particularly high (1 700-1 900 mg/100g); this should be checked again and the nature of the vitamin A present in the food should be specified.</s></p><p><s coords="4,88.94,494.50,434.99,10.05;4,106.94,507.57,417.37,9.94;4,106.94,520.53,104.07,9.94"> The applicant did not present any analytical data to confirm the absence of potential antinutrients/toxicants/contaminants in Arracacia xanthorrhiza, and in related species within the family of Apiaceae.</s><s coords="4,213.89,520.53,310.22,9.94;4,106.94,533.49,417.42,9.94;4,106.94,546.45,40.04,9.94">In the initial test, AESAN had tests for plant protection agent residues and aflatoxins carried out by the Centro Nacional de Alimentacion, which it stated were negative.</s><s coords="4,149.74,546.45,186.52,9.94">No reports of these analyses are available.</s></p><p><s coords="4,88.94,572.05,435.52,10.05;4,106.94,585.12,417.59,9.94;4,106.94,598.08,55.07,9.94"> There is no reference on the potential allergenicity, though Arracacia xanthorrhiza belongs to a family (Apiaceae) which includes members with allergenic properties such as celery (Apium graveolens).</s><s coords="4,166.92,598.08,357.25,9.94;4,106.94,611.04,417.25,9.94;4,106.94,624.00,20.62,9.94">Special concern raised was cross reactivity and adverse reactions to celeriac amongst birch pollen allergic individuals possibly reacting in a similar manner to arracacha root.</s></p><p><s coords="4,88.94,649.57,435.08,10.05;4,106.94,662.64,216.28,9.94"> Recommendations should be made on shelf life and suitable storage conditions, as well as on traditional use and usual methods of preparation.</s></p><p><s coords="4,88.94,688.21,236.96,10.05"> The roots are said to keep for only a few days.</s><s coords="4,330.12,688.32,193.82,9.94;4,106.94,701.28,241.70,9.94">The applicant did not go into this specific aspect when describing the manufacturing process.</s><s coords="4,354.91,701.28,169.38,9.94;4,106.94,714.24,417.31,9.94;4,106.94,727.20,90.75,9.94">Further information, especially with regard to the timetable for harvesting the novel food and the quality assurance measures, should be requested.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TERMS OF REFERENCE AS PROVIDED BY THE EUROPEAN COMMISSION</head><p><s coords="5,70.94,96.88,453.15,9.94;5,70.94,109.72,453.52,10.06;5,70.94,122.80,199.10,9.94">In accordance with Article 29 (1) (a) of Regulation (EC) No 178/2002, the European Food Safety Authority is asked to carry out the additional assessment for 'Arracacia xanthorrhiza' as novel food in the context of Regulation (EC) N° 258/97.</s></p><p><s coords="5,70.94,147.76,452.99,9.94;5,70.94,160.72,229.83,9.94">EFSA is asked to carry out the additional assessment and to consider the elements of scientific nature in the comments raised by the other Member States.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ASSESSMENT</head><p><s coords="6,70.94,96.77,453.51,10.05;6,70.94,109.73,453.16,10.05;6,70.94,122.69,59.97,10.04">In accordance with the Recommendation 97/618/EC "Arracacia xanthorrhiza" is allocated to class 2.2, "Complex NF from non-GM source; the source of the NF has no history of food use in the Community".</s><s coords="6,134.06,122.80,390.09,9.94;6,70.94,135.76,453.47,9.94;6,70.94,148.61,356.21,10.05">The assessment of the safety of this novel food is based on data supplied in the original application, the initial assessment by the competent authority of Spain, the concerns and objections of the other Member States (MSs) and the applicant's response to MSs' comments.</s><s coords="6,429.91,148.72,94.56,9.94;6,70.94,161.68,453.56,9.94;6,70.94,174.64,125.18,9.94">The data are required to comply with the information required for novel foods of class 2.2, i.e. structured schemes I, II, III, IX, X, XI, XII and XIII.</s><s coords="6,202.72,174.64,321.42,9.94;6,70.94,187.49,453.57,10.05;6,70.94,200.56,69.97,9.94">This assessment concerns only risk that might be associated with consumption and is not an assessment of the efficacy of "Arracacia xanthorrhiza" with regard to any claimed effects.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Specification of the novel food (NF)</head><p><s coords="6,70.94,244.40,453.50,10.05;6,70.94,257.47,191.42,9.94">The NF comprises pre-cooked and quick-frozen slices, chunks and "other formats" of the roots of Arracacia xanthorrhiza (arracacha roots).</s><s coords="6,267.17,257.47,257.16,9.94;6,70.94,270.43,181.34,9.94">The final product is marketed in polyethylene/polyester packages of 250, 500, 1 000 and 2 000 g.</s></p><p><s coords="6,70.94,295.28,453.49,10.05;6,70.94,308.24,144.15,10.04">EFSA asked the applicant to provide information on potential "other formats", but the applicant did not respond to EFSA's question.</s></p><p><s coords="6,70.94,333.31,453.56,9.94">Arracacia xanthorrhiza is a perennial plant that belongs to the family of Umbelliferae (Apiaceae).</s></p><p><s coords="6,70.94,346.27,453.36,9.94;6,70.94,359.23,130.45,9.94">According to the applicant, 12 species of the genus Arracacia have been identified along the Andean Cordillera in South America.</s><s coords="6,205.00,359.23,319.38,9.94;6,70.94,372.19,41.49,9.94">The source of the NF is the root of the species Arracacia xanthorrhiza Bancroft.</s><s coords="6,116.66,372.19,127.35,9.94">Arracacia xanthorrhiza var.</s><s coords="6,248.09,372.19,276.35,9.94;6,70.94,385.15,34.77,9.94">xanthorrhiza (cultivated) is one of the three varieties of this species.</s><s coords="6,109.66,385.15,414.76,9.94;6,70.94,398.11,112.55,9.94">Based on the colour of the root flesh (white, yellow and purple), three morphotypes of the variety are differentiated.</s><s coords="6,186.37,398.00,338.06,10.05;6,70.94,411.09,289.61,9.94">In the response to the MSs' comments, the applicant specified that the novel food will be produced from Arracacia xanthorrhiza var.</s><s coords="6,369.07,411.09,155.36,9.94;6,70.94,424.05,55.88,9.94">xanthorrhiza (cultivated) yellow morphotype.</s></p><p><s coords="6,70.94,449.01,453.44,9.94;6,70.94,461.97,68.75,9.94">The applicant provided literature data on the composition of fresh yellow Arracacia xanthorrhiza roots (Table <ref type="table" coords="6,127.68,461.97,4.00,9.94" target="#tab_0">1</ref>).</s><s coords="7,70.94,76.72,453.54,9.94;7,70.94,89.68,198.33,9.94">The applicant presented compositional data on three individual lots of the NF produced in 2008 and proposed the specification shown in Table <ref type="table" coords="7,261.00,89.68,4.14,9.94" target="#tab_2">2</ref>.</s><s coords="7,70.94,449.13,453.30,9.94;7,70.94,462.09,453.04,9.94;7,70.94,475.05,63.79,9.94">In the original application, the analytical methods employed for the batch testing of these three lots from 2008 had not been described and certificates regarding the accreditation of the laboratory had been missing.</s><s coords="7,140.78,474.94,383.43,10.05;7,70.94,488.01,453.01,9.94;7,70.94,500.97,38.34,9.94">In response to the MSs' comments, the applicant provided an additional set of compositional data and two certificates of accreditation for the laboratory which performed the analysis.</s><s coords="7,113.18,500.97,411.23,9.94;7,70.94,513.93,453.52,9.94;7,70.94,526.89,453.48,9.94;7,70.94,539.85,344.99,9.94">However, the Panel notes that (i) the list of parameters was different from the set forming the basis of the specifications proposed in the original application; (ii) it remained unclear whether or not the new analyses have been performed by the same laboratory as the original data; and (iii) the descriptions of the analytical methods provided were not sufficiently detailed.</s></p><p><s coords="7,70.94,564.84,453.14,9.94;7,70.94,577.80,452.98,9.94;7,70.94,590.76,295.13,9.94">EFSA therefore asked the applicant to provide compositional data (i) on a current lot of the Novel Food, (ii) elaborated by the certified laboratory and (iii) covering all analyses contained in the specification of the NF as proposed in the original application.</s><s coords="7,371.11,590.76,153.37,9.94;7,70.94,603.61,78.00,10.04">The applicant did not respond to EFSA's question.</s></p><p><s coords="7,70.94,628.68,453.24,9.94;7,70.94,641.64,453.38,9.94;7,70.94,654.60,115.21,9.94">The MSs pointed out that the pro-vitamin A content of the product declared in the original application was particularly high (1 700-1 900 mg/100 g) and that the nature of the pro-vitamin A present in the food should be specified.</s><s coords="7,190.37,654.60,333.98,9.94;7,70.94,667.56,453.47,9.94;7,70.94,680.52,202.95,9.94">The applicant responded that an error was made regarding the vitamin A content and presented a new value of 21.92 IU/100 g (calculated from the content of beta-carotene) for the final product (only one sample tested).</s></p><p><s coords="7,70.94,705.48,453.40,9.94;7,70.94,718.44,453.49,9.94;7,70.94,731.42,59.45,9.94">EFSA asked the applicant (i) to provide data on the methodology employed, (ii) to provide new data on the pro-vitamin A content in at least three lots of the NF and (iii) to propose a range for the specification.</s><s coords="7,133.22,731.31,228.89,10.04">The applicant did not respond to EFSA's questions.</s></p><p><s coords="8,70.94,76.72,334.13,9.94">Arracacia xanthorrhiza belongs to the family Umbelliferae (Apiaceae).</s><s coords="8,410.35,76.72,114.08,9.94;8,70.94,89.68,453.51,9.94;8,70.94,102.64,177.27,9.94">Several members of this botanical family have been described to contain secondary plant metabolites, such as phthalides, coumarins, terpenoids and flavonoids.</s><s coords="8,253.85,102.64,270.63,9.94;8,70.94,115.60,453.21,9.94;8,70.94,128.56,293.44,9.94">In studies on the related species Arracacia vaginata and Arracacia nelsonii the presence of pyranocoumarins, phenylpropanoids and monoterpenoids has been reported <ref type="bibr" coords="8,110.99,128.56,117.72,9.94" target="#b11">(Calderon and Rios, 1975;</ref><ref type="bibr" coords="8,231.86,128.56,127.77,9.94" target="#b13">Delgado and Garduno, 1987)</ref>.</s><s coords="8,367.75,128.56,156.62,9.94;8,70.94,141.52,126.83,9.94">The extract of air-dried aerial parts of Arracacia tolucensis var.</s><s coords="8,201.65,141.52,310.12,9.94">multifada has also been described to contain several coumarins, e.g.</s><s coords="8,515.48,141.52,9.22,9.94;8,70.94,154.48,295.84,9.94">8methoxypsoralen and 5-methoxypsoralen <ref type="bibr" coords="8,260.80,154.48,101.23,9.94" target="#b17">(Figueroa et al., 2007)</ref>.</s><s coords="8,371.22,154.48,153.06,9.94;8,70.94,167.44,234.81,9.94">No data on the presence of these secondary metabolites in the NF have been provided.</s></p><p><s coords="8,70.94,192.40,453.31,9.94;8,70.94,205.36,250.61,9.94">EFSA asked the applicant to provide analytical data on the presence of these metabolites, in particular of coumarin and monoterpene derivatives in the NF.</s><s coords="8,327.07,205.25,197.21,10.04;8,70.94,218.32,40.32,9.94">The applicant did not respond to EFSA's question.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Effect of the production process applied to the NF</head><p><s coords="8,70.94,262.27,453.37,9.94;8,70.94,275.23,106.81,9.94">The applicant provided information on the method of both the cultivation and the subsequent processing of the root.</s><s coords="8,183.25,275.23,340.75,9.94;8,70.94,288.19,59.74,9.94">The growing practices are the usual ones for root vegetables grown for consumption.</s><s coords="8,134.27,288.19,390.15,9.94;8,70.94,301.15,83.05,9.94">The applicant described these practices and listed the pests and diseases that normally affect this species.</s><s coords="8,157.45,301.15,366.97,9.94;8,70.94,314.11,453.56,9.94;8,70.94,327.07,453.53,9.94;8,70.94,340.03,34.68,9.94">The manufacturing process is standard for cut and frozen vegetables and includes selection of raw material, washing, abrasion peeling, dry cutting, steam pre-cooking in two stages, cooling, individual quick freezing (-34 °C, 17 minutes), packaging, metal detection and frozen storage.</s></p><p><s coords="8,70.94,364.88,453.37,10.05;8,70.94,377.84,38.88,10.04">The final product is "precooked individual quick frozen arracacha in the form of flakes and/or chunks".</s></p><p><s coords="8,70.94,402.93,453.19,9.94;8,70.94,415.89,186.39,9.94">For the stability of the product, the applicant presented a study carried out for one batch of arracacha, between February 2009 and March 2010.</s><s coords="8,260.81,415.89,263.60,9.94;8,70.94,428.85,145.58,9.94">This study analysed the microbiological, physico-chemical and organoleptic characteristics.</s><s coords="8,220.49,428.85,303.79,9.94;8,70.94,441.81,284.32,9.94">The results obtained indicated that there were no variations in this period of time, and the organoleptic properties were maintained.</s></p><p><s coords="8,70.94,466.77,453.07,9.94;8,70.94,479.73,444.20,9.94">According to the applicant, the firm that carries out the production process applies a quality control programme at all stages and has a HACCP (Hazard Analysis and Critical Control Points) certificate.</s><s coords="8,517.91,479.73,6.55,9.94;8,70.94,492.69,453.38,9.94;8,70.94,505.65,453.09,9.94;8,70.94,518.61,453.19,9.94;8,70.94,531.57,453.39,9.94;8,70.94,544.53,357.65,9.94">It holds BASC certification issued by the World BASC Organization Inc. (system for the management and administration of security and control of company activities), and Health Registration (RSAV0512506) issued by the Instituto Nacional de Vigilancia de Medicamentos y Alimentos de Colombia (INVIMA, Colombian National Medicine and Food Surveillance Institute), which authorises the production and sales of pre-cooked and frozen vegetable products.</s></p><p><s coords="8,70.94,569.52,383.47,9.94">EFSA asked the applicant to provide conditions of the two-step steam heating process.</s><s coords="8,457.31,569.52,67.14,9.94;8,70.94,582.48,387.87,9.94">In addition, the applicant was asked to provide the HACCP certificate for the manufacturing process.</s><s coords="8,462.82,582.48,61.58,9.94;8,70.94,595.33,165.39,10.04">The applicant did not respond to EFSA's questions.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">History of the organism used as a source</head><p><s coords="8,70.94,639.36,453.11,9.94;8,70.94,652.32,453.07,9.94;8,70.94,665.28,255.98,9.94">The applicant stated that arracacha is considered one of the oldest domestic plants in the Americas, and that the earliest documents concerning the arrival of Europeans on that continent contain references to its consumption by the native population.</s><s coords="8,331.87,665.28,192.45,9.94;8,70.94,678.24,453.42,9.94;8,70.94,691.20,353.07,9.94">Documents published by the <ref type="bibr" coords="8,468.23,665.28,56.09,9.94" target="#b15">FAO (1992)</ref> suggest that, although its domestication may well predate that of the potato, the fact that it can grow only under certain conditions has prevented it from spreading around the world.</s></p><p><s coords="8,70.94,716.16,234.62,9.94">In the regions of origin, arracacha is sold fresh.</s><s coords="8,311.79,716.16,212.40,9.94;8,70.94,729.14,453.56,9.94">The root is eaten boiled or fried in various preparations, such as salads, soups, purées, cakes, etc., in much the same way as other crops, e.g.</s><s coords="8,70.94,742.10,78.89,9.94">potato or cassava.</s></p><p><s coords="9,70.94,76.72,453.06,9.94;9,70.94,89.68,453.49,9.94;9,70.94,102.64,172.11,9.94">The product has been the subject of various studies conducted by the International Centre for Tropical Agriculture (CIAT, Centro Internacional de Agricultura Tropical) and the International Potato Centre (CIP, Centro Internacional de la Papa).</s></p><p><s coords="9,70.94,127.60,453.20,9.94;9,70.94,140.56,425.10,9.94">The applicant claims that arracacha is included in the diets of babies and young children and convalescing patients <ref type="bibr" coords="9,168.61,140.56,83.26,9.94" target="#b18">(Pérez et al., 1999;</ref><ref type="bibr" coords="9,254.69,140.56,134.25,9.94" target="#b20">Rodríguez Borray et al., 2000;</ref><ref type="bibr" coords="9,391.75,140.56,99.54,9.94">Rodríguez et al., 2005)</ref>.</s></p><p><s coords="9,70.94,165.52,453.16,9.94;9,70.94,178.48,139.58,9.94">The applicant provided information on traditional recipes from different countries using both the fresh root and the flour made from it.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.</head><p><s coords="9,112.94,203.68,214.22,9.94;9,70.94,222.40,453.50,9.94;9,70.94,235.36,101.45,9.94">Anticipated intake/extent of the use of the NF According to the applicant, arracacha is consumed in the same way as other crops such as potato, cassava, yam or carrot.</s><s coords="9,175.22,235.25,349.23,10.05;9,70.94,248.35,46.08,9.94">The NF is intended for human consumption in dishes such as "sudados", soups and stews.</s></p><p><s coords="9,70.94,273.31,453.38,9.94;9,70.94,286.27,73.55,9.94">According to the applicant, people of South American origin living in Spain are the primary target group of the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Information from previous exposure to the NF or its source</head><p><s coords="9,70.94,330.19,310.72,9.94">Arracacha is known under several different names in South America.</s><s coords="9,70.94,381.07,453.56,9.94;9,70.94,394.03,272.38,9.94">The applicant provided information on the estimated annual marketed volumes of arracacha and on the cultivated areas in various South American countries.</s><s coords="9,348.83,394.03,175.25,9.94;9,70.94,407.01,453.37,9.94;9,70.94,419.97,377.11,9.94">The main producers of arracacha are Colombia, with a production of approximately 111 000 metric tons and a cultivation area of approximately 10 000 ha), and Brazil with 90 000 metric tonnes a year <ref type="bibr" coords="9,391.62,419.97,51.67,9.94">(CCI, 2006)</ref>.</s><s coords="9,451.29,419.97,73.31,9.94;9,70.94,432.93,193.25,9.94">Other producing countries are Venezuela, Ecuador and Peru.</s></p><p><s coords="9,70.94,457.89,453.45,9.94;9,70.94,470.85,59.76,9.94">The applicant indicated that current production is intended almost exclusively for human consumption.</s><s coords="9,137.06,470.85,337.08,9.94">However, no actual data on human consumption have been provided.</s><s coords="9,480.70,470.85,43.72,9.94;9,70.94,483.81,453.49,9.94;9,70.94,496.77,39.68,9.94">For three locations in Ecuador, annual per capita purchases of arracacha roots and tubers (5-10 kg) have been reported.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Nutritional information on the NF</head><p><s coords="9,70.94,540.69,453.10,9.94;9,70.94,553.65,197.79,9.94">The applicant presented nutritional composition tables taken from the literature and the analysis values of three batches produced (section 1).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Microbiological information on the NF</head><p><s coords="9,70.94,597.60,453.39,9.94;9,70.94,610.56,49.91,9.94">The applicant provided results of microbiological testing at various stages of the production process (section 1).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.">Toxicological information on the NF</head><p><s coords="9,70.94,654.48,218.28,9.94">No toxicological information has been provided.</s><s coords="9,292.72,654.48,231.74,9.94;9,70.94,667.44,431.08,9.94">The applicant emphasised that arracacha has a long history of use and consumption in Latin America and that no negative effects have been reported.</s><s coords="9,70.94,692.40,453.21,9.94;9,70.94,705.36,453.43,9.94;9,70.94,718.32,268.85,9.94">Some MSs pointed out in their comments that there is no reference on the potential allergenicity, although Arracacia xanthorrhiza belongs to a family (Apiaceae) which includes members with allergenic properties, such as celery (Apium graveolens).</s><s coords="9,345.31,718.32,179.01,9.94;9,70.94,731.30,103.11,9.94">No information has been provided on allergenicity of the NF.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="6,70.94,499.17,344.40,9.94"><head>Table 1 :</head><label>1</label><figDesc><div><p><s coords="6,124.94,499.17,290.41,9.94">Compositional data on fresh yellow Arracacia xanthorrhiza roots</s></p></div></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="6,70.94,525.59,436.65,199.47"><head>Colombian Family Welfare Institute (1992) Peruvian Network of Nourishment and Nutrition (1993)</head><label></label><figDesc></figDesc><table coords="6,70.94,562.07,387.08,144.83"><row><cell>Water (%)</cell><cell>72.8</cell><cell>75.1</cell></row><row><cell>Carbohydrates (%)</cell><cell>24.0</cell><cell>22.9</cell></row><row><cell>Protein (%)</cell><cell>0.9</cell><cell>0.7</cell></row><row><cell>Fat (%)</cell><cell>0.1</cell><cell>0.3</cell></row><row><cell>Fibre (%)</cell><cell>1.0</cell><cell>1.1</cell></row><row><cell>Ash (%)</cell><cell>1.2</cell><cell>1.0</cell></row><row><cell>Vitamin A (i.u.) (a)</cell><cell>190</cell><cell>-</cell></row><row><cell>Thiamine (mg/100 g)</cell><cell>0.06</cell><cell>0.09</cell></row><row><cell>Riboflavin (mg/100 g)</cell><cell>0.04</cell><cell>0.08</cell></row><row><cell>Niacin (mg/100 g)</cell><cell>2.8</cell><cell>2.8</cell></row><row><cell>Ascorbic acid (mg/100 g)</cell><cell>20</cell><cell>27.1</cell></row><row><cell>Energy (kcal/100 g)</cell><cell>100</cell><cell>97</cell></row></table><note coords="6,70.94,716.95,171.23,8.10"><p><s coords="6,70.94,716.95,171.23,8.10">(a): Calculated from the beta-carotene content.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="7,70.94,126.88,453.36,292.71"><head>Table 2 :</head><label>2</label><figDesc><div><p><s coords="7,124.94,126.88,399.36,9.94;7,70.94,139.84,40.59,9.94">Compositional data on individual lots of the NF and specification as proposed by the applicant</s></p></div></figDesc><table coords="7,70.94,170.82,436.60,248.77"><row><cell></cell><cell>Lot 1</cell><cell>Lot 2</cell><cell>Lot 3</cell><cell>Specification</cell></row><row><cell>Water (%)</cell><cell>73</cell><cell>75</cell><cell>74</cell><cell>64-82</cell></row><row><cell>Carbohydrates (%)</cell><cell>28.7</cell><cell>25.4</cell><cell>24.7</cell><cell>19-30</cell></row><row><cell>Starch (%)</cell><cell>21.0</cell><cell>24.5</cell><cell>22.5</cell><cell>16-22</cell></row><row><cell>Fibre (%)</cell><cell>0.75</cell><cell>0.95</cell><cell>0.75</cell><cell>0.6-1.25</cell></row><row><cell>Protein (%)</cell><cell>0.9</cell><cell>0.11</cell><cell>0.9</cell><cell>0.-1.85</cell></row><row><cell>Lipids (%)</cell><cell>0.20</cell><cell>0.36</cell><cell>0.26</cell><cell>0.2-0.35</cell></row><row><cell>Ash (%)</cell><cell>1.2</cell><cell>1.4</cell><cell>1.3</cell><cell>1.05-1.40</cell></row><row><cell>Ascorbic acid (mg/100 g)</cell><cell>22</cell><cell>24</cell><cell>23</cell><cell>20-27</cell></row><row><cell>Thiamine (mg/100 g)</cell><cell>0.07</cell><cell>0.09</cell><cell>0.08</cell><cell>0.06-0.10</cell></row><row><cell>Niacin (mg/100 g)</cell><cell>4.4</cell><cell>4.5</cell><cell>4.2</cell><cell>2.8-4.5</cell></row><row><cell>Calcium (mg/100 g)</cell><cell>34.3</cell><cell>29.2</cell><cell>32.1</cell><cell>26-35</cell></row><row><cell>Phosphorus (mg/100 g)</cell><cell>45</cell><cell>55</cell><cell>52</cell><cell>45-60</cell></row><row><cell>Potassium (mg/100 g)</cell><cell>2.3</cell><cell>2.4</cell><cell>2.1</cell><cell>2.0-2.5</cell></row><row><cell>Magnesium (mg/100 g)</cell><cell>64.0</cell><cell>64.1</cell><cell>62.1</cell><cell>60-65</cell></row><row><cell>Iron (mg/100 g)</cell><cell>8.4</cell><cell>9.5</cell><cell>9.0</cell><cell>9-10</cell></row><row><cell>Total coliforms (per g)</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>&lt; 3</cell></row><row><cell>Faecal coliforms (per g)</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>&lt; 3</cell></row><row><cell>E. coli (per g)</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>&lt; 3</cell></row><row><cell>Energy (kcal/100 g)</cell><cell>103</cell><cell>105</cell><cell>104</cell><cell>96-126</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3" coords="9,70.94,330.19,453.04,35.86"><head></head><label></label><figDesc><div><p><s coords="9,385.01,330.19,138.97,9.94;9,70.94,343.15,453.04,9.94;9,70.94,356.11,154.50,9.94">It is included in the FAO Food Composition Table for use in Latin America and in the Composition Table of the most consumed foods in various Andean countries.</s></p></div></figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0" coords="9,70.94,791.68,126.30,8.96"><p><s coords="9,70.94,791.68,126.30,8.96">EFSAJournal 2015;13(1):3954</s></p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>, for the preparatory work on this scientific opinion, and <rs type="funder">EFSA</rs> staff <rs type="person">Wolfgang Gelbmann</rs> for the support provided to this scientific opinion.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p><s coords="10,70.94,96.77,453.53,10.05;10,70.94,109.84,453.41,9.94;10,70.94,122.80,453.55,9.94;10,70.94,135.76,453.06,9.94;10,70.94,148.72,114.12,9.94">EFSA requested the applicant to provide information on potential "other formats" of the NF intended by the applicant, compositional data on a current lot of the NF covering all analyses contained in the specifications of the NF as proposed in the original application and analysed by a certified laboratory and analytical data on the presence of secondary metabolites, in particular of coumarin and monoterpene derivatives.</s><s coords="10,190.37,148.72,333.94,9.94;10,70.94,161.68,175.47,9.94">EFSA also asked for details on the two-step steam heating process, in particular time-temperature conditions.</s><s coords="10,249.41,161.68,275.06,9.94;10,70.94,174.64,206.79,9.94">As the applicant did not respond to the requests by EFSA, the Panel cannot conclude on the safety of the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p><s coords="10,70.94,219.76,453.24,9.94;10,70.94,232.60,185.06,10.06">The Panel concludes that the data provided by the applicant are not sufficient to establish the safety of 'Arracacia xanthorrhiza' as a novel food.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DOCUMENTATION PROVIDED TO EFSA</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="3,70.94,96.88,448.04,9.94" xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,70.94,96.88,445.28,9.94">Abstract ...................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,70.94,109.84,448.04,9.94;3,70.94,122.80,448.05,9.94;3,70.94,135.76,448.04,9.94;3,70.94,148.72,448.00,9.94" xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,70.94,109.84,448.04,9.94;3,70.94,122.80,448.05,9.94;3,70.94,135.76,448.04,9.94;3,70.94,148.72,445.24,9.94">Summary .................................................................................................................................................. Table of contents ...................................................................................................................................... Background as provided by the European Commission .......................................................................... Terms of reference as provided by the European Commission ..............................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,70.94,161.68,448.05,9.94" xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,70.94,161.68,445.29,9.94">Assessment ..............................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,174.64,4.14,9.94;3,94.94,174.64,424.01,9.94" xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,94.94,174.64,421.25,9.94">Specification of the novel food (NF) ..............................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,187.60,4.14,9.94;3,94.94,187.60,424.05,9.94" xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,302.86,187.60,213.37,9.94">NF ........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,200.56,4.14,9.94;3,94.94,200.56,424.04,9.94" xml:id="b5">
+	<monogr>
+		<title level="m" type="main" coord="3,94.94,200.56,179.37,9.94">History of the organism used as a source</title>
+		<author>
+			<orgName type="collaboration" coords="3,276.04,200.56,240.17,9.94">.......................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,213.52,4.14,9.94;3,94.94,213.52,424.03,9.94" xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,283.42,213.52,232.80,9.94">NF ...............................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Anticipated intake/extent of the use of the</note>
+</biblStruct>
+
+<biblStruct coords="3,75.08,226.48,4.14,9.94;3,94.94,226.48,424.04,9.94" xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,285.58,226.48,230.64,9.94">NF or its source .........................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Information from previous exposure to the</note>
+</biblStruct>
+
+<biblStruct coords="3,75.08,239.47,4.14,9.94;3,94.94,239.47,424.05,9.94" xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,94.94,239.47,421.29,9.94">Nutritional information on the NF ..................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,252.43,4.14,9.94;3,94.94,252.43,424.05,9.94" xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,94.94,252.43,421.29,9.94">Microbiological information on the NF .........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,75.08,265.39,4.14,9.94;3,94.94,265.39,424.01,9.94;3,70.94,278.35,442.53,9.94;3,70.94,291.31,442.53,9.94;3,70.94,304.27,442.52,9.94;3,70.94,317.23,442.53,9.94;3,70.94,330.19,442.52,9.94" xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,94.94,265.39,424.01,9.94;3,70.94,278.35,442.53,9.94;3,70.94,291.31,442.53,9.94;3,70.94,304.27,442.52,9.94;3,70.94,317.23,442.53,9.94;3,70.94,330.19,260.31,9.94">Toxicological information on the NF .............................................................................................. Discussion .............................................................................................................................................. Conclusions ............................................................................................................................................ Documentation provided to EFSA ......................................................................................................... References .............................................................................................................................................. Abbreviation .........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>.................................................................</note>
+</biblStruct>
+
+<biblStruct coords="10,70.94,489.15,65.58,10.80;10,70.94,508.77,453.56,9.94;10,85.10,521.73,185.78,9.94" xml:id="b11">
+	<analytic>
+		<title level="a" type="main" coord="10,205.31,508.77,314.57,9.94">Isolation and identification of some constituents of Arracacia vaginata</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>References Calderon</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Rios</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="10,85.10,521.73,120.39,9.94">Journal of Natural Products</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="174" to="175" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,70.94,540.69,453.15,9.94;10,85.10,553.54,439.21,10.05;10,85.10,566.53,54.90,10.04;10,70.94,585.49,453.32,10.05;10,85.10,598.56,404.92,9.94" xml:id="b12">
+	<analytic>
+		<title level="a" type="main" coord="10,274.67,540.69,249.43,9.94;10,85.10,553.54,439.21,10.05;10,85.10,566.53,45.75,10.04;10,318.04,585.49,206.22,10.04;10,85.10,598.56,64.63,9.94">Composition Tables of Colombia, Bogotá. Colombian Corporation for Agricultural Research-CORPOICA: &quot;Arracacha&apos;s flour-Technical manual for its processing</title>
+	</analytic>
+	<monogr>
+		<title level="m" coord="10,217.61,598.56,267.86,9.94">Estadísticas del Ministerio de Agricultura y Desarrollo Rural</title>
+		<imprint>
+			<publisher>Colombian Family Welfare Institute</publisher>
+			<date type="published" when="1987">1992. 2006. 1987-2006</date>
+		</imprint>
+	</monogr>
+	<note>Producción de Arracacha en Colombia por Departementos</note>
+</biblStruct>
+
+<biblStruct coords="10,70.94,617.52,453.56,9.94;10,85.10,630.48,52.44,9.94" xml:id="b13">
+	<analytic>
+		<title level="a" type="main" coord="10,232.79,617.52,191.94,9.94">Pyranocoumarins from Arracacia nelsonii</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Delgado</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Garduno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="10,433.86,617.52,67.12,9.94">Phytochemistry</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1139" to="1141" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,70.94,649.44,453.11,9.94;10,85.10,662.40,438.87,9.94;10,85.10,675.36,439.21,9.94;10,85.10,688.32,439.26,9.94;10,85.10,701.28,438.92,9.94;10,85.10,714.24,95.87,9.94" xml:id="b14">
+	<analytic>
+		<title level="a" type="main" coord="10,159.01,649.44,365.05,9.94;10,85.10,662.40,58.95,9.94">Algunos aspectos de la producción, consumo y mercado de la arracacha en el Ecuador (23)</title>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Espinosa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="10,170.75,662.40,353.22,9.94;10,85.10,675.36,439.21,9.94;10,85.10,688.32,144.34,9.94">Raíces Andinas: Contribuciones al conocimiento y a la capacitación. Serie: Concervación y uso de la biodiversidad de raíces y tubérculos andinos: Una década de investigación para el desarrollo</title>
+		<meeting><address><addrLine>Lima, Peru</addrLine></address></meeting>
+		<imprint>
+			<publisher>Agencia Suiza para el Desarrollo y la Cooperación</publisher>
+			<date type="published" when="1993">2004. 1993-2003</date>
+			<biblScope unit="page" from="303" to="321" />
+		</imprint>
+		<respStmt>
+			<orgName>Seminario J. Universidad Nacional de Cajamarca, Centro Internacional de la Papa</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="10,70.94,733.22,453.41,9.94;10,85.10,746.18,308.59,9.94" xml:id="b15">
+	<analytic>
+		<title level="a" type="main" coord="10,103.82,733.22,274.02,9.94">Food and Agriculture Organisation of the United Nations)</title>
+		<author>
+			<persName coords=""><surname>Fao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="10,418.26,733.22,106.09,9.94;10,85.10,746.18,176.20,9.94">La Agricultura Andina [Andean Agriculture] Raíces Andinas</title>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>Andean Root Vegetables</note>
+</biblStruct>
+
+<biblStruct coords="10,399.45,746.18,124.72,9.94;11,85.10,76.72,439.34,9.94;11,85.10,89.68,361.96,9.94" xml:id="b16">
+	<monogr>
+		<author>
+			<persName coords=""><surname>Rome</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Italy</surname></persName>
+		</author>
+		<ptr target="http://www.rlc.fao.org/es/agricultura/produ/cdrom/contenido/libro09/Cap3_4.htm" />
+		<title level="m" coord="10,462.64,746.18,61.53,9.94;11,85.10,76.72,91.54,9.94">Producción y protección vegetal</title>
+		<imprint/>
+	</monogr>
+	<note>Plant production and protection</note>
+</biblStruct>
+
+<biblStruct coords="11,70.94,108.64,453.42,9.94;11,85.10,121.60,439.13,9.94;11,85.10,134.56,365.48,9.94" xml:id="b17">
+	<analytic>
+		<title level="a" type="main" coord="11,466.23,108.64,58.14,9.94;11,85.10,121.60,439.13,9.94;11,85.10,134.56,155.10,9.94">Constituents, biological activities and quality control parameters of the crude extract and essential oil of Arracacia tolucensis var. multifada</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Figueroa</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Rivero-Cruz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Rivero-Cruz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Bye</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Navarette</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Mata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,247.49,134.56,136.94,9.94">Journal of Ethnopharmacology</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="125" to="137" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.94,153.52,453.47,9.94;11,85.10,166.48,426.56,9.94" xml:id="b18">
+	<monogr>
+		<title level="m" type="main" coord="11,307.49,153.52,216.92,9.94;11,85.10,166.48,362.69,9.94">Chemical, physical and morphometric properties of Peruvian carrot (Arracacia xanthorrhiza B.) starch. Acta Científica Venezolana</title>
+		<author>
+			<persName coords=""><forename type="first">E</forename><forename type="middle">E</forename><surname>Pérez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Borneo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Melito</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Tovar</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="240" to="244" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.94,185.44,453.11,9.94;11,85.10,198.40,414.81,9.94" xml:id="b19">
+	<monogr>
+		<title level="m" type="main" coord="11,322.99,185.44,201.07,9.94;11,85.10,198.40,331.08,9.94">Composition Table for the most consumed Peruvian foods. MINSA, 1993. Red Peruana de Aleimentación y Nutrición</title>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Peruvian Network for Food and Nourishment</publisher>
+		</imprint>
+	</monogr>
+	<note>Monograph 002</note>
+</biblStruct>
+
+<biblStruct coords="11,70.94,217.36,452.98,9.94;11,85.10,230.32,439.30,9.94;11,85.10,243.31,439.39,9.94;11,85.10,256.27,76.50,9.94;11,85.10,269.23,409.51,9.94" xml:id="b20">
+	<analytic>
+		<title level="a" type="main" coord="11,231.98,230.32,292.42,9.94;11,85.10,243.31,94.15,9.94">La harina de arracacha (Arracacia xanthorrhiza). Manual técnico para su elaboración</title>
+		<author>
+			<persName coords=""><forename type="first">Rodríguez</forename><surname>Borray</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">García</forename><surname>Bernal</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">R</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Camacho</forename><surname>Tamayo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Arias</forename><surname>Guerrero</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><forename type="middle">L</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Rivera</forename><surname>Varón</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">De</forename><surname>La</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Torre</forename><surname>Duque</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename></persName>
+		</author>
+		<ptr target="http://201.234.78.28:8080/jspui/bitstream/123456789/826/1/Harina%20de%20arracacha.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="11,191.46,243.31,327.40,9.94">Corporación Colombiana de Investigación Agropecuaria-CORPOICA</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="11,70.94,288.19,453.43,9.94;11,85.10,301.15,439.37,9.94;11,85.10,314.11,439.29,9.94;11,85.10,327.07,372.56,9.94" xml:id="b21">
+	<analytic>
+		<title level="a" type="main" coord="11,441.42,288.19,82.95,9.94;11,85.10,301.15,439.37,9.94;11,85.10,314.11,439.29,9.94;11,85.10,327.07,44.46,9.94">Caracterización de algunas propiedades fisicoquímicas y farmacotécnicas del almidón de arracacha (Arracacia xanthorrhiza) [Characterisation of some physio-chemical and pharmaco-technical properties of arracacha]</title>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Espitia</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">E</forename><surname>Caicedo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><forename type="middle">E</forename><surname>Córdoba</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Baena</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><forename type="middle">E</forename><surname>Mora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="11,136.77,327.07,255.38,9.94">Revista Colombiana de Ciencias Químico-Farmacéuticas</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="140" to="146" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

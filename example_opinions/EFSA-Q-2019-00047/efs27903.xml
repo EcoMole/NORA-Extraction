@@ -1,0 +1,2945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN" "JATS-archive-oasis-article1-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" id="efs27903" dtd-version="1.1" xml:lang="en" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="doi">10.1002/(ISSN)1831-4732</journal-id>
+<journal-id journal-id-type="publisher-id">EFS2</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">EFSA Journal</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="en">EFSA Journal</abbrev-journal-title>
+</journal-title-group>
+<issn publication-format="ppub">1831-4732</issn>
+<issn publication-format="epub">1831-4732</issn>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.2903/j.efsa.2023.7903</article-id>
+<article-id pub-id-type="publisher-id">EFS27903</article-id>
+<article-categories>
+<subj-group subj-group-type="overline" xml:lang="en"><subject>Scientific Opinion</subject></subj-group>
+<subj-group subj-group-type="heading" xml:lang="en"><subject>Scientific Opinion</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="en">Safety of water lentil protein concentrate from a mixture of <italic toggle="no">Lemna gibba</italic> and <italic toggle="no">Lemna minor</italic> as a novel food pursuant to Regulation (<styled-content style="fixed-case" toggle="no">EU</styled-content>) 2015/2283</article-title>
+<alt-title alt-title-type="right-running-head">Safety of water lentil protein concentrate from <italic>Lemna gibba</italic> and <italic>Lemna minor</italic></alt-title>
+</title-group>
+<contrib-group>
+<contrib id="efs27903-cr-0001" contrib-type="author" corresp="yes"><collab collab-type="authors">EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA)</collab>
+<address><email>nif@efsa.europa.eu</email></address><xref ref-type="correspondence-address" rid="correspondenceTo">*</xref>
+</contrib>
+<contrib id="efs27903-cr-0002" contrib-type="author"><name>
+<surname>Turck</surname>
+<given-names>Dominique</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0003" contrib-type="author"><name>
+<surname>Bohn</surname>
+<given-names>Torsten</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0004" contrib-type="author"><name>
+<surname>Castenmiller</surname>
+<given-names>Jacqueline</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0005" contrib-type="author"><name>
+<surname>De Henauw</surname>
+<given-names>Stefaan</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0006" contrib-type="author"><name>
+<surname>Hirsch‐Ernst</surname>
+<given-names>Karen Ildico</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0007" contrib-type="author"><name>
+<surname>Maciuk</surname>
+<given-names>Alexandre</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0008" contrib-type="author"><name>
+<surname>Mangelsdorf</surname>
+<given-names>Inge</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0009" contrib-type="author"><name>
+<surname>McArdle</surname>
+<given-names>Harry J</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0010" contrib-type="author"><name>
+<surname>Naska</surname>
+<given-names>Androniki</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0011" contrib-type="author"><name>
+<surname>Pelaez</surname>
+<given-names>Carmen</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0012" contrib-type="author"><name>
+<surname>Pentieva</surname>
+<given-names>Kristina</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0013" contrib-type="author"><name>
+<surname>Siani</surname>
+<given-names>Alfonso</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0014" contrib-type="author"><name>
+<surname>Thies</surname>
+<given-names>Frank</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0015" contrib-type="author"><name>
+<surname>Tsabouri</surname>
+<given-names>Sophia</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0016" contrib-type="author"><name>
+<surname>Vinceti</surname>
+<given-names>Marco</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0017" contrib-type="author"><name>
+<surname>Aguilera‐Gómez</surname>
+<given-names>Margarita</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0018" contrib-type="author"><name>
+<surname>Cubadda</surname>
+<given-names>Francesco</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0019" contrib-type="author"><name>
+<surname>Frenzel</surname>
+<given-names>Thomas</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0020" contrib-type="author"><name>
+<surname>Heinonen</surname>
+<given-names>Marina</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0021" contrib-type="author"><name>
+<surname>Prieto Maradona</surname>
+<given-names>Miguel</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0022" contrib-type="author"><name>
+<surname>Marchelli</surname>
+<given-names>Rosangela</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0023" contrib-type="author"><name>
+<surname>Neuhäuser‐Berthold</surname>
+<given-names>Monika</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0024" contrib-type="author"><name>
+<surname>Poulsen</surname>
+<given-names>Morten</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0025" contrib-type="author"><name>
+<surname>Schlatter</surname>
+<given-names>Josef Rudolf</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0026" contrib-type="author"><name>
+<surname>van Loveren</surname>
+<given-names>Henk</given-names>
+
+</name>
+</contrib>
+<contrib id="efs27903-cr-0027" contrib-type="author"><name>
+<surname>Kouloura</surname>
+<given-names>Eirini</given-names>
+</name>
+</contrib>
+<contrib id="efs27903-cr-0028" contrib-type="author"><name>
+<surname>Knutsen</surname>
+<given-names>Helle Katrine</given-names>
+</name>
+</contrib>
+</contrib-group>
+<author-notes>
+<corresp id="correspondenceTo"><label>*</label><bold>Correspondence:</bold> <email>nif@efsa.europa.eu</email></corresp></author-notes>
+<pub-date pub-type="epub">
+<day>17</day>
+<month>04</month>
+<year>2023</year>
+</pub-date>
+<pub-date pub-type="ppub">
+<day>17</day>
+<month>04</month>
+<year>2023</year>
+</pub-date>
+<volume>21</volume>
+<issue seq="170">4</issue>
+<issue-id pub-id-type="doi">10.1002/efs2.v21.4</issue-id>
+<elocation-id>e07903</elocation-id>
+<supplementary-material xml:lang="en" id="efs27903-sup-0001" xlink:href="supinfo/efs27903-sup-0001-Annex-A.xlsx" mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"><caption xml:lang="en"><p>Dietary exposure estimates to the Novel Food for each population group from each EU dietary survey</p></caption></supplementary-material>
+<permissions>
+<copyright-statement content-type="issue-copyright">© European Food Safety Authority</copyright-statement>
+<copyright-statement content-type="article-copyright">© 2023 European Food Safety Authority. <italic>EFSA Journal</italic> published by Wiley‐VCH GmbH on behalf of European Food Safety Authority.</copyright-statement>
+<license license-type="creativeCommonsBy-nd">
+<license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution‐NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited and no modifications or adaptations are made.</license-p>
+</license><license license-type="open-access"><license-p/></license></permissions>
+<self-uri xlink:href="file:efs27903.pdf" content-type="pdf"/><abstract xml:lang="en" abstract-type="main">
+<title>Abstract</title>
+<p xml:lang="en">Following a request from the European Commission, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver an opinion on water lentil protein concentrate from a mixture of <italic toggle="no">Lemna gibba</italic> and <italic toggle="no">Lemna minor</italic> as a novel food (NF) pursuant to Regulation (EU) 2015/2283. Water lentil protein concentrate is produced from two water lentil species (<italic toggle="no">L. gibba</italic> and <italic toggle="no">L. minor</italic>) by separation of the protein fraction of the plant material from fibres, followed by pasteurisation and spray drying. The NF consists mainly of protein, fibre, fat and ash. The applicant proposed to use the NF as a food ingredient in a variety of food categories and as a food supplement. The target population is the general population when used as a food ingredient and exclusively adults when used as a food supplement. The Panel considers that taking into account the composition of the NF and the proposed conditions of use, the consumption of the NF is not nutritionally disadvantageous. There are no concerns regarding genotoxicity of the NF. The Panel considers that the risk of the NF triggering allergic reactions is low. The Panel concludes that the NF, water lentil protein concentrate from a mixture of <italic toggle="no">L. gibba</italic> and <italic toggle="no">L. minor</italic>, is safe under the proposed conditions of use.</p>
+</abstract>
+<kwd-group kwd-group-type="author-generated" xml:lang="en">
+<kwd id="efs27903-kwd-0001">novel foods</kwd>
+<kwd id="efs27903-kwd-0002">food supplement</kwd>
+<kwd id="efs27903-kwd-0003">plant</kwd>
+<kwd id="efs27903-kwd-0004">water lentil</kwd>
+<kwd id="efs27903-kwd-0005">protein concentrate</kwd>
+<kwd id="efs27903-kwd-0006">
+<italic toggle="no">Lemna</italic>
+</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="14"/>
+<page-count count="24"/>
+<word-count count="13675"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>source-schema-version-number</meta-name>
+<meta-value>2.0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>cover-date</meta-name>
+<meta-value>April 2023</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>details-of-publishers-convertor</meta-name>
+<meta-value>Converter:WILEY_ML3GV2_TO_JATS version:6.3.6 mode:remove_FC converted:25.01.2024</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+<notes>
+<p content-type="self-citation"><mixed-citation publication-type="self-citation" id="efs27931-cit-1001"><bold>Suggested citation:</bold> <collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Nutrition, Novel Foods and Food Allergens)</collab>
+, <string-name><surname>Turck</surname> <given-names>D</given-names></string-name>, <string-name><surname>Bohn</surname> <given-names>T</given-names></string-name>, <string-name><surname>Castenmiller</surname> <given-names>J</given-names></string-name>, <string-name><surname>De Henauw</surname> <given-names>S</given-names></string-name>, <string-name><surname>Hirsch‐Ernst</surname> <given-names>KI</given-names></string-name>, <string-name><surname>Maciuk</surname> <given-names>A</given-names></string-name>, <string-name><surname>Mangelsdorf</surname> <given-names>I</given-names></string-name>, <string-name><surname>McArdle</surname> <given-names>HJ</given-names></string-name>, <string-name><surname>Naska</surname> <given-names>A</given-names></string-name>, <string-name><surname>Pelaez</surname> <given-names>C</given-names></string-name>, <string-name><surname>Pentieva</surname> <given-names>K</given-names></string-name>, <string-name><surname>Siani</surname> <given-names>A</given-names></string-name>, <string-name><surname>Thies</surname> <given-names>F</given-names></string-name>, <string-name><surname>Tsabouri</surname> <given-names>S</given-names></string-name>, <string-name><surname>Vinceti</surname> <given-names>M</given-names></string-name>, <string-name><surname>Aguilera‐Gómez</surname> <given-names>M</given-names></string-name>, <string-name><surname>Cubadda</surname> <given-names>F</given-names></string-name>, <string-name><surname>Frenzel</surname> <given-names>T</given-names></string-name>, <string-name><surname>Heinonen</surname> <given-names>M</given-names></string-name>, <string-name><surname>Prieto Maradona</surname> <given-names>M</given-names></string-name>, <string-name><surname>Marchelli</surname> <given-names>R</given-names></string-name>, <string-name><surname>Neuhäuser‐Berthold</surname> <given-names>M</given-names></string-name>, <string-name><surname>Poulsen</surname> <given-names>M</given-names></string-name>, <string-name><surname>Schlatter</surname> <given-names>JR</given-names></string-name>, <string-name><surname>van Loveren</surname> <given-names>H</given-names></string-name>, <string-name><surname>Kouloura</surname> <given-names>E</given-names></string-name> and <string-name><surname>Knutsen</surname> <given-names>HK</given-names></string-name>, 2023. <article-title xml:lang="en">Scientific Opinion on the safety of water lentil protein concentrate from a mixture of <italic>Lemna gibba</italic> and <italic>Lemna minor</italic> as a novel food pursuant to Regulation (<styled-content style="fixed-case" toggle="no">EU</styled-content>) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2023;<volume>21</volume>(<issue>4</issue>):7903, 24 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2023.7903">https://doi.org/10.2903/j.efsa.2023.7903</ext-link></mixed-citation></p>
+<fn-group id="efs27903-ntgp-0001">
+<fn id="efs27903-note-0001" xml:lang="en">
+<p xml:lang="en"><bold>Requestor:</bold> European Commission</p>
+</fn>
+<fn id="efs27903-note-0002" xml:lang="en">
+<p xml:lang="en"><bold>Question number:</bold> EFSA‐Q‐2019‐00047</p>
+</fn>
+<fn id="efs27903-note-0004" xml:lang="en">
+<p xml:lang="en"><bold>Panel members:</bold> Dominique Turck, Torsten Bohn, Jacqueline Castenmiller, Stefaan De Henauw, Karen Ildico Hirsch‐Ernst, Alexandre Maciuk, Inge Mangelsdorf, Harry J McArdle, Androniki Naska, Carmen Pelaez, Kristina Pentieva, Alfonso Siani, Frank Thies, Sophia Tsabouri and Marco Vinceti.</p>
+</fn>
+<fn id="efs27903-note-0005" xml:lang="en">
+<p xml:lang="en"><bold>Declarations of interest:</bold> If you wish to access the declaration of interests of any expert contributing to an EFSA scientific assessment, please contact <email>interestmanagement@efsa.europa.eu</email>.</p>
+</fn>
+<fn id="efs27903-note-1508" xml:lang="en">
+<p xml:lang="en">EFSA may include images or other content for which it does not hold copyright. In such cases, EFSA indicates the copyright holder and users should seek permission to reproduce the content from the original source.</p>
+</fn>
+<fn id="efs27903-note-0006" xml:lang="en"><p>Adopted: 28 February 2023</p></fn>
+<fn id="efs27903-note-7107" xml:lang="en"><p><bold>Annex A is available under the</bold> <ext-link ext-link-type="uri" xlink:href="https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2023.7903#support-information-section">Supporting Information section</ext-link><bold>.</bold></p></fn>
+</fn-group>
+</notes>
+</front>
+<body id="efs27903-body-0001">
+
+<sec id="efs27903-sec-0001" xml:lang="en">
+<label>1</label>
+<title>Introduction</title>
+<sec id="efs27903-sec-0002" xml:lang="en">
+<label>1.1</label>
+<title>Background and Terms of Reference as provided by the requestor</title>
+<p xml:lang="en">On 28 December 2018, the company ABC Kroos BV submitted a request to the European Commission in accordance with Article 10 of Regulation (EU) No 2015/2283<xref rid="efs27903-note-0007" ref-type="fn">1</xref> to place water lentil protein concentrate from a mixture of <italic>Lemna gibba</italic> and <italic>Lemna minor</italic> on the Union market as a novel food (NF).</p>
+<p xml:lang="en">The novel food is proposed for use in a number of food categories and is intended for the general population.</p>
+<p xml:lang="en">In accordance with Article 10(3) of Regulation (EU) 2015/2283, the European Commission asks the European Food Safety Authority to provide a scientific opinion on water lentil protein concentrate from a mixture of <italic>L. gibba</italic> and <italic>L. minor</italic>.</p>
+</sec>
+<sec id="efs27903-sec-0003" xml:lang="en">
+<label>1.2</label>
+<title>Additional information</title>
+<p xml:lang="en">The NDA Panel assessed previously the safety of two water lentil powders as NFs produced from different water lentil species. In particular, the Panel assessed the safety of the water lentil powder from Lemnaceae intended for consumption as food ingredient and food supplement (EFSA NDA Panel, <xref rid="efs27903-bib-0017" ref-type="ref">2021a</xref>). The NF is produced from species of the <italic>Lemna</italic> genus (70–100%) and the <italic>Wolffia</italic> genus (0–30%). In addition, the Panel assessed the safety of the <italic>Wolffia globosa</italic> powder intended for consumption as food ingredient and food supplement (EFSA NDA Panel, <xref rid="efs27903-bib-0018" ref-type="ref">2021b</xref>), which consists exclusively of <italic>W. globosa</italic> species. In the above‐mentioned scientific opinions, the Panel concluded that the increase in manganese intake from the NF was substantial as compared to the background manganese dietary intake, and consequently, the safety of water lentil powder from Lemnaceae and <italic>W. globosa</italic> powder could not be established.</p>
+<p xml:lang="en">Moreover, the NDA Panel has assessed the safety of the heat‐treated <italic>L. minor</italic> and <italic>L. gibba</italic> whole plant material as NF (EFSA NDA Panel, <xref rid="efs27903-bib-0019" ref-type="ref">2022</xref>). In its scientific opinion, the Panel concluded that the heat‐treated <italic>L. minor</italic> and <italic>L. gibba</italic> whole plant material, in consideration of its proposed uses and the concentration of manganese as compared to the normally present concentration of manganese in other leafy vegetables, may be of safety concern, and that therefore, the safety of the heat‐treated <italic>L. minor</italic> and <italic>L. gibba</italic> whole plant material could not be established.</p>
+<p xml:lang="en">Furthermore, EFSA assessed previously the safety of <italic>Wolffia arrhiza</italic> and <italic>W. globosa</italic> as a traditional food (TF) from a third country (EFSA, <xref rid="efs27903-bib-0012" ref-type="ref">2021</xref>). The TF consists of fresh plants belonging to the species <italic>W. arrhiza</italic> and <italic>W. globosa</italic>, which have been consumed for more than 25 years in Asia (Myanmar, Laos and Thailand). In its technical report, EFSA did not raise any duly reasoned safety objection.</p>
+</sec>
+</sec>
+<sec id="efs27903-sec-0004" xml:lang="en">
+<label>2</label>
+<title>Data and methodologies</title>
+<sec id="efs27903-sec-0005" xml:lang="en">
+<label>2.1</label>
+<title>Data</title>
+<p xml:lang="en">The safety assessment of this NF is based on data supplied in the application and information submitted by the applicant following EFSA's requests for supplementary information. During the assessment, the Panel identified additional data that were not included in the application.</p>
+<p xml:lang="en">Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469<xref rid="efs27903-note-0008" ref-type="fn">2</xref>.</p>
+<p xml:lang="en">A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application (EFSA NDA Panel, <xref rid="efs27903-bib-0015" ref-type="ref">2016</xref>). As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data, (including both data in favour and not in favour) that are pertinent to the safety of the NF.</p>
+<p xml:lang="en">This NF application includes a request for protection of proprietary data in accordance with Article 26 of Regulation (EU) 2015/2283. The data requested by the applicant to be protected comprise: compositional data, stability data, ileal digestion analysis, proteomic analysis, endophytic bacteria screening analyses, bacterial reverse mutation test (Vértesi, <xref rid="efs27903-bib-0043" ref-type="ref">2021</xref>), <italic>in vitro</italic> micronucleus test (Fekete, <xref rid="efs27903-bib-0022" ref-type="ref">2021</xref>).</p>
+</sec>
+<sec id="efs27903-sec-0006" xml:lang="en">
+<label>2.2</label>
+<title>Methodologies</title>
+<p xml:lang="en">The assessment follows the methodology set out in the EFSA guidance on NF applications (EFSA NDA Panel, <xref rid="efs27903-bib-0015" ref-type="ref">2016</xref>) and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee. The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of the Commission Implementing Regulation (EU) 2017/2469.</p>
+<p xml:lang="en">Additional information that was not included in the application was retrieved by literature search following a search strategy and standard operating procedure as described by Dibusz and Vejvodova (<xref rid="efs27903-bib-0008" ref-type="ref">2020</xref>).</p>
+<p xml:lang="en">This assessment concerns only the risks that might be associated with consumption of the NF under the proposed conditions of use, and is not an assessment of the efficacy of the NF with regard to any claimed benefit.</p>
+</sec>
+</sec>
+<sec id="efs27903-sec-0007" xml:lang="en">
+<label>3</label>
+<title>Assessment</title>
+<sec id="efs27903-sec-0008" xml:lang="en">
+<label>3.1</label>
+<title>Introduction</title>
+<p xml:lang="en">In accordance with Article 3 of the NF Regulation (EU) 2015/2283, the NF falls under the category ‘food consisting of, isolated from or produced from plants and their parts’.</p>
+<p xml:lang="en">The NF, which is the subject of the application, is water lentil protein concentrate from a mixture of <italic>L. gibba</italic> and <italic>L. minor</italic> (<italic>Lemna</italic> protein concentrate) obtained after separation of the protein fraction of the plant material from fibres. The protein content of the NF is approximately 64%, and fibre, fat and ash account for 11%, 8% and 6% of its composition, respectively. The NF is proposed to be used as an ingredient in a variety of food products and as a food supplement. The target population is the general population when used as a food ingredient and adults for food supplements.</p>
+</sec>
+<sec id="efs27903-sec-0009" xml:lang="en">
+<label>3.2</label>
+<title>Identity of the <styled-content style="fixed-case" toggle="no">NF</styled-content></title>
+<p xml:lang="en">The NF is a protein concentrate produced from a mixture of two water lentil species, namely <italic>L. gibba</italic> and <italic>L. minor</italic>. <italic>L. gibba</italic> and <italic>L. minor</italic> are 2 out of the 38 species of water lentils, which are monocotyledonous aquatic plants represented by species of five genera (i.e. <italic>Spirodela</italic>, <italic>Landoltia</italic>, <italic>Lemna</italic>, <italic>Wolffiella</italic> and <italic>Wolffia</italic>) belonging to the Araceae family (Cabrera et al., <xref rid="efs27903-bib-0006" ref-type="ref">2008</xref>; Wang et al., <xref rid="efs27903-bib-0044" ref-type="ref">2010</xref>). Water lentil species are reproduced predominantly via asexual reproduction, i.e. budding, and they are distributed throughout wide geographic areas and climatic zones (Leng et al., <xref rid="efs27903-bib-0030" ref-type="ref">1995</xref>; Cao et al., <xref rid="efs27903-bib-0007" ref-type="ref">2018</xref>). The NF is a green powder that is extracted from a mixture of plant species of &gt; 70% <italic>L. gibba</italic> and &lt; 30% <italic>L. minor</italic>, respectively. The identification of the plant species is performed by visual inspection based on macroscopic characteristics.</p>
+</sec>
+<sec id="efs27903-sec-0010" xml:lang="en">
+<label>3.3</label>
+<title>Production process</title>
+<p xml:lang="en">According to the information provided, the NF is produced in line with Good Manufacturing Practice (GMP, FSSC 22000) and Hazard Analysis Critical Control Points (HACCP) principles.</p>
+<p xml:lang="en">The cultivation of <italic>Lemna</italic> plants used for the production of the NF (i.e. <italic>L. gibba</italic> and <italic>L. minor</italic>) is carried out in basins in greenhouses without using pesticides. Following a request from EFSA to improve microbiological quality and to control growth of algae, yeasts and fungi, the applicant introduced water filtering and UV treatment of the cultivation water. Moreover, the nutrient concentrations in the water, the pH and temperature of the water in which <italic>Lemna</italic> plants are grown are monitored during the entire period of the cultivation of water lentils and the pH is kept within a range of 5.5–6.5. The applicant noted that <italic>Lemna</italic> plants used for the production of the NF samples are cultivated in the Netherlands between April and November. <italic>Lemna</italic> plants are processed in batches using a dedicated biorefinery pilot plant. The plants are washed with tap water prior to processing. The protein content of <italic>Lemna</italic> plant material is extracted from whole plants with water under alkaline conditions. The protein fraction initially is separated mechanically from insoluble fibres, and then precipitated under acidic conditions. Coagulated protein (protein gel) is separated from the liquid mechanically. The protein gel is stored awaiting further processing. The final product, in powder form, is obtained by pasteurisation and spray drying. Food grade bags or containers are used to pack and store the NF.</p>
+<p xml:lang="en">The Panel considers that the production process is sufficiently described and does not raise safety concerns.</p>
+</sec>
+<sec id="efs27903-sec-0011" xml:lang="en">
+<label>3.4</label>
+<title>Compositional data</title>
+<p xml:lang="en">The NF is the protein concentrate from <italic>L. gibba</italic> (70–100%) and <italic>L. minor</italic> (0–30%) and is composed on average of 64% protein, 11% fibre, 8% fat and 6% ash.</p>
+<p xml:lang="en">In order to confirm that the manufacturing process is reproducible and adequate to produce on a commercial scale, a product with the required characteristics, compositional data of the NF were provided for several independently produced batches. The samples were obtained from <italic>Lemna</italic> plants cultivated from 7 to 13 days and collected within the span of 5 months (i.e. from July until the end of November).</p>
+<p xml:lang="en">Further to proximate parameters (Table <xref rid="efs27903-tbl-0001" ref-type="table-wrap">1</xref>), nutritionally relevant components and other naturally occurring compounds were quantitatively characterised in the NF (i.e. vitamins, minerals, amino acids, fatty acids, carotenoids and antinutritional factors).</p>
+<table-wrap id="efs27903-tbl-0001" xml:lang="en" content-type="Table">
+
+<label>Table 1</label>
+
+
+
+<caption><title>Batch‐to‐batch proximate analysis of five batches of the NF</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="left"/>
+<col align="char" char="."/>
+<col align="left"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Parameter (%)</th>
+<th align="center" colspan="5" style="border-bottom:solid 1px #000000" valign="bottom">Batch number</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Method of analysis</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="bottom">#1</th>
+<th align="center" valign="bottom">#2</th>
+<th align="center" valign="bottom">#3</th>
+<th align="center" valign="bottom">#4</th>
+<th align="center" valign="bottom">#5</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">
+<bold>Moisture</bold>
+</td>
+<td align="center" valign="top">6.2</td>
+<td align="center" valign="top">4.9</td>
+<td align="center" valign="top">4.3</td>
+<td align="center" valign="top">3.9</td>
+<td align="center" valign="top">4.4</td>
+<td align="left" valign="top">Gravimetry; Regulation (EC) No 152/2009<xref rid="efs27903-note-0009" ref-type="fn"><sup>3</sup></xref>, Annex III, Method A</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Protein (N × 6.25)</bold>
+</td>
+<td align="center" valign="top">62.1</td>
+<td align="center" valign="top">62.5</td>
+<td align="center" valign="top">63.7</td>
+<td align="center" valign="top">63.0</td>
+<td align="center" valign="top">64.5</td>
+<td align="left" valign="top">Titrimetry; (Kjeldahl) ISO 8968‐1</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Fat</bold>
+</td>
+<td align="center" valign="top">10.2</td>
+<td align="center" valign="top">9.4</td>
+<td align="center" valign="top">9.8</td>
+<td align="center" valign="top">10.6</td>
+<td align="center" valign="top">8.1</td>
+<td align="left" valign="top">Gravimetry; Regulation (EC) No 152/2009<xref rid="efs27903-note-0009" ref-type="fn"><sup>3</sup></xref>, Annex III, Method H</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Ash</bold>
+</td>
+<td align="center" valign="top">4.8</td>
+<td align="center" valign="top">5.3</td>
+<td align="center" valign="top">5.6</td>
+<td align="center" valign="top">6.0</td>
+<td align="center" valign="top">5.2</td>
+<td align="left" valign="top">Gravimetry; Regulation (EC) No 152/2009<xref rid="efs27903-note-0009" ref-type="fn"><sup>3</sup></xref>, Annex III, Method M</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Total sugars (as glucose)</bold>
+</td>
+<td align="center" valign="top">&lt; 0.1</td>
+<td align="center" valign="top">&lt; 0.1</td>
+<td align="center" valign="top">&lt; 0.1</td>
+<td align="center" valign="top">&lt; 0.1</td>
+<td align="center" valign="top">&lt; 0.1</td>
+<td align="left" valign="top">Titrimetry; NEN 3571</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Insoluble fibre</bold>
+</td>
+<td align="center" valign="top">15</td>
+<td align="center" valign="top">8.7</td>
+<td align="center" valign="top">7.3</td>
+<td align="center" valign="top">12</td>
+<td align="center" valign="top">9.6</td>
+<td align="left" valign="top">Gravimetry; AOAC 991.43</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Soluble fibre</bold>
+</td>
+<td align="center" valign="top">1.4</td>
+<td align="center" valign="top">1.3</td>
+<td align="center" valign="top">1.2</td>
+<td align="center" valign="top">1.7</td>
+<td align="center" valign="top">1.3</td>
+<td align="left" valign="top">Gravimetry; AOAC 991.43</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0002">
+<fn id="efs27903-note-0010" xml:lang="en">
+<p xml:lang="en">ISO: International Organization for Standardization; AOAC: Association of Official Analytical Collaboration; NEN: Nederlandse Norm; EC: European Commission.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<p xml:lang="en">Analytical data on the mineral content of the NF, including trace elements and heavy metals were initially provided by the applicant for the same five representative batches (batches #1–#5, data not shown). Several trace elements were found in high concentrations in the final product. Upon request from EFSA to reduce concentrations of several trace elements in the NF, the applicant modified the fertiliser composition, standardised the pH range (5.5–6.5) of the water in which <italic>Lemna</italic> plants are grown and introduced a washing step with tap water after harvesting. Therefore, compositional data for proximates and minerals were provided for additional five batches (batches #6–#10) produced under the modified cultivation conditions (Table <xref rid="efs27903-tbl-0002" ref-type="table-wrap">2</xref>).</p>
+<table-wrap id="efs27903-tbl-0002" xml:lang="en" content-type="Table">
+
+<label>Table 2</label>
+
+
+
+<caption><title>Proximates and concentration of minerals and trace elements in five batches of the NF produced from plants cultivated in water kept in a pH range of 5.5–6.5</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Parameters</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Unit</th>
+<th align="center" colspan="5" style="border-bottom:solid 1px #000000" valign="bottom">Batch</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Method of analysis</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="bottom">#6</th>
+<th align="center" valign="bottom">#7</th>
+<th align="center" valign="bottom">#8</th>
+<th align="center" valign="bottom">#9</th>
+<th align="center" valign="bottom">#10</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">
+<bold>Moisture</bold>
+</td>
+<td align="left" valign="top">%</td>
+<td align="center" valign="top">4.6</td>
+<td align="center" valign="top">2.1</td>
+<td align="center" valign="top">5.7</td>
+<td align="center" valign="top">3.7</td>
+<td align="center" valign="top">4.4</td>
+<td align="left" valign="top">Gravimetry; Regulation (EC) No 152/2009<xref rid="efs27903-note-0009" ref-type="fn"><sup>3</sup></xref>, Annex III, Method A</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Protein (N × 6.25)</bold>
+</td>
+<td align="left" valign="top">%</td>
+<td align="center" valign="top">62.8</td>
+<td align="center" valign="top">63.0</td>
+<td align="center" valign="top">62.9</td>
+<td align="center" valign="top">67.8</td>
+<td align="center" valign="top">62.5</td>
+<td align="left" valign="top">Titrimetry; (Kjeldahl) ISO 8968‐1</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Fat</bold>
+</td>
+<td align="left" valign="top">%</td>
+<td align="center" valign="top">2.8</td>
+<td align="center" valign="top">6.0</td>
+<td align="center" valign="top">5.7</td>
+<td align="center" valign="top">7.3</td>
+<td align="center" valign="top">5.3</td>
+<td align="left" valign="top">Gravimetry; Regulation (EC) No 152/2009<xref rid="efs27903-note-0009" ref-type="fn"><sup>3</sup></xref>, Annex III, Method H</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Ash</bold>
+</td>
+<td align="left" valign="top">%</td>
+<td align="center" valign="top">9.7</td>
+<td align="center" valign="top">9.9</td>
+<td align="center" valign="top">5.2</td>
+<td align="center" valign="top">4.1</td>
+<td align="center" valign="top">5.7</td>
+<td align="left" valign="top">Gravimetry; Regulation (EC) No 152/2009<xref rid="efs27903-note-0009" ref-type="fn"><sup>3</sup></xref>, Annex III, Method M</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Insoluble fibre</bold>
+</td>
+<td align="left" valign="top">%</td>
+<td align="center" valign="top">5.9</td>
+<td align="center" valign="top">7.2</td>
+<td align="center" valign="top">9.9</td>
+<td align="center" valign="top">9.0</td>
+<td align="center" valign="top">9.7</td>
+<td align="left" valign="top">Gravimetry; AOAC 991.43</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Soluble fibre</bold>
+</td>
+<td align="left" valign="top">%</td>
+<td align="center" valign="top">2.5</td>
+<td align="center" valign="top">2.6</td>
+<td align="center" valign="top">1.3</td>
+<td align="center" valign="top">1.5</td>
+<td align="center" valign="top">1.3</td>
+<td align="left" valign="top">Gravimetry; AOAC 991.43</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Calcium</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">4,800</td>
+<td align="center" valign="top">4,900</td>
+<td align="center" valign="top">5,700</td>
+<td align="center" valign="top">2,300</td>
+<td align="center" valign="top">2,300</td>
+<td align="left" valign="top">ICP‐OES; NEN‐EN 5510:2007 en</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Iron</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">350</td>
+<td align="center" valign="top">350</td>
+<td align="center" valign="top">420</td>
+<td align="center" valign="top">360</td>
+<td align="center" valign="top">350</td>
+<td align="left" valign="top">ICP‐OES; NEN‐EN 5510:2007 en</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Potassium</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">11,900</td>
+<td align="center" valign="top">10,200</td>
+<td align="center" valign="top">9,100</td>
+<td align="center" valign="top">5,800</td>
+<td align="center" valign="top">11,800</td>
+<td align="left" valign="top">ICP‐OES; NEN‐EN 5510:2007 en</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Copper</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">9.5</td>
+<td align="center" valign="top">8.1</td>
+<td align="center" valign="top">&lt; 3</td>
+<td align="center" valign="top">&lt; 3</td>
+<td align="center" valign="top">&lt; 3</td>
+<td align="left" valign="top">ICP‐OES; NEN‐EN 5510:2007 en</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Magnesium</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">1,060</td>
+<td align="center" valign="top">1,090</td>
+<td align="center" valign="top">1,020</td>
+<td align="center" valign="top">740</td>
+<td align="center" valign="top">1,120</td>
+<td align="left" valign="top">ICP‐OES; NEN‐EN 5510:2007 en</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Manganese</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">79</td>
+<td align="center" valign="top">97</td>
+<td align="center" valign="top">51</td>
+<td align="center" valign="top">40</td>
+<td align="center" valign="top">50</td>
+<td align="left" valign="top">ICP‐OES; NEN‐EN 5510:2007 en</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Boron</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">7.4</td>
+<td align="center" valign="top">4.6</td>
+<td align="center" valign="top">2.8</td>
+<td align="center" valign="top">2.8</td>
+<td align="center" valign="top">2.7</td>
+<td align="left" valign="top">ICP‐MS; prEN 15763: 2008</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Molybdenum</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">36.0</td>
+<td align="center" valign="top">39.0</td>
+<td align="center" valign="top">16.1</td>
+<td align="center" valign="top">16.0</td>
+<td align="center" valign="top">15.7</td>
+<td align="left" valign="top">ICP‐MS; prEN 15763: 2008</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Zinc</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">41</td>
+<td align="center" valign="top">22</td>
+<td align="center" valign="top">37</td>
+<td align="center" valign="top">28</td>
+<td align="center" valign="top">43</td>
+<td align="left" valign="top">ICP‐OES; NEN‐EN 5510:2007 en</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0003">
+<fn id="efs27903-note-0011" xml:lang="en">
+<p xml:lang="en">ΙCP‐OES: inductively coupled plasma optical emission spectroscopy; ΙCP‐MS: inductively coupled plasma mass spectrometry; NEN: Nederlandse Norm; EN: Europese Norm; ISO: International Organization for Standardization; AOAC: Association of Official Analytical Collaboration; EC: European Commission.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<p xml:lang="en">Regarding information on vitamin content in the NF, the applicant provided analytical data on the concentration of vitamins in the five batches initially submitted (batches #1–#5), which are presented in Table <xref rid="efs27903-tbl-0003" ref-type="table-wrap">3</xref>.</p>
+<table-wrap id="efs27903-tbl-0003" xml:lang="en" content-type="Table">
+
+<label>Table 3</label>
+
+
+
+<caption><title>Vitamin content of five batches of the NF</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="left"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Parameter</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Unit</th>
+<th align="center" colspan="5" style="border-bottom:solid 1px #000000" valign="bottom">Batch number</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Method of analysis</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="bottom">#1</th>
+<th align="center" valign="bottom">#2</th>
+<th align="center" valign="bottom">#3</th>
+<th align="center" valign="bottom">#4</th>
+<th align="center" valign="bottom">#5</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">Thiamin</td>
+<td align="left" valign="top">mg/100 g</td>
+<td align="center" valign="top">0.01</td>
+<td align="center" valign="top">&lt; 0.05</td>
+<td align="center" valign="top">0.24</td>
+<td align="center" valign="top">&lt; 0.05</td>
+<td align="center" valign="top">0.15</td>
+<td align="left" valign="top">HPLC–MS/MS; in‐house</td>
+</tr>
+<tr>
+<td align="left" valign="top">Riboflavin</td>
+<td align="left" valign="top">mg/100 g</td>
+<td align="center" valign="top">0.97</td>
+<td align="center" valign="top">0.69</td>
+<td align="center" valign="top">0.75</td>
+<td align="center" valign="top">0.97</td>
+<td align="center" valign="top">1.2</td>
+<td align="left" valign="top">HPLC‐MS/MS; in‐house</td>
+</tr>
+<tr>
+<td align="left" valign="top">Nicotinamide + Nicotinic acid</td>
+<td align="left" valign="top">mg/100 g</td>
+<td align="center" valign="top">1.8</td>
+<td align="center" valign="top">1.7</td>
+<td align="center" valign="top">1.0</td>
+<td align="center" valign="top">9.0</td>
+<td align="center" valign="top">9.0</td>
+<td align="left" valign="top">HPLC‐MS/MS; in‐house</td>
+</tr>
+<tr>
+<td align="left" valign="top">Vitamin B6 (Pyridoxamine + Pyridoxal + Pyridoxine)</td>
+<td align="left" valign="top">mg/100 g</td>
+<td align="center" valign="top">0.48</td>
+<td align="center" valign="top">0.48</td>
+<td align="center" valign="top">0.39</td>
+<td align="center" valign="top">0.40</td>
+<td align="center" valign="top">0.47</td>
+<td align="left" valign="top">HPLC‐MS/MS; in‐house</td>
+</tr>
+<tr>
+<td align="left" valign="top">Cobalamin</td>
+<td align="left" valign="top">μg/100 g</td>
+<td align="center" valign="top">6.62</td>
+<td align="center" valign="top">3.14</td>
+<td align="center" valign="top">5.88</td>
+<td align="center" valign="top">7.33</td>
+<td align="center" valign="top">17.7</td>
+<td align="left" valign="top">HPLC‐UV; AOAC: 1990 vol II 952.20 Cobalamin pag. 1082–1083</td>
+</tr>
+<tr>
+<td align="left" valign="top">Ascorbic acid</td>
+<td align="left" valign="top">mg/100 g</td>
+<td align="center" valign="top">0.4</td>
+<td align="center" valign="top">0.4</td>
+<td align="center" valign="top">&lt; 0.2</td>
+<td align="center" valign="top">1.1</td>
+<td align="center" valign="top">0.7</td>
+<td align="left" valign="top">HPLC‐FLU; NEN‐EN 14130</td>
+</tr>
+<tr>
+<td align="left" valign="top">Vitamin D3</td>
+<td align="left" valign="top">μg/100 g</td>
+<td align="center" valign="top">&lt; 2.0</td>
+<td align="center" valign="top">2.6</td>
+<td align="center" valign="top">7.0</td>
+<td align="center" valign="top">15.8</td>
+<td align="center" valign="top">33.7</td>
+<td align="left" valign="top">HPLC‐MS/MS; mod. ISO 14892:2002</td>
+</tr>
+<tr>
+<td align="left" valign="top">Vitamin E (α‐, β‐, γ‐, δ‐tocopherol)</td>
+<td align="left" valign="top">mg/100 g</td>
+<td align="center" valign="top">33.5</td>
+<td align="center" valign="top">21.8</td>
+<td align="center" valign="top">13.9</td>
+<td align="center" valign="top">20.3</td>
+<td align="center" valign="top">11.1</td>
+<td align="left" valign="top">HPLC‐FLU; NEN‐EN 12822</td>
+</tr>
+<tr>
+<td align="left" valign="top">Biotin</td>
+<td align="left" valign="top">μg/100 g</td>
+<td align="center" valign="top">13.0</td>
+<td align="center" valign="top">13.4</td>
+<td align="center" valign="top">11.7</td>
+<td align="center" valign="top">13.5</td>
+<td align="center" valign="top">13.2</td>
+<td align="left" valign="top">HPLC‐MS/MS; in‐house</td>
+</tr>
+<tr>
+<td align="left" valign="top">Phylloquinone</td>
+<td align="left" valign="top">mg/100 g</td>
+<td align="center" valign="top">14.5</td>
+<td align="center" valign="top">14.0</td>
+<td align="center" valign="top">11.7</td>
+<td align="center" valign="top">12.2</td>
+<td align="center" valign="top">11.4</td>
+<td align="left" valign="top">HPLC‐MS/MS; in‐house</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0004">
+<fn id="efs27903-note-0012" xml:lang="en">
+<p xml:lang="en">HPLC–MS/MS: high‐performance liquid chromatography–tandem mass spectrometry; HPLC‐UV: high‐performance liquid chromatography‐ultraviolet; HPLC‐FLU: high‐performance liquid chromatography‐fluorescence detection; NEN: Nederlandse Norm; EN: Europese Norm; ISO: International Organization for Standardization; AOAC: Association of Official Analytical Collaboration.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<p xml:lang="en">Moreover, the concentration of a number of carotenoids in the NF was investigated in the five batches that were initially produced (batches #1–#5). In particular, the concentration of β‐carotene ranged from 239 to 621 mg/kg and that of xanthophylls ranged from 1330 to 2130 mg/kg of which were 1050–1650 mg/kg lutein and 40–54 mg/kg zeaxanthin.</p>
+<p xml:lang="en">The amino acid profile of the NF was investigated in the initially produced batches #1–#5 (Appendix <xref rid="efs27903-sec-1001" ref-type="sec">A</xref>).</p>
+<p xml:lang="en">The fatty acid profile of the NF was also reported for five batches of the NF (batches #1–#5). In total, 64 fatty acids were measured with α‐linolenic acid being the most predominant (average concentration 34.7% of the fat) followed by palmitic acid (18.8% of the fat), linoleic acid (12.5% of the fat) and ante‐isopalmitic acid (10% of the fat). The fraction of the saturated fatty acids was calculated at 40.6% of the fat. The unsaturated fatty acids were 59.4% of the fat, from which 4.6% consisted of monounsaturated (MUFA), 54.1% of polyunsaturated (PUFA) and 0.7% of trans‐fatty acids.</p>
+<p xml:lang="en">The presence of antinutritional factors (i.e. oxalic acid, phytic acid, trypsin inhibitors and tannins) was reported in five batches of the NF (batches #1–#5) as presented in Table <xref rid="efs27903-tbl-0004" ref-type="table-wrap">4</xref>.</p>
+<table-wrap id="efs27903-tbl-0004" xml:lang="en" content-type="Table">
+
+<label>Table 4</label>
+
+
+
+<caption><title>Concentration of antinutrients in five batches of the NF</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="left"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Parameter</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Unit</th>
+<th align="center" colspan="5" style="border-bottom:solid 1px #000000" valign="bottom">Batch number</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Method of analysis</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="bottom">#1</th>
+<th align="center" valign="bottom">#2</th>
+<th align="center" valign="bottom">#3</th>
+<th align="center" valign="bottom">#4</th>
+<th align="center" valign="bottom">#5</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">
+<bold>Phytic acid</bold>
+</td>
+<td align="left" valign="top">g/100 g</td>
+<td align="center" valign="top">0.05</td>
+<td align="center" valign="top">0.04</td>
+<td align="center" valign="top">0.09</td>
+<td align="center" valign="top">0.15</td>
+<td align="center" valign="top">0.27</td>
+<td align="left" valign="top">Spectrophotometric analysis; in‐house</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Oxalic acid</bold>
+</td>
+<td align="left" valign="top">g/100 g</td>
+<td align="center" valign="top">0.148</td>
+<td align="center" valign="top">0.189</td>
+<td align="center" valign="top">0.087</td>
+<td align="center" valign="top">0.085</td>
+<td align="center" valign="top">0.082</td>
+<td align="left" valign="top">GLC‐FID; in‐house</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Trypsin inhibitor</bold>
+</td>
+<td align="left" valign="top">mg/kg</td>
+<td align="center" valign="top">&lt; 0.3</td>
+<td align="center" valign="top">&lt; 0.3</td>
+<td align="center" valign="top">&lt; 0.3</td>
+<td align="center" valign="top">&lt; 0.3</td>
+<td align="center" valign="top">0.35</td>
+<td align="left" valign="top">Spectrophotometric analysis; in‐house</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Tannins</bold>
+</td>
+<td align="left" valign="top">g/100 g</td>
+<td align="center" valign="top">3.13</td>
+<td align="center" valign="top">3.13</td>
+<td align="center" valign="top">3.13</td>
+<td align="center" valign="top">3.13</td>
+<td align="center" valign="top">6.25</td>
+<td align="left" valign="top">Spectrophotometric analysis; in‐house</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0005">
+<fn id="efs27903-note-0013" xml:lang="en">
+<p xml:lang="en">GLC‐FID: gas liquid chromatography‐flame ionization detector.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<p xml:lang="en">The applicant provided also analytical data for five batches of the NF on microbiological parameters (batches #11–#16) and other contaminants (i.e. dioxins, cyanotoxins, mycotoxins, nitrates and the process contaminant lysino‐alanine) (batches #1–#5).</p>
+<p xml:lang="en">The applicant provided batch to batch testing for microbiological parameters in the initially submitted five batches (batches #1–#5, data not shown). Several microbiological parameters were found in high concentrations. Upon request from EFSA to improve the microbiological quality, the applicant modified the production process by adding a step of filtering and UV treatment of the water in which <italic>Lemna</italic> plants are cultivated. The applicant provided microbiological parameters for six additional batches (batches #11–#16) of the NF produced following the updated production process (Table <xref rid="efs27903-tbl-0005" ref-type="table-wrap">5</xref>). The Panel noted that for total colony counts two batches of the NF (batches #11 and #13) were above specification limits (Table <xref rid="efs27903-tbl-0006" ref-type="table-wrap">6</xref>).</p>
+<table-wrap id="efs27903-tbl-0005" xml:lang="en" content-type="Table">
+
+<label>Table 5</label>
+
+
+
+<caption><title>Microbiological parameters in six additional representative samples of the NF</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Parameter</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Unit</th>
+<th align="center" colspan="6" style="border-bottom:solid 1px #000000" valign="bottom">Batch number</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Method of analysis</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="bottom">#11</th>
+<th align="center" valign="bottom">#12</th>
+<th align="center" valign="bottom">#13</th>
+<th align="center" valign="bottom">#14</th>
+<th align="center" valign="bottom">#15</th>
+<th align="center" valign="bottom">#16</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">
+<bold>Aerobic plate count</bold>
+</td>
+<td align="left" valign="top">CFU/g</td>
+<td align="center" valign="top">1.4 × 10<sup>4</sup></td>
+<td align="center" valign="top">220</td>
+<td align="center" valign="top">2 × 10<sup>4</sup></td>
+<td align="center" valign="top">300</td>
+<td align="center" valign="top">240</td>
+<td align="center" valign="top">380</td>
+<td align="left" valign="top">Pour plate and spiral plate technique; NEN‐EN‐ISO‐4833 1 EN 2</td>
+</tr>
+<tr>
+<td align="left" valign="top"><italic>Bacillus cereus</italic> plate count</td>
+<td align="left" valign="top">CFU/g</td>
+<td align="center" valign="top">&lt; 40</td>
+<td align="center" valign="top">&lt; 40</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 40</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="left" valign="top">Spread plate technique; NEN‐EN‐ISO‐7932</td>
+</tr>
+<tr>
+<td align="left" valign="top"><italic>Clostridium perfringens</italic> plate count</td>
+<td align="left" valign="top">CFU/g</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="left" valign="top">Pour plate or spiral plate technique; NEN‐EN‐ISO‐7937</td>
+</tr>
+<tr>
+<td align="left" valign="top">Coagulase‐positive <italic>Staphylococci</italic> plate count</td>
+<td align="left" valign="top">CFU/g</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="left" valign="top">Pour plate or spiral plate technique; NEN‐EN‐ISO 6888‐2</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Coliforms</bold>
+</td>
+<td align="left" valign="top">CFU/g</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="left" valign="top">Pour plate or spiral plate technique; NEN‐ISO‐4832</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Enterobacteriaceae plate count (no confirmation)</bold>
+</td>
+<td align="left" valign="top">CFU/g</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="left" valign="top">Pour plate or spiral plate technique; NEN‐ISO 21528‐2</td>
+</tr>
+<tr>
+<td align="left" valign="top"><italic>Escherichia coli</italic> plate count</td>
+<td align="left" valign="top">CFU/g</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="left" valign="top">Pour plate or spiral plate technique; NEN‐EN‐ISO 16649‐2</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<italic>Listeria monocytogenes</italic>
+</td>
+<td align="left" valign="top">/25 g</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="left" valign="top">Detection method; NEN‐EN‐ISO 11290‐1</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Moulds plate count</bold>
+</td>
+<td align="left" valign="top">CFU/g</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="left" valign="top">Pour plate or spiral plate technique; ISO‐7954: 1987 + ISO‐7954: 1988</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<italic>Salmonella</italic>
+</td>
+<td align="left" valign="top">/25 g</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="center" valign="top">Not detected</td>
+<td align="left" valign="top">Detection method; ISO‐6579</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Yeasts plate count</bold>
+</td>
+<td align="left" valign="top">CFU/g</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="center" valign="top">&lt; 10</td>
+<td align="left" valign="top">Pour plate or spiral plate technique; ISO‐7954: 1987 + ISO‐7954: 1988</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0006">
+<fn id="efs27903-note-0014" xml:lang="en">
+<p xml:lang="en">CFU: colony forming units; NEN: Nederlandse Norm; EN: Europese Norm; ISO: International Organization for Standardization; AOAC: Association of Official Analytical Collaboration.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<table-wrap id="efs27903-tbl-0006" xml:lang="en" content-type="Table">
+
+<label>Table 6</label>
+
+
+
+<caption><title>Specifications of the NF</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<tbody valign="top">
+<tr>
+<td align="left" colspan="2" valign="top">
+<p xml:lang="en"><bold>Description:</bold> The NF is a protein concentrate produced from a mixture of <italic>Lemna gibba</italic> and <italic>Lemna minor</italic>. The manufacturing process involves protein separation from insoluble fibres, and then precipitation of this protein fraction.</p>
+<p xml:lang="en"><bold>Appearance:</bold> green powder</p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top"><bold>Source:</bold> <italic>Lemna gibba</italic> (70–100%) and <italic>Lemna minor</italic> (0–30%)</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Parameter</bold>
+</td>
+<td align="left" valign="top">Specifications</td>
+</tr>
+<tr>
+<td align="left" valign="top">Moisture</td>
+<td align="left" valign="top">1.5–8%</td>
+</tr>
+<tr>
+<td align="left" valign="top">Protein (N × 6.25)</td>
+<td align="left" valign="top">60–75%</td>
+</tr>
+<tr>
+<td align="left" valign="top">Ash</td>
+<td align="left" valign="top">4–12%</td>
+</tr>
+<tr>
+<td align="left" valign="top">Fat</td>
+<td align="left" valign="top">2–11%</td>
+</tr>
+<tr>
+<td align="left" valign="top">Fibre</td>
+<td align="left" valign="top">6–17%</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<bold>Carotenoids</bold>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">β‐Carotene</td>
+<td align="left" valign="top">&lt; 755 mg/kg</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<bold>Vitamins</bold>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Phylloquinone</td>
+<td align="left" valign="top">&lt; 16 mg/100 g</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<bold>Minerals</bold>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Boron</td>
+<td align="left" valign="top">&lt; 10 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">Copper</td>
+<td align="left" valign="top">&lt; 12 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">Molybdenum</td>
+<td align="left" valign="top">&lt; 40 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">Iron</td>
+<td align="left" valign="top">&lt; 670 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">Zinc</td>
+<td align="left" valign="top">&lt; 50 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">Manganese</td>
+<td align="left" valign="top">&lt; 100 mg/kg</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<bold>Heavy metals</bold>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Arsenic</td>
+<td align="left" valign="top">&lt; 0.2 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">Lead</td>
+<td align="left" valign="top">&lt; 0.3 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">Cadmium</td>
+<td align="left" valign="top">&lt; 0.2 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">Mercury</td>
+<td align="left" valign="top">&lt; 0.1 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Antinutritional factors</bold>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">Oxalic acid</td>
+<td align="left" valign="top">&lt; 1,900 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Contaminants</bold>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">Lysino‐alanine</td>
+<td align="left" valign="top">&lt; 500 mg/kg bound LAL + &lt; 10 mg/kg free LAL</td>
+</tr>
+<tr>
+<td align="left" valign="top">Cyanotoxins (Microcystins‐/Nodularin)</td>
+<td align="left" valign="top">&lt; 0.19 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">Nitrate</td>
+<td align="left" valign="top">&lt; 3,000 mg/kg</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Microbiological</bold>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">Total colony count</td>
+<td align="left" valign="top">&lt; 10<sup>4</sup> CFU/g</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<italic>Bacillus cereus</italic>
+</td>
+<td align="left" valign="top">&lt; 100 CFU/g</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<italic>Clostridium perfringens</italic>
+</td>
+<td align="left" valign="top">&lt; 100 CFU/g</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p xml:lang="en">Coagulase‐positive</p>
+<p xml:lang="en">Staphylococci</p>
+</td>
+<td align="left" valign="top">&lt; 100 CFU/g</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<italic>Escherichia coli</italic>
+</td>
+<td align="left" valign="top">&lt; 10 CFU/g</td>
+</tr>
+<tr>
+<td align="left" valign="top">Enterobacteriaceae</td>
+<td align="left" valign="top">&lt; 10 CFU/g</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<italic>Listeria monocytogenes</italic>
+</td>
+<td align="left" valign="top">Not detected in 25 g</td>
+</tr>
+<tr>
+<td align="left" valign="top"><italic>Salmonella</italic> spp.</td>
+<td align="left" valign="top">Not detected in 25 g</td>
+</tr>
+<tr>
+<td align="left" valign="top">Yeasts and moulds</td>
+<td align="left" valign="top">&lt; 10 CFU/g</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0007">
+<fn id="efs27903-note-0015" xml:lang="en">
+<p xml:lang="en">LAL: Lysino‐alanine; CFU: colony forming units.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<p xml:lang="en">Nitrate was measured in the initial five batches (batches #1–#5) and found in a range of 3310–5280 mg/kg. Following a request from EFSA to provide rationale for this high nitrate content in the NF, the applicant stated that the production process was modified and a washing step of the plant material with tap water was introduced that removes adherent cultivation water. Therefore, the applicant provided additional analytical data for nitrate content in five batches (batches #6–#10) in which the nitrate concentration was found to range between 1600 and 2800 mg/kg.</p>
+<p xml:lang="en">Lysino‐alanine concentration was measured in the NF. Lysino‐alanine is a process contaminant formed upon alkaline/heat treatment of protein‐containing products. The concentration of lysino‐alanine in the NF, found in the range of 177–503 mg/kg, is similar or lower than the concentration reported in other food sources such as soy protein isolate (370–1300 mg/kg), eggs (160–1820 mg/kg) and sodium caseinate (430–6900 mg/kg) (<ext-link ext-link-type="uri" xlink:href="https://dms.efsa.europa.eu/otcs/cs.exe/open/21395115">Friedman, </ext-link><xref rid="efs27903-bib-0100" ref-type="ref">1999</xref>).</p>
+<p xml:lang="en">Accumulation of toxins from cyanobacteria in water lentils may represent a risk to human health. In particular, microcystins have been reported to accumulate in <italic>Lemna</italic> and <italic>Wolffia</italic> species (Mitrovic et al., <xref rid="efs27903-bib-0032" ref-type="ref">2005</xref>; Saqrane et al., <xref rid="efs27903-bib-0037" ref-type="ref">2007</xref>). The potential presence of these toxins in the NF as a result of the hydroponic nature of the cultivation was assessed based on the concentrations of microcystins, nodularins, gonyautoxins, saxitoxin and anatoxin‐a in the final product. None of the toxins tested in the NF was found above the limit of detection (LOD: 2.4–7.8 μg/kg for the different toxins).</p>
+<p xml:lang="en">Moreover, analyses were provided by the applicant for mycotoxins. All parameters analysed were found below limit of quantification (LOQ: 1–200 μg/kg for the different toxins) and below the regulatory limits established for similar food categories (Regulation (EC) No 1881/2006<xref rid="efs27903-note-0016" ref-type="fn">4</xref>).</p>
+<p xml:lang="en">Pesticides were analysed in one batch of the NF and found below the limit of quantification of the GC–MS/MS method applied (i.e. &lt; 0.01 mg/kg).</p>
+<p xml:lang="en">The applicant also provided data for dioxins, dioxin‐like polychlorinated biphenyls (DL‐PCBs) and non‐dioxin‐like polychlorinated biphenyls (NDL‐PCBs) in <italic>Lemna</italic> plants (5 batches). Dioxins were found to be on average 0.156 pg TEQ/g, DL‐PCBs 0.065 pg TEQ/g and NDL‐PCBs 3 ng/g (TEQ<sub>WHO‐2005</sub>, upper bound).</p>
+<p xml:lang="en">Based on literature data retrieved by EFSA (Kittiwongwattana and Thawai, <xref rid="efs27903-bib-0028" ref-type="ref">2015</xref>; Gilbert et al., <xref rid="efs27903-bib-0025" ref-type="ref">2018</xref>) reporting the presence of endophytic bacteria in water lentils and upon request from EFSA, the applicant provided experimental data on the presence of endophytic bacteria in five fresh water lentil batches using 16S rDNA sequencing and analysing the sequence against the validated MicroSEQ® library. In particular, the presence of bacteria of the genus <italic>Microbacterium</italic> was reported, however, these bacteria were not identified at species level. <italic>Microbacterium</italic> spp. has been associated with the production of indole alkaloids (Gilbert et al., <xref rid="efs27903-bib-0025" ref-type="ref">2018</xref>). The applicant, therefore, provided data on the concentration of indole acetic acid (IAA) and indole lactic acid (ILA) in the NF. Eleven batches of the NF and one fresh water lentil sample were analysed for IAA. For all samples, IAA was found to be below the maximum level of 0.1 mg/kg fresh weight set‐out for similar foods (e.g. leaf vegetables) according to Regulation (EC) No 396/2005<xref rid="efs27903-note-0017" ref-type="fn">5</xref>. ILA was measured in five batches of the NF and it was not detected.</p>
+<p xml:lang="en">The Panel considers that the information provided on the composition of the NF is sufficient and does not raise safety concerns.</p>
+<sec id="efs27903-sec-0012" xml:lang="en">
+<label>3.4.1</label>
+<title>Stability</title>
+<p xml:lang="en">The applicant performed stability testing with four independently produced batches of the NF under standard storage conditions. The tests were carried out at 25°C in dark sealed packages at 40–60% RH for a period of 6 months. The batches were analysed for microbiological stability and lipid oxidation over this period.</p>
+<p xml:lang="en">These studies showed no significant changes for the majority of the microbiological parameters tested after 1, 1.5 and 6 months. However, an increase in total colony counts was observed after 1 and 6 months and two batches of the NF (batches #1 and #2) exceeded the specification limit. The applicant noted that the batches with total colony count above the specification limits were produced under previous production process practices (the production facility was disinfected using chlorine bleach) whereas the other two batches (batches #3 and #4), produced following the production process as finally established (applying filtering and UV treatment of the water in which <italic>Lemna</italic> plants are cultivated), did not exceed specification limits for microbiological parameters. The applicant provided results for three additional batches on microbiological stability of the NF for 1.5 to 2.5 months under the storage conditions. Total colony counts for one out of the three batches (batches #12, #13 and #16) tested exceeded specification limits after 2.5 months of storage under normal conditions, however, it was noted that this batch was above specification limits also before storage (batch #13).</p>
+<p xml:lang="en">The applicant tested additionally the lipid oxidation of the same four batches of the NF, originally provided, for 1.5 and 6 months, based on the rationale that it consists of 9% of fat, of which 54.1% are PUFA, which are vulnerable for lipid oxidation. The testing was performed by analysing changes in the fatty acid profiles. The amount of trans fatty acids for the period tested was found lower than the maximum limit of 2% as proposed in the Regulation (EC) No 1925/2006<xref rid="efs27903-note-0018" ref-type="fn">6</xref>. The applicant stated that the peroxide value was not determined due to the green colour of the product that interferes with measured oxidation markers.</p>
+<p xml:lang="en">The protein concentrate is intended to be added in different food categories including powdered drink bases, cereal bars, bread and rolls; therefore, the applicant provided, upon request from EFSA, data on stability testing performed under baking temperature and acidic conditions (pH 4). The NF was added in bread at 5% and was compared to bread with 5% of potato protein. The tomato soup was prepared to contain 1% of the NF and compared to tomato soup with 1% of potato protein under acidic pH conditions (pH 4.1–4.2). The formation of processing contaminants (i.e. acrylamide, furan, methylfurans and 3‐MCPD) was determined in both bread and tomato soup. The amounts of processing contaminants found in both food commodities containing potato protein or the NF were below the limits of quantification [acrylamide &lt; 150 μg/kg; furan &lt; 10 μg/kg; methylfurans &lt; 20 μg/kg]. 3‐MCPD was found in amounts of 12 and 13 μg/kg in bread with the NF and potato protein, respectively, and below the limits of quantification in the tomato soup [LOQ &lt; 10 μg/kg].</p>
+<p xml:lang="en">The Panel considers that the data provided sufficient information with respect to the stability of the NF for the shelf‐life of 6 months proposed by the applicant.</p>
+</sec>
+</sec>
+<sec id="efs27903-sec-0013" xml:lang="en">
+<label>3.5</label>
+<title>Specifications</title>
+<p xml:lang="en">The specifications of the NF are presented in Table <xref rid="efs27903-tbl-0006" ref-type="table-wrap">6</xref>.</p>
+<p xml:lang="en">The Panel considers that the information provided on the specifications of the NF is sufficient and does not raise safety concerns.</p>
+</sec>
+<sec id="efs27903-sec-0014" xml:lang="en">
+<label>3.6</label>
+<title>History of use of the <styled-content style="fixed-case" toggle="no">NF</styled-content> and/or of its source</title>
+<sec id="efs27903-sec-0015" xml:lang="en">
+<label>3.6.1</label>
+<title>History of use of the source</title>
+<p xml:lang="en">The consumption of water lentil species as protein source for humans is reported in several Asian countries and restricted to <italic>Wolffia</italic> species. In Thailand, <italic>W. globosa</italic> is available in local markets and sold rootless as vegetable with the local names khai nam, kai‐pum or kai nhae (literally meaning: water‐eggs) (Appenroth et al., <xref rid="efs27903-bib-0004" ref-type="ref">2018</xref>). Bhanthumnavin and McGarry reported that <italic>W. arrhiza</italic>, known as ‘khai‐nam’ in Thailand, was consumed for many generations in Myanmar, Laos and Northern Thailand as protein source (Bhanthumnavin and McGarry, <xref rid="efs27903-bib-0005" ref-type="ref">1971</xref>). Further investigations performed on the plant traditionally consumed in the Eastern world suggest that this was <italic>W. globosa</italic> instead of <italic>W. arrhiza</italic> mentioned by Bhanthumnavin and McGarry (Appenroth et al., <xref rid="efs27903-bib-0003" ref-type="ref">2017</xref>). Along with its long history as a food source in Southeast Asia, it is recognised as an edible vegetable for humans in several databases, including the United States Department of Agriculture (USDA, <xref rid="efs27903-bib-0042" ref-type="ref">2023</xref>) Germplasm Resources information Network (GRIN) database. The Panel noted that also <italic>L. gibba</italic> is reported in the GRIN database as edible vegetable for humans (USDA, <xref rid="efs27903-bib-0042" ref-type="ref">2023</xref>). Other databases classify <italic>Lemna</italic> and <italic>Wolffia</italic> species as edible plants based on book citations (e.g. Plants for future (pfaf.org), Useful Tropical Plants (tropical.theferns.info)).</p>
+<p xml:lang="en">Water lentil species have been used as feed for fish and poultry in Southeast Asia for centuries. Moreover, water lentils have been used in a number of feed trial studies as exclusive feed preparation, ingredient or replacement of common feed components (Goopy and Murray, <xref rid="efs27903-bib-0026" ref-type="ref">2003</xref>).</p>
+</sec>
+<sec id="efs27903-sec-0016" xml:lang="en">
+<label>3.6.2</label>
+<title>History of use of the <styled-content style="fixed-case" toggle="no">NF</styled-content></title>
+<p xml:lang="en">There is no history of use of the NF.</p>
+</sec>
+</sec>
+<sec id="efs27903-sec-0017" xml:lang="en">
+<label>3.7</label>
+<title>Proposed uses and use levels and anticipated intake</title>
+<sec id="efs27903-sec-0018" xml:lang="en">
+<label>3.7.1</label>
+<title>Target population</title>
+<p xml:lang="en">The target population proposed by the applicant is the general population when the NF is used as a food ingredient in several food categories (i.e. powdered drink bases, cereal bars, bread and rolls, Asian‐style noodles). The target population is restricted to adults only for intake of the NF as a food supplement.</p>
+</sec>
+<sec id="efs27903-sec-0019" xml:lang="en">
+<label>3.7.2</label>
+<title>Proposed uses and use levels</title>
+<p xml:lang="en">The applicant intends to market the NF as ingredient to be added in a range of food categories, at maximum use levels as indicated in Table <xref rid="efs27903-tbl-0007" ref-type="table-wrap">7</xref>.</p>
+<table-wrap id="efs27903-tbl-0007" xml:lang="en" content-type="Table">
+
+<label>Table 7</label>
+
+
+
+<caption><title>Proposed uses and maximum use levels for water lentil protein concentrate using FoodEx2 categories</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="bottom">FoodEx2 Level</th>
+<th align="left" valign="bottom">FoodEx2 code</th>
+<th align="left" valign="bottom">Food Category</th>
+<th align="center" valign="bottom">Maximum use level of the NF (g/100 g)</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">3</td>
+<td align="left" valign="top">A00EY</td>
+<td align="left" valign="top">Cereal bars</td>
+<td align="center" valign="top">10</td>
+</tr>
+<tr>
+<td align="left" valign="top">4</td>
+<td align="left" valign="top">A005K</td>
+<td align="left" valign="top">Bread and rolls with special ingredients added</td>
+<td align="center" valign="top">1.7</td>
+</tr>
+<tr>
+<td align="left" valign="top">4</td>
+<td align="left" valign="top">A03GF</td>
+<td align="left" valign="top">Powdered drink bases</td>
+<td align="center" valign="top">20</td>
+</tr>
+<tr>
+<td align="left" valign="top">5</td>
+<td align="left" valign="top">A007R</td>
+<td align="left" valign="top">Asian‐style noodles other than glass noodles</td>
+<td align="center" valign="top">6</td>
+</tr>
+</tbody>
+</table>
+
+
+</table-wrap>
+<p xml:lang="en">The NF is also intended to be marketed as a food supplement, at a maximum daily intake of 1 g for individuals above 18 years old.</p>
+</sec>
+<sec id="efs27903-sec-0020" xml:lang="en">
+<label>3.7.3</label>
+<title>Anticipated intake of the <styled-content style="fixed-case" toggle="no">NF</styled-content></title>
+<p xml:lang="en">EFSA performed an intake assessment of the anticipated daily intake of the NF based on the applicant's proposed uses and maximum proposed use levels (Table <xref rid="efs27903-tbl-0007" ref-type="table-wrap">7</xref>), using the DietEx tool.<xref rid="efs27903-note-0019" ref-type="fn">7</xref> The DietEx tool is based on individual data from EU dietary surveys (EFSA, <xref rid="efs27903-bib-0010" ref-type="ref">2011</xref>). The lowest and highest mean and 95th percentile estimated daily intake of the NF (on a mg/kg body weight (bw) basis), among the EU dietary surveys, are presented in Table <xref rid="efs27903-tbl-0008" ref-type="table-wrap">8</xref>. The highest intake was estimated for other children, at 55.6 mg/kg bw per day, at the 95th percentile.</p>
+<table-wrap id="efs27903-tbl-0008" xml:lang="en" content-type="Table">
+
+<label>Table 8</label>
+
+
+
+<caption><title>Intake estimate resulting from the use of the NF as an ingredient in the intended food categories at the maximum proposed use levels</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="center"/>
+<col align="char" char="."/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Population group</th>
+<th align="center" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Age (years)</th>
+<th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Mean intake (mg/kg bw per day)</th>
+<th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom">P95 intake (mg/kg bw per day)</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="bottom">Lowest<xref rid="efs27903-note-0021" ref-type="fn"><sup>(a)</sup></xref></th>
+<th align="center" valign="bottom">Highest<xref rid="efs27903-note-0021" ref-type="fn"><sup>(a)</sup></xref></th>
+<th align="center" valign="bottom">Lowest<xref rid="efs27903-note-0022" ref-type="fn"><sup>(b)</sup></xref></th>
+<th align="center" valign="bottom">Highest<xref rid="efs27903-note-0022" ref-type="fn"><sup>(b)</sup></xref></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">Infants</td>
+<td align="center" valign="top">&lt; 1</td>
+<td align="center" valign="top">0.08</td>
+<td align="center" valign="top">3.4</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">24.1</td>
+</tr>
+<tr>
+<td align="left" valign="top">Young children<xref rid="efs27903-note-0023" ref-type="fn"><sup>(c)</sup></xref></td>
+<td align="center" valign="top">1 to &lt; 3</td>
+<td align="center" valign="top">0.60</td>
+<td align="center" valign="top">13.9</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">47.7</td>
+</tr>
+<tr>
+<td align="left" valign="top">Other children</td>
+<td align="center" valign="top">3 to &lt; 10</td>
+<td align="center" valign="top">0.08</td>
+<td align="center" valign="top">15.1</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">55.6</td>
+</tr>
+<tr>
+<td align="left" valign="top">Adolescents</td>
+<td align="center" valign="top">10 to &lt; 18</td>
+<td align="center" valign="top">0.04</td>
+<td align="center" valign="top">8.5</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">46.6</td>
+</tr>
+<tr>
+<td align="left" valign="top">Adults<xref rid="efs27903-note-0024" ref-type="fn"><sup>(d)</sup></xref></td>
+<td align="center" valign="top">18 to &lt; 65</td>
+<td align="center" valign="top">4.1</td>
+<td align="center" valign="top">4.1</td>
+<td align="center" valign="top">30.0</td>
+<td align="center" valign="top">30.0</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0008">
+<fn id="efs27903-note-0020" xml:lang="en">
+<p xml:lang="en">bw: body weight.</p>
+</fn>
+<fn id="efs27903-note-0021" xml:lang="en">
+<label>(a)</label>
+
+<p xml:lang="en">Intakes are assessed for all EU dietary surveys available in the food comprehensive database on 10/6/2022. The lowest and the highest averages observed among all EU surveys are reported in these columns.</p>
+</fn>
+<fn id="efs27903-note-0022" xml:lang="en">
+<label>(b)</label>
+
+<p xml:lang="en">Intakes are assessed for all EU dietary surveys available in the food comprehensive database on 10/6/2022. The lowest and the highest P95 observed among all EU surveys are reported in these columns (P95 based on less than 60 individuals are not considered).</p>
+</fn>
+<fn id="efs27903-note-0023" xml:lang="en">
+<label>(c)</label>
+
+<p xml:lang="en">Referred to as ‘toddlers’ in the EFSA food consumption comprehensive database (EFSA, <xref rid="efs27903-bib-0010" ref-type="ref">2011</xref>).</p>
+</fn>
+<fn id="efs27903-note-0024" xml:lang="en">
+<label>(d)</label>
+
+<p xml:lang="en">Intakes are assessed separately for adults (18–65 years), elderly (65–75 years) very elderly (≥ 75 years), pregnant, lactating women and vegetarians; the maximum intake among these sub‐populations is reported here.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<p xml:lang="en">The estimated daily intake of the NF for each population group from each EU dietary survey is available in the excel file annexed to this scientific opinion (under supporting information).</p>
+<p xml:lang="en">The applicant proposed a maximum daily intake for the NF from food supplements of 1 g for individuals above 18 years old. Based on the selected default weights by EFSA Scientific Committee (<xref rid="efs27903-bib-0020" ref-type="ref">2012</xref>), the proposed maximum intake of the NF for adults considering a body weight of 70 kg corresponds to 14.3 mg/kg bw per day.</p>
+</sec>
+<sec id="efs27903-sec-0021" xml:lang="en">
+<label>3.7.4</label>
+<title>Combined intake of the <styled-content style="fixed-case" toggle="no">NF</styled-content></title>
+<p xml:lang="en">The NF is intended for use as a food ingredient (target population: general population) and as a food supplement (target population: adults); therefore, combined intake of the NF is considered only in adults. The combined exposure is calculated as the sum of the highest 95th percentile exposure and the maximum daily intake and reported in Table <xref rid="efs27903-tbl-0009" ref-type="table-wrap">9</xref>.</p>
+<table-wrap id="efs27903-tbl-0009" xml:lang="en" content-type="Table">
+
+<label>Table 9</label>
+
+
+
+<caption><title>Total intake of the NF resulting from its uses as an ingredient and as a food supplement</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="center"/>
+<col align="center"/>
+<col align="char" char="."/>
+<col align="center"/>
+<col align="char" char="."/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="bottom">Population group</th>
+<th align="center" valign="bottom">Age (years)</th>
+<th align="center" valign="bottom">Body weight<xref rid="efs27903-note-0026" ref-type="fn"><sup>(a)</sup></xref> (kg)</th>
+<th align="center" valign="bottom">Highest<xref rid="efs27903-note-0027" ref-type="fn"><sup>(b)</sup></xref> P95 intake from the NF used as an ingredient (mg/kg bw per day)</th>
+<th align="center" valign="bottom">Intake from the NF used as a food supplement (mg/kg bw per day)<xref rid="efs27903-note-0028" ref-type="fn"><sup>(c)</sup></xref></th>
+<th align="center" valign="bottom">Total intake<xref rid="efs27903-note-0029" ref-type="fn"><sup>(d)</sup></xref> (mg/kg bw per day)</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">Infants</td>
+<td align="center" valign="top">&lt; 1</td>
+<td align="center" valign="top">5</td>
+<td align="center" valign="top">24.1</td>
+<td align="center" valign="top">Not intended</td>
+<td align="center" valign="top">24.1</td>
+</tr>
+<tr>
+<td align="left" valign="top">Young children<xref rid="efs27903-note-0030" ref-type="fn"><sup>(e)</sup></xref></td>
+<td align="center" valign="top">1 to &lt; 3</td>
+<td align="center" valign="top">12</td>
+<td align="center" valign="top">47.7</td>
+<td align="center" valign="top">Not intended</td>
+<td align="center" valign="top">47.7</td>
+</tr>
+<tr>
+<td align="left" valign="top">Other children</td>
+<td align="center" valign="top">3 to &lt; 10</td>
+<td align="center" valign="top">23.1</td>
+<td align="center" valign="top">55.6</td>
+<td align="center" valign="top">Not intended</td>
+<td align="center" valign="top">55.6</td>
+</tr>
+<tr>
+<td align="left" valign="top">Adolescents</td>
+<td align="center" valign="top">10 to &lt; 18</td>
+<td align="center" valign="top">43.4</td>
+<td align="center" valign="top">46.6</td>
+<td align="center" valign="top">Not intended</td>
+<td align="center" valign="top">46.6</td>
+</tr>
+<tr>
+<td align="left" valign="top">Adults</td>
+<td align="center" valign="top">≥ 18</td>
+<td align="center" valign="top">70</td>
+<td align="center" valign="top">30.0<xref rid="efs27903-note-0031" ref-type="fn"><sup>(f)</sup></xref></td>
+<td align="center" valign="top">14.3</td>
+<td align="center" valign="top">44.3</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0009">
+<fn id="efs27903-note-0025" xml:lang="en">
+<p xml:lang="en">bw: body weight.</p>
+</fn>
+<fn id="efs27903-note-0026" xml:lang="en">
+<label>(a)</label>
+
+<p xml:lang="en">Default and average body weights are defined in EFSA Scientific committee, <xref rid="efs27903-bib-0020" ref-type="ref">2012</xref>.</p>
+</fn>
+<fn id="efs27903-note-0027" xml:lang="en">
+<label>(b)</label>
+
+<p xml:lang="en">Intakes are assessed for all EU dietary surveys available in the food comprehensive database. The highest P95 observed among all surveys is reported in this column (P95 calculated based on less than 60 individuals are not considered).</p>
+</fn>
+<fn id="efs27903-note-0028" xml:lang="en">
+<label>(c)</label>
+
+<p xml:lang="en">Intake in ‘mg/kg bw per d’ are calculated by considering the use levels in ‘mg/d’ and default body weights defined in EFSA Scientific committee, 2012.</p>
+</fn>
+<fn id="efs27903-note-0029" xml:lang="en">
+<label>(d)</label>
+
+<p xml:lang="en">Total intake is the sum of the intake from NF ingredient use (highest P95) and from the NF used as a food supplement, for each population group.</p>
+</fn>
+<fn id="efs27903-note-0030" xml:lang="en">
+<label>(e)</label>
+
+<p xml:lang="en">Referred to as ‘toddlers’ in the EFSA food consumption comprehensive database (EFSA, <xref rid="efs27903-bib-0010" ref-type="ref">2011</xref>).</p>
+</fn>
+<fn id="efs27903-note-0031" xml:lang="en">
+<label>(f)</label>
+
+<p xml:lang="en">Includes elderly, very elderly, pregnant, lactating women and vegetarians.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+</sec>
+<sec id="efs27903-sec-0022" xml:lang="en">
+<label>3.7.5</label>
+<title>Estimate of exposure to undesirable substances</title>
+<p xml:lang="en">Water lentils are known to take up and accumulate trace elements and contaminants from aquatic systems and therefore are considered as a suitable plant for phytoremediation (Landesman et al., <xref rid="efs27903-bib-0102" ref-type="ref">2010</xref>). In cases of uncontrolled cultivation conditions, and particularly when fertilisers, pesticides and other organic contaminants are present in high amounts in cultivation sites or in cases of algal/microbial contamination of the water, high concentration of contaminants or toxins in those plants may pose a potential risk for human health (Leng, <xref rid="efs27903-bib-0029" ref-type="ref">1999</xref>). However, the NF presented in this application was cultivated under controlled conditions (see Section <xref rid="efs27903-sec-0010" ref-type="sec">3.3</xref>).</p>
+<p xml:lang="en">EFSA calculated the intake of heavy metals and trace elements from the NF, which are highly dependent on the cultivation conditions, considering the specification levels for each element (Table <xref rid="efs27903-tbl-0006" ref-type="table-wrap">6</xref>) and estimated total daily intake of the NF (as food ingredient and food supplement) for all population groups (Table <xref rid="efs27903-tbl-0009" ref-type="table-wrap">9</xref>). The Panel considers that exposure to heavy metals and trace elements from the NF is not expected to exceed established maximum levels and upper levels for any population group taking into account background dietary intake (SCF/NDA, <xref rid="efs27903-bib-0038" ref-type="ref">2006</xref>). The assessment of the intake of manganese (Mn) from the NF, for which upper levels are not available, is provided in Section <xref rid="efs27903-sec-0024" ref-type="sec">3.9</xref>.</p>
+<p xml:lang="en">As accumulation of cyanobacteria toxins is reported in the literature (Mitrovic et al., <xref rid="efs27903-bib-0032" ref-type="ref">2005</xref>; Saqrane et al., <xref rid="efs27903-bib-0037" ref-type="ref">2007</xref>), exposure to microcystins from the NF was calculated using specifications for microcystins (&lt; 0.19 mg/kg, Table <xref rid="efs27903-tbl-0006" ref-type="table-wrap">6</xref>) and estimated daily intake of the NF. The highest exposure to microcystins from the NF was calculated for children, resulting in 0.01 μg/kg bw per day, which is below the tolerable daily intake (TDI) of 0.04 μg/kg bw per day (WHO, <xref rid="efs27903-bib-0045" ref-type="ref">2020</xref>).</p>
+</sec>
+</sec>
+<sec id="efs27903-sec-0023" xml:lang="en">
+<label>3.8</label>
+<title>Absorption, distribution, metabolism and excretion (<styled-content style="fixed-case" toggle="no">ADME</styled-content>)</title>
+<p xml:lang="en">The applicant provided data on digestion and protein bioavailability from the NF which are discussed in Section <xref rid="efs27903-sec-0024" ref-type="sec">3.9</xref> on Nutritional information and Section <xref rid="efs27903-sec-0027" ref-type="sec">3.10.2</xref> on Human data.</p>
+</sec>
+<sec id="efs27903-sec-0024" xml:lang="en">
+<label>3.9</label>
+<title>Nutritional information</title>
+<p xml:lang="en">The applicant provided information on nutritional parameters of the NF which consists of up to 75% protein, 17% fibre, 11% fat and 12% ash (Section <xref rid="efs27903-sec-0013" ref-type="sec">3.5</xref> Specifications).</p>
+<p xml:lang="en">The indispensable amino acid content in the NF was presented in five batches of the NF (Appendix <xref rid="efs27903-sec-1001" ref-type="sec">A</xref>). The concentrations of the indispensable amino acids in the NF protein were compared to those reported in commonly consumed food proteins (Friedman, <xref rid="efs27903-bib-0024" ref-type="ref">1996</xref>) and to the recommended amino acid scoring patterns from FAO (FAO, <xref rid="efs27903-bib-0021" ref-type="ref">2013</xref>) as shown in Table <xref rid="efs27903-tbl-0010" ref-type="table-wrap">10</xref>.</p>
+<table-wrap id="efs27903-tbl-0010" xml:lang="en" content-type="Table">
+
+<label>Table 10</label>
+
+
+
+<caption><title>Indispensable amino acid scoring</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<col align="char" char="."/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="bottom">Parameter (g/100 g protein)</th>
+<th align="center" valign="bottom">Average in 5 batches of the NF</th>
+<th align="center" valign="bottom">Soy protein<xref rid="efs27903-note-0033" ref-type="fn"><sup>1</sup></xref></th>
+<th align="center" valign="bottom">Beef<xref rid="efs27903-note-0033" ref-type="fn"><sup>1</sup></xref></th>
+<th align="center" valign="bottom">Egg white<xref rid="efs27903-note-0033" ref-type="fn"><sup>1</sup></xref></th>
+<th align="center" valign="bottom">Recommended amino acid scoring patterns for children (6 months to 3 years)<xref rid="efs27903-note-0034" ref-type="fn"><sup>2</sup></xref></th>
+<th align="center" valign="bottom">Recommended amino acid scoring patterns for older children, adolescents and adults<xref rid="efs27903-note-0034" ref-type="fn"><sup>2</sup></xref></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">
+<bold>Histidine</bold>
+</td>
+<td align="center" valign="top">2.1</td>
+<td align="center" valign="top">2.54</td>
+<td align="center" valign="top">3.20</td>
+<td align="center" valign="top">2.25</td>
+<td align="center" valign="top">2.0</td>
+<td align="center" valign="top">1.6</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Iso‐Leucine</bold>
+</td>
+<td align="center" valign="top">4.7</td>
+<td align="center" valign="top">4.71</td>
+<td align="center" valign="top">4.18</td>
+<td align="center" valign="top">5.28</td>
+<td align="center" valign="top">3.2</td>
+<td align="center" valign="top">3.0</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Leucine</bold>
+</td>
+<td align="center" valign="top">9.1</td>
+<td align="center" valign="top">8.51</td>
+<td align="center" valign="top">7.75</td>
+<td align="center" valign="top">8.76</td>
+<td align="center" valign="top">6.6</td>
+<td align="center" valign="top">6.1</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Lysine</bold>
+</td>
+<td align="center" valign="top">6.1</td>
+<td align="center" valign="top">6.34</td>
+<td align="center" valign="top">7.94</td>
+<td align="center" valign="top">6.98</td>
+<td align="center" valign="top">5.7</td>
+<td align="center" valign="top">4.8</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Tyrosine + Phenylalanine</bold>
+</td>
+<td align="center" valign="top">10.2<xref rid="efs27903-note-0032" ref-type="fn">*</xref></td>
+<td align="center" valign="top">9.66</td>
+<td align="center" valign="top">7.02</td>
+<td align="center" valign="top">9.08</td>
+<td align="center" valign="top">5.2</td>
+<td align="center" valign="top">4.1</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Threonine</bold>
+</td>
+<td align="center" valign="top">4.4</td>
+<td align="center" valign="top">3.84</td>
+<td align="center" valign="top">4.21</td>
+<td align="center" valign="top">4.68</td>
+<td align="center" valign="top">3.1</td>
+<td align="center" valign="top">2.5</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Valine</bold>
+</td>
+<td align="center" valign="top">6.0</td>
+<td align="center" valign="top">4.91</td>
+<td align="center" valign="top">4.54</td>
+<td align="center" valign="top">6.78</td>
+<td align="center" valign="top">4.3</td>
+<td align="center" valign="top">4.0</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Cysteine + Methionine</bold>
+</td>
+<td align="center" valign="top">2.7<xref rid="efs27903-note-0032" ref-type="fn">*</xref></td>
+<td align="center" valign="top">6.81</td>
+<td align="center" valign="top">3.27</td>
+<td align="center" valign="top">6.64</td>
+<td align="center" valign="top">2.7</td>
+<td align="center" valign="top">2.3</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Tryptophan</bold>
+</td>
+<td align="center" valign="top">1.6</td>
+<td align="center" valign="top">1.14</td>
+<td align="center" valign="top">0.99</td>
+<td align="center" valign="top">1.46</td>
+<td align="center" valign="top">0.85</td>
+<td align="center" valign="top">0.66</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0010">
+<fn id="efs27903-note-0032" xml:lang="en">
+<label>*</label>
+
+<p xml:lang="en">Tyrosine and cysteine concentrations taken from compositional data, Appendix <xref rid="efs27903-sec-1001" ref-type="sec">A</xref>.</p>
+</fn>
+<fn id="efs27903-note-0033" xml:lang="en">
+<label>1</label>
+
+<p xml:lang="en">Friedman, <xref rid="efs27903-bib-0024" ref-type="ref">1996</xref>.</p>
+</fn>
+<fn id="efs27903-note-0034" xml:lang="en">
+<label>2</label>
+
+<p xml:lang="en">FAO, <xref rid="efs27903-bib-0021" ref-type="ref">2013</xref>.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<p xml:lang="en">The applicant performed an <italic>in vitro</italic> ileal digestibility analysis with the NF produced exclusively from <italic>L. gibba</italic> (one batch). Crude protein content in the tested item was 63.9%. First the digestibility in the stomach was simulated by adding pepsin at pH 3 for 1 h. Then the digestibility of starch, protein and fat in the intestine was simulated by adding amylase, chymotrypsin, trypsin and lipase at pH 6.5 for 2 h. The insoluble part was considered as indigested. After filtration, the remaining protein content of the filtrate was determined and an ileal digestibility of 87% was calculated.</p>
+<p xml:lang="en">Upon request from EFSA to provide additional data on the digestibility of the NF, the applicant provided results from a cross‐over, double blind, controlled human study designed to investigate the digestibility of the NF in humans compared to whey protein, which was used as a reference protein. Subjects (12 healthy men and women) received two protein sources (doses equivalent to 20 g of protein ‐ protein content for the NF 64% and 80% for whey) in randomised order with a washout period of 1 week. Blood collection was performed before and 15, 30, 45, 60, 75, 90, 120, 150 and 180 min post‐consumption. Postprandial areas under the curve for total amino acids and total indispensable amino acids from the NF as compared to the reference protein whey (set at 100%) were found to be 60.4% and 66.3%. However, interindividual variation was high as the values for total indispensable amino acids from the NF compared to the whey protein ranged from 18.2% to 94.2% (Mes et al., <xref rid="efs27903-bib-0031" ref-type="ref">2022</xref>).</p>
+<p xml:lang="en">The Panel notes that based on the proposed uses and use levels of the NF, at its highest P95 anticipated intake and the specifications for protein (Table <xref rid="efs27903-tbl-0006" ref-type="table-wrap">6</xref>), the maximum daily protein intake per kg bw would range between about 18 mg (infants) and 42 mg (other children). Thus, the contribution of the protein intake from the NF to the overall protein intake will be small.</p>
+<p xml:lang="en">The applicant noted the fatty acid content in the NF with the fraction of the saturated fatty acids accounting for 40.6% of the fat. The unsaturated fatty acids were 59.4% of the fat, from which 4.6% consisted of monounsaturated (MUFA), 54.1% of polyunsaturated (PUFA) and 0.7% of trans fatty acids. The sum of omega 3 fatty acids was calculated at 37.7% and omega 6 fatty acids at 16.4% of the total fatty acid content.</p>
+<p xml:lang="en">The concentrations of vitamins and minerals in the NF highly depend on the cultivation conditions and the composition of the fertiliser used. The mineral and vitamin content of the NF are presented in Tables <xref rid="efs27903-tbl-0002" ref-type="table-wrap">2</xref> and <xref rid="efs27903-tbl-0003" ref-type="table-wrap">3</xref>, respectively.</p>
+<p xml:lang="en">Intake of phylloquinone, considering the specification levels (Table <xref rid="efs27903-tbl-0006" ref-type="table-wrap">6</xref>) and estimated total daily intake of the NF (as food ingredient and food supplement) for all population groups (Table <xref rid="efs27903-tbl-0009" ref-type="table-wrap">9</xref>), was calculated at 95.4 μg/day for young children, 227 μg/day for children, 288 μg/day for adolescents and 480 μg/day for adults. These values exceed the levels considered as adequate intakes for all population groups (EFSA NDA Panel, <xref rid="efs27903-bib-0016" ref-type="ref">2017</xref>). So far, no tolerable upper level of intake (ULs) has been determined for phylloquinone. Although no evidence of adverse effects has been associated with supplementary intakes of vitamin K in the form of phylloquinone up to 10 mg/day for limited periods of time, interference of vitamin K with coumarin anticoagulant drugs (measured as statistically significant decrease of the INR value) has been noted at phylloquinone intakes of 150 μg/day (Schurgers et al., <xref rid="efs27903-bib-0040" ref-type="ref">2004</xref>). Therefore, the amounts of phylloquinone associated with supplementary intakes from the NF may antagonise anticoagulants such as coumarins and for this reason consumption of the NF may constitute a risk for patients on such therapy.</p>
+<p xml:lang="en">The concentration of molybdenum (Mo) in the NF may reach 40 mg/kg according to the specifications (Table <xref rid="efs27903-tbl-0006" ref-type="table-wrap">6</xref>). This value is more than one order of magnitude higher as compared to the average Mo concentration in foods considered to be rich sources of Mo in the diet, such as cereal grains and grain products (0.4 mg/kg), legumes (2.5 mg/kg), offal (1.10 mg/kg), nuts (1.26 mg/kg) and pulses (0.9 mg/kg) (Rose et al., <xref rid="efs27903-bib-0036" ref-type="ref">2010</xref>; ANSES, <xref rid="efs27903-bib-0002" ref-type="ref">2011</xref>; EFSA NDA Panel, <xref rid="efs27903-bib-0013" ref-type="ref">2013a</xref>; Filippini et al., <xref rid="efs27903-bib-0023" ref-type="ref">2020</xref>). Although the NF is meant to be incorporated in other food categories with a proportion of not more than 2–20%, it is noted that the concentration of Mo in these foods will still contribute to an overall higher Mo intake. EFSA estimated the intake of Mo from the NF, considering the product specifications, the estimated daily intake of the NF and the background diet mean intake for all population groups (EFSA NDA Panel, <xref rid="efs27903-bib-0013" ref-type="ref">2013a</xref>). Results presented in Table <xref rid="efs27903-tbl-0011" ref-type="table-wrap">11</xref> show that the combined intake of Mo from the NF and the background diet does not exceed ULs for any population group. The Panel considers that such an increase in Mo intake from the NF used as food ingredient or/and food supplements is not of safety concern.</p>
+<table-wrap id="efs27903-tbl-0011" xml:lang="en" content-type="Table">
+
+<label>Table 11</label>
+
+
+
+<caption><title>Intake estimates of molybdenum resulting from the use of the NF as an ingredient in the intended food categories at the maximum proposed use levels and as a food supplement</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="char" char="."/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="bottom">Population group</th>
+<th align="center" valign="bottom">Age (years)</th>
+<th align="center" valign="bottom">Total intake of Mo from the NF (Table <xref rid="efs27903-tbl-0009" ref-type="table-wrap">9</xref>) (mg per day)<xref rid="efs27903-note-0036" ref-type="fn"><sup>(a)</sup></xref></th>
+<th align="center" valign="bottom">Highest mean Mo background intake (mg per day) (EFSA NDA Panel, <xref rid="efs27903-bib-0013" ref-type="ref">2013a</xref>)</th>
+<th align="center" valign="bottom">Combined intake of Mo from NF and background diet (mg per day)</th>
+<th align="center" valign="bottom">ULs (mg per day) (SCF/NDA, <xref rid="efs27903-bib-0038" ref-type="ref">2006</xref>)</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">
+<bold>Infants</bold>
+</td>
+<td align="center" valign="top">&lt; 1</td>
+<td align="center" valign="top">0.009</td>
+<td align="center" valign="top">ND</td>
+<td align="center" valign="top">ND</td>
+<td align="center" valign="top">ND</td>
+</tr>
+<tr>
+<td align="left" valign="top">Young children<xref rid="efs27903-note-0037" ref-type="fn"><sup>(b)</sup></xref></td>
+<td align="center" valign="top">1 to &lt; 3</td>
+<td align="center" valign="top">0.024</td>
+<td align="center" valign="top">0.058</td>
+<td align="center" valign="top">0.082</td>
+<td align="center" valign="top">0.1</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Other children</bold>
+</td>
+<td align="center" valign="top">3 to &lt; 10</td>
+<td align="center" valign="top">0.057</td>
+<td align="center" valign="top">0.075</td>
+<td align="center" valign="top">0.13</td>
+<td align="center" valign="top">0.2</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Adolescents</bold>
+</td>
+<td align="center" valign="top">10 to &lt; 18</td>
+<td align="center" valign="top">0.072</td>
+<td align="center" valign="top">0.075</td>
+<td align="center" valign="top">0.15</td>
+<td align="center" valign="top">0.4</td>
+</tr>
+<tr>
+<td align="left" valign="top">Adults<xref rid="efs27903-note-0038" ref-type="fn"><sup>(c)</sup></xref></td>
+<td align="center" valign="top">≥ 18</td>
+<td align="center" valign="top">0.12</td>
+<td align="center" valign="top">0.16</td>
+<td align="center" valign="top">0.28</td>
+<td align="center" valign="top">0.6</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0011">
+<fn id="efs27903-note-0035" xml:lang="en">
+<p xml:lang="en">Mo: molybdenum; NF: novel food; ULs: Tolerable upper intake levels; ND: not determined.</p>
+</fn>
+<fn id="efs27903-note-0036" xml:lang="en">
+<label>(a)</label>
+
+<p xml:lang="en">DietEx tool exposure estimate was generated on 10/6/2022. The lowest and the highest P95 observed among all EU surveys are reported in these columns (P95 based on less than 60 individuals are not considered).</p>
+</fn>
+<fn id="efs27903-note-0037" xml:lang="en">
+<label>(b)</label>
+
+<p xml:lang="en">Referred to as ‘toddlers’ in the EFSA food consumption comprehensive database (EFSA, <xref rid="efs27903-bib-0010" ref-type="ref">2011</xref>).</p>
+</fn>
+<fn id="efs27903-note-0038" xml:lang="en">
+<label>(c)</label>
+
+<p xml:lang="en">Includes elderly, very elderly, pregnant, lactating women and vegetarian.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<p xml:lang="en">The concentration of manganese (Mn) in the NF may be up to 100 mg/kg according to its specifications (Table <xref rid="efs27903-tbl-0006" ref-type="table-wrap">6</xref>). EFSA estimated the intake of Mn from the NF, considering the product specification for Mn and the estimated daily intake of the NF for all population groups (Table <xref rid="efs27903-tbl-0009" ref-type="table-wrap">9</xref>). Results are presented in Table <xref rid="efs27903-tbl-0012" ref-type="table-wrap">12</xref>.</p>
+<table-wrap id="efs27903-tbl-0012" xml:lang="en" content-type="Table">
+
+<label>Table 12</label>
+
+
+
+<caption><title>Intake estimates of manganese resulting from the use of the NF as an ingredient in the intended food categories or as a food supplement at the maximum proposed use levels</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<col align="char" char="."/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Population group</th>
+<th align="center" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Age (years)</th>
+<th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Mean Mn intake (mg per day)</th>
+<th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom">P95 Mn intake (mg per day)</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="bottom">Lowest<xref rid="efs27903-note-0040" ref-type="fn"><sup>(a)</sup></xref></th>
+<th align="center" valign="bottom">Highest<xref rid="efs27903-note-0040" ref-type="fn"><sup>(a)</sup></xref></th>
+<th align="center" valign="bottom">Lowest<xref rid="efs27903-note-0041" ref-type="fn"><sup>(b)</sup></xref></th>
+<th align="center" valign="bottom">Highest<xref rid="efs27903-note-0041" ref-type="fn"><sup>(b)</sup></xref></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">
+<bold>Infants</bold>
+</td>
+<td align="center" valign="top">&lt; 1</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">0.02</td>
+</tr>
+<tr>
+<td align="left" valign="top">Young children<xref rid="efs27903-note-0042" ref-type="fn"><sup>(c)</sup></xref></td>
+<td align="center" valign="top">1 to &lt; 3</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">0.02</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">0.06</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Other children</bold>
+</td>
+<td align="center" valign="top">3 to &lt; 10</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">0.03</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">0.14</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Adolescents</bold>
+</td>
+<td align="center" valign="top">10 to &lt; 18</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">0.03</td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">0.18</td>
+</tr>
+<tr>
+<td align="left" valign="top">Adults<xref rid="efs27903-note-0043" ref-type="fn"><sup>(d)</sup></xref></td>
+<td align="center" valign="top">≥ 18</td>
+<td align="center" valign="top">0.03</td>
+<td align="center" valign="top">0.03</td>
+<td align="center" valign="top">0.20</td>
+<td align="center" valign="top">0.20</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>From food supplements only for adults</bold>
+</td>
+<td align="left" valign="top"/>
+<td align="center" colspan="4" valign="top">0.1</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0012">
+<fn id="efs27903-note-0039" xml:lang="en">
+<p xml:lang="en">Mn: manganese; NF: novel food.</p>
+</fn>
+<fn id="efs27903-note-0040" xml:lang="en">
+<label>(a)</label>
+
+<p xml:lang="en">DietEx tool exposure estimate was generated on 10/6/2022. The lowest and the highest averages observed among all EU surveys are reported in these columns.</p>
+</fn>
+<fn id="efs27903-note-0041" xml:lang="en">
+<label>(b)</label>
+
+<p xml:lang="en">DietEx tool exposure estimate was generated on 10/6/2022. The lowest and the highest P95 observed among all EU surveys are reported in these columns (P95 based on less than 60 individuals are not considered).</p>
+</fn>
+<fn id="efs27903-note-0042" xml:lang="en">
+<label>(c)</label>
+
+<p xml:lang="en">Referred to as ‘toddlers’ in the EFSA food consumption comprehensive database (EFSA, <xref rid="efs27903-bib-0010" ref-type="ref">2011</xref>).</p>
+</fn>
+<fn id="efs27903-note-0043" xml:lang="en">
+<label>(d)</label>
+
+<p xml:lang="en">Includes elderly, very elderly, pregnant, lactating women and vegetarian.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<p xml:lang="en">The Panel notes that the SCF in 2000 reported that exposure to high levels of Mn by inhalation or oral intake of Mn may be neurotoxic. The SCF could not, however, set an UL for Mn and concluded that <italic>‘the margin between oral effect levels in humans as well as experimental animals and the estimated intake from food is very low. Given the findings on neurotoxicity and the potential higher susceptibility of some subgroups in the general population, oral exposure to Mn beyond the normally present in food and beverages could represent a risk of adverse health effects without evidence of any health benefit’</italic> (SCF/NDA, <xref rid="efs27903-bib-0038" ref-type="ref">2006</xref>).</p>
+<p xml:lang="en">The estimated mean manganese intakes from the background diet in the EU have been reported for adults between 2 and 6 mg/day and in younger age groups, between 1.5 and 3.5 mg/day in children, and from 2 to 6 mg/day in adolescents (EFSA NDA Panel, <xref rid="efs27903-bib-0014" ref-type="ref">2013b</xref>).</p>
+<p xml:lang="en">The highest estimated mean intake of Mn from the NF across countries ranges between 0.02 in young children and 0.03 mg/day in other children, adolescents and adults. When compared to the highest mean background Mn intake estimates, the additional intake of manganese from the NF would be 0.8% for children, 0.6% for adolescents and 0.4% for adults.</p>
+<p xml:lang="en">The highest estimated 95th percentile intake of Mn from the NF ranges from 0.02 mg/day in infants to 0.2 mg/day in adults. When compared to the highest mean background Mn intake estimates, the additional intake of manganese from the NF would be 4% for children, 3% for adolescents and 3% for adults.</p>
+<p xml:lang="en">The intake of Mn from the NF as a food supplement alone (0.1 mg/day) could increase Mn intake by 2% as compared to the highest background mean Mn intake estimates for adults and by 5% if combined intake will be considered. The Panel considers that such an increase in Mn intake from the NF used as food ingredient or/and food supplements is not of safety concern.</p>
+<p xml:lang="en">Average content of antinutritional factors as described in Section <xref rid="efs27903-sec-0011" ref-type="sec">3.4</xref> (Compositional data in five batches of the NF) was 0.12 g/100 g for oxalic acid, 0.12 g/100 g for phytic acid, 0.35 mg/g of trypsin inhibitors and 3.75 g/100 g tannins (Table <xref rid="efs27903-tbl-0004" ref-type="table-wrap">4</xref>). Antinutritional factors in other commonly consumed vegetables have been reported in similar or higher amounts, e.g. oxalic acid in spinach (0.7 g/100 g) (Duke, <xref rid="efs27903-bib-0009" ref-type="ref">1992</xref>); phytic acid in soy concentrate (10.7 g/100 g) (Schlemmer et al., <xref rid="efs27903-bib-0039" ref-type="ref">2009</xref>); trypsin inhibitors in raw fonio 38 mg/g (EFSA, <xref rid="efs27903-bib-0011" ref-type="ref">2018</xref>); tannins 4 g/100 g for dehulled canola (Sharma et al., <xref rid="efs27903-bib-0041" ref-type="ref">2021</xref>).</p>
+<p xml:lang="en">The Panel considers that, taking into account the composition of the NF and the proposed conditions of use, consumption of the NF is not nutritionally disadvantageous.</p>
+</sec>
+<sec id="efs27903-sec-0025" xml:lang="en">
+<label>3.10</label>
+<title>Toxicological information</title>
+<p xml:lang="en">The applicant provided two toxicological studies with the NF. These studies which were claimed confidential and proprietary by the applicant are listed in Table <xref rid="efs27903-tbl-0013" ref-type="table-wrap">13</xref>.</p>
+<table-wrap id="efs27903-tbl-0013" xml:lang="en" content-type="Table">
+
+<label>Table 13</label>
+
+
+
+<caption><title>List of toxicological studies with the NF</title></caption>
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="bottom">Reference</th>
+<th align="left" valign="bottom">Type of study</th>
+<th align="left" valign="bottom">Test system</th>
+<th align="left" valign="bottom">Dose</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">Study No. 997‐471‐5889 (Vértesi, <xref rid="efs27903-bib-0043" ref-type="ref">2021</xref>)</td>
+<td align="left" valign="top">Bacterial reverse mutation test (GLP, OECD TG 471)</td>
+<td align="left" valign="top"><italic>S</italic>. Typhimurium TA98, TA100, TA1535 and TA1537 and <italic>E. coli</italic> WP2 <italic>uvrA</italic></td>
+<td align="left" valign="top">Up to 5,000 μg/plate (absence and presence of S9 mix)</td>
+</tr>
+<tr>
+<td align="left" valign="top">Study No. 997‐487‐5890 (Fekete, <xref rid="efs27903-bib-0022" ref-type="ref">2021</xref>)</td>
+<td align="left" valign="top"><italic>In vitro</italic> mammalian cell micronucleus test (GLP, OECD TG 487)</td>
+<td align="left" valign="top">L5178Y tk+/ 3.7.2c (IVGT) mouse lymphoma cell line</td>
+<td align="left" valign="top">Up to 400 ug/mL (absence of S9 mix) and up to 600 ug/mL (presence of S9 mix)</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0013">
+<fn id="efs27903-note-0044" xml:lang="en">
+<p xml:lang="en">bw: body weight; GLP: Good Laboratory Practice; OECD TG: Organisation for Economic Co‐operation and Development Test Guideline.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+<sec id="efs27903-sec-0026" xml:lang="en">
+<label>3.10.1</label>
+<title>Genotoxicity</title>
+<p xml:lang="en">The potential mutagenicity of the NF was assessed in a bacterial reverse mutation test using <italic>Salmonella</italic> Typhimurium test strains TA98, TA100, TA1535 and TA1537, and <italic>Escherichia coli</italic> WP2 <italic>uvrA</italic> in the absence and presence of metabolic activation mix (S9), using the plate‐incorporation and pre‐incubation methods. 2‐Aminoanthracene was used as the sole positive control for the S9 mix activity. The study was conducted in compliance with the OECD principles of GLP and in accordance with the ICH Guidelines for genotoxicity testing and OECD Guideline Test No. 471 (OECD, <xref rid="efs27903-bib-0033" ref-type="ref">1997</xref>, <xref rid="efs27903-bib-0034" ref-type="ref">1998</xref>). Based on the results of a preliminary test, concentrations of the NF at 5000, 1600, 500, 160, 50 and 16 μg/plate were selected for the main test. Neither cytotoxicity nor precipitation of the test article was observed at any concentration in either the preliminary or the main test. Treatment with the NF did not result in increases in the number of revertant colonies as compared with the negative control at any concentration in both tests either in the presence or absence of S9. Thus, the NF was determined to be non‐mutagenic in this test at concentrations up to 5,000 μg/plate.</p>
+<p xml:lang="en">The genotoxic potential of the NF was further investigated in an <italic>in vitro</italic> mammalian cell micronucleus test conducted in L5178Y tk+/− 3.7.2c (IVGT) mouse lymphoma cell line. The test was conducted in compliance with the OECD principles of GLP and in accordance with OECD Test No. 487 (OECD, <xref rid="efs27903-bib-0034" ref-type="ref">1998</xref>, <xref rid="efs27903-bib-0035" ref-type="ref">2014</xref>). Solvent control (RPMI‐1640) was used as a negative control. Based on the results of a preliminary test, concentrations of the NF up to 400 μg/mL in 4 h and 24 h treatment followed by 24 h sampling time without metabolic activation and 600 μg/mL in 4 h treatment followed by 24 h sampling time with metabolic activation, were used in the main test. The NF induced cytotoxicity of 51.17% in mouse lymphoma cells compared to the negative control at 400 μg/mL in the 4 h treatment without metabolic activation and 54.32% at 600 μg/mL in the 4 h treatment in the presence of metabolic activation. In the 24 h treatment without metabolic activation, cytotoxicity of 56.21% was observed at concentration of 400 μg/mL. There were no differences observed in the percentage of micronucleated cells at any of the concentrations of the NF analysed as compared to the negative control. The NF was therefore determined to be non‐clastogenic and non‐aneugenic in mouse lymphoma cells.</p>
+<p xml:lang="en">Taking into account the test results provided and considering the nature, source and production process of the NF, the Panel considers that there are no concerns regarding genotoxicity.</p>
+</sec>
+<sec id="efs27903-sec-0027" xml:lang="en">
+<label>3.10.2</label>
+<title>Subchronic toxicity</title>
+<p xml:lang="en">The applicant referred to a subchronic toxicity study performed with water lentil powder (conducted by Parabel, GRN No. 742, <xref rid="efs27903-bib-0027" ref-type="ref">2018</xref>). An oral 90‐day toxicity study was performed in Wistar rats using a water lentil powder product produced from <italic>L. minor</italic> and <italic>W. globosa</italic>. The tested item was produced using a different production process as compared to the NF and its composition was different from the NF, containing 47% protein, 36% dietary fibre, 10% fat, 5% ash and 2% moisture. The study was conducted with 100 (50 male and 50 female) animals distributed into six groups. Four groups of 20 animals (10 male and 10 female), each received via gavage 0, 100, 500 and 1,000 mg/kg bw of the water lentil powder product and two groups of 10 animals (5 male and 5 female) each received 0 or 1,000 mg/kg bw per day for an additional 28 days. The authors noted no treatment‐related toxic signs and no mortality was observed. With respect to this specific study, EFSA has previously noted that not a single parameter was affected in the course of the study in either the control or treated animals, which is unusual, because often several findings are observed in toxicological studies in treated animals as well as in controls that are considered as incidental after thorough evaluation (EFSA NDA Panel, <xref rid="efs27903-bib-0017" ref-type="ref">2021a</xref>).</p>
+<p xml:lang="en">Taking into account the nature of the NF, the production process and the history of use of the source, the Panel considers that no additional toxicological studies are required on the NF.</p>
+</sec>
+<sec id="efs27903-sec-0028" xml:lang="en">
+<label>3.10.3</label>
+<title>Human data</title>
+<p xml:lang="en">The applicant referred to a randomised, cross‐over trial comparing consumption of <italic>L. minor</italic> with green pea in healthy adult volunteers. Twelve subjects participated in this study and received the two protein sources (equivalent to 20 g of protein; <italic>L. minor</italic> and green peas were freeze‐dried, mixed with other ingredients, cooked for 10 min at 100°C and consumed in one meal) in randomised order, after an overnight fast, with a washout period of 1 week. Blood samples were collected at baseline and 15, 30, 45, 60, 75, 90, 120, 150 and 180 min after consumption of the protein meals and analysis of blood amino acids, glucose and insulin levels were conducted. Moreover, heart rate, blood pressure and aural temperature were measured before and after consumption and subjects were asked to report on gastro‐intestinal discomfort for four subsequent days. Lower levels of circulating total and indispensable amino acids were observed post consumption of <italic>L. minor</italic> compared to green pea. For health parameters that were assessed in this study, as well as gastro‐intestinal complaints, no differences were observed between subjects that consumed freeze‐dried and cooked <italic>L. minor</italic> or green pea (Zeinstra et al., <xref rid="efs27903-bib-0046" ref-type="ref">2019</xref>).</p>
+<p xml:lang="en">The Panel notes that the human study provided by the applicant used <italic>L. minor</italic> that contributes only a smaller portion to the source that the NF is produced from (protein fraction of <italic>Lemna</italic> plant material is extracted from whole plants and separated from fibres), and was primarily designed to investigate the postprandial amino acid profile and addressed only a limited number of safety‐relevant endpoints. The Panel accepts that no acute adverse events related to the consumption of <italic>L. minor</italic> were reported. The Panel, however, notes that no conclusions can be drawn from this study on the safety of the NF.</p>
+</sec>
+</sec>
+<sec id="efs27903-sec-0029" xml:lang="en">
+<label>3.11</label>
+<title>Allergenicity</title>
+<p xml:lang="en">The NF consists of around 64% protein. The applicant noted that no allergenicity or cross‐reactivity is described in the literature for <italic>Lemna</italic> species. Proteomic analysis of the NF was performed by LC–MS/MS analysis and then a protein database matching the MS/MS spectra was performed for allergenic proteins using the ‘allergome’ protein sequence database. A match was found with Rubisco (ribulose‐1,5‐bisphosphate carboxylase), a very common protein present in commonly consumed leafy vegetables (Mes et al., <xref rid="efs27903-bib-0031" ref-type="ref">2022</xref>). The content of Rubisco in the NF was found to be very low compared to spinach based on sodium dodecyl sulphate–polyacrylamide gel electrophoresis (SDS–PAGE) analysis conducted by the applicant. Homologies were also found with the Api g3 (chlorophyl A/B binding protein of celery). The Panel notes that Api g3 is identified as a food allergen in several databases, including WHO/IUIS database. The applicant provided analytical data on allergens identified in Annex II of Regulation (EU) No 1169/2011<xref rid="efs27903-note-0045" ref-type="fn">8</xref> for three batches, none of the allergens tested was detected in the NF. In particular, LC–MS/MS analysis did not detect celery proteins in the NF above the LOQ of 1 mg/kg, however, celery proteins and the protein matching with Api g3 allergen are not fully identical and, therefore, the presence of a potentially allergenic protein in the NF is unknown.</p>
+<p xml:lang="en">The Panel notes that no specific data on cross‐reactivity with celery protein (e.g. IgE binding) were provided. Nevertheless, cross‐reactivity of the heat‐treated <italic>L. minor</italic> and <italic>L. gibba</italic> whole plant material with celery has been assessed by DotBlot immunoassays and no cross‐reactivity was detected (EFSA NDA Panel, <xref rid="efs27903-bib-0019" ref-type="ref">2022</xref>). Given the protein content in the NF, allergic reactions are possible, but based on the available data, the Panel considers the allergenic risk is low.</p>
+</sec>
+</sec>
+<sec sec-type="discussion" id="efs27903-sec-0030" xml:lang="en">
+<label>4</label>
+<title>Discussion</title>
+<p xml:lang="en">The NF, which is the subject of the application, is a protein concentrate powder produced from a mixture of <italic>L. gibba</italic> and <italic>L. minor</italic>. The NF is proposed to be used as an ingredient in a variety of food products and as a food supplement. The target population is the general population as a food ingredient and exclusively adults for food supplements.</p>
+<p xml:lang="en">The NF is produced by <italic>Lemna</italic> plants (i.e. <italic>L. gibba</italic> and <italic>L. minor</italic>), which are cultivated under controlled conditions. The plants are washed, treated to separate the protein fraction and the NF is the powder of the protein fraction obtained after pasteurisation and spray drying. The NF consists of protein, fibre, fat and micronutrients. The highest intake of the NF was estimated for other children (age 3 to &lt; 10 years) at 55.6 mg/kg bw per day at the 95th percentile. Intake of the NF from food supplements was calculated for the target population of adults at 14.3 mg/kg bw per day. The Panel noted that intake of the NF may lead to intake of phylloquinone up to 480 μg/day for adults (160 μg/day from food supplements) and may constitute a risk for patients on anticoagulant medication. The Panel considers that there are no concerns regarding genotoxicity. The concentration of heavy metals, cyanotoxins and microbiological parameters as well as micronutrients in the NF depends on the cultivation conditions and the fertiliser used. However, the parameters included in the specifications to account for different cultivation conditions and use of fertilisers, should ensure that the intake of the NF under the proposed uses and use levels does not raise safety concerns, except for patients on anticoagulant medication. The Panel considers that the risk of the NF triggering allergic reactions is low.</p>
+</sec>
+<sec sec-type="conclusions" id="efs27903-sec-0031" xml:lang="en">
+<label>5</label>
+<title>Conclusions</title>
+<p xml:lang="en">The Panel concludes that the NF, water lentil protein concentrate from a mixture of <italic>L. gibba</italic> and <italic>L. minor</italic>, is safe under the proposed conditions of use.</p>
+<sec id="efs27903-sec-0032" xml:lang="en">
+<label>5.1</label>
+<title>Request for protection of proprietary data in accordance with Article 26 of Regulation (<styled-content style="fixed-case" toggle="no">EU</styled-content>) 2015/2283</title>
+<p xml:lang="en">The Panel could not have reached the conclusion on the safety of the NF under the proposed conditions of use without the data claimed as proprietary by the applicant: compositional data, stability data, ileal digestion test, proteomic analysis, endophytic bacteria screening analyses, bacterial reverse mutation test (Vértesi, <xref rid="efs27903-bib-0043" ref-type="ref">2021</xref>), <italic>in vitro</italic> micronucleus test (Fekete, <xref rid="efs27903-bib-0022" ref-type="ref">2021</xref>).</p>
+</sec>
+</sec>
+<sec id="efs27903-sec-0033" xml:lang="en">
+<label>6</label>
+<title>Steps taken by <styled-content style="fixed-case" toggle="no">EFSA</styled-content></title>
+<p xml:lang="en">1) On 13/05/2019 EFSA received a letter from the European Commission with the request for a scientific opinion on the safety of water lentil protein concentrate from a mixture of <italic>Lemna gibba</italic> and <italic>Lemna minor</italic>. [Ref. Ares(2019)3149260].</p>
+<p xml:lang="en">2) On 13/05/2019, a valid application on water lentil protein concentrate from a mixture of <italic>Lemna gibba</italic> and <italic>Lemna minor</italic>, which was submitted by ABC Kroos BV, was made available to EFSA by the European Commission through the Commission e‐submission portal (NF 2018/0801) and the scientific evaluation procedure was initiated.</p>
+<p xml:lang="en">3) On 11/09/2019, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</p>
+<p xml:lang="en">4) On 20/07/2020, additional information was provided by the applicant through the Commission e‐submission portal and the scientific evaluation was restarted.</p>
+<p xml:lang="en">5) On 04/08/2020, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</p>
+<p xml:lang="en">6) On 20/08/2021, additional information was provided by the applicant through the Commission e‐submission portal and the scientific evaluation was restarted.</p>
+<p xml:lang="en">7) On 14/10/2021, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</p>
+<p xml:lang="en">8) On 23/12/2022, additional information was provided by the applicant through the Commission e‐submission portal and the scientific evaluation was restarted.</p>
+<p xml:lang="en">9) During its meeting on 28/02/2023, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of water lentil protein concentrate from a mixture of <italic>Lemna gibba</italic> and <italic>Lemna minor</italic> as a NF pursuant to Regulation (EU) 2015/2283.</p>
+</sec>
+
+
+<sec><def-list list-content="abbreviations" id="efs27903-dl-0001">
+<title>Abbreviations</title>
+
+<def-item>
+
+<term id="efs27903-li-0001">ADME</term>
+
+<def id="efs27903-li-0002"><p>Absorption, distribution, metabolism and excretion</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0003">ANSES</term>
+
+<def id="efs27903-li-0004"><p>French Agency for Food, Environmental and Occupational Health &amp; Safety</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0005">AOAC</term>
+
+<def id="efs27903-li-0006"><p>Association of Official Analytical Collaboration</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0007">bw</term>
+
+<def id="efs27903-li-0008"><p>body weight</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0009">CFU</term>
+
+<def id="efs27903-li-0010"><p>colony forming units</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0011">DietEx</term>
+
+<def id="efs27903-li-0012"><p>Dietary Exposure Tool</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0013">DL‐PCBs</term>
+
+<def id="efs27903-li-0014"><p>dioxin‐like polychlorinated biphenyls</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0015">EN</term>
+
+<def id="efs27903-li-0016"><p>Europese Norm</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0017">FAO</term>
+
+<def id="efs27903-li-0018"><p>Food and Agriculture Organisation</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0019">GC–MS/MS</term>
+
+<def id="efs27903-li-0020"><p>gas chromatography–tandem mass spectrometry</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0021">GLC‐FID</term>
+
+<def id="efs27903-li-0022"><p>gas liquid chromatography–flame ionisation detector</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0023">GLP</term>
+
+<def id="efs27903-li-0024"><p>Good Laboratory Practice</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0025">GMP</term>
+
+<def id="efs27903-li-0026"><p>Good Manufacturing Practice</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0027">GRAS</term>
+
+<def id="efs27903-li-0028"><p>Generally Recognised as Safe</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0029">GRIN</term>
+
+<def id="efs27903-li-0030"><p>Germplasm Resources Information Network</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0031">GRN</term>
+
+<def id="efs27903-li-0032"><p>GRAS Notice</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0033">HACCP</term>
+
+<def id="efs27903-li-0034"><p>Hazard Analysis Critical Control Points</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0035">HPLC‐FLU</term>
+
+<def id="efs27903-li-0036"><p>high‐performance liquid chromatography–fluorescence detection</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0037">HPLC–MS/MS</term>
+
+<def id="efs27903-li-0038"><p>high‐performance liquid chromatography–tandem mass spectrometry</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0039">HPLC‐UV</term>
+
+<def id="efs27903-li-0040"><p>high‐performance liquid chromatography–ultraviolet</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0041">IAA</term>
+
+<def id="efs27903-li-0042"><p>indole acetic acid</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0043">ICH</term>
+
+<def id="efs27903-li-0044"><p>International Council for Harmonisation</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0045">ΙCP‐MS</term>
+
+<def id="efs27903-li-0046"><p>inductively coupled plasma mass spectrometry</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0047">ΙCP‐OES</term>
+
+<def id="efs27903-li-0048"><p>inductively coupled plasma optical emission spectroscopy</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0049">IgE</term>
+
+<def id="efs27903-li-0050"><p>immunoglobulin E</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0051">ILA</term>
+
+<def id="efs27903-li-0052"><p>indole lactic acid</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0053">INR</term>
+
+<def id="efs27903-li-0054"><p>International Normalized Ratio</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0055">ISO</term>
+
+<def id="efs27903-li-0056"><p>International Organization for Standardization</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0057">IVGT</term>
+
+<def id="efs27903-li-0058"><p><italic>in vitro</italic> genetic toxicity</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0059">LAL</term>
+
+<def id="efs27903-li-0060"><p>lysino‐alanine</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0061">LC‐MS/MS</term>
+
+<def id="efs27903-li-0062"><p>liquid chromatography‐–tandem mass spectrometry</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0063">LOD</term>
+
+<def id="efs27903-li-0064"><p>limit of detection</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0065">LOQ</term>
+
+<def id="efs27903-li-0066"><p>limit of quantification</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0067">3‐MCPD</term>
+
+<def id="efs27903-li-0068"><p>3‐monochloropropane diol</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0069">MUFA</term>
+
+<def id="efs27903-li-0070"><p>monounsaturated fatty acids</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0071">NDA</term>
+
+<def id="efs27903-li-0072"><p>Panel on Nutrition, Novel Foods and Food Allergens</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0073">NDL‐PCBs</term>
+
+<def id="efs27903-li-0074"><p>non‐dioxin‐like polychlorinated biphenyls</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0075">NEN</term>
+
+<def id="efs27903-li-0076"><p>Nederlandse Norm</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0077">NF</term>
+
+<def id="efs27903-li-0078"><p>novel food</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0079">NOAEL</term>
+
+<def id="efs27903-li-0080"><p>no observed adverse effect level</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0081">OECD TG</term>
+
+<def id="efs27903-li-0082"><p>Organisation for Economic Co‐operation and Development Test Guideline</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0083">PUFA</term>
+
+<def id="efs27903-li-0084"><p>polyunsaturated fatty acids</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0085">rDNA</term>
+
+<def id="efs27903-li-0086"><p>ribosomal deoxyribonucleic acid</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0087">RH</term>
+
+<def id="efs27903-li-0088"><p>relative humidity</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0089">SCF</term>
+
+<def id="efs27903-li-0090"><p>Scientific Committee on Food</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0091">RPMI</term>
+
+<def id="efs27903-li-0092"><p>Roswell Park Memorial Institute</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0093">SDS–PAGE</term>
+
+<def id="efs27903-li-0094"><p>sodium dodecyl sulphate–polyacrylamide gel electrophoresis</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0095">TDI</term>
+
+<def id="efs27903-li-0096"><p>tolerable daily intake</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0097">TEQ</term>
+
+<def id="efs27903-li-0098"><p>toxic equivalent</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0099">TF</term>
+
+<def id="efs27903-li-0100"><p>traditional food</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0101">UL</term>
+
+<def id="efs27903-li-0102"><p>tolerable upper intake level</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0103">USDA</term>
+
+<def id="efs27903-li-0104"><p>United States Department of Agriculture</p></def>
+</def-item>
+
+<def-item>
+
+<term id="efs27903-li-0105">WHO/IUIS</term>
+
+<def id="efs27903-li-0106"><p>World Health Organization/International Union of Immunological Societies</p></def>
+</def-item>
+</def-list></sec>
+<sec id="efs27903-sec-1001" xml:lang="en">
+<title>Appendix A – Amino acid profile of five batches of the NF</title>
+<sec id="efs27903-sec-0034" xml:lang="en">
+<label>1</label>
+<p xml:lang="en">
+<table-wrap position="anchor" id="jats-table-wrap-1" xml:lang="en">
+
+
+<table frame="hsides">
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">Parameter (g/100 g)</th>
+<th align="center" colspan="5" style="border-bottom:solid 1px #000000" valign="bottom">Batch number</th>
+<th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom">Method of analysis</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="bottom">#1</th>
+<th align="center" valign="bottom">#2</th>
+<th align="center" valign="bottom">#3</th>
+<th align="center" valign="bottom">#4</th>
+<th align="center" valign="bottom">#5</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top">
+<bold>Alanine</bold>
+</td>
+<td align="center" valign="top">3.88</td>
+<td align="center" valign="top">3.95</td>
+<td align="center" valign="top">3.96</td>
+<td align="center" valign="top">3.95</td>
+<td align="center" valign="top">4</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Arginine</bold>
+</td>
+<td align="center" valign="top">4.14</td>
+<td align="center" valign="top">4.16</td>
+<td align="center" valign="top">4.15</td>
+<td align="center" valign="top">4.13</td>
+<td align="center" valign="top">4.11</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Aspartic acid</bold>
+</td>
+<td align="center" valign="top">5.95</td>
+<td align="center" valign="top">6.06</td>
+<td align="center" valign="top">6.05</td>
+<td align="center" valign="top">5.97</td>
+<td align="center" valign="top">6.08</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Cysteine</bold>
+</td>
+<td align="center" valign="top">0.49</td>
+<td align="center" valign="top">0.49</td>
+<td align="center" valign="top">0.43</td>
+<td align="center" valign="top">0.44</td>
+<td align="center" valign="top">0.4</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Glutamic acid</bold>
+</td>
+<td align="center" valign="top">6.93</td>
+<td align="center" valign="top">7.21</td>
+<td align="center" valign="top">7.21</td>
+<td align="center" valign="top">7.1</td>
+<td align="center" valign="top">7.18</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Glycine</bold>
+</td>
+<td align="center" valign="top">3.6</td>
+<td align="center" valign="top">3.56</td>
+<td align="center" valign="top">3.58</td>
+<td align="center" valign="top">3.56</td>
+<td align="center" valign="top">3.58</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Histidine</bold>
+</td>
+<td align="center" valign="top">1.41</td>
+<td align="center" valign="top">1.42</td>
+<td align="center" valign="top">1.4</td>
+<td align="center" valign="top">1.41</td>
+<td align="center" valign="top">1.37</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Hydroxyproline</bold>
+</td>
+<td align="center" valign="top">&lt; 0.05</td>
+<td align="center" valign="top">&lt; 0.05</td>
+<td align="center" valign="top">&lt; 0.05</td>
+<td align="center" valign="top">&lt; 0.05</td>
+<td align="center" valign="top">&lt; 0.05</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Iso‐Leucine</bold>
+</td>
+<td align="center" valign="top">3.1</td>
+<td align="center" valign="top">3.16</td>
+<td align="center" valign="top">3.13</td>
+<td align="center" valign="top">3.12</td>
+<td align="center" valign="top">3.1</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Leucine</bold>
+</td>
+<td align="center" valign="top">5.98</td>
+<td align="center" valign="top">6.07</td>
+<td align="center" valign="top">5.99</td>
+<td align="center" valign="top">5.97</td>
+<td align="center" valign="top">5.93</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Lysine</bold>
+</td>
+<td align="center" valign="top">3.83</td>
+<td align="center" valign="top">3.98</td>
+<td align="center" valign="top">4.12</td>
+<td align="center" valign="top">4.1</td>
+<td align="center" valign="top">4.13</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Methionine</bold>
+</td>
+<td align="center" valign="top">1.29</td>
+<td align="center" valign="top">1.33</td>
+<td align="center" valign="top">1.34</td>
+<td align="center" valign="top">1.32</td>
+<td align="center" valign="top">1.31</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Phenylalanine</bold>
+</td>
+<td align="center" valign="top">3.9</td>
+<td align="center" valign="top">3.93</td>
+<td align="center" valign="top">3.76</td>
+<td align="center" valign="top">3.83</td>
+<td align="center" valign="top">3.76</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Proline</bold>
+</td>
+<td align="center" valign="top">3.07</td>
+<td align="center" valign="top">2.96</td>
+<td align="center" valign="top">2.99</td>
+<td align="center" valign="top">3.07</td>
+<td align="center" valign="top">2.92</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Serine</bold>
+</td>
+<td align="center" valign="top">2.75</td>
+<td align="center" valign="top">2.81</td>
+<td align="center" valign="top">2.81</td>
+<td align="center" valign="top">2.8</td>
+<td align="center" valign="top">2.89</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Threonine</bold>
+</td>
+<td align="center" valign="top">2.83</td>
+<td align="center" valign="top">2.88</td>
+<td align="center" valign="top">2.9</td>
+<td align="center" valign="top">2.89</td>
+<td align="center" valign="top">2.93</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Tyrosine</bold>
+</td>
+<td align="center" valign="top">2.85</td>
+<td align="center" valign="top">2.84</td>
+<td align="center" valign="top">2.81</td>
+<td align="center" valign="top">2.77</td>
+<td align="center" valign="top">2.69</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Valine</bold>
+</td>
+<td align="center" valign="top">3.84</td>
+<td align="center" valign="top">3.95</td>
+<td align="center" valign="top">4</td>
+<td align="center" valign="top">3.95</td>
+<td align="center" valign="top">3.93</td>
+<td align="left" valign="top">ISO13903</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<bold>Tryptophan</bold>
+</td>
+<td align="center" valign="top">1.03</td>
+<td align="center" valign="top">1.06</td>
+<td align="center" valign="top">1.09</td>
+<td align="center" valign="top">1.17</td>
+<td align="center" valign="top">1.03</td>
+<td align="left" valign="top">NEN‐EN‐ISO 13904</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs27903-ntgp-0014">
+<fn id="efs27903-note-0046" xml:lang="en">
+<p xml:lang="en">EN: Europese Norm; ISO: International Organization for Standardization; NEN: Nederlandse Norm.</p>
+</fn>
+</table-wrap-foot>
+
+</table-wrap>
+
+</p>
+</sec>
+</sec>
+</body>
+<back>
+<fn-group id="efs27903-ntgp-1101">
+<title>Notes</title>
+<fn id="efs27903-note-0007" xml:lang="en">
+<label><sup>1</sup></label><p xml:lang="en">Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001. OJ L 327, 11.12.2015, pp. 1–22.</p></fn>
+<fn id="efs27903-note-0008" xml:lang="en">
+<label><sup>2</sup></label><p xml:lang="en">Commission Implementing Regulation (EU) 2017/2469 of 20 December 2017 laying down administrative and scientific requirements for applications referred to in Article 10 of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods. OJ L 351, 30.12.2017, pp. 64–71.</p></fn>
+<fn id="efs27903-note-0009" xml:lang="en">
+<label><sup>3</sup></label><p xml:lang="en">Commission Regulation (EC) No 152/2009 of 27 January 2009 laying down the methods of sampling and analysis for the official control of feed. OJ L 54, 26.2.2009, pp. 1–130.</p></fn>
+<fn id="efs27903-note-0016" xml:lang="en">
+<label><sup>4</sup></label><p xml:lang="en">Commission Regulation (EC) No 1881/2006 of 19 December 2006 setting maximum levels for certain contaminants in foodstuffs. OJ L 364, 20.12.2006, pp. 5–24.</p></fn>
+<fn id="efs27903-note-0017" xml:lang="en">
+<label><sup>5</sup></label><p xml:lang="en">Commission Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive 91/414/EEC. OJ L 070, 16.3.2005, pp. 1–16.</p></fn>
+<fn id="efs27903-note-0018" xml:lang="en">
+<label><sup>6</sup></label><p xml:lang="en">Commission Regulation (EC) No 1925/2006 of the European Parliament and of the Council of 20 December 2006 on the addition of vitamins and minerals and of certain other substances to foods. OJ L 404 30.12.2006, pp. 26–38.</p></fn>
+<fn id="efs27903-note-0019" xml:lang="en">
+<label><sup>7</sup></label><p xml:lang="en"><ext-link ext-link-type="uri" xlink:href="https://www.efsa.europa.eu/it/science/tools-and-resources/dietex">https://www.efsa.europa.eu/it/science/tools-and-resources/dietex</ext-link></p></fn>
+<fn id="efs27903-note-0045" xml:lang="en">
+<label><sup>8</sup></label><p xml:lang="en">Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004. OJ L 304 22.11.2011, pp. 18–63.</p></fn>
+</fn-group>
+<ref-list content-type="cited-references" id="efs27903-bibl-0001">
+<title>References</title>
+<ref id="efs27903-bib-0002">
+<mixed-citation publication-type="miscellaneous" id="efs27903-cit-0002"><collab collab-type="authors">Anses (Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail)</collab>
+, <year>2011</year>. <article-title xml:lang="en">Second French Total Diet Study (TDS 2) Report 1: Inorganic contaminants, minerals, persistent organic pollutants, mycotoxins and phytoestrogens, 305 pp</article-title>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0003">
+<mixed-citation publication-type="journal" id="efs27903-cit-0003"><string-name><surname>Appenroth</surname> <given-names>KJ</given-names></string-name>, <string-name><surname>Sree</surname> <given-names>KS</given-names></string-name>, <string-name><surname>Böhm</surname> <given-names>V</given-names></string-name>, <string-name><surname>Hammann</surname> <given-names>S</given-names></string-name>, <string-name><surname>Vetter</surname> <given-names>W</given-names></string-name>, <string-name><surname>Leiterer</surname> <given-names>M</given-names></string-name> and <string-name><surname>Jahreis</surname> <given-names>G</given-names></string-name>, <year>2017</year>. <article-title xml:lang="en">Nutritional value of duckweeds (Lemnaceae) as human food</article-title>. <source xml:lang="en">Food Chemistry</source>, <volume>217</volume>, <fpage>266</fpage>–<lpage>273</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0004">
+<mixed-citation publication-type="journal" id="efs27903-cit-0004"><string-name><surname>Appenroth</surname> <given-names>KJ</given-names></string-name>, <string-name><surname>Sree</surname> <given-names>KS</given-names></string-name>, <string-name><surname>Bog</surname> <given-names>M</given-names></string-name>, <string-name><surname>Ecker</surname> <given-names>J</given-names></string-name>, <string-name><surname>Seeliger</surname> <given-names>C</given-names></string-name>, <string-name><surname>Böhm</surname> <given-names>V</given-names></string-name>, <string-name><surname>Lorkowski</surname> <given-names>S</given-names></string-name>, <string-name><surname>Sommer</surname> <given-names>K</given-names></string-name>, <string-name><surname>Vetter</surname> <given-names>W</given-names></string-name> and <string-name><surname>Tolzin‐Banasch</surname> <given-names>K</given-names></string-name>, <year>2018</year>. <article-title xml:lang="en">Nutritional value of the duckweed species of the genus <italic>Wolffia</italic> (Lemnaceae) as human food</article-title>. <source xml:lang="en">Frontiers in Chemistry</source>, <volume>6</volume>, <fpage>483</fpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0005">
+<mixed-citation publication-type="journal" id="efs27903-cit-0005"><string-name><surname>Bhanthumnavin</surname> <given-names>K</given-names></string-name> and <string-name><surname>McGarry</surname> <given-names>MG</given-names></string-name>, <year>1971</year>. <article-title xml:lang="en"><italic>Wolffia arrhiza</italic> as a possible source of inexpensive protein</article-title>. <source xml:lang="en">Nature</source>, <volume>232</volume>, <fpage>495</fpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0006">
+<mixed-citation publication-type="journal" id="efs27903-cit-0006"><string-name><surname>Cabrera</surname> <given-names>LI</given-names></string-name>, <string-name><surname>Salazar</surname> <given-names>GA</given-names></string-name>, <string-name><surname>Chase</surname> <given-names>MW</given-names></string-name>, <string-name><surname>Mayo</surname> <given-names>SJ</given-names></string-name>, <string-name><surname>Bogner</surname> <given-names>J</given-names></string-name> and <string-name><surname>Dávila</surname> <given-names>P</given-names></string-name>, <year>2008</year>. <article-title xml:lang="en">Phylogenetic relationships of aroids and duckweeds (Araceae) inferred from coding and noncoding plastid DNA</article-title>. <source xml:lang="en">American Journal of Botany</source>, <volume>95</volume>, <fpage>1153</fpage>–<lpage>1165</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0007">
+<mixed-citation publication-type="book" id="efs27903-cit-0007"><string-name><surname>Cao</surname> <given-names>HX</given-names></string-name>, <string-name><surname>Fourounjian</surname> <given-names>P</given-names></string-name> and <string-name><surname>Wang</surname> <given-names>W</given-names></string-name>, <year>2018</year>. <chapter-title>The Importance and Potential of Duckweeds as a Model and Crop Plant for Biomass‐Based Applications and Beyond</chapter-title>. In: <person-group person-group-type="editor"><string-name><given-names>C</given-names> <surname>Hussain</surname></string-name></person-group> (ed). <source xml:lang="en">Handbook of Environmental Materials Management</source>. <publisher-name>Springer</publisher-name>, <publisher-loc>Cham</publisher-loc>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/978-3-319-58538-3_67-1EFSA">https://doi.org/10.1007/978-3-319-58538-3_67-1EFSA</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0008">
+<mixed-citation publication-type="journal" id="efs27903-cit-0008"><string-name><surname>Dibusz</surname> <given-names>K</given-names></string-name> and <string-name><surname>Vejvodova</surname> <given-names>P</given-names></string-name>, <year>2020</year>. <article-title xml:lang="en">Systematic literature search to assist EFSA in the preparatory work for the safety assessment of novel food applications and traditional food notifications</article-title>. <source xml:lang="en">EFSA supporting publication</source> 2020;17(1):EN‐1774, <fpage>72</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/sp.efsa.2019.EN-1774">https://doi.org/10.2903/sp.efsa.2019.EN-1774</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0009">
+<mixed-citation publication-type="book" id="efs27903-cit-0009"><string-name><surname>Duke</surname> <given-names>JA</given-names></string-name>, <year>1992</year>. <source xml:lang="en">Handbook of phytochemical constituents of GRAS herbs and other economic plants</source>. <publisher-name>CRC Press</publisher-name>, <publisher-loc>Boca Raton, FL</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0010">
+<mixed-citation publication-type="journal" id="efs27903-cit-0010"><collab collab-type="authors">EFSA (European Food Safety Authority)</collab>
+, <year>2011</year>. <article-title xml:lang="en">Use of the EFSA comprehensive European food consumption database in exposure assessment</article-title>. <source xml:lang="en">EFSA Journal</source> 2011;<volume>9</volume>(<issue>3</issue>): 2097, <fpage>34</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2011.2097">https://doi.org/10.2903/j.efsa.2011.2097</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0011">
+<mixed-citation publication-type="journal" id="efs27903-cit-0011"><collab collab-type="authors">EFSA (European Food Safety Authority)</collab>
+, <year>2018</year>. <article-title xml:lang="en">Technical Report on the notification of decorticated grains of <italic>Digitaria exilis</italic> (Kippist) Stapf as a traditional food from a third country pursuant to Article 14 of Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA supporting publication</source> 2018;<volume>15</volume>(<issue>7</issue>):EN‐1443, <fpage>9</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/sp.efsa.2018.EN-1443">https://doi.org/10.2903/sp.efsa.2018.EN-1443</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0012">
+<mixed-citation publication-type="journal" id="efs27903-cit-0012"><collab collab-type="authors">EFSA (European Food Safety Authority)</collab>
+, <year>2021</year>. <article-title xml:lang="en">Technical Report on the notification of fresh plants of <italic>Wolffia arrhiza</italic> and <italic>Wolffia globosa</italic> as a traditional food from a third country pursuant to Article 14 of Regulation (EU)2015/2283</article-title>. <source xml:lang="en">EFSA supporting publication 2018</source>;<volume>18</volume>(<issue>6</issue>):EN‐6658, <fpage>15</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/sp.efsa.2021.EN-6658/">https://doi.org/10.2903/sp.efsa.2021.EN-6658/</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0013">
+<mixed-citation publication-type="journal" id="efs27903-cit-0013"><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies)</collab>
+, <year>2013a</year>. <article-title xml:lang="en">Scientific Opinion on Dietary Reference Values for molybdenum</article-title>. <source xml:lang="en">EFSA Journal</source> 2013;<volume>11</volume>(<issue>8</issue>):3333, <fpage>35</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2013.3333">https://doi.org/10.2903/j.efsa.2013.3333</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0014">
+<mixed-citation publication-type="journal" id="efs27903-cit-0014"><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies)</collab>
+, <year>2013b</year>. <article-title xml:lang="en">Scientific Opinion on Dietary Reference Values for manganese</article-title>. <source xml:lang="en">EFSA Journal</source> 2013;<volume>11</volume>(<issue>11</issue>):3419, <fpage>44</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2013.3419">https://doi.org/10.2903/j.efsa.2013.3419</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0015">
+<mixed-citation publication-type="journal" id="efs27903-cit-0015"><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies)</collab>
+, <year>2016</year>. <article-title xml:lang="en">Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2016;<volume>14</volume>(<issue>11</issue>):4594, <fpage>24</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2016.4594">https://doi.org/10.2903/j.efsa.2016.4594</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0016">
+<mixed-citation publication-type="journal" id="efs27903-cit-0016"><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies)</collab>
+, <year>2017</year>. <article-title xml:lang="en">Scientific Opinion on the dietary reference values for vitamin K</article-title>. <source xml:lang="en">EFSA Journal</source> 2017;<volume>15</volume>(<issue>5</issue>):4780, <fpage>78</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2017.4780">https://doi.org/10.2903/j.efsa.2017.4780</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0017">
+<mixed-citation publication-type="journal" id="efs27903-cit-0017"><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Nutrition, Novel Foods and Food Allergens)</collab>
+, <year>2021a</year>. <article-title xml:lang="en">Safety of water lentil powder from Lemnaceae as a Novel Food pursuant to Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2021;<volume>19</volume>(<issue>10</issue>):6845, <fpage>25</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2021.6845">https://doi.org/10.2903/j.efsa.2021.6845</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0018">
+<mixed-citation publication-type="journal" id="efs27903-cit-0018"><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Nutrition, Novel Foods and Food Allergens)</collab>
+, <year>2021b</year>. <article-title xml:lang="en">Safety of <italic>Wolffia globosa</italic> powder as a novel food pursuant to Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2021;<volume>19</volume>(<issue>12</issue>):6938, <fpage>25</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2021.6938">https://doi.org/10.2903/j.efsa.2021.6938</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0019">
+<mixed-citation publication-type="journal" id="efs27903-cit-0019"><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Nutrition, Novel Foods and Food Allergens)</collab>
+, <year>2022</year>. <article-title xml:lang="en">Scientific Opinion on the safety of <italic>Lemna minor</italic> and <italic>Lemna gibba</italic> whole plant material as a novel food pursuant to Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2022;<volume>20</volume>(<issue>11</issue>):7598, <fpage>20</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/sp.efsa.2022.7598">https://doi.org/10.2903/sp.efsa.2022.7598</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0020">
+<mixed-citation publication-type="journal" id="efs27903-cit-0020"><collab collab-type="authors">EFSA Scientific Committee</collab>
+, <year>2012</year>. <article-title xml:lang="en">Guidance on selected default values to be used by the EFSA Scientific Committee, Scientific Panels and Units in the absence of actual measured data</article-title>. <source xml:lang="en">EFSA Journal</source> 2012;<volume>10</volume>(<issue>3</issue>):2579, <fpage>32</fpage> pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2012.2579">https://doi.org/10.2903/j.efsa.2012.2579</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0021">
+<mixed-citation publication-type="journal" id="efs27903-cit-0021"><collab collab-type="authors">FAO</collab>
+, <year>2013</year>. <article-title xml:lang="en">Dietary protein quality evaluation in human nutrition. Report of an FAQ Expert Consultation</article-title>. <source xml:lang="en">FAO Food and Nutrition Paper</source>, <volume>92</volume>, <fpage>1</fpage>–<lpage>66</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0022">
+<mixed-citation publication-type="miscellaneous" id="efs27903-cit-0022"><string-name><surname>Fekete</surname> <given-names>S</given-names></string-name>, <year>2021</year>. <article-title xml:lang="en">Study title: <italic>in vitro</italic> mammalian cell micronucleus test with water lentil protein concentrate. Study Number: 997‐487‐5890. TOXI‐COOP ZRT</article-title>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0023">
+<mixed-citation publication-type="journal" id="efs27903-cit-0023"><string-name><surname>Filippini</surname> <given-names>T</given-names></string-name>, <string-name><surname>Tancredi</surname> <given-names>S</given-names></string-name>, <string-name><surname>Malagoli</surname> <given-names>C</given-names></string-name>, <string-name><surname>Malavolti</surname> <given-names>M</given-names></string-name>, <string-name><surname>Bargellini</surname> <given-names>A</given-names></string-name>, <string-name><surname>Vescovi</surname> <given-names>L</given-names></string-name>, <string-name><surname>Nicolini</surname> <given-names>F</given-names></string-name> and <string-name><surname>Vinceti</surname> <given-names>M</given-names></string-name>, <year>2020</year>. <article-title xml:lang="en">Dietary estimated intake of trace elements: risk assessment in an Italian Population</article-title>. <source xml:lang="en">Exposure and Health</source>, <volume>12</volume>, <fpage>641</fpage>–<lpage>655</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0024">
+<mixed-citation publication-type="journal" id="efs27903-cit-0024"><string-name><surname>Friedman</surname> <given-names>M</given-names></string-name>, <year>1996</year>. <article-title xml:lang="en">Nutritional value of proteins from different food sources. A review</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>44</volume>, <fpage>6</fpage>–<lpage>29</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0100">
+<mixed-citation publication-type="journal" id="efs27903-cit-0100"><string-name><surname>Friedman</surname> <given-names>M</given-names></string-name>, <year>1999</year>. <article-title xml:lang="en">Chemistry, biochemistry, nutrition, and microbiology of lysinoalanine, lanthionine, and histidinoalanine in food and other proteins</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>47</volume>, <fpage>1295</fpage>–<lpage>1319</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0025">
+<mixed-citation publication-type="journal" id="efs27903-cit-0025"><string-name><surname>Gilbert</surname> <given-names>S</given-names></string-name>, <string-name><surname>Xu</surname> <given-names>J</given-names></string-name>, <string-name><surname>Acosta</surname> <given-names>K</given-names></string-name>, <string-name><surname>Poulev</surname> <given-names>A</given-names></string-name>, <string-name><surname>Lebeis</surname> <given-names>S</given-names></string-name> and <string-name><surname>Lam</surname> <given-names>E</given-names></string-name>, <year>2018</year>. <article-title xml:lang="en">Bacterial production of indole related compounds reveals their role in association between duckweeds and endophytes</article-title>. <source xml:lang="en">Frontiers in Chemistry</source>, <volume>6</volume>, <fpage>265</fpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0026">
+<mixed-citation publication-type="journal" id="efs27903-cit-0026"><string-name><surname>Goopy</surname> <given-names>J</given-names></string-name> and <string-name><surname>Murray</surname> <given-names>P</given-names></string-name>, <year>2003</year>. <article-title xml:lang="en">A review on the role of duckweed in nutrient reclamation and as a source of animal feed</article-title>. <source xml:lang="en">Asian‐Australasian Journal of Animal Sciences</source>, <volume>16</volume>, <fpage>297</fpage>–<lpage>305</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0027">
+<mixed-citation publication-type="miscellaneous" id="efs27903-cit-0027"><collab collab-type="authors">GRN No. 742</collab>
+, <year>2018</year>. <article-title xml:lang="en">Duckweed (subfamily Lemnoideae) powder</article-title> Available online: <ext-link ext-link-type="uri" xlink:href="https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices%26id=742">https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&amp;id=742</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0028">
+<mixed-citation publication-type="journal" id="efs27903-cit-0028"><string-name><surname>Kittiwongwattana</surname> <given-names>C</given-names></string-name> and <string-name><surname>Thawai</surname> <given-names>C</given-names></string-name>, <year>2015</year>. <article-title xml:lang="en"><italic>Paenibacillus lemnae</italic> sp. nov., an endophytic bacterium of duckweed (<italic>Lemna aequinoctialis</italic>)</article-title>. <source xml:lang="en">International Journal of Systematic and Evolutionary Microbiology</source>, <volume>65</volume>, <fpage>107</fpage>–<lpage>112</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0102">
+<mixed-citation publication-type="book" id="efs27903-cit-0102"><string-name><surname>Landesman</surname> <given-names>L</given-names></string-name>, <string-name><surname>Fedler</surname> <given-names>C</given-names></string-name> and <string-name><surname>Duan</surname> <given-names>R</given-names></string-name>, <year>2010</year>. <chapter-title>Plant nutrient phytoremediation using duckweed</chapter-title>. In: <person-group person-group-type="editor"><string-name><given-names>A</given-names> <surname>Ansari</surname></string-name></person-group>, <person-group person-group-type="editor"><string-name><given-names>S</given-names> <surname>Singh Gill</surname></string-name></person-group>, <person-group person-group-type="editor"><string-name><given-names>G</given-names> <surname>Lanza</surname></string-name></person-group> and <person-group person-group-type="editor"><string-name><given-names>W</given-names> <surname>Rast</surname></string-name></person-group> (eds). <source xml:lang="en">Eutrophication: Causes, Consequences and Control</source>. <publisher-name>Springer</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/978-90-481-9625-8_17">https://doi.org/10.1007/978-90-481-9625-8_17</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0029">
+<mixed-citation publication-type="miscellaneous" id="efs27903-cit-0029"><string-name><surname>Leng</surname> <given-names>RA</given-names></string-name>, <year>1999</year>. <article-title xml:lang="en">Water lentils: a tiny aquatic plant with enormous potential for agriculture and environment. FAO</article-title> Available online: <ext-link ext-link-type="uri" xlink:href="http://www.fao.org/ag/AGAinfo/resources/documents/DW/Dw2.htm">http://www.fao.org/ag/AGAinfo/resources/documents/DW/Dw2.htm</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0030">
+<mixed-citation publication-type="journal" id="efs27903-cit-0030"><string-name><surname>Leng</surname> <given-names>RA</given-names></string-name>, <string-name><surname>Stambolie</surname> <given-names>JH</given-names></string-name> and <string-name><surname>Bell</surname> <given-names>R</given-names></string-name>, <year>1995</year>. <article-title xml:lang="en">Duckweed ‐ a potential highprotein feed resource for domestic animals and fish</article-title>. <source xml:lang="en">Livestock Research for Rural Development</source>, <volume>7</volume>, <fpage>article #5</fpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0031">
+<mixed-citation publication-type="journal" id="efs27903-cit-0031"><string-name><surname>Mes</surname> <given-names>JJ</given-names></string-name>, <string-name><surname>Esser</surname> <given-names>D</given-names></string-name>, <string-name><surname>Oosterink</surname> <given-names>E</given-names></string-name>, <string-name> <surname>van den Dool</surname> <given-names>RTM</given-names></string-name>, <string-name><surname>Engel</surname> <given-names>J</given-names></string-name>, <string-name> <surname>de Jong</surname> <given-names>GAH</given-names></string-name>, <string-name><surname>Wehrens</surname> <given-names>R</given-names></string-name> and <string-name> <surname>van der Meer</surname> <given-names>IM</given-names></string-name>, <year>2022</year>. <article-title xml:lang="en">A controlled human intervention trial to study protein quality by amino acid uptake kinetics with the novel Lemna protein concentrate as case study</article-title>. <source xml:lang="en">International Journal of Food Sciences and Nutrition</source>, <volume>73</volume>(<issue>2</issue>), <fpage>251</fpage>–<lpage>262</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0032">
+<mixed-citation publication-type="journal" id="efs27903-cit-0032"><string-name><surname>Mitrovic</surname> <given-names>SM</given-names></string-name>, <string-name><surname>Allis</surname> <given-names>O</given-names></string-name>, <string-name><surname>Furey</surname> <given-names>A</given-names></string-name> and <string-name><surname>James</surname> <given-names>KJ</given-names></string-name>, <year>2005</year>. <article-title xml:lang="en">Bioaccumulation and harmful effects of microcystin‐LR in the aquatic plants <italic>Lemna minor</italic> and <italic>Wolffia arrhiza</italic> and the filamentous alga <italic>Chladophora fracta</italic></article-title>. <source xml:lang="en">Ecotoxicology and Environmental Safety</source>, <volume>61</volume>, <fpage>345</fpage>–<lpage>352</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0033">
+<mixed-citation publication-type="book" id="efs27903-cit-0033"><collab collab-type="authors">OECD</collab>
+, <year>1997</year>. <source xml:lang="en">Test No. 471: Bacterial Reverse Mutation Test, OECD Guidelines for the Testing of Chemicals, Section4</source>. <publisher-name>OECD Publishing</publisher-name>, <publisher-loc>Paris</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0034">
+<mixed-citation publication-type="miscellaneous" id="efs27903-cit-0034"><collab collab-type="authors">OECD</collab>
+, <year>1998</year>. <article-title xml:lang="en">OECD Principles on Good Laboratory Practice, OECD Series on Principles of Good Laboratory Practice and Compliance Monitoring, No. 1, OECD Publishing, Paris</article-title>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0035">
+<mixed-citation publication-type="miscellaneous" id="efs27903-cit-0035"><collab collab-type="authors">OECD</collab>
+, <year>2014</year>. <article-title xml:lang="en">Test No. 487: In Vitro Mammalian Cell Micronucleus Test, OECD Publishing, Paris</article-title>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0036">
+<mixed-citation publication-type="journal" id="efs27903-cit-0036"><string-name><surname>Rose</surname> <given-names>M</given-names></string-name>, <string-name><surname>Baxter</surname> <given-names>M</given-names></string-name>, <string-name><surname>Brereton</surname> <given-names>N</given-names></string-name> and <string-name><surname>Baskaran</surname> <given-names>C</given-names></string-name>, <year>2010</year>. <article-title xml:lang="en">Dietary exposure to metals and other elements in the 2006 UK Total Diet Study and some trends over the last 30 years</article-title>. <source xml:lang="en">Food Additives &amp; Contaminants: Part A</source>, <volume>27</volume>, <fpage>1380</fpage>–<lpage>1404</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0037">
+<mixed-citation publication-type="journal" id="efs27903-cit-0037"><string-name><surname>Saqrane</surname> <given-names>S</given-names></string-name>, <string-name><surname>Ghazali</surname> <given-names>IE</given-names></string-name>, <string-name><surname>Ouahid</surname> <given-names>Y</given-names></string-name>, <string-name><surname>Hassni</surname> <given-names>ME</given-names></string-name>, <string-name><surname>Hadrami</surname> <given-names>IE</given-names></string-name>, <string-name><surname>Bouarab</surname> <given-names>L</given-names></string-name>, <string-name> <surname>del Campo</surname> <given-names>FF</given-names></string-name>, <string-name><surname>Oudra</surname> <given-names>B</given-names></string-name> and <string-name><surname>Vasconcelos</surname> <given-names>V</given-names></string-name>, <year>2007</year>. <article-title xml:lang="en">Phytotoxic effects of cyanobacteria extract on the aquatic plant <italic>Lemna gibba</italic>: microcystin accumulation, detoxication and oxidative stress induction</article-title>. <source xml:lang="en">Aquatic Toxicology</source>, <volume>83</volume>, <fpage>284</fpage>–<lpage>294</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0038">
+<mixed-citation publication-type="miscellaneous" id="efs27903-cit-0038"><collab collab-type="authors">SCF/NDA (Scientific Committee on Food)</collab>
+, <year>2006</year>. <article-title xml:lang="en">Tolerable Upper Intake Levels for Vitamins and Minerals</article-title> Available online: <ext-link ext-link-type="uri" xlink:href="https://www.efsa.europa.eu/sites/default/files/efsa_rep/blobserver_assets/ndatolerableuil.pdf">https://www.efsa.europa.eu/sites/default/files/efsa_rep/blobserver_assets/ndatolerableuil.pdf</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0039">
+<mixed-citation publication-type="journal" id="efs27903-cit-0039"><string-name><surname>Schlemmer</surname> <given-names>U</given-names></string-name>, <string-name><surname>Frølich</surname> <given-names>W</given-names></string-name>, <string-name><surname>Prieto</surname> <given-names>RM</given-names></string-name> and <string-name><surname>Grases</surname> <given-names>F</given-names></string-name>, <year>2009</year>. <article-title xml:lang="en">Phytate in foods and significance for humans: food sources, intake, processing, bioavailability, protective role and analysis</article-title>. <source xml:lang="en">Molecular Nutrition &amp; Food Research</source>, <volume>53</volume>(<issue>Suppl 2</issue>), <fpage>S330</fpage>–<lpage>S375</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0040">
+<mixed-citation publication-type="journal" id="efs27903-cit-0040"><string-name><surname>Schurgers</surname> <given-names>LJ</given-names></string-name>, <string-name><surname>Shearer</surname> <given-names>MJ</given-names></string-name>, <string-name><surname>Hamulyák</surname> <given-names>K</given-names></string-name>, <string-name><surname>Stöcklin</surname> <given-names>E</given-names></string-name> and <string-name><surname>Vermeer</surname> <given-names>C</given-names></string-name>, <year>2004</year>. <article-title xml:lang="en">Effect of vitamin K intake on the stability of oral anticoagulant treatment: dose‐response relationships in healthy subjects</article-title>. <source xml:lang="en">Blood</source>, <volume>104</volume>, <fpage>2682</fpage>–<lpage>2689</lpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0041">
+<mixed-citation publication-type="journal" id="efs27903-cit-0041"><string-name><surname>Sharma</surname> <given-names>K</given-names></string-name>, <string-name><surname>Kumar</surname> <given-names>V</given-names></string-name>, <string-name><surname>Kaur</surname> <given-names>J</given-names></string-name>, <string-name><surname>Tanwar</surname> <given-names>B</given-names></string-name>, <string-name><surname>Goyal</surname> <given-names>A</given-names></string-name>, <string-name><surname>Sharma</surname> <given-names>R</given-names></string-name>, <string-name><surname>Gat</surname> <given-names>Y</given-names></string-name> and <string-name><surname>Kumar</surname> <given-names>A</given-names></string-name>, <year>2021</year>. <article-title xml:lang="en">Health effects, sources, utilization and safety of tannins: a critical review</article-title>. <source xml:lang="en">Toxin Reviews</source>, <volume>40</volume>(<issue>4</issue>), <fpage>432</fpage>–<lpage>444</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/15569543.2019.1662813">https://doi.org/10.1080/15569543.2019.1662813</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0042">
+<mixed-citation publication-type="book" id="efs27903-cit-0042"><collab collab-type="authors">USDA, Agricultural Research Service, National Plant Germplasm System</collab>
+, <year>2023</year>. <source xml:lang="en">Germplasm Resources Information Network (GRIN Taxonomy)</source>. <publisher-name>National Germplasm Resources Laboratory</publisher-name>, <publisher-loc>Beltsville, Maryland</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0043">
+<mixed-citation publication-type="miscellaneous" id="efs27903-cit-0043"><string-name><surname>Vértesi</surname> <given-names>A</given-names></string-name>, <year>2021</year>. <article-title xml:lang="en">Study title: Bacterial reverse mutation assay with water lentil protein concentrate. Study Number: 997‐471‐5889. TOXI‐COOP ZRT</article-title>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0044">
+<mixed-citation publication-type="journal" id="efs27903-cit-0044"><string-name><surname>Wang</surname> <given-names>W</given-names></string-name>, <string-name><surname>Wu</surname> <given-names>Y</given-names></string-name>, <string-name><surname>Yan</surname> <given-names>Y</given-names></string-name>, <string-name><surname>Ermakova</surname> <given-names>M</given-names></string-name>, <string-name><surname>Kerstetter</surname> <given-names>R</given-names></string-name> and <string-name><surname>Messing</surname> <given-names>J</given-names></string-name>, <year>2010</year>. <article-title xml:lang="en">DNA barcoding of the Lemnaceae, a family of aquatic monocots</article-title>. <source xml:lang="en">BMC Plant Biology</source>, <volume>10</volume>, <fpage>205</fpage>.</mixed-citation>
+</ref>
+<ref id="efs27903-bib-0045">
+<mixed-citation publication-type="miscellaneous" id="efs27903-cit-0045"><collab collab-type="authors">WHO (World Health Organization)</collab>
+, <year>2020</year>. <article-title xml:lang="en">Cyanobacterial toxins: microcystins. Background document for the development of WHO Guidelines for Drinking‐water Quality and Guidelines for safe recreational water environments</article-title> Available online: <ext-link ext-link-type="uri" xlink:href="https://apps.who.int/iris/handle/10665/338066">https://apps.who.int/iris/handle/10665/338066</ext-link></mixed-citation>
+</ref>
+<ref id="efs27903-bib-0046">
+<mixed-citation publication-type="journal" id="efs27903-cit-0046"><string-name><surname>Zeinstra</surname> <given-names>GG</given-names></string-name>, <string-name><surname>Somhorst</surname> <given-names>D</given-names></string-name>, <string-name><surname>Oosterink</surname> <given-names>E</given-names></string-name>, <string-name><surname>Fick</surname> <given-names>H</given-names></string-name>, <string-name><surname>Klopping‐Ketelaars</surname> <given-names>I</given-names></string-name>, <string-name> <surname>van der Meer</surname> <given-names>IM</given-names></string-name> and <string-name><surname>Mes</surname> <given-names>JJ</given-names></string-name>, <year>2019</year>. <article-title xml:lang="en">Postprandial amino acid, glucose and insulin responses among healthy adults after a single intake of <italic>Lemna minor</italic> in comparison with green peas: a randomised trial</article-title>. <source xml:lang="en">Journal of Nutritional Science</source>, <volume>8</volume>, <fpage>28</fpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

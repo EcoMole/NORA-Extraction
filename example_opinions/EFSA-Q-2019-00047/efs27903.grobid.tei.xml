@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" coord="1,73.53,165.28,448.19,13.94;1,75.85,182.72,443.56,14.42;1,193.15,201.17,208.94,13.94;1,141.96,229.46,311.39,10.22">Safety of water lentil protein concentrate from a mixture of Lemna gibba and Lemna minor as a novel food pursuant to Regulation (EU) 2015/2283</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2023-02-28">28 February 2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,111.40,241.42,78.29,10.22"><forename type="first">Dominique</forename><surname>Turck</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,198.14,241.42,61.19,10.22"><forename type="first">Torsten</forename><surname>Bohn</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,268.50,241.42,108.72,10.22"><forename type="first">Jacqueline</forename><surname>Castenmiller</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,385.51,241.42,92.40,10.22"><forename type="first">Stefaan</forename><surname>De Henauw</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Karen</forename><forename type="middle">Ildico</forename><surname>Hirsch‐ernst</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,230.40,253.33,81.96,10.22"><forename type="first">Alexandre</forename><surname>Maciuk</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,321.17,253.33,81.13,10.22"><forename type="first">Inge</forename><surname>Mangelsdorf</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,411.03,253.33,73.90,10.22"><forename type="first">Harry</forename><forename type="middle">J</forename><surname>Mcardle</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,110.38,265.29,74.98,10.22"><forename type="first">Androniki</forename><surname>Naska</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,194.40,265.29,69.09,10.22"><forename type="first">Carmen</forename><surname>Pelaez</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,271.90,265.29,77.54,10.22"><forename type="first">Kristina</forename><surname>Pentieva</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,357.91,265.29,60.24,10.22"><forename type="first">Alfonso</forename><surname>Siani</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,426.11,265.29,54.07,10.22"><forename type="first">Frank</forename><surname>Thies</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,106.58,277.25,74.63,10.22"><forename type="first">Sophia</forename><surname>Tsabouri</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,189.75,277.25,63.11,10.22"><forename type="first">Marco</forename><surname>Vinceti</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Margarita</forename><surname>Aguilera‐gómez</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,391.98,277.25,91.03,10.22"><forename type="first">Francesco</forename><surname>Cubadda</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,103.58,289.22,74.44,10.22"><forename type="first">Thomas</forename><surname>Frenzel</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,186.35,289.22,78.80,10.22"><forename type="first">Marina</forename><surname>Heinonen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,274.17,289.22,110.57,10.22"><forename type="first">Miguel</forename><surname>Prieto Maradona</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,393.96,289.22,93.25,10.22"><forename type="first">Rosangela</forename><surname>Marchelli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Monika</forename><surname>Neuhäuser‐berthold</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,227.06,301.18,72.09,10.22"><forename type="first">Morten</forename><surname>Poulsen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,307.79,301.18,101.75,10.22"><forename type="first">Josef</forename><forename type="middle">Rudolf</forename><surname>Schlatter</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,417.60,301.18,84.82,10.22"><forename type="first">Henk</forename><surname>Van Loveren</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,199.22,313.14,68.80,10.22"><forename type="first">Eirini</forename><surname>Kouloura</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,293.10,313.14,102.97,10.22"><forename type="first">Helle</forename><forename type="middle">Katrine</forename><surname>Knutsen</surname></persName>
+						</author>
+						<title level="a" type="main" coord="1,73.53,165.28,448.19,13.94;1,75.85,182.72,443.56,14.42;1,193.15,201.17,208.94,13.94;1,141.96,229.46,311.39,10.22">Safety of water lentil protein concentrate from a mixture of Lemna gibba and Lemna minor as a novel food pursuant to Regulation (EU) 2015/2283</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">EFSA Journal</title>
+						<title level="j" type="abbrev">EFS2</title>
+						<idno type="ISSN">1831-4732</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">21</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<date type="published" when="2023-02-28">28 February 2023</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">999664996F49DE12032ED5D392240BB9</idno>
+					<idno type="DOI">10.2903/j.efsa.2023.7903</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-04-29T08:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>novel foods</term>
+					<term>food supplement</term>
+					<term>plant</term>
+					<term>water lentil</term>
+					<term>protein concentrate</term>
+					<term>Lemna Requestor: European Commission</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,70.87,357.12,453.50,9.30;1,70.87,369.03,453.50,9.30;1,70.87,380.67,453.53,9.61;1,70.87,392.95,24.57,9.30">Following a request from the European Commission, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver an opinion on water lentil protein concentrate from a mixture of Lemna gibba and Lemna minor as a novel food (NF) pursuant to Regulation (EU) 2015/ 2283.</s><s coords="1,101.99,392.95,372.07,9.30">Water lentil protein concentrate is produced from two water lentil species (L.</s><s coords="1,477.75,392.63,46.62,9.61;1,70.87,404.60,453.54,10.05;1,70.87,416.88,143.77,9.30">gibba and L. minor) by separation of the protein fraction of the plant material from fibres, followed by pasteurisation and spray drying.</s><s coords="1,219.00,416.65,240.84,9.96">The NF consists mainly of protein, fibre, fat and ash.</s><s coords="1,464.31,416.88,60.00,9.30;1,70.87,428.84,453.51,9.30">The applicant proposed to use the NF as a food ingredient in a variety of food categories and as a food supplement.</s><s coords="1,70.87,440.80,453.42,9.30;1,70.87,452.76,150.03,9.30">The target population is the general population when used as a food ingredient and exclusively adults when used as a food supplement.</s><s coords="1,224.56,452.76,299.78,9.30;1,70.87,464.67,453.43,9.30;1,70.87,476.63,75.76,9.30">The Panel considers that taking into account the composition of the NF and the proposed conditions of use, the consumption of the NF is not nutritionally disadvantageous.</s><s coords="1,150.01,476.63,245.76,9.30">There are no concerns regarding genotoxicity of the NF.</s><s coords="1,399.11,476.63,125.23,9.30;1,70.87,488.59,215.89,9.30">The Panel considers that the risk of the NF triggering allergic reactions is low.</s><s coords="1,290.55,488.59,233.85,9.30;1,70.87,500.24,432.86,9.61">The Panel concludes that the NF, water lentil protein concentrate from a mixture of L. gibba and L. minor, is safe under the proposed conditions of use.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="10" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="11" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="12" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="13" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="14" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="15" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="16" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="17" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="18" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="19" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="20" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="21" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="22" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="23" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="24" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="4,113.78,97.55,395.52,11.15;4,85.04,117.09,439.21,9.30;4,70.87,129.05,272.99,9.30;4,343.90,126.98,4.04,6.20;4,350.93,129.05,173.45,9.30;4,70.87,140.63,394.60,9.61">Background and Terms of Reference as provided by the requestor On 28 December 2018, the company ABC Kroos BV submitted a request to the European Commission in accordance with Article 10 of Regulation (EU) No 2015/2283 1 to place water lentil protein concentrate from a mixture of Lemna gibba and Lemna minor on the Union market as a novel food (NF).</s></p><p><s coords="4,85.04,152.91,439.35,9.30;4,70.87,164.88,48.72,9.30">The novel food is proposed for use in a number of food categories and is intended for the general population.</s></p><p><s coords="4,85.04,176.84,439.30,9.30;4,70.87,188.80,453.45,9.30;4,70.87,200.44,153.24,9.61">In accordance with Article 10(3) of Regulation (EU) 2015/2283, the European Commission asks the European Food Safety Authority to provide a scientific opinion on water lentil protein concentrate from a mixture of L. gibba and L. minor.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2.">Additional information</head><p><s coords="4,85.04,242.72,439.28,9.30;4,70.87,254.62,130.14,9.30">The NDA Panel assessed previously the safety of two water lentil powders as NFs produced from different water lentil species.</s><s coords="4,205.62,254.62,318.70,9.30;4,70.87,266.58,453.44,9.30;4,70.87,278.55,65.15,9.30">In particular, the Panel assessed the safety of the water lentil powder from Lemnaceae intended for consumption as food ingredient and food supplement (EFSA NDA Panel, 2021a).</s><s coords="4,141.29,278.23,383.08,9.61;4,70.87,290.51,71.05,9.30">The NF is produced from species of the Lemna genus (70-100%) and the Wolffia genus (0-30%).</s><s coords="4,145.59,290.19,378.77,9.61;4,70.87,302.47,453.50,9.30;4,70.87,314.11,147.77,9.61">In addition, the Panel assessed the safety of the Wolffia globosa powder intended for consumption as food ingredient and food supplement (EFSA NDA Panel, 2021b), which consists exclusively of W. globosa species.</s><s coords="4,222.18,314.43,302.14,9.30;4,70.87,326.39,453.49,9.30;4,70.87,338.36,453.50,9.30;4,70.87,349.94,197.12,9.61">In the above-mentioned scientific opinions, the Panel concluded that the increase in manganese intake from the NF was substantial as compared to the background manganese dietary intake, and consequently, the safety of water lentil powder from Lemnaceae and W. globosa powder could not be established.</s></p><p><s coords="4,85.04,361.91,439.29,9.61;4,70.86,374.19,209.52,9.30">Moreover, the NDA Panel has assessed the safety of the heat-treated L. minor and L. gibba whole plant material as NF <ref type="bibr" coords="4,167.08,374.19,108.58,9.30" target="#b48">(EFSA NDA Panel, 2022)</ref>.</s><s coords="4,284.86,374.19,239.48,9.30;4,70.86,385.83,453.48,9.61;4,70.87,398.11,453.50,9.30;4,70.87,410.07,453.47,9.30;4,70.87,421.72,300.25,9.61">In its scientific opinion, the Panel concluded that the heat-treated L. minor and L. gibba whole plant material, in consideration of its proposed uses and the concentration of manganese as compared to the normally present concentration of manganese in other leafy vegetables, may be of safety concern, and that therefore, the safety of the heat-treated L. minor and L. gibba whole plant material could not be established.</s></p><p><s coords="4,85.04,433.68,439.31,9.61;4,70.87,445.90,200.75,9.30">Furthermore, EFSA assessed previously the safety of Wolffia arrhiza and W. globosa as a traditional food (TF) from a third country <ref type="bibr" coords="4,210.44,445.90,56.44,9.30">(EFSA, 2021)</ref>.</s><s coords="4,275.47,445.90,248.91,9.30;4,70.87,457.55,453.49,9.61;4,70.87,469.83,63.31,9.30">The TF consists of fresh plants belonging to the species W. arrhiza and W. globosa, which have been consumed for more than 25 years in Asia (Myanmar, Laos and Thailand).</s><s coords="4,137.59,469.83,339.30,9.30">In its technical report, EFSA did not raise any duly reasoned safety objection.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p><s coords="4,113.39,492.30,146.25,11.15">Data and methodologies</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Data</head><p><s coords="4,85.04,535.54,439.30,9.30;4,70.87,547.50,397.52,9.30">The safety assessment of this NF is based on data supplied in the application and information submitted by the applicant following EFSA's requests for supplementary information.</s><s coords="4,474.91,547.50,49.43,9.30;4,70.87,559.46,392.43,9.30">During the assessment, the Panel identified additional data that were not included in the application.</s></p><p><s coords="4,85.04,571.42,439.30,9.30;4,70.87,583.38,382.91,9.30;4,453.83,581.38,4.04,6.20;4,457.91,583.38,3.01,9.30">Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469 2 .</s></p><p><s coords="4,85.04,595.35,439.29,9.30;4,70.87,607.31,437.04,9.30">A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application <ref type="bibr" coords="4,389.36,607.31,113.81,9.30" target="#b44">(EFSA NDA Panel, 2016)</ref>.</s><s coords="4,514.09,607.31,10.26,9.30;4,70.87,619.27,453.48,9.30;4,70.87,631.18,453.48,9.30;4,70.87,643.14,144.17,9.30">As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data, (including both data in favour and not in favour) that are pertinent to the safety of the NF.</s></p><p><s coords="4,85.04,655.10,439.27,9.30;4,70.87,667.06,155.46,9.30">This NF application includes a request for protection of proprietary data in accordance with Article 26 of Regulation (EU) 2015/2283.</s><s coords="4,231.59,667.06,292.78,9.30;4,70.87,679.02,453.50,9.30;4,165.60,756.05,117.10,7.44">The data requested by the applicant to be protected comprise: compositional data, stability data, ileal digestion analysis, proteomic analysis, endophytic bacteria  <ref type="bibr" coords="4,165.60,756.05,117.10,7.44">OJ L 351, 30.12.2017, pp. 64-71.</ref></s><s coords="5,70.87,72.72,453.50,9.61;5,70.87,85.00,67.19,9.30">screening analyses, bacterial reverse mutation test <ref type="bibr" coords="5,321.56,73.03,67.73,9.30">(V ertesi, 2021)</ref>, in vitro micronucleus test <ref type="bibr" coords="5,70.87,85.00,62.48,9.30" target="#b51">(Fekete, 2021)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Methodologies</head><p><s coords="5,85.04,126.95,439.32,9.30;5,70.87,138.91,453.46,9.30;5,70.87,150.87,92.21,9.30">The assessment follows the methodology set out in the EFSA guidance on NF applications (EFSA NDA Panel, 2016) and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee.</s><s coords="5,166.85,150.87,357.50,9.30;5,70.87,162.84,404.17,9.30">The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of the Commission Implementing Regulation (EU) 2017/2469.</s></p><p><s coords="5,85.04,174.80,439.35,9.30;5,70.87,186.76,453.50,9.30;5,70.87,198.67,80.15,9.30">Additional information that was not included in the application was retrieved by literature search following a search strategy and standard operating procedure as described by <ref type="bibr" coords="5,471.17,186.76,53.20,9.30;5,70.87,198.67,75.56,9.30" target="#b40">Dibusz and Vejvodova (2020)</ref>.</s></p><p><s coords="5,85.04,210.63,439.34,9.30;5,70.87,222.59,453.44,9.30;5,70.87,234.55,100.49,9.30">This assessment concerns only the risks that might be associated with consumption of the NF under the proposed conditions of use, and is not an assessment of the efficacy of the NF with regard to any claimed benefit.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Assessment</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Introduction</head><p><s coords="5,85.04,300.26,439.25,9.30;5,70.87,311.99,323.83,9.96">In accordance with Article 3 of the NF Regulation (EU) 2015/2283, the NF falls under the category 'food consisting of, isolated from or produced from plants and their parts'.</s></p><p><s coords="5,85.04,324.18,439.30,9.30;5,70.87,335.83,453.48,9.61;5,70.87,347.88,132.97,9.96">The NF, which is the subject of the application, is water lentil protein concentrate from a mixture of L. gibba and L. minor (Lemna protein concentrate) obtained after separation of the protein fraction of the plant material from fibres.</s><s coords="5,207.61,347.88,316.71,9.96;5,70.87,360.07,297.18,9.30">The protein content of the NF is approximately 64%, and fibre, fat and ash account for 11%, 8% and 6% of its composition, respectively.</s><s coords="5,371.96,360.07,152.40,9.30;5,70.87,372.03,321.48,9.30">The NF is proposed to be used as an ingredient in a variety of food products and as a food supplement.</s><s coords="5,396.96,372.03,127.38,9.30;5,70.87,383.94,371.68,9.30">The target population is the general population when used as a food ingredient and adults for food supplements.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Identity of the NF</head><p><s coords="5,85.04,425.89,439.27,9.30;5,70.87,437.53,98.99,9.61">The NF is a protein concentrate produced from a mixture of two water lentil species, namely L. gibba and L. minor.</s><s coords="5,174.39,437.53,349.96,9.61;5,70.87,449.59,356.30,9.96">L. gibba and L. minor are 2 out of the 38 species of water lentils, which are monocotyledonous aquatic plants represented by species of five genera (i.e.</s><s coords="5,432.96,449.50,91.39,9.61;5,70.87,461.46,453.50,9.61;5,70.87,473.74,56.70,9.30">Spirodela, Landoltia, Lemna, Wolffiella and Wolffia) belonging to the Araceae family <ref type="bibr" coords="5,385.45,461.78,106.60,9.30" target="#b38">(Cabrera et al., 2008;</ref><ref type="bibr" coords="5,499.52,461.78,24.85,9.30;5,70.87,473.74,51.96,9.30" target="#b75">Wang et al., 2010)</ref>.</s><s coords="5,131.07,473.74,393.24,9.30;5,70.87,485.70,453.54,9.30;5,70.87,497.61,58.45,9.30">Water lentil species are reproduced predominantly via asexual reproduction, i.e. budding, and they are distributed throughout wide geographic areas and climatic zones <ref type="bibr" coords="5,421.56,485.70,82.46,9.30" target="#b61">(Leng et al., 1995;</ref><ref type="bibr" coords="5,507.85,485.70,16.56,9.30;5,70.87,497.61,53.71,9.30" target="#b39">Cao et al., 2018)</ref>.</s><s coords="5,133.68,497.38,390.63,9.96;5,70.87,509.25,193.33,10.05">The NF is a green powder that is extracted from a mixture of plant species of &gt; 70% L. gibba and &lt; 30% L. minor, respectively.</s><s coords="5,269.80,509.57,254.60,9.30;5,70.87,521.53,239.54,9.30">The identification of the plant species is performed by visual inspection based on macroscopic characteristics.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Production process</head><p><s coords="5,85.04,563.49,439.36,9.30;5,70.87,575.45,359.86,9.30">According to the information provided, the NF is produced in line with Good Manufacturing Practice (GMP, FSSC 22000) and Hazard Analysis Critical Control Points (HACCP) principles.</s></p><p><s coords="5,85.04,587.09,322.90,9.61">The cultivation of Lemna plants used for the production of the NF (i.e.</s><s coords="5,412.50,587.09,111.86,9.61;5,70.86,599.37,267.28,9.30">L. gibba and L. minor) is carried out in basins in greenhouses without using pesticides.</s><s coords="5,341.23,599.37,183.08,9.30;5,70.86,611.33,453.45,9.30;5,70.86,623.01,224.33,9.96">Following a request from EFSA to improve microbiological quality and to control growth of algae, yeasts and fungi, the applicant introduced water filtering and UV treatment of the cultivation water.</s><s coords="5,299.05,623.24,225.36,9.30;5,70.86,634.88,453.50,9.61;5,70.86,647.16,389.15,9.30">Moreover, the nutrient concentrations in the water, the pH and temperature of the water in which Lemna plants are grown are monitored during the entire period of the cultivation of water lentils and the pH is kept within a range of 5.5-6.5.</s><s coords="5,464.37,647.16,59.95,9.30;5,70.87,658.81,453.46,9.61;5,70.87,671.09,128.92,9.30">The applicant noted that Lemna plants used for the production of the NF samples are cultivated in the Netherlands between April and November.</s><s coords="5,202.96,670.77,321.42,9.61;5,70.87,683.05,24.68,9.30">Lemna plants are processed in batches using a dedicated biorefinery pilot plant.</s><s coords="5,99.67,683.05,261.13,9.30">The plants are washed with tap water prior to processing.</s><s coords="5,364.82,682.73,159.56,9.61;5,70.87,695.01,331.87,9.30">The protein content of Lemna plant material is extracted from whole plants with water under alkaline conditions.</s><s coords="5,405.69,695.01,118.67,9.30;5,70.87,706.74,453.41,9.96">The protein fraction initially is separated mechanically from insoluble fibres, and then precipitated under acidic conditions.</s><s coords="5,70.87,718.88,336.64,9.30">Coagulated protein (protein gel) is separated from the liquid mechanically.</s><s coords="5,412.09,718.88,112.26,9.30;5,70.87,730.84,122.29,9.30">The protein gel is stored awaiting further processing.</s><s coords="5,196.61,730.61,327.81,9.96;5,70.87,742.80,30.16,9.30">The final product, in powder form, is obtained by pasteurisation and spray drying.</s><s coords="5,103.80,742.80,283.01,9.30">Food grade bags or containers are used to pack and store the NF.</s></p><p><s coords="6,85.04,73.03,439.34,9.30;6,70.87,85.00,41.67,9.30">The Panel considers that the production process is sufficiently described and does not raise safety concerns.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Compositional data</head><p><s coords="6,85.04,126.63,439.32,9.61;6,70.87,138.68,311.37,9.96">The NF is the protein concentrate from L. gibba (70-100%) and L. minor (0-30%) and is composed on average of 64% protein, 11% fibre, 8% fat and 6% ash.</s></p><p><s coords="6,85.04,150.87,439.33,9.30;6,70.87,162.84,453.47,9.30;6,70.87,174.80,238.94,9.30">In order to confirm that the manufacturing process is reproducible and adequate to produce on a commercial scale, a product with the required characteristics, compositional data of the NF were provided for several independently produced batches.</s><s coords="6,313.91,174.48,210.46,9.61;6,70.87,186.76,453.48,9.30;6,70.87,198.67,51.42,9.30">The samples were obtained from Lemna plants cultivated from 7 to 13 days and collected within the span of 5 months (i.e. from July until the end of November).</s></p><p><s coords="6,85.04,441.14,439.37,9.30;6,70.87,453.10,308.69,9.30">Further to proximate parameters (Table <ref type="table" coords="6,268.50,441.14,4.04,9.30" target="#tab_2">1</ref>), nutritionally relevant components and other naturally occurring compounds were quantitatively characterised in the NF (i.e.</s><s coords="6,383.30,453.10,141.00,9.30;6,70.87,465.06,223.83,9.30">vitamins, minerals, amino acids, fatty acids, carotenoids and antinutritional factors).</s></p><p><s coords="6,85.04,477.03,439.30,9.30;6,70.87,488.76,453.52,9.96;6,70.86,500.95,34.93,9.30">Analytical data on the mineral content of the NF, including trace elements and heavy metals were initially provided by the applicant for the same five representative batches (batches #1-#5, data not shown).</s><s coords="6,109.93,500.72,350.71,9.96">Several trace elements were found in high concentrations in the final product.</s><s coords="6,464.76,500.95,59.54,9.30;6,70.86,512.91,453.48,9.30;6,70.86,524.56,453.48,9.61;6,70.86,536.78,316.59,9.30">Upon request from EFSA to reduce concentrations of several trace elements in the NF, the applicant modified the fertiliser composition, standardised the pH range <ref type="bibr" coords="6,296.39,524.87,40.09,9.30">(5.5-6.5)</ref> of the water in which Lemna plants are grown and introduced a washing step with tap water after harvesting.</s><s coords="6,391.69,536.78,132.68,9.30;6,70.86,548.51,453.54,9.96;6,70.86,560.70,223.59,9.30">Therefore, compositional data for proximates and minerals were provided for additional five batches (batches #6-#10) produced under the modified cultivation conditions (Table <ref type="table" coords="6,282.33,560.70,4.04,9.30" target="#tab_3">2</ref>).</s><s coords="7,85.04,328.72,439.30,9.30;7,70.87,340.45,453.50,9.96;7,70.87,352.64,45.64,9.30">Regarding information on vitamin content in the NF, the applicant provided analytical data on the concentration of vitamins in the five batches initially submitted (batches #1-#5), which are presented in Table <ref type="table" coords="7,108.06,352.64,4.23,9.30" target="#tab_5">3</ref>.</s></p><p><s coords="7,85.04,675.62,439.33,9.96;7,70.86,687.81,245.15,9.30">Moreover, the concentration of a number of carotenoids in the NF was investigated in the five batches that were initially produced (batches #1-#5).</s><s coords="7,320.71,687.81,203.66,9.73;7,70.87,699.77,453.46,9.30;7,70.87,711.73,266.02,9.30">In particular, the concentration of b-carotene ranged from 239 to 621 mg/kg and that of xanthophylls ranged from 1330 to 2130 mg/kg of which were 1050-1650 mg/kg lutein and 40-54 mg/kg zeaxanthin.</s></p><p><s coords="7,85.04,723.70,439.33,9.30;7,70.87,735.66,59.98,9.30">The amino acid profile of the NF was investigated in the initially produced batches #1-#5 (Appendix A).</s><s coords="8,85.04,72.81,426.06,9.96">The fatty acid profile of the NF was also reported for five batches of the NF (batches #1-#5).</s><s coords="8,515.22,73.03,9.13,9.30;8,70.87,85.00,453.47,9.73;8,70.87,96.96,453.48,9.30;8,70.87,108.92,239.28,9.30">In total, 64 fatty acids were measured with a-linolenic acid being the most predominant (average concentration 34.7% of the fat) followed by palmitic acid (18.8% of the fat), linoleic acid (12.5% of the fat) and ante-isopalmitic acid (10% of the fat).</s><s coords="8,315.44,108.92,208.91,9.30;8,70.87,120.88,138.37,9.30">The fraction of the saturated fatty acids was calculated at 40.6% of the fat.</s><s coords="8,213.22,120.88,311.09,9.30;8,70.87,132.85,453.50,9.30;8,70.87,144.81,24.78,9.30">The unsaturated fatty acids were 59.4% of the fat, from which 4.6% consisted of monounsaturated (MUFA), 54.1% of polyunsaturated (PUFA) and 0.7% of trans-fatty acids.</s></p><p><s coords="8,85.04,156.77,192.45,9.30">The presence of antinutritional factors (i.e.</s><s coords="8,281.87,156.77,242.51,9.30;8,70.87,168.45,355.07,9.96">oxalic acid, phytic acid, trypsin inhibitors and tannins) was reported in five batches of the NF (batches #1-#5) as presented in Table <ref type="table" coords="8,417.54,168.67,4.20,9.30" target="#tab_6">4</ref>.</s></p><p><s coords="8,85.04,319.87,439.29,9.96;8,70.87,332.06,221.78,9.30">The applicant provided also analytical data for five batches of the NF on microbiological parameters (batches #11-#16) and other contaminants (i.e.</s><s coords="8,297.64,332.06,226.71,9.30;8,70.87,344.03,237.38,9.30">dioxins, cyanotoxins, mycotoxins, nitrates and the process contaminant lysino-alanine) (batches #1-#5).</s></p><p><s coords="8,85.04,355.99,439.29,9.30;8,70.87,367.72,266.74,9.96">The applicant provided batch to batch testing for microbiological parameters in the initially submitted five batches (batches #1-#5, data not shown).</s><s coords="8,342.65,367.95,181.69,9.30;8,70.87,379.91,134.24,9.30">Several microbiological parameters were found in high concentrations.</s><s coords="8,210.50,379.91,313.84,9.30;8,70.87,391.64,453.45,9.96;8,70.87,403.52,178.53,9.61">Upon request from EFSA to improve the microbiological quality, the applicant modified the production process by adding a step of filtering and UV treatment of the water in which Lemna plants are cultivated.</s><s coords="8,255.74,403.84,268.61,9.30;8,70.87,415.74,453.48,9.30;8,70.87,427.70,42.46,9.30">The applicant provided microbiological parameters for six additional batches (batches #11-#16) of the NF produced following the updated production process (Table <ref type="table" coords="8,101.20,427.70,4.04,9.30" target="#tab_7">5</ref>).</s><s coords="8,117.07,427.70,407.33,9.30;8,70.87,439.67,178.81,9.30">The Panel noted that for total colony counts two batches of the NF (batches #11 and #13) were above specification limits (Table <ref type="table" coords="8,237.49,439.67,4.06,9.30" target="#tab_9">6</ref>).</s><s coords="9,85.04,366.65,439.36,9.96;9,70.87,378.84,56.20,9.30">Nitrate was measured in the initial five batches (batches #1-#5) and found in a range of 3310-5280 mg/kg.</s><s coords="9,130.56,378.84,393.84,9.30;9,70.87,390.80,453.52,9.30;9,70.87,402.76,337.10,9.30">Following a request from EFSA to provide rationale for this high nitrate content in the NF, the applicant stated that the production process was modified and a washing step of the plant material with tap water was introduced that removes adherent cultivation water.</s><s coords="9,413.86,402.76,110.49,9.30;9,70.87,414.49,453.48,9.96;9,70.87,426.68,324.18,9.30">Therefore, the applicant provided additional analytical data for nitrate content in five batches (batches #6-#10) in which the nitrate concentration was found to range between 1600 and 2800 mg/kg.</s></p><p><s coords="9,85.04,438.65,250.30,9.30">Lysino-alanine concentration was measured in the NF.</s><s coords="9,341.12,438.65,183.21,9.30;9,70.87,450.61,316.67,9.30">Lysino-alanine is a process contaminant formed upon alkaline/heat treatment of protein-containing products.</s><s coords="9,393.67,450.61,130.65,9.30;9,70.87,462.51,453.53,9.30;9,70.87,474.48,453.54,9.30;9,70.87,486.44,262.56,9.30">The concentration of lysinoalanine in the NF, found in the range of 177-503 mg/kg, is similar or lower than the concentration reported in other food sources such as soy protein isolate (370-1300 mg/kg), eggs (160-1820 mg/kg) and sodium caseinate (430-6900 mg/kg) <ref type="bibr" coords="9,254.38,486.44,74.33,9.30" target="#b54">(Friedman, 1999)</ref>.</s></p><p><s coords="9,85.04,498.40,426.70,9.30">Accumulation of toxins from cyanobacteria in water lentils may represent a risk to human health.</s><s coords="9,515.22,498.40,9.13,9.30;9,70.87,510.04,453.46,9.61;9,70.87,522.32,154.43,9.30">In particular, microcystins have been reported to accumulate in Lemna and Wolffia species <ref type="bibr" coords="9,486.93,510.36,37.39,9.30;9,70.87,522.32,53.99,9.30" target="#b63">(Mitrovic et al., 2005;</ref><ref type="bibr" coords="9,128.64,522.32,91.93,9.30" target="#b68">Saqrane et al., 2007)</ref>.</s><s coords="9,229.10,522.32,295.25,9.30;9,70.87,534.29,453.49,9.30;9,70.87,546.02,320.94,9.96">The potential presence of these toxins in the NF as a result of the hydroponic nature of the cultivation was assessed based on the concentrations of microcystins, nodularins, gonyautoxins, saxitoxin and anatoxin-a in the final product.</s><s coords="9,396.28,546.25,128.08,9.30;9,70.87,558.15,266.01,9.30">None of the toxins tested in the NF was found above the limit of detection (LOD: 2.4-7.8</s><s coords="9,340.55,558.15,133.60,9.73">lg/kg for the different toxins).</s></p><p><s coords="9,85.04,570.12,302.24,9.30">Moreover, analyses were provided by the applicant for mycotoxins.</s><s coords="9,391.86,570.12,132.48,9.30;9,70.87,582.08,453.48,9.73;9,70.87,594.04,391.18,9.30">All parameters analysed were found below limit of quantification (LOQ: 1-200 lg/kg for the different toxins) and below the regulatory limits established for similar food categories (Regulation (EC) No 1881/2006<ref type="foot" coords="9,451.28,592.04,4.04,6.20" target="#foot_3">4</ref> ).</s></p><p><s coords="9,85.04,606.00,439.31,9.30;9,70.87,617.97,139.16,9.30">Pesticides were analysed in one batch of the NF and found below the limit of quantification of the GC-MS/MS method applied (i.e.</s><s coords="9,213.39,617.74,66.90,9.96">&lt; 0.01 mg/kg).</s></p><p><s coords="9,85.04,629.93,439.33,9.30;9,70.87,641.57,364.20,9.61">The applicant also provided data for dioxins, dioxin-like polychlorinated biphenyls (DL-PCBs) and non-dioxin-like polychlorinated biphenyls (NDL-PCBs) in Lemna plants (5 batches).</s><s coords="9,438.97,641.89,85.37,9.30;9,70.87,653.80,414.70,9.30;9,485.63,657.91,35.69,6.20;9,521.40,653.80,3.01,9.30;9,70.87,665.76,62.70,9.30">Dioxins were found to be on average 0.156 pg TEQ/g, DL-PCBs 0.065 pg TEQ/g and NDL-PCBs 3 ng/g (TEQ WHO-2005 , upper bound).</s></p><p><s coords="9,85.04,677.72,439.35,9.30;9,70.87,689.68,453.45,9.30;9,70.87,701.42,453.50,9.96;9,70.87,713.61,453.46,9.30;10,70.87,73.03,41.17,9.30;10,112.14,71.03,6.93,6.20;10,123.36,73.03,29.09,9.30">Based on literature data retrieved by EFSA <ref type="bibr" coords="9,308.24,677.72,179.45,9.30" target="#b58">(Kittiwongwattana and Thawai, 2015;</ref><ref type="bibr" coords="9,495.78,677.72,28.61,9.30;9,70.87,689.68,56.59,9.30" target="#b55">Gilbert et al., 2018)</ref> reporting the presence of endophytic bacteria in water lentils and upon request from EFSA, the applicant provided experimental data on the presence of endophytic bacteria in five fresh water lentil batches using 16S rDNA sequencing and analysing the sequence against the validated MicroSEQ ® library.</s><s coords="10,156.76,72.72,367.53,9.61;10,70.87,85.00,266.91,9.30">In particular, the presence of bacteria of the genus Microbacterium was reported, however, these bacteria were not identified at species level.</s><s coords="10,341.69,84.68,89.00,9.61">Microbacterium spp.</s><s coords="10,434.66,85.00,89.68,9.30;10,70.87,96.96,263.33,9.30">has been associated with the production of indole alkaloids <ref type="bibr" coords="10,241.91,96.96,87.56,9.30" target="#b55">(Gilbert et al., 2018)</ref>.</s><s coords="10,337.60,96.96,186.75,9.30;10,70.87,108.92,370.32,9.30">The applicant, therefore, provided data on the concentration of indole acetic acid (IAA) and indole lactic acid (ILA) in the NF.</s><s coords="10,445.38,108.92,78.97,9.30;10,70.87,120.88,285.70,9.30">Eleven batches of the NF and one fresh water lentil sample were analysed for IAA.</s><s coords="10,360.28,120.88,164.09,9.30;10,70.87,132.85,378.05,9.30">For all samples, IAA was found to be below the maximum level of 0.1 mg/kg fresh weight set-out for similar foods (e.g.</s><s coords="10,453.65,132.85,70.70,9.30;10,70.87,144.81,190.95,9.30;10,261.86,142.80,4.04,6.20;10,265.89,144.81,3.01,9.30">leaf vegetables) according to Regulation (EC) No 396/2005 <ref type="foot" coords="10,261.86,142.80,4.04,6.20" target="#foot_5">5</ref> .</s><s coords="10,273.26,144.58,251.09,9.96;10,70.87,156.77,58.42,9.30">ILA was measured in five batches of the NF and it was not detected.</s></p><p><s coords="10,85.04,168.68,439.33,9.30;10,70.87,180.64,136.18,9.30">The Panel considers that the information provided on the composition of the NF is sufficient and does not raise safety concerns.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.1.">Stability</head><p><s coords="10,85.04,222.02,439.29,9.30;10,70.87,233.93,126.14,9.30">The applicant performed stability testing with four independently produced batches of the NF under standard storage conditions.</s><s coords="10,201.37,233.93,322.99,9.30;10,70.87,245.89,127.15,9.30">The tests were carried out at 25°C in dark sealed packages at 40-60% RH for a period of 6 months.</s><s coords="10,201.49,245.89,322.88,9.30;10,70.87,257.85,71.44,9.30">The batches were analysed for microbiological stability and lipid oxidation over this period.</s></p><p><s coords="10,85.04,269.82,439.29,9.30;10,70.87,281.78,146.20,9.30">These studies showed no significant changes for the majority of the microbiological parameters tested after 1, 1.5 and 6 months.</s><s coords="10,220.36,281.78,303.95,9.30;10,70.87,293.74,431.42,9.30">However, an increase in total colony counts was observed after 1 and 6 months and two batches of the NF (batches #1 and #2) exceeded the specification limit.</s><s coords="10,507.85,293.74,16.49,9.30;10,70.87,305.70,453.44,9.30;10,70.87,317.66,453.50,9.30;10,70.87,329.57,453.50,9.30;10,70.87,341.21,453.50,10.05;10,70.86,353.49,351.25,9.30">The applicant noted that the batches with total colony count above the specification limits were produced under previous production process practices (the production facility was disinfected using chlorine bleach) whereas the other two batches (batches #3 and #4), produced following the production process as finally established (applying filtering and UV treatment of the water in which Lemna plants are cultivated), did not exceed specification limits for microbiological parameters.</s><s coords="10,425.08,353.49,99.29,9.30;10,70.86,365.46,453.48,9.30;10,70.86,377.42,83.17,9.30">The applicant provided results for three additional batches on microbiological stability of the NF for 1.5 to 2.5 months under the storage conditions.</s><s coords="10,157.89,377.42,366.51,9.30;10,70.86,389.38,453.53,9.30;10,70.86,401.34,385.52,9.30">Total colony counts for one out of the three batches (batches #12, #13 and #16) tested exceeded specification limits after 2.5 months of storage under normal conditions, however, it was noted that this batch was above specification limits also before storage (batch #13).</s></p><p><s coords="10,85.04,413.30,439.26,9.30;10,70.86,425.21,453.44,9.30;10,70.86,437.17,221.41,9.30">The applicant tested additionally the lipid oxidation of the same four batches of the NF, originally provided, for 1.5 and 6 months, based on the rationale that it consists of 9% of fat, of which 54.1% are PUFA, which are vulnerable for lipid oxidation.</s><s coords="10,295.99,437.17,228.38,9.30;10,70.86,449.13,96.77,9.30">The testing was performed by analysing changes in the fatty acid profiles.</s><s coords="10,171.32,449.13,353.02,9.30;10,70.86,461.10,328.77,9.30;10,399.68,459.09,4.04,6.20;10,403.71,461.10,3.01,9.30">The amount of trans fatty acids for the period tested was found lower than the maximum limit of 2% as proposed in the Regulation (EC) No 1925/2006 <ref type="foot" coords="10,399.68,459.09,4.04,6.20" target="#foot_6">6</ref> .</s><s coords="10,411.14,461.10,113.24,9.30;10,70.87,473.06,453.46,9.30;10,70.87,485.02,127.16,9.30">The applicant stated that the peroxide value was not determined due to the green colour of the product that interferes with measured oxidation markers.</s></p><p><s coords="10,85.04,496.98,439.34,9.30;10,70.87,508.95,453.46,9.30;10,70.87,520.85,415.56,9.30">The protein concentrate is intended to be added in different food categories including powdered drink bases, cereal bars, bread and rolls; therefore, the applicant provided, upon request from EFSA, data on stability testing performed under baking temperature and acidic conditions (pH 4).</s><s coords="10,491.24,520.85,33.13,9.30;10,70.87,532.81,373.34,9.30">The NF was added in bread at 5% and was compared to bread with 5% of potato protein.</s><s coords="10,448.15,532.81,76.19,9.30;10,70.87,544.78,453.46,9.30;10,70.87,556.74,153.42,9.30">The tomato soup was prepared to contain 1% of the NF and compared to tomato soup with 1% of potato protein under acidic pH conditions (pH 4. <ref type="bibr" coords="10,193.68,556.74,26.24,9.30">1-4.2)</ref>.</s><s coords="10,228.81,556.74,211.05,9.30">The formation of processing contaminants (i.e.</s><s coords="10,444.36,556.74,80.08,9.30;10,70.87,568.70,370.03,9.30">acrylamide, furan, methylfurans and 3-MCPD) was determined in both bread and tomato soup.</s><s coords="10,447.87,568.70,76.47,9.30;10,70.87,580.66,453.47,9.30;10,70.87,592.39,453.48,9.96;10,70.87,604.59,17.12,9.30">The amounts of processing contaminants found in both food commodities containing potato protein or the NF were below the limits of quantification [acrylamide &lt; 150 lg/kg; furan &lt; 10 lg/kg; methylfurans &lt; 20 lg/ kg].</s><s coords="10,92.98,604.59,431.44,9.73;10,70.87,616.26,390.55,9.96">3-MCPD was found in amounts of 12 and 13 lg/kg in bread with the NF and potato protein, respectively, and below the limits of quantification in the tomato soup [LOQ &lt; 10 lg/kg].</s></p><p><s coords="10,85.04,628.45,439.31,9.30;10,70.87,640.42,261.15,9.30">The Panel considers that the data provided sufficient information with respect to the stability of the NF for the shelf-life of 6 months proposed by the applicant.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Specifications</head><p><s coords="10,85.04,682.37,234.43,9.30">The specifications of the NF are presented in Table <ref type="table" coords="10,311.02,682.37,4.23,9.30" target="#tab_9">6</ref>.</s></p><p><s coords="11,85.04,702.50,439.28,9.30;11,70.87,714.46,136.18,9.30">The Panel considers that the information provided on the specifications of the NF is sufficient and does not raise safety concerns.</s><s coords="11,277.57,653.05,81.66,8.37;11,73.87,667.11,73.45,8.37;11,277.57,666.90,45.45,8.97;11,70.87,683.59,164.84,7.44">Not detected in 25 g Yeasts and moulds &lt; 10 CFU/g LAL: Lysino-alanine; CFU: colony forming units.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.6.</head><p><s coords="12,113.78,78.45,265.93,11.15;12,70.87,103.09,31.13,10.22">History of use of the NF and/or of its source 3.6.1.</s><s coords="12,113.95,103.09,152.20,10.22">History of use of the source</s></p><p><s coords="12,85.04,121.28,439.29,9.30;12,70.87,132.92,192.39,9.61">The consumption of water lentil species as protein source for humans is reported in several Asian countries and restricted to Wolffia species.</s><s coords="12,267.87,132.92,256.50,9.61;12,70.87,145.15,453.50,9.30;12,70.87,157.11,165.24,9.30">In Thailand, W. globosa is available in local markets and sold rootless as vegetable with the local names khai nam, kai-pum or kai nhae (literally meaning: water-eggs) <ref type="bibr" coords="12,126.78,157.11,104.61,9.30" target="#b37">(Appenroth et al., 2018)</ref>.</s><s coords="12,239.63,156.79,284.74,9.61;12,70.87,168.84,453.41,9.96;12,70.87,181.03,246.95,9.30"><ref type="bibr" coords="12,239.63,157.11,87.68,9.30">Bhanthumnavin and</ref> McGarry reported that W. arrhiza, known as 'khai-nam' in Thailand, was consumed for many generations in Myanmar, Laos and Northern Thailand as protein source <ref type="bibr" coords="12,151.48,181.03,161.60,9.30" target="#b38">(Bhanthumnavin and McGarry, 1971)</ref>.</s><s coords="12,321.73,181.03,202.63,9.30;12,70.87,192.68,453.44,9.61;12,70.87,204.96,309.03,9.30">Further investigations performed on the plant traditionally consumed in the Eastern world suggest that this was W. globosa instead of W. arrhiza mentioned by <ref type="bibr" coords="12,135.78,204.96,239.39,9.30">Bhanthumnavin and McGarry (Appenroth et al., 2017)</ref>.</s><s coords="12,384.04,204.96,140.33,9.30;12,70.87,216.92,453.45,9.30;12,70.87,228.88,453.47,9.30;12,70.87,240.79,118.94,9.30">Along with its long history as a food source in Southeast Asia, it is recognised as an edible vegetable for humans in several databases, including the United States Department of Agriculture (USDA, 2023) Germplasm Resources information Network (GRIN) database.</s><s coords="12,194.68,240.47,329.68,9.61;12,70.87,252.75,198.78,9.30">The Panel noted that also L. gibba is reported in the GRIN database as edible vegetable for humans (USDA, 2023).</s><s coords="12,274.62,252.43,249.74,9.61;12,70.87,264.71,208.99,9.30">Other databases classify Lemna and Wolffia species as edible plants based on book citations (e.g.</s><s coords="12,286.98,264.71,129.62,9.30">Plants for future (pfaf.org),</s><s coords="12,423.78,264.71,100.62,9.30;12,70.87,276.67,104.20,9.30">Useful Tropical Plants (tropical.theferns.info)).</s></p><p><s coords="12,85.04,288.41,439.30,9.96">Water lentil species have been used as feed for fish and poultry in Southeast Asia for centuries.</s><s coords="12,70.87,300.60,453.53,9.30;12,70.87,312.56,366.24,9.30">Moreover, water lentils have been used in a number of feed trial studies as exclusive feed preparation, ingredient or replacement of common feed components <ref type="bibr" coords="12,318.76,312.56,113.63,9.30" target="#b56">(Goopy and Murray, 2003)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.2.">History of use of the NF</head><p><s coords="12,85.04,353.89,158.17,9.30">There is no history of use of the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.7.</head><p><s coords="12,113.78,376.31,313.91,11.15">Proposed uses and use levels and anticipated intake</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.1.">Target population</head><p><s coords="12,85.04,419.14,439.33,9.30;12,70.87,431.11,212.01,9.30">The target population proposed by the applicant is the general population when the NF is used as a food ingredient in several food categories (i.e.</s><s coords="12,287.83,431.11,236.51,9.30;12,70.87,443.07,91.14,9.30">powdered drink bases, cereal bars, bread and rolls, Asian-style noodles).</s><s coords="12,166.28,443.07,358.07,9.30;12,70.87,455.03,53.66,9.30">The target population is restricted to adults only for intake of the NF as a food supplement.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.2.">Proposed uses and use levels</head><p><s coords="12,85.04,496.36,439.30,9.30;12,70.87,508.32,192.08,9.30">The applicant intends to market the NF as ingredient to be added in a range of food categories, at maximum use levels as indicated in Table <ref type="table" coords="12,255.29,508.32,3.83,9.30" target="#tab_10">7</ref>.</s></p><p><s coords="12,85.04,649.49,439.36,9.30;12,70.87,661.45,150.49,9.30">The NF is also intended to be marketed as a food supplement, at a maximum daily intake of 1 g for individuals above 18 years old.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.3.">Anticipated intake of the NF</head><p><s coords="12,85.04,702.84,439.31,9.30;12,70.87,714.80,428.31,9.30;12,499.07,712.73,4.04,6.20">EFSA performed an intake assessment of the anticipated daily intake of the NF based on the applicant's proposed uses and maximum proposed use levels (Table <ref type="table" coords="12,383.81,714.80,4.04,9.30" target="#tab_10">7</ref>), using the DietEx tool. <ref type="foot" coords="12,499.07,712.73,4.04,6.20" target="#foot_7">7</ref></s><s coords="12,507.86,714.80,16.49,9.30;12,70.87,726.70,345.84,9.30">The DietEx tool is based on individual data from EU dietary surveys <ref type="bibr" coords="12,355.63,726.70,56.36,9.30" target="#b42">(EFSA, 2011)</ref>.</s><s coords="12,420.60,726.70,103.78,9.30;13,70.87,73.03,453.44,9.30;13,70.87,85.00,255.29,9.30">The lowest and highest mean and 95th percentile estimated daily intake of the NF (on a mg/kg body weight (bw) basis), among the EU dietary surveys, are presented in Table <ref type="table" coords="13,317.76,85.00,4.20,9.30" target="#tab_11">8</ref>.</s><s coords="13,330.35,85.00,194.03,9.30;13,70.87,96.96,259.00,9.30">The highest intake was estimated for other children, at 55.6 mg/kg bw per day, at the 95th percentile.</s></p><p><s coords="13,85.04,108.92,439.31,9.30;13,70.87,120.65,395.70,9.96">The estimated daily intake of the NF for each population group from each EU dietary survey is available in the excel file annexed to this scientific opinion (under supporting information).</s></p><p><s coords="13,85.04,385.01,439.31,9.30;13,70.87,396.98,139.03,9.30">The applicant proposed a maximum daily intake for the NF from food supplements of 1 g for individuals above 18 years old.</s><s coords="13,214.58,396.98,309.74,9.30;13,70.87,408.94,453.47,9.30;13,70.87,420.90,174.05,9.30">Based on the selected default weights by EFSA Scientific Committee (2012), the proposed maximum intake of the NF for adults considering a body weight of 70 kg corresponds to 14.3 mg/kg bw per day.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.4.">Combined intake of the NF</head><p><s coords="13,85.04,462.23,439.33,9.30;13,70.87,474.19,453.50,9.30;13,70.87,486.16,40.14,9.30">The NF is intended for use as a food ingredient (target population: general population) and as a food supplement (target population: adults); therefore, combined intake of the NF is considered only in adults.</s><s coords="13,114.46,486.16,409.91,9.30;13,70.87,498.12,222.01,9.30">The combined exposure is calculated as the sum of the highest 95th percentile exposure and the maximum daily intake and reported in Table <ref type="table" coords="13,284.48,498.12,4.20,9.30">9</ref>.</s><s coords="13,70.87,517.11,440.81,9.30">Table <ref type="table" coords="13,101.54,517.11,4.93,9.30">9</ref>: Total intake of the NF resulting from its uses as an ingredient and as a food supplement</s></p><p><s coords="13,73.87,548.05,48.06,8.37;13,73.87,558.99,26.24,8.37;13,150.07,548.05,16.99,8.37;13,142.41,558.99,32.18,8.37;13,197.24,542.55,22.31,8.37;13,187.99,553.49,30.80,8.37;13,218.78,551.70,10.00,5.58;13,198.94,564.44,18.94,8.37">Population group Age (years) Body weight (a)  (kg)</s></p><p><s coords="13,246.78,537.05,34.25,8.37;13,281.03,535.26,10.21,5.58;13,294.29,537.05,48.13,8.37;13,242.19,548.05,104.84,8.37;13,244.80,558.99,99.66,8.37;13,275.70,569.93,37.80,8.37">Highest (b) P95 intake from the NF used as an ingredient (mg/kg bw per day)</s></p><p><s coords="13,357.51,537.05,86.38,8.37;13,357.51,548.05,65.33,8.37;13,357.51,558.99,89.71,8.37;13,357.51,569.93,54.30,8.37;13,411.82,568.14,9.58,5.58;13,480.19,537.05,22.49,8.37;13,472.31,548.05,27.89,8.37;13,500.26,546.20,10.21,5.58;13,466.07,558.99,50.67,8.37;13,471.06,569.94,37.80,8.37">Intake from the NF used as a food supplement (mg/kg bw per day) (c)   Total intake (d)  (mg/kg bw per day)</s></p><formula xml:id="formula_0" coords="13,73.87,584.64,91.25,8.97">Infants &lt;<label>1</label></formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.5.">Estimate of exposure to undesirable substances</head><p><s coords="14,85.04,91.18,439.26,9.30;14,70.87,103.14,453.54,9.30;14,70.87,115.10,28.37,9.30">Water lentils are known to take up and accumulate trace elements and contaminants from aquatic systems and therefore are considered as a suitable plant for phytoremediation <ref type="bibr" coords="14,439.08,103.14,85.33,9.30;14,70.87,115.10,23.64,9.30" target="#b59">(Landesman et al., 2010)</ref>.</s><s coords="14,103.37,115.10,420.96,9.30;14,70.87,127.06,453.51,9.30;14,70.87,138.97,453.46,9.30;14,70.87,150.93,230.52,9.30">In cases of uncontrolled cultivation conditions, and particularly when fertilisers, pesticides and other organic contaminants are present in high amounts in cultivation sites or in cases of algal/ microbial contamination of the water, high concentration of contaminants or toxins in those plants may pose a potential risk for human health <ref type="bibr" coords="14,241.85,150.93,54.82,9.30" target="#b60">(Leng, 1999)</ref>.</s><s coords="14,304.83,150.93,219.51,9.30;14,70.87,162.89,244.63,9.30">However, the NF presented in this application was cultivated under controlled conditions (see <ref type="bibr" coords="14,259.88,162.89,51.50,9.30">Section 3.3)</ref>.</s></p><p><s coords="14,85.04,174.85,439.36,9.30;14,70.87,186.82,453.48,9.30;14,70.87,198.78,453.50,9.30;14,70.87,210.74,76.25,9.30">EFSA calculated the intake of heavy metals and trace elements from the NF, which are highly dependent on the cultivation conditions, considering the specification levels for each element (Table <ref type="table" coords="14,515.22,186.82,4.56,9.30" target="#tab_9">6</ref>) and estimated total daily intake of the NF (as food ingredient and food supplement) for all population groups (Table <ref type="table" coords="14,134.93,210.74,4.06,9.30">9</ref>).</s><s coords="14,150.92,210.74,373.45,9.30;14,70.87,222.70,453.49,9.30;14,70.87,234.61,296.97,9.30">The Panel considers that exposure to heavy metals and trace elements from the NF is not expected to exceed established maximum levels and upper levels for any population group taking into account background dietary intake (SCF/NDA, 2006).</s><s coords="14,373.32,234.61,151.02,9.30;14,70.87,246.57,427.52,9.30">The assessment of the intake of manganese (Mn) from the NF, for which upper levels are not available, is provided in Section 3.9.</s></p><p><s coords="14,85.04,258.53,439.30,9.30;14,70.87,270.49,453.49,9.30;14,70.87,282.46,281.03,9.30">As accumulation of cyanobacteria toxins is reported in the literature <ref type="bibr" coords="14,389.82,258.53,95.21,9.30" target="#b63">(Mitrovic et al., 2005;</ref><ref type="bibr" coords="14,488.81,258.53,35.53,9.30;14,70.87,270.49,51.99,9.30" target="#b68">Saqrane et al., 2007)</ref>, exposure to microcystins from the NF was calculated using specifications for microcystins (&lt; 0.19 mg/kg, Table <ref type="table" coords="14,169.74,282.46,4.56,9.30" target="#tab_9">6</ref>) and estimated daily intake of the NF.</s><s coords="14,356.48,282.46,167.86,9.30;14,70.87,294.42,453.48,9.73;14,70.87,306.38,297.75,9.73">The highest exposure to microcystins from the NF was calculated for children, resulting in 0.01 lg/kg bw per day, which is below the tolerable daily intake (TDI) of 0.04 lg/kg bw per day (WHO, 2020).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.8.">Absorption, distribution, metabolism and excretion (ADME)</head><p><s coords="14,85.04,348.28,439.30,9.30;14,70.87,360.24,305.88,9.30">The applicant provided data on digestion and protein bioavailability from the NF which are discussed in Section 3.9 on Nutritional information and Section 3.10.2</s><s coords="14,380.12,360.24,70.94,9.30">on Human data.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.9.">Nutritional information</head><p><s coords="14,85.04,402.19,439.34,9.30;14,70.87,413.93,332.36,9.96">The applicant provided information on nutritional parameters of the NF which consists of up to 75% protein, 17% fibre, 11% fat and 12% ash (Section 3.5 Specifications).</s></p><p><s coords="14,85.04,425.89,439.33,9.96;14,70.87,438.08,60.83,9.30">The indispensable amino acid content in the NF was presented in five batches of the NF ( <ref type="bibr" coords="14,75.75,438.08,51.73,9.30">Appendix A)</ref>.</s><s coords="14,135.89,438.08,388.47,9.30;14,70.87,450.04,453.50,9.30;14,70.87,462.00,320.88,9.30">The concentrations of the indispensable amino acids in the NF protein were compared to those reported in commonly consumed food proteins <ref type="bibr" coords="14,327.85,450.04,77.27,9.30" target="#b53">(Friedman, 1996)</ref> and to the recommended amino acid scoring patterns from FAO (FAO, 2013) as shown in Table <ref type="table" coords="14,377.91,462.00,9.22,9.30" target="#tab_13">10</ref>.</s><s coords="15,85.04,72.72,439.28,9.61;15,70.87,84.68,93.54,9.61">The applicant performed an in vitro ileal digestibility analysis with the NF produced exclusively from L. gibba (one batch).</s><s coords="15,168.04,85.00,235.11,9.30">Crude protein content in the tested item was 63.9%.</s><s coords="15,406.77,85.00,117.57,9.30;15,70.87,96.96,257.33,9.30">First the digestibility in the stomach was simulated by adding pepsin at pH 3 for 1 h.</s><s coords="15,331.99,96.96,192.38,9.30;15,70.87,108.92,453.49,9.30;15,70.87,120.88,17.58,9.30">Then the digestibility of starch, protein and fat in the intestine was simulated by adding amylase, chymotrypsin, trypsin and lipase at pH 6.5 for 2 h.</s><s coords="15,92.30,120.88,216.08,9.30">The insoluble part was considered as indigested.</s><s coords="15,312.21,120.65,212.14,9.96;15,70.87,132.62,329.80,9.96">After filtration, the remaining protein content of the filtrate was determined and an ileal digestibility of 87% was calculated.</s></p><p><s coords="15,85.04,144.81,439.30,9.30;15,70.87,156.77,453.47,9.30;15,70.87,168.67,453.46,9.30">Upon request from EFSA to provide additional data on the digestibility of the NF, the applicant provided results from a cross-over, double blind, controlled human study designed to investigate the digestibility of the NF in humans compared to whey protein, which was used as a reference protein.</s><s coords="15,70.87,180.64,453.47,9.30;15,70.87,192.60,453.47,9.30;15,70.87,204.56,80.37,9.30">Subjects (12 healthy men and women) received two protein sources (doses equivalent to 20 g of protein -protein content for the NF 64% and 80% for whey) in randomised order with a washout period of 1 week.</s><s coords="15,155.79,204.56,368.58,9.30;15,70.87,216.52,123.27,9.30">Blood collection was performed before and <ref type="bibr" coords="15,354.05,204.56,13.79,9.30">15,</ref><ref type="bibr" coords="15,372.36,204.56,13.79,9.30">30,</ref><ref type="bibr" coords="15,390.67,204.56,13.79,9.30">45,</ref><ref type="bibr" coords="15,408.98,204.56,13.79,9.30">60,</ref><ref type="bibr" coords="15,427.12,204.56,13.79,9.30">75,</ref><ref type="bibr" coords="15,445.43,204.56,13.79,9.30">90,</ref><ref type="bibr" coords="15,463.74,204.56,19.18,9.30">120,</ref><ref type="bibr" coords="15,487.44,204.56,16.17,9.30">150</ref> and 180 min post-consumption.</s><s coords="15,201.09,216.52,323.25,9.30;15,70.87,228.49,453.47,9.30;15,70.87,240.45,146.89,9.30">Postprandial areas under the curve for total amino acids and total indispensable amino acids from the NF as compared to the reference protein whey (set at 100%) were found to be 60.4% and 66.3%.</s><s coords="15,222.80,240.45,301.53,9.30;15,70.87,252.41,453.45,9.30;15,70.87,264.31,80.56,9.30">However, interindividual variation was high as the values for total indispensable amino acids from the NF compared to the whey protein ranged from 18.2% to 94.2% <ref type="bibr" coords="15,70.87,264.31,75.82,9.30" target="#b62">(Mes et al., 2022)</ref>.</s></p><p><s coords="15,85.04,276.28,439.32,9.30;15,70.87,288.24,453.48,9.30;15,70.87,300.20,339.91,9.30">The Panel notes that based on the proposed uses and use levels of the NF, at its highest P95 anticipated intake and the specifications for protein (Table <ref type="table" coords="15,329.78,288.24,4.04,9.30" target="#tab_9">6</ref>), the maximum daily protein intake per kg bw would range between about 18 mg (infants) and 42 mg (other children).</s><s coords="15,414.54,300.20,109.81,9.30;15,70.87,312.16,318.59,9.30">Thus, the contribution of the protein intake from the NF to the overall protein intake will be small.</s></p><p><s coords="15,85.04,324.13,439.31,9.30;15,70.87,336.09,143.49,9.30">The applicant noted the fatty acid content in the NF with the fraction of the saturated fatty acids accounting for 40.6% of the fat.</s><s coords="15,218.04,336.09,306.27,9.30;15,70.87,348.05,453.55,9.30;15,70.87,359.95,24.78,9.30">The unsaturated fatty acids were 59.4% of the fat, from which 4.6% consisted of monounsaturated (MUFA), 54.1% of polyunsaturated (PUFA) and 0.7% of trans fatty acids.</s><s coords="15,99.55,359.95,424.79,9.30;15,70.87,371.92,119.68,9.30">The sum of omega 3 fatty acids was calculated at 37.7% and omega 6 fatty acids at 16.4% of the total fatty acid content.</s></p><p><s coords="15,85.04,383.88,439.32,9.30;15,70.87,395.84,185.23,9.30">The concentrations of vitamins and minerals in the NF highly depend on the cultivation conditions and the composition of the fertiliser used.</s><s coords="15,259.76,395.84,264.60,9.30;15,70.87,407.80,123.82,9.30">The mineral and vitamin content of the NF are presented in Tables <ref type="table" coords="15,101.42,407.80,5.39,9.30" target="#tab_3">2</ref> and<ref type="table" coords="15,129.71,407.80,4.20,9.30" target="#tab_5">3</ref>, respectively.</s></p><p><s coords="15,85.04,419.77,439.30,9.30;15,70.86,431.73,453.49,9.30;15,70.86,443.69,453.50,9.73;15,70.86,455.59,105.23,9.73">Intake of phylloquinone, considering the specification levels (Table <ref type="table" coords="15,395.43,419.77,4.59,9.30" target="#tab_9">6</ref>) and estimated total daily intake of the NF (as food ingredient and food supplement) for all population groups (Table <ref type="table" coords="15,490.67,431.73,4.04,9.30">9</ref>), was calculated at 95.4 lg/day for young children, 227 lg/day for children, 288 lg/day for adolescents and 480 lg/day for adults.</s><s coords="15,183.12,455.59,341.23,9.30;15,70.86,467.56,195.94,9.30">These values exceed the levels considered as adequate intakes for all population groups (EFSA NDA Panel, 2017).</s><s coords="15,270.99,467.56,253.34,9.30;15,70.86,479.52,136.58,9.30">So far, no tolerable upper level of intake (ULs) has been determined for phylloquinone.</s><s coords="15,213.16,479.52,311.23,9.30;15,70.86,491.48,453.49,9.30;15,70.86,503.44,453.53,9.30;15,70.86,515.41,453.50,9.73;15,70.86,527.37,113.68,9.30">Although no evidence of adverse effects has been associated with supplementary intakes of vitamin K in the form of phylloquinone up to 10 mg/day for limited periods of time, interference of vitamin K with coumarin anticoagulant drugs (measured as statistically significant decrease of the INR value) has been noted at phylloquinone intakes of 150 lg/day <ref type="bibr" coords="15,70.86,527.37,108.96,9.30" target="#b71">(Schurgers et al., 2004)</ref>.</s><s coords="15,190.31,527.37,334.03,9.30;15,70.86,539.33,453.47,9.30;15,70.86,551.23,324.00,9.30">Therefore, the amounts of phylloquinone associated with supplementary intakes from the NF may antagonise anticoagulants such as coumarins and for this reason consumption of the NF may constitute a risk for patients on such therapy.</s></p><p><s coords="15,85.04,563.20,439.30,9.30;15,70.86,575.16,105.33,9.30">The concentration of molybdenum (Mo) in the NF may reach 40 mg/kg according to the specifications (Table <ref type="table" coords="15,164.01,575.16,4.06,9.30" target="#tab_9">6</ref>).</s><s coords="15,180.62,575.16,343.72,9.30;15,70.86,587.12,453.43,9.30;15,70.86,599.08,453.53,9.30;15,70.86,611.05,453.42,9.30;15,70.86,623.01,57.60,9.30">This value is more than one order of magnitude higher as compared to the average Mo concentration in foods considered to be rich sources of Mo in the diet, such as cereal grains and grain products (0.4 mg/kg), legumes (2.5 mg/kg), offal (1.10 mg/kg), nuts (1.26 mg/kg) and pulses (0.9 mg/kg) <ref type="bibr" coords="15,189.80,611.05,93.74,9.30" target="#b67">(Rose et al., 2010;</ref><ref type="bibr" coords="15,291.17,611.05,64.66,9.30">ANSES, 2011;</ref><ref type="bibr" coords="15,363.45,611.05,120.64,9.30">EFSA NDA Panel, 2013a;</ref><ref type="bibr" coords="15,491.75,611.05,32.54,9.30;15,70.86,623.01,52.86,9.30" target="#b52">Filippini et al., 2020)</ref>.</s><s coords="15,132.43,623.01,391.91,9.30;15,70.86,634.97,453.46,9.30;15,70.87,646.87,127.14,9.30">Although the NF is meant to be incorporated in other food categories with a proportion of not more than 2-20%, it is noted that the concentration of Mo in these foods will still contribute to an overall higher Mo intake.</s><s coords="15,202.67,646.87,321.63,9.30;15,70.87,658.84,453.48,9.30;15,70.87,670.80,202.41,9.30">EFSA estimated the intake of Mo from the NF, considering the product specifications, the estimated daily intake of the NF and the background diet mean intake for all population groups (EFSA NDA Panel, 2013a).</s><s coords="15,277.62,670.80,246.75,9.30;15,70.87,682.76,433.43,9.30">Results presented in Table <ref type="table" coords="15,399.91,670.80,10.78,9.30" target="#tab_14">11</ref> show that the combined intake of Mo from the NF and the background diet does not exceed ULs for any population group.</s><s coords="15,507.85,682.76,16.49,9.30;15,70.87,694.72,453.48,9.30;15,70.87,706.69,164.17,9.30">The Panel considers that such an increase in Mo intake from the NF used as food ingredient or/and food supplements is not of safety concern.</s></p><p><s coords="16,85.04,293.23,439.34,9.30;16,70.87,305.19,108.68,9.30">The concentration of manganese (Mn) in the NF may be up to 100 mg/kg according to its specifications (Table <ref type="table" coords="16,167.41,305.19,4.04,9.30" target="#tab_9">6</ref>).</s><s coords="16,185.67,305.19,338.64,9.30;16,70.87,317.15,453.48,9.30">EFSA estimated the intake of Mn from the NF, considering the product specification for Mn and the estimated daily intake of the NF for all population groups (Table <ref type="table" coords="16,512.22,317.15,4.04,9.30">9</ref>).</s><s coords="16,70.87,329.12,149.28,9.30">Results are presented in Table <ref type="table" coords="16,206.31,329.12,9.22,9.30" target="#tab_15">12</ref>.</s></p><p><s coords="16,85.04,602.49,439.32,9.30;16,70.87,614.45,168.06,9.30">The Panel notes that the SCF in 2000 reported that exposure to high levels of Mn by inhalation or oral intake of Mn may be neurotoxic.</s><s coords="16,243.38,614.45,280.99,9.30;16,70.87,626.09,453.48,10.05;16,70.87,638.06,178.42,9.61">The SCF could not, however, set an UL for Mn and concluded that 'the margin between oral effect levels in humans as well as experimental animals and the estimated intake from food is very low.</s><s coords="16,253.81,638.06,270.53,10.05;16,70.87,650.02,453.48,9.61;16,70.87,661.98,453.50,9.61;16,70.87,673.94,143.88,9.61">Given the findings on neurotoxicity and the potential higher susceptibility of some subgroups in the general population, oral exposure to Mn beyond the normally present in food and beverages could represent a risk of adverse health effects without evidence of any health benefit' (SCF/NDA, 2006).</s></p><p><s coords="16,85.04,686.17,439.32,9.30;16,70.87,698.13,453.50,9.30;16,70.87,710.09,330.68,9.30">The estimated mean manganese intakes from the background diet in the EU have been reported for adults between 2 and 6 mg/day and in younger age groups, between 1.5 and 3.5 mg/day in children, and from 2 to 6 mg/day in adolescents (EFSA NDA Panel, 2013b).</s></p><p><s coords="16,85.04,722.05,439.32,9.30;16,70.87,734.01,342.37,9.30">The highest estimated mean intake of Mn from the NF across countries ranges between 0.02 in young children and 0.03 mg/day in other children, adolescents and adults.</s><s coords="16,418.22,734.01,106.12,9.30;17,70.87,73.03,453.54,9.30;17,70.87,85.00,283.79,9.30">When compared to the  highest mean background Mn intake estimates, the additional intake of manganese from the NF would be 0.8% for children, 0.6% for adolescents and 0.4% for adults.</s></p><p><s coords="17,85.04,96.96,439.36,9.30;17,70.87,108.92,109.25,9.30">The highest estimated 95th percentile intake of Mn from the NF ranges from 0.02 mg/day in infants to 0.2 mg/day in adults.</s><s coords="17,184.53,108.92,339.81,9.30;17,70.87,120.88,453.49,9.30;17,70.87,132.85,29.03,9.30">When compared to the highest mean background Mn intake estimates, the additional intake of manganese from the NF would be 4% for children, 3% for adolescents and 3% for adults.</s></p><p><s coords="17,85.04,144.81,439.28,9.30;17,70.87,156.77,453.49,9.30;17,70.87,168.67,159.28,9.30">The intake of Mn from the NF as a food supplement alone (0.1 mg/day) could increase Mn intake by 2% as compared to the highest background mean Mn intake estimates for adults and by 5% if combined intake will be considered.</s><s coords="17,234.20,168.67,290.15,9.30;17,70.87,180.64,340.96,9.30">The Panel considers that such an increase in Mn intake from the NF used as food ingredient or/and food supplements is not of safety concern.</s></p><p><s coords="17,85.04,192.37,439.33,9.96;17,70.87,204.56,453.48,9.30;17,70.87,216.52,210.90,9.30">Average content of antinutritional factors as described in Section 3.4 (Compositional data in five batches of the NF) was 0.12 g/100 g for oxalic acid, 0.12 g/100 g for phytic acid, 0.35 mg/g of trypsin inhibitors and 3.75 g/100 g tannins (Table <ref type="table" coords="17,269.57,216.52,4.06,9.30" target="#tab_6">4</ref>).</s><s coords="17,287.21,216.52,237.20,9.30;17,70.87,228.49,291.54,9.30">Antinutritional factors in other commonly consumed vegetables have been reported in similar or higher amounts, e.g.</s><s coords="17,366.46,228.49,157.88,9.30;17,70.87,240.45,453.47,9.30;17,70.87,252.41,453.54,9.30;17,70.87,264.31,28.41,9.30">oxalic acid in spinach (0.7 g/100 g) <ref type="bibr" coords="17,70.87,240.45,59.95,9.30" target="#b41">(Duke, 1992)</ref>; phytic acid in soy concentrate (10.7 g/100 g) <ref type="bibr" coords="17,365.44,240.45,117.92,9.30" target="#b70">(Schlemmer et al., 2009)</ref>; trypsin inhibitors in raw fonio 38 mg/g (EFSA, 2018); tannins 4 g/100 g for dehulled canola <ref type="bibr" coords="17,457.11,252.41,67.30,9.30;17,70.87,264.31,23.67,9.30" target="#b72">(Sharma et al., 2021)</ref>.</s></p><p><s coords="17,85.04,276.28,439.32,9.30;17,70.87,288.24,341.29,9.30">The Panel considers that, taking into account the composition of the NF and the proposed conditions of use, consumption of the NF is not nutritionally disadvantageous.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.">Toxicological information</head><p><s coords="17,85.04,330.19,278.48,9.30">The applicant provided two toxicological studies with the NF.</s><s coords="17,368.44,330.19,155.96,9.30;17,70.87,342.16,291.91,9.30">These studies which were claimed confidential and proprietary by the applicant are listed in Table <ref type="table" coords="17,348.94,342.16,9.22,9.30" target="#tab_16">13</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.1.">Genotoxicity</head><p><s coords="17,85.04,519.38,439.33,9.30;17,70.87,531.02,453.45,9.61;17,70.87,543.30,453.47,9.30;17,70.87,555.21,89.62,9.30">The potential mutagenicity of the NF was assessed in a bacterial reverse mutation test using Salmonella Typhimurium test strains TA98, TA100, TA1535 and TA1537, and Escherichia coli WP2 uvrA in the absence and presence of metabolic activation mix (S9), using the plate-incorporation and preincubation methods.</s><s coords="17,164.52,555.21,359.89,9.30">2-Aminoanthracene was used as the sole positive control for the S9 mix activity.</s><s coords="17,70.87,567.17,453.48,9.30;17,70.87,579.13,423.17,9.30">The study was conducted in compliance with the OECD principles of GLP and in accordance with the ICH Guidelines for genotoxicity testing and OECD Guideline Test No. 471 <ref type="bibr" coords="17,401.67,579.13,55.04,9.30">(OECD, 1997</ref><ref type="bibr" coords="17,465.73,579.13,23.59,9.30">(OECD, , 1998))</ref>.</s><s coords="17,498.33,579.13,26.02,9.30;17,70.87,591.09,453.48,9.73;17,70.87,603.06,176.06,9.30">Based on the results of a preliminary test, concentrations of the NF at 5000, 1600, 500, 160, 50 and 16 lg/ plate were selected for the main test.</s><s coords="17,252.11,603.06,272.24,9.30;17,70.87,615.02,329.45,9.30">Neither cytotoxicity nor precipitation of the test article was observed at any concentration in either the preliminary or the main test.</s><s coords="17,404.73,615.02,119.64,9.30;17,70.87,626.98,453.53,9.30;17,70.87,638.94,318.84,9.30">Treatment with the NF did not result in increases in the number of revertant colonies as compared with the negative control at any concentration in both tests either in the presence or absence of S9.</s><s coords="17,393.33,638.94,131.04,9.30;17,70.87,650.85,316.49,9.73">Thus, the NF was determined to be non-mutagenic in this test at concentrations up to 5,000 lg/plate.</s></p><p><s coords="17,85.04,662.49,439.28,9.61;17,70.87,674.77,235.31,9.30">The genotoxic potential of the NF was further investigated in an in vitro mammalian cell micronucleus test conducted in L5178Y tk+/À 3.7.2c</s><s coords="17,310.28,674.77,152.19,9.30">(IVGT) mouse lymphoma cell line.</s><s coords="17,466.52,674.77,57.83,9.30;17,70.87,686.73,453.43,9.30;17,70.87,698.70,95.90,9.30">The test was conducted in compliance with the OECD principles of GLP and in accordance with <ref type="bibr" coords="17,438.57,686.73,85.73,9.30;17,70.87,698.70,56.96,9.30">OECD Test No. 487 (OECD, 1998</ref><ref type="bibr" coords="17,127.83,698.70,34.20,9.30" target="#b66">, 2014)</ref>.</s><s coords="17,172.32,698.70,284.25,9.30">Solvent control (RPMI-1640) was used as a negative control.</s><s coords="17,462.16,698.70,62.19,9.30;17,70.87,710.66,453.47,9.73;17,70.87,722.62,453.54,9.73;17,70.87,734.58,372.31,9.30">Based on the results of a preliminary test, concentrations of the NF up to 400 lg/mL in 4 h and 24 h treatment followed by 24 h sampling time without metabolic activation and 600 lg/mL in 4 h treatment followed by 24 h sampling time with metabolic activation, were used in the main test.</s><s coords="17,449.52,734.58,74.89,9.30;17,70.87,746.49,453.48,9.73;18,70.87,73.03,453.48,9.73;18,70.87,85.00,148.31,9.30">The NF induced cytotoxicity of 51.17% in mouse lymphoma cells compared to the negative control at 400 lg/mL in the 4 h treatment without metabolic activation and 54.32% at 600 lg/mL in the 4 h treatment in the presence of metabolic activation.</s><s coords="18,223.93,85.00,300.41,9.30;18,70.87,96.96,249.86,9.73">In the 24 h treatment without metabolic activation, cytotoxicity of 56.21% was observed at concentration of 400 lg/mL.</s><s coords="18,326.10,96.96,198.25,9.30;18,70.87,108.92,453.47,9.30;18,70.87,120.88,73.38,9.30">There were no differences observed in the percentage of micronucleated cells at any of the concentrations of the NF analysed as compared to the negative control.</s><s coords="18,147.63,120.88,376.70,9.30;18,70.87,132.85,70.18,9.30">The NF was therefore determined to be non-clastogenic and non-aneugenic in mouse lymphoma cells.</s></p><p><s coords="18,85.04,144.81,439.33,9.30;18,70.87,156.77,390.16,9.30">Taking into account the test results provided and considering the nature, source and production process of the NF, the Panel considers that there are no concerns regarding genotoxicity.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.2.">Subchronic toxicity</head><p><s coords="18,85.04,198.10,439.33,9.30;18,70.87,210.06,148.48,9.30">The applicant referred to a subchronic toxicity study performed with water lentil powder (conducted by <ref type="bibr" coords="18,85.49,210.06,124.38,9.30">Parabel, GRN No. 742, 2018</ref>).</s><s coords="18,223.60,210.06,300.78,9.30;18,70.87,221.70,311.81,9.61">An oral 90-day toxicity study was performed in Wistar rats using a water lentil powder product produced from L. minor and W. globosa.</s><s coords="18,386.99,222.02,137.32,9.30;18,70.87,233.93,453.48,9.30;18,70.87,245.66,382.54,9.96">The tested item was produced using a different production process as compared to the NF and its composition was different from the NF, containing 47% protein, 36% dietary fibre, 10% fat, 5% ash and 2% moisture.</s><s coords="18,458.08,245.89,66.28,9.30;18,70.87,257.85,367.38,9.30">The study was conducted with 100 (50 male and 50 female) animals distributed into six groups.</s><s coords="18,442.66,257.85,81.70,9.30;18,70.87,269.82,453.48,9.30;18,70.87,281.78,453.49,9.30;18,70.87,293.74,225.30,9.30">Four groups of 20 animals (10 male and 10 female), each received via gavage 0, 100, 500 and 1,000 mg/kg bw of the water lentil powder product and two groups of 10 animals (5 male and 5 female) each received 0 or 1,000 mg/kg bw per day for an additional 28 days.</s><s coords="18,299.68,293.74,224.67,9.30;18,70.87,305.70,139.49,9.30">The authors noted no treatment-related toxic signs and no mortality was observed.</s><s coords="18,213.96,305.70,310.43,9.30;18,70.87,317.66,453.49,9.30;18,70.87,329.34,453.54,9.96;18,70.87,341.53,453.44,9.30;18,70.87,353.49,63.13,9.30">With respect to this specific study, EFSA has previously noted that not a single parameter was affected in the course of the study in either the control or treated animals, which is unusual, because often several findings are observed in toxicological studies in treated animals as well as in controls that are considered as incidental after thorough evaluation (EFSA NDA Panel, 2021a).</s></p><p><s coords="18,85.04,365.46,439.30,9.30;18,70.87,377.42,395.32,9.30">Taking into account the nature of the NF, the production process and the history of use of the source, the Panel considers that no additional toxicological studies are required on the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.10.3.">Human data</head><p><s coords="18,85.04,418.43,439.29,9.61;18,70.87,430.71,169.15,9.30">The applicant referred to a randomised, cross-over trial comparing consumption of L. minor with green pea in healthy adult volunteers.</s><s coords="18,243.95,430.71,280.37,9.30;18,70.87,442.35,453.46,9.61;18,70.86,454.63,453.45,9.30;18,70.86,466.60,231.12,9.30">Twelve subjects participated in this study and received the two protein sources (equivalent to 20 g of protein; L. minor and green peas were freeze-dried, mixed with other ingredients, cooked for 10 min at 100°C and consumed in one meal) in randomised order, after an overnight fast, with a washout period of 1 week.</s><s coords="18,305.68,466.60,218.67,9.30;18,70.86,478.56,453.45,9.30;18,70.86,490.46,245.16,9.30">Blood samples were collected at baseline and <ref type="bibr" coords="18,510.57,466.60,13.79,9.30">15,</ref><ref type="bibr" coords="18,70.86,478.56,13.79,9.30">30,</ref><ref type="bibr" coords="18,88.04,478.56,13.79,9.30">45,</ref><ref type="bibr" coords="18,105.16,478.56,13.79,9.30">60,</ref><ref type="bibr" coords="18,122.11,478.56,13.79,9.30">75,</ref><ref type="bibr" coords="18,139.29,478.56,13.79,9.30">90,</ref><ref type="bibr" coords="18,156.41,478.56,19.18,9.30">120,</ref><ref type="bibr" coords="18,178.98,478.56,16.17,9.30">150</ref> and 180 min after consumption of the protein meals and analysis of blood amino acids, glucose and insulin levels were conducted.</s><s coords="18,319.46,490.46,204.96,9.30;18,70.86,502.43,453.49,9.30;18,70.86,514.39,261.99,9.30">Moreover, heart rate, blood pressure and aural temperature were measured before and after consumption and subjects were asked to report on gastro-intestinal discomfort for four subsequent days.</s><s coords="18,341.68,514.39,182.68,9.30;18,70.86,526.03,435.16,9.61">Lower levels of circulating total and indispensable amino acids were observed post consumption of L. minor compared to green pea.</s><s coords="18,510.46,526.35,13.91,9.30;18,70.86,538.31,453.49,9.30;18,70.86,549.96,453.48,9.61;18,70.86,562.24,117.12,9.30">For health parameters that were assessed in this study, as well as gastro-intestinal complaints, no differences were observed between subjects that consumed freeze-dried and cooked L. minor or green pea <ref type="bibr" coords="18,90.09,562.24,93.18,9.30" target="#b77">(Zeinstra et al., 2019)</ref>.</s></p><p><s coords="18,85.04,573.88,439.32,9.61;18,70.86,585.79,453.50,9.61;18,70.86,597.84,453.51,9.96;18,70.86,610.03,453.48,9.30;18,70.86,621.99,45.51,9.30">The Panel notes that the human study provided by the applicant used L. minor that contributes only a smaller portion to the source that the NF is produced from (protein fraction of Lemna plant material is extracted from whole plants and separated from fibres), and was primarily designed to investigate the postprandial amino acid profile and addressed only a limited number of safety-relevant endpoints.</s><s coords="18,121.15,621.67,403.20,9.61;18,70.86,633.95,65.95,9.30">The Panel accepts that no acute adverse events related to the consumption of L. minor were reported.</s><s coords="18,141.33,633.95,383.01,9.30;18,70.86,645.91,72.12,9.30">The Panel, however, notes that no conclusions can be drawn from this study on the safety of the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.11.">Allergenicity</head><p><s coords="18,85.04,687.87,176.71,9.30">The NF consists of around 64% protein.</s><s coords="18,265.26,687.87,259.13,9.30;18,70.87,699.51,214.60,9.61">The applicant noted that no allergenicity or cross-reactivity is described in the literature for Lemna species.</s><s coords="18,289.81,699.83,234.53,9.30;18,70.87,711.74,453.41,9.30;18,70.87,723.47,257.31,9.96">Proteomic analysis of the NF was performed by LC-MS/MS analysis and then a protein database matching the MS/MS spectra was performed for allergenic proteins using the 'allergome' protein sequence database.</s><s coords="18,332.22,723.70,192.11,9.30;18,70.87,735.66,453.58,9.30;18,70.87,747.62,130.65,9.30">A match was found with Rubisco (ribulose-1,5-bisphosphate carboxylase), a very common protein present in commonly consumed leafy vegetables <ref type="bibr" coords="18,120.82,747.62,75.98,9.30" target="#b62">(Mes et al., 2022)</ref>.</s><s coords="18,204.92,747.62,319.47,9.30;19,70.87,73.03,453.53,9.30;19,70.87,85.00,127.70,9.30">The content of Rubisco in the NF was found to be very low compared to spinach based on sodium dodecyl sulphate-polyacrylamide gel electrophoresis (SDS-PAGE) analysis conducted by the applicant.</s><s coords="19,203.98,85.00,320.42,9.30;19,70.87,96.96,80.43,9.30">Homologies were also found with the Api g3 (chlorophyl A/B binding protein of celery).</s><s coords="19,155.85,96.96,368.47,9.30;19,70.87,108.92,134.91,9.30">The Panel notes that Api g3 is identified as a food allergen in several databases, including WHO/IUIS database.</s><s coords="19,209.88,108.92,314.45,9.30;19,70.87,120.88,160.57,9.30;19,231.48,118.88,4.04,6.20;19,239.64,120.88,284.73,9.30;19,70.87,132.85,32.15,9.30">The applicant provided analytical data on allergens identified in Annex II of Regulation (EU) No 1169/2011 8 for three batches, none of the allergens tested was detected in the NF.</s><s coords="19,107.66,132.85,416.68,9.30;19,70.87,144.81,453.41,9.30;19,70.87,156.77,371.85,9.30">In particular, LC-MS/MS analysis did not detect celery proteins in the NF above the LOQ of 1 mg/kg, however, celery proteins and the protein matching with Api g3 allergen are not fully identical and, therefore, the presence of a potentially allergenic protein in the NF is unknown.</s></p><p><s coords="19,85.04,168.68,357.00,9.30">The Panel notes that no specific data on cross-reactivity with celery protein (e.g.</s><s coords="19,445.60,168.68,78.74,9.30;19,70.87,180.64,40.73,9.30">IgE binding) were provided.</s><s coords="19,115.43,180.32,408.96,9.61;19,70.87,192.60,453.45,9.30;19,70.87,204.56,82.68,9.30">Nevertheless, cross-reactivity of the heat-treated L. minor and L. gibba whole plant material with celery has been assessed by DotBlot immunoassays and no cross-reactivity was detected (EFSA NDA Panel, 2022).</s><s coords="19,157.92,204.56,366.45,9.30;19,70.87,216.52,279.61,9.30">Given the protein content in the NF, allergic reactions are possible, but based on the available data, the Panel considers the allergenic risk is low.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p><s coords="19,85.04,258.48,439.33,9.30;19,70.87,270.12,146.78,9.61">The NF, which is the subject of the application, is a protein concentrate powder produced from a mixture of L. gibba and L. minor.</s><s coords="19,221.44,270.44,302.91,9.30;19,70.87,282.40,171.98,9.30">The NF is proposed to be used as an ingredient in a variety of food products and as a food supplement.</s><s coords="19,248.88,282.40,275.47,9.30;19,70.87,294.31,241.36,9.30">The target population is the general population as a food ingredient and exclusively adults for food supplements.</s></p><p><s coords="19,85.04,305.95,198.29,9.61">The NF is produced by Lemna plants (i.e.</s><s coords="19,289.08,305.95,235.25,9.61;19,70.87,318.23,93.09,9.30">L. gibba and L. minor), which are cultivated under controlled conditions.</s><s coords="19,167.36,318.23,356.99,9.30;19,70.87,330.19,335.00,9.30">The plants are washed, treated to separate the protein fraction and the NF is the powder of the protein fraction obtained after pasteurisation and spray drying.</s><s coords="19,408.64,330.19,115.69,9.30;19,70.87,341.93,127.43,9.96">The NF consists of protein, fibre, fat and micronutrients.</s><s coords="19,202.28,342.16,322.05,9.30;19,70.87,353.89,271.87,9.96">The highest intake of the NF was estimated for other children (age 3 to &lt; 10 years) at 55.6 mg/kg bw per day at the 95th percentile.</s><s coords="19,346.34,354.12,178.02,9.30;19,70.87,366.08,330.97,9.30">Intake of the NF from food supplements was calculated for the target population of adults at 14.3 mg/kg bw per day.</s><s coords="19,404.67,366.08,119.65,9.30;19,70.87,378.04,453.48,9.73;19,70.87,389.95,361.43,9.30">The Panel noted that intake of the NF may lead to intake of phylloquinone up to 480 lg/day for adults (160 lg/day from food supplements) and may constitute a risk for patients on anticoagulant medication.</s><s coords="19,436.19,389.95,88.20,9.30;19,70.87,401.91,220.59,9.30">The Panel considers that there are no concerns regarding genotoxicity.</s><s coords="19,294.86,401.91,229.51,9.30;19,70.87,413.87,453.50,9.30;19,70.87,425.83,83.31,9.30">The concentration of heavy metals, cyanotoxins and microbiological parameters as well as micronutrients in the NF depends on the cultivation conditions and the fertiliser used.</s><s coords="19,159.59,425.83,364.77,9.30;19,70.87,437.80,453.49,9.30;19,70.87,449.76,433.98,9.30">However, the parameters included in the specifications to account for different cultivation conditions and use of fertilisers, should ensure that the intake of the NF under the proposed uses and use levels does not raise safety concerns, except for patients on anticoagulant medication.</s><s coords="19,507.85,449.76,16.49,9.30;19,70.87,461.72,311.92,9.30">The Panel considers that the risk of the NF triggering allergic reactions is low.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p><s coords="19,85.04,503.30,439.33,9.61;19,70.87,515.26,239.59,9.61">The Panel concludes that the NF, water lentil protein concentrate from a mixture of L. gibba and L. minor, is safe under the proposed conditions of use.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.1.</head><p><s coords="19,113.78,538.06,369.61,11.15;19,113.78,552.46,244.42,11.15">Request for protection of proprietary data in accordance with Article 26 of Regulation (EU) 2015/2283</s></p><p><s coords="19,85.04,571.99,439.32,9.30;19,70.87,583.95,453.52,9.30;19,70.87,595.91,453.44,9.30;19,70.87,607.56,313.85,9.61">The Panel could not have reached the conclusion on the safety of the NF under the proposed conditions of use without the data claimed as proprietary by the applicant: compositional data, stability data, ileal digestion test, proteomic analysis, endophytic bacteria screening analyses, bacterial reverse mutation test <ref type="bibr" coords="19,132.49,607.88,63.47,9.30">(V ertesi, 2021)</ref>, in vitro micronucleus test <ref type="bibr" coords="19,317.42,607.88,62.56,9.30" target="#b51">(Fekete, 2021)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6.</head><p><s coords="19,113.39,630.29,122.84,11.15;20,85.04,72.72,439.26,9.61;20,103.35,84.68,420.99,9.61;20,103.35,96.96,421.02,9.30;20,103.35,108.92,210.83,9.30">Steps taken by EFSA 2) On 13/05/2019, a valid application on water lentil protein concentrate from a mixture of Lemna gibba and Lemna minor, which was submitted by ABC Kroos BV, was made available to EFSA by the European Commission through the Commission e-submission portal (NF 2018/0801) and the scientific evaluation procedure was initiated.</s><s coords="20,85.04,120.88,439.29,9.30;20,103.92,132.85,262.65,9.30">3) On 11/09/2019, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</s><s coords="20,85.04,144.81,439.31,9.30;20,103.86,156.77,275.89,9.30">4) On 20/07/2020, additional information was provided by the applicant through the Commission e-submission portal and the scientific evaluation was restarted.</s><s coords="20,85.04,168.67,439.29,9.30;20,103.92,180.64,262.65,9.30">5) On 04/08/2020, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</s><s coords="20,85.04,192.60,439.31,9.30;20,103.86,204.56,275.89,9.30">6) On 20/08/2021, additional information was provided by the applicant through the Commission e-submission portal and the scientific evaluation was restarted.</s><s coords="20,85.04,216.52,439.29,9.30;20,103.92,228.49,262.65,9.30">7) On 14/10/2021, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</s><s coords="20,85.04,240.45,439.31,9.30;20,103.86,252.41,275.89,9.30">8) On 23/12/2022, additional information was provided by the applicant through the Commission e-submission portal and the scientific evaluation was restarted.</s><s coords="20,85.04,264.31,439.33,9.30;20,102.78,276.28,183.07,9.30">9) During its meeting on 28/02/2023, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of water</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="13,70.87,347.79,348.18,7.97;13,70.87,357.89,421.73,7.44;13,88.44,367.87,358.76,7.44"><head></head><label></label><figDesc><div><p><s coords="13,70.87,347.79,348.18,7.97">(c): Referred to as 'toddlers' in the EFSA food consumption comprehensive database (EFSA, 2011).</s><s coords="13,70.87,357.89,421.73,7.44;13,88.44,367.87,358.76,7.44">(d): Intakes are assessed separately for adults (18-65 years), elderly (65-75 years) very elderly (≥ 75 years), pregnant, lactating women and vegetarians; the maximum intake among these sub-populations is reported here.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="6,70.87,218.28,446.27,211.17"><head>Table 1 :</head><label>1</label><figDesc><div><p><s coords="6,124.78,218.28,260.36,9.96">Batch-to-batch proximate analysis of five batches of the NF</s></p></div></figDesc><table coords="6,70.87,238.45,446.27,191.00"><row><cell></cell><cell></cell><cell cols="3">Batch number</cell><cell></cell><cell></cell></row><row><cell>Parameter (%)</cell><cell>#1</cell><cell>#2</cell><cell>#3</cell><cell>#4</cell><cell>#5</cell><cell>Method of analysis</cell></row><row><cell>Moisture</cell><cell>6.2</cell><cell>4.9</cell><cell>4.3</cell><cell>3.9</cell><cell>4.4</cell><cell>Gravimetry; Regulation (EC) No 152/2009 3 ,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Annex III, Method A</cell></row><row><cell>Protein (N 3 6.25)</cell><cell>62.1</cell><cell>62.5</cell><cell>63.7</cell><cell>63.0</cell><cell cols="2">64.5 Titrimetry; (Kjeldahl) ISO 8968-1</cell></row><row><cell>Fat</cell><cell>10.2</cell><cell>9.4</cell><cell>9.8</cell><cell>10.6</cell><cell>8.1</cell><cell>Gravimetry; Regulation (EC) No 152/2009 3 ,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Annex III, Method H</cell></row><row><cell>Ash</cell><cell>4.8</cell><cell>5.3</cell><cell>5.6</cell><cell>6.0</cell><cell>5.2</cell><cell>Gravimetry; Regulation (EC) No 152/2009 3 ,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Annex III, Method M</cell></row><row><cell>Total sugars (as</cell><cell cols="6">&lt; 0.1 &lt; 0.1 &lt; 0.1 &lt; 0.1 &lt; 0.1 Titrimetry; NEN 3571</cell></row><row><cell>glucose)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Insoluble fibre</cell><cell>15</cell><cell>8.7</cell><cell>7.3</cell><cell>12</cell><cell>9.6</cell><cell>Gravimetry; AOAC 991.43</cell></row><row><cell>Soluble fibre</cell><cell>1.4</cell><cell>1.3</cell><cell>1.2</cell><cell>1.7</cell><cell>1.3</cell><cell>Gravimetry; AOAC 991.43</cell></row><row><cell cols="7">ISO: International Organization for Standardization; AOAC: Association of Official Analytical Collaboration; NEN: Nederlandse</cell></row><row><cell cols="2">Norm; EC: European Commission.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3" coords="6,70.87,584.91,453.51,132.57"><head>Table 2 :</head><label>2</label><figDesc><div><p><s coords="6,124.78,584.91,399.59,9.96;6,124.78,597.10,311.20,9.30">Proximates and concentration of minerals and trace elements in five batches of the NF produced from plants cultivated in water kept in a pH range of5.5-6.5</s></p></div></figDesc><table coords="6,73.87,617.05,447.12,100.43"><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Batch</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Parameters</cell><cell>Unit</cell><cell>#6</cell><cell>#7</cell><cell>#8</cell><cell>#9</cell><cell>#10</cell><cell>Method of analysis</cell></row><row><cell>Moisture</cell><cell>%</cell><cell>4.6</cell><cell>2.1</cell><cell>5.7</cell><cell>3.7</cell><cell>4.4</cell><cell>Gravimetry; Regulation (EC) No 152/2009 3 ,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Annex III, Method A</cell></row><row><cell>Protein</cell><cell>%</cell><cell>62.8</cell><cell>63.0</cell><cell>62.9</cell><cell>67.8</cell><cell cols="2">62.5 Titrimetry; (Kjeldahl) ISO 8968-1</cell></row><row><cell>(N 3 6.25)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fat</cell><cell>%</cell><cell>2.8</cell><cell>6.0</cell><cell>5.7</cell><cell>7.3</cell><cell>5.3</cell><cell>Gravimetry; Regulation (EC) No 152/2009 3 ,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Annex III, Method H</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5" coords="7,70.87,372.88,445.68,292.35"><head>Table 3 :</head><label>3</label><figDesc><div><p><s coords="7,124.78,372.88,180.76,9.96">Vitamin content of five batches of the NF</s></p></div></figDesc><table coords="7,70.87,393.05,445.68,272.18"><row><cell></cell><cell></cell><cell></cell><cell cols="3">Batch number</cell><cell></cell><cell></cell></row><row><cell>Parameter</cell><cell>Unit</cell><cell>#1</cell><cell>#2</cell><cell>#3</cell><cell>#4</cell><cell>#5</cell><cell>Method of analysis</cell></row><row><cell>Thiamin</cell><cell cols="2">mg/100 g 0.01</cell><cell>&lt; 0.05</cell><cell>0.24</cell><cell cols="3">&lt; 0.05 0.15 HPLC-MS/MS; in-house</cell></row><row><cell>Riboflavin</cell><cell cols="2">mg/100 g 0.97</cell><cell>0.69</cell><cell>0.75</cell><cell>0.97</cell><cell cols="2">1.2 HPLC-MS/MS; in-house</cell></row><row><cell>Nicotinamide +</cell><cell>mg/100 g</cell><cell>1.8</cell><cell>1.7</cell><cell>1.0</cell><cell>9.0</cell><cell cols="2">9.0 HPLC-MS/MS; in-house</cell></row><row><cell>Nicotinic acid</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Vitamin B6</cell><cell cols="2">mg/100 g 0.48</cell><cell>0.48</cell><cell>0.39</cell><cell>0.40</cell><cell cols="2">0.47 HPLC-MS/MS; in-house</cell></row><row><cell>(Pyridoxamine +</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Pyridoxal +</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Pyridoxine)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cobalamin</cell><cell>lg/100 g</cell><cell>6.62</cell><cell>3.14</cell><cell>5.88</cell><cell>7.33</cell><cell cols="2">17.7 HPLC-UV; AOAC: 1990 vol II 952.20</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Cobalamin pag. 1082-1083</cell></row><row><cell>Ascorbic acid</cell><cell>mg/100 g</cell><cell>0.4</cell><cell>0.4</cell><cell>&lt; 0.2</cell><cell>1.1</cell><cell cols="2">0.7 HPLC-FLU; NEN-EN 14130</cell></row><row><cell>Vitamin D3</cell><cell cols="2">lg/100 g &lt; 2.0</cell><cell>2.6</cell><cell>7.0</cell><cell>15.8</cell><cell cols="2">33.7 HPLC-MS/MS; mod. ISO 14892:2002</cell></row><row><cell>Vitamin E (a-, b-,</cell><cell cols="2">mg/100 g 33.5</cell><cell>21.8</cell><cell>13.9</cell><cell>20.3</cell><cell cols="2">11.1 HPLC-FLU; NEN-EN 12822</cell></row><row><cell>c-, d-tocopherol)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Biotin</cell><cell>lg/100 g</cell><cell>13.0</cell><cell>13.4</cell><cell>11.7</cell><cell>13.5</cell><cell cols="2">13.2 HPLC-MS/MS; in-house</cell></row><row><cell>Phylloquinone</cell><cell cols="2">mg/100 g 14.5</cell><cell>14.0</cell><cell>11.7</cell><cell>12.2</cell><cell cols="2">11.4 HPLC-MS/MS; in-house</cell></row><row><cell cols="8">HPLC-MS/MS: high-performance liquid chromatography-tandem mass spectrometry; HPLC-UV: high-performance liquid</cell></row><row><cell cols="8">chromatography-ultraviolet; HPLC-FLU: high-performance liquid chromatography-fluorescence detection; NEN: Nederlandse</cell></row><row><cell cols="8">Norm; EN: Europese Norm; ISO: International Organization for Standardization; AOAC: Association of Official Analytical</cell></row><row><cell>Collaboration.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6" coords="8,70.87,190.05,445.12,117.34"><head>Table 4 :</head><label>4</label><figDesc><div><p><s coords="8,124.78,190.05,241.36,9.96">Concentration of antinutrients in five batches of the NF</s></p></div></figDesc><table coords="8,73.87,210.22,442.11,81.67"><row><cell></cell><cell></cell><cell></cell><cell cols="3">Batch number</cell><cell></cell><cell></cell></row><row><cell>Parameter</cell><cell>Unit</cell><cell>#1</cell><cell>#2</cell><cell>#3</cell><cell>#4</cell><cell>#5</cell><cell>Method of analysis</cell></row><row><cell>Phytic acid</cell><cell cols="2">g/100 g 0.05</cell><cell>0.04</cell><cell>0.09</cell><cell>0.15</cell><cell cols="2">0.27 Spectrophotometric analysis; in-house</cell></row><row><cell>Oxalic acid</cell><cell cols="7">g/100 g 0.148 0.189 0.087 0.085 0.082 GLC-FID; in-house</cell></row><row><cell cols="2">Trypsin inhibitor mg/kg</cell><cell cols="4">&lt; 0.3 &lt; 0.3 &lt; 0.3 &lt; 0.3</cell><cell cols="2">0.35 Spectrophotometric analysis; in-house</cell></row><row><cell>Tannins</cell><cell cols="2">g/100 g 3.13</cell><cell>3.13</cell><cell>3.13</cell><cell>3.13</cell><cell cols="2">6.25 Spectrophotometric analysis; in-house</cell></row></table><note coords="8,70.87,299.95,216.93,7.44"><p><s coords="8,70.87,299.95,216.93,7.44">GLC-FID: gas liquid chromatography-flame ionization detector.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7" coords="8,70.87,461.83,450.40,280.99"><head>Table 5 :</head><label>5</label><figDesc><div><p><s coords="8,124.78,461.83,335.87,9.30">Microbiological parameters in six additional representative samples of the NF</s></p></div></figDesc><table coords="8,73.87,481.78,447.40,261.04"><row><cell>Parameter</cell><cell>Unit</cell><cell>#11</cell><cell>#12</cell><cell cols="2">Batch number #13 #14</cell><cell>#15</cell><cell>#16</cell><cell>Method of analysis</cell></row><row><cell cols="3">Aerobic plate count CFU/g 1.4 9 10 4</cell><cell>220</cell><cell>2 9 10 4</cell><cell>300</cell><cell>240</cell><cell>380</cell><cell>Pour plate and</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>spiral plate</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>technique; NEN-EN-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>ISO-4833 1 EN 2</cell></row><row><cell>Bacillus cereus</cell><cell>CFU/g</cell><cell>&lt; 40</cell><cell>&lt; 40</cell><cell>&lt; 10</cell><cell>&lt; 40</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>Spread plate</cell></row><row><cell>plate count</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>technique; NEN-EN-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>ISO-7932</cell></row><row><cell>Clostridium</cell><cell>CFU/g</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>Pour plate or spiral</cell></row><row><cell>perfringens plate</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>plate technique;</cell></row><row><cell>count</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>NEN-EN-ISO-7937</cell></row><row><cell>Coagulase-positive</cell><cell>CFU/g</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>Pour plate or spiral</cell></row><row><cell>Staphylococci plate</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>plate technique;</cell></row><row><cell>count</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>NEN-EN-ISO 6888-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell></row><row><cell>Coliforms</cell><cell>CFU/g</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>Pour plate or spiral</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>plate technique;</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>NEN-ISO-4832</cell></row><row><cell>Enterobacteriaceae</cell><cell>CFU/g</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>&lt; 10</cell><cell>Pour plate or spiral</cell></row><row><cell>plate count (no</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>plate technique;</cell></row><row><cell>confirmation)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>NEN-ISO 21528-2</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9" coords="11,70.87,73.03,441.40,588.38"><head>Table 6 :</head><label>6</label><figDesc><div><p><s coords="11,124.78,73.03,103.20,9.30;11,73.87,90.99,420.59,8.65">Specifications of the NFDescription: The NF is a protein concentrate produced from a mixture of Lemna gibba and Lemna minor.</s><s coords="11,497.43,91.28,14.84,8.37;11,73.87,102.07,430.27,8.97;11,73.87,113.22,32.06,8.37">The manufacturing process involves protein separation from insoluble fibres, and then precipitation of this protein fraction.</s><s coords="11,73.87,124.16,113.51,8.37;11,73.87,138.39,244.09,8.65">Appearance: green powder Source: Lemna gibba (70-100%) and Lemna minor (0-30%)</s></p></div></figDesc><table coords="11,73.87,152.45,393.80,508.96"><row><cell>Parameter</cell><cell>Specifications</cell></row><row><cell>Moisture</cell><cell>1.5-8%</cell></row><row><cell>Protein (N 9 6.25)</cell><cell>60-75%</cell></row><row><cell>Ash</cell><cell>4-12%</cell></row><row><cell>Fat</cell><cell>2-11%</cell></row><row><cell>Fibre</cell><cell>6-17%</cell></row><row><cell>Carotenoids</cell><cell></cell></row><row><cell>b-Carotene</cell><cell>&lt; 755 mg/kg</cell></row><row><cell>Vitamins</cell><cell></cell></row><row><cell>Phylloquinone</cell><cell>&lt; 16 mg/100 g</cell></row><row><cell>Minerals</cell><cell></cell></row><row><cell>Boron</cell><cell>&lt; 10 mg/kg</cell></row><row><cell>Copper</cell><cell>&lt; 12 mg/kg</cell></row><row><cell>Molybdenum</cell><cell>&lt; 40 mg/kg</cell></row><row><cell>Iron</cell><cell>&lt; 670 mg/kg</cell></row><row><cell>Zinc</cell><cell>&lt; 50 mg/kg</cell></row><row><cell>Manganese</cell><cell>&lt; 100 mg/kg</cell></row><row><cell>Heavy metals</cell><cell></cell></row><row><cell>Arsenic</cell><cell>&lt; 0.2 mg/kg</cell></row><row><cell>Lead</cell><cell>&lt; 0.3 mg/kg</cell></row><row><cell>Cadmium</cell><cell>&lt; 0.2 mg/kg</cell></row><row><cell>Mercury</cell><cell>&lt; 0.1 mg/kg</cell></row><row><cell>Antinutritional factors</cell><cell></cell></row><row><cell>Oxalic acid</cell><cell>&lt; 1,900 mg/kg</cell></row><row><cell>Contaminants</cell><cell></cell></row><row><cell>Lysino-alanine</cell><cell>&lt; 500 mg/kg bound LAL + &lt; 10 mg/kg free LAL</cell></row><row><cell>Cyanotoxins (Microcystins-/Nodularin)</cell><cell>&lt; 0.19 mg/kg</cell></row><row><cell>Nitrate</cell><cell>&lt; 3,000 mg/kg</cell></row><row><cell>Microbiological</cell><cell></cell></row><row><cell>Total colony count</cell><cell>&lt; 10 4 CFU/g</cell></row><row><cell>Bacillus cereus</cell><cell>&lt; 100 CFU/g</cell></row><row><cell>Clostridium perfringens</cell><cell>&lt; 100 CFU/g</cell></row><row><cell>Coagulase-positive</cell><cell>&lt; 100 CFU/g</cell></row><row><cell>Staphylococci</cell><cell></cell></row><row><cell>Escherichia coli</cell><cell>&lt; 10 CFU/g</cell></row><row><cell>Enterobacteriaceae</cell><cell>&lt; 10 CFU/g</cell></row><row><cell>Listeria monocytogenes</cell><cell>Not detected in 25 g</cell></row><row><cell>Salmonella spp.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10" coords="12,70.87,528.73,453.43,106.66"><head>Table 7 :</head><label>7</label><figDesc><div><p><s coords="12,124.78,528.73,399.52,9.30;12,124.78,540.69,44.47,9.30">Proposed uses and maximum use levels for water lentil protein concentrate using FoodEx2 categories</s></p></div></figDesc><table coords="12,73.87,560.64,442.97,74.75"><row><cell>FoodEx2 Level</cell><cell>FoodEx2 code</cell><cell>Food Category</cell><cell>Maximum use level of the NF (g/100 g)</cell></row><row><cell>3</cell><cell>A00EY</cell><cell>Cereal bars</cell><cell>10</cell></row><row><cell>4</cell><cell>A005K</cell><cell>Bread and rolls with special ingredients added</cell><cell>1.7</cell></row><row><cell>4</cell><cell>A03GF</cell><cell>Powdered drink bases</cell><cell>20</cell></row><row><cell>5</cell><cell>A007R</cell><cell>Asian-style noodles other than glass noodles</cell><cell>6</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11" coords="13,70.87,142.03,453.48,203.40"><head>Table 8 :</head><label>8</label><figDesc><div><p><s coords="13,124.78,142.03,399.57,9.30;13,124.78,153.99,209.20,9.30;13,88.16,298.14,377.21,7.44">Intake estimate resulting from the use of the NF as an ingredient in the intended food categories at the maximum proposed use levels Intakes are assessed for all EU dietary surveys available in the food comprehensive database on 10/6/2022.</s><s coords="13,468.00,298.14,53.65,7.44;13,88.16,308.11,294.54,7.44">The lowest and the highest averages observed among all EU surveys are reported in these columns.</s><s coords="13,70.87,318.04,394.83,7.44">(b): Intakes are assessed for all EU dietary surveys available in the food comprehensive database on 10/6/2022.</s><s coords="13,468.29,318.04,53.59,7.44;13,88.44,328.01,424.40,7.44;13,88.44,337.99,56.80,7.44">The lowest and the highest P95 observed among all EU surveys are reported in these columns (P95 based on less than 60 individuals are not considered).</s></p></div></figDesc><table coords="13,70.87,173.88,438.64,131.69"><row><cell></cell><cell></cell><cell cols="2">Mean intake</cell><cell cols="2">P95 intake</cell></row><row><cell>Population group</cell><cell>Age (years)</cell><cell cols="2">(mg/kg bw per day)</cell><cell cols="2">(mg/kg bw per day)</cell></row><row><cell></cell><cell></cell><cell>Lowest (a)</cell><cell>Highest (a)</cell><cell>Lowest (b)</cell><cell>Highest (b)</cell></row><row><cell>Infants</cell><cell>&lt; 1</cell><cell>0.08</cell><cell>3.4</cell><cell>0</cell><cell>24.1</cell></row><row><cell>Young children (c)</cell><cell>1 to &lt; 3</cell><cell>0.60</cell><cell>13.9</cell><cell>0</cell><cell>47.7</cell></row><row><cell>Other children</cell><cell>3 to &lt; 10</cell><cell>0.08</cell><cell>15.1</cell><cell>0</cell><cell>55.6</cell></row><row><cell>Adolescents</cell><cell>10 to &lt; 18</cell><cell>0.04</cell><cell>8.5</cell><cell>0</cell><cell>46.6</cell></row><row><cell>Adults (d)</cell><cell>18 to &lt; 65</cell><cell>4.1</cell><cell>4.1</cell><cell>30.0</cell><cell>30.0</cell></row><row><cell>bw: body weight.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(a):</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12" coords="13,70.87,584.85,448.31,178.64"><head></head><label></label><figDesc><div><p><s coords="13,87.70,706.03,47.71,7.97">(EFSA, 2011)g/kg bw per d' are calculated by considering the use levels in 'mg/d' and default body weights defined in EFSA Scientific committee, 2012.(d):Total</s><s coords="13,135.41,706.03,8.01,7.97">intake is the sum of the intake from NF ingredient use (highest P95) and from the NF used as a food supplement, for each population group.(e):Referred to as 'toddlers' in the EFSA food consumption comprehensive database(EFSA, 2011).</s><s coords="13,145.08,706.21,10.29,7.44">(f): Includes elderly, very elderly, pregnant, lactating women and vegetarians.</s></p></div></figDesc><table coords="13,70.87,584.85,438.05,128.80"><row><cell></cell><cell></cell><cell>5</cell><cell>24.1</cell><cell>Not intended</cell><cell>24.1</cell></row><row><cell>Young</cell><cell>1 to &lt; 3</cell><cell>12</cell><cell>47.7</cell><cell>Not intended</cell><cell>47.7</cell></row><row><cell>children (e)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Other children 3 to &lt; 10</cell><cell>23.1</cell><cell>55.6</cell><cell>Not intended</cell><cell>55.6</cell></row><row><cell>Adolescents</cell><cell>10 to &lt; 18</cell><cell>43.4</cell><cell>46.6</cell><cell>Not intended</cell><cell>46.6</cell></row><row><cell>Adults</cell><cell>≥ 18</cell><cell>70</cell><cell>30.0 (f)</cell><cell>14.3</cell><cell>44.3</cell></row><row><cell>bw: body weight.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">(a): Default and average body weights are defined in EFSA Scientific committee, 2012.</cell><cell></cell></row><row><cell cols="6">(b): Intakes are assessed for all EU dietary surveys available in the food comprehensive database. The highest P95 observed</cell></row><row><cell cols="6">among all surveys is reported in this column (P95 calculated based on less than 60 individuals are not considered).</cell></row><row><cell>(c):</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13" coords="14,70.87,483.38,445.95,251.47"><head>Table 10 :</head><label>10</label><figDesc><div><p><s coords="14,131.13,483.38,144.96,9.30">Indispensable amino acid scoring</s></p></div></figDesc><table coords="14,73.87,503.32,442.95,196.08"><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Recommended amino</cell><cell>Recommended amino</cell></row><row><cell>Parameter (g/100 g protein)</cell><cell>Average in 5 batches of the NF</cell><cell cols="2">Soy protein 1 Beef 1</cell><cell>Egg white 1</cell><cell>acid scoring patterns for children (6 months to</cell><cell>acid scoring patterns for older children, adolescents and</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3 years) 2</cell><cell>adults 2</cell></row><row><cell>Histidine</cell><cell>2.1</cell><cell>2.54</cell><cell>3.20</cell><cell>2.25</cell><cell>2.0</cell><cell>1.6</cell></row><row><cell>Iso-Leucine</cell><cell>4.7</cell><cell>4.71</cell><cell>4.18</cell><cell>5.28</cell><cell>3.2</cell><cell>3.0</cell></row><row><cell>Leucine</cell><cell>9.1</cell><cell>8.51</cell><cell>7.75</cell><cell>8.76</cell><cell>6.6</cell><cell>6.1</cell></row><row><cell>Lysine</cell><cell>6.1</cell><cell>6.34</cell><cell>7.94</cell><cell>6.98</cell><cell>5.7</cell><cell>4.8</cell></row><row><cell>Tyrosine +</cell><cell>10.2*</cell><cell>9.66</cell><cell>7.02</cell><cell>9.08</cell><cell>5.2</cell><cell>4.1</cell></row><row><cell>Phenylalanine</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Threonine</cell><cell>4.4</cell><cell>3.84</cell><cell>4.21</cell><cell>4.68</cell><cell>3.1</cell><cell>2.5</cell></row><row><cell>Valine</cell><cell>6.0</cell><cell>4.91</cell><cell>4.54</cell><cell>6.78</cell><cell>4.3</cell><cell>4.0</cell></row><row><cell>Cysteine +</cell><cell>2.7*</cell><cell>6.81</cell><cell>3.27</cell><cell>6.64</cell><cell>2.7</cell><cell>2.3</cell></row><row><cell>Methionine</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Tryptophan</cell><cell>1.6</cell><cell>1.14</cell><cell>0.99</cell><cell>1.46</cell><cell>0.85</cell><cell>0.66</cell></row></table><note coords="14,70.87,707.46,295.45,7.44;14,70.87,717.44,68.57,7.44;14,70.87,727.42,50.20,7.44"><p><s coords="14,70.87,707.46,295.45,7.44;14,70.87,717.44,68.57,7.44">*: Tyrosine and cysteine concentrations taken from compositional data,Appendix A.  1: Friedman, 1996.</s><s coords="14,70.87,727.42,50.20,7.44">2: FAO, 2013.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14" coords="16,70.87,73.03,453.48,208.50"><head>Table 11 :</head><label>11</label><figDesc><div><p><s coords="16,131.13,73.03,27.68,9.30">(EFSA, 2011)ates of molybdenum resulting from the use of the NF as an ingredient in the intended food categories at the maximum proposed use levels and as a food supplement DietEx tool exposure estimate was generated on 10/6/2022.The lowest and the highest P95 observed among all EU surveys are reported in these columns (P95 based on less than 60 individuals are not considered).(b):Referred</s><s coords="16,162.37,73.03,41.51,9.30">to as 'toddlers' in the EFSA food consumption comprehensive database(EFSA, 2011).</s><s coords="16,207.38,73.03,8.50,9.30">(c): Includes elderly, very elderly, pregnant, lactating women and vegetarian.</s></p></div></figDesc><table coords="16,70.87,104.94,444.88,146.72"><row><cell>Population group</cell><cell>Age (years)</cell><cell>Total intake of Mo from the NF (Table 9) (mg per day) (a)</cell><cell>Highest mean Mo background intake (mg per day) (EFSA NDA Panel, 2013a)</cell><cell>Combined intake of Mo from NF and background diet (mg per day)</cell><cell>ULs (mg per day) (SCF/ NDA, 2006)</cell></row><row><cell>Infants</cell><cell>&lt; 1</cell><cell>0.009</cell><cell>ND</cell><cell>ND</cell><cell>ND</cell></row><row><cell>Young</cell><cell>1 to &lt; 3</cell><cell>0.024</cell><cell>0.058</cell><cell>0.082</cell><cell>0.1</cell></row><row><cell>children (b)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Other children 3 to &lt; 10</cell><cell>0.057</cell><cell>0.075</cell><cell>0.13</cell><cell>0.2</cell></row><row><cell cols="2">Adolescents 10 to &lt; 18</cell><cell>0.072</cell><cell>0.075</cell><cell>0.15</cell><cell>0.4</cell></row><row><cell>Adults (c)</cell><cell>≥ 18</cell><cell>0.12</cell><cell>0.16</cell><cell>0.28</cell><cell>0.6</cell></row><row><cell cols="5">Mo: molybdenum; NF: novel food; ULs: Tolerable upper intake levels; ND: not determined.</cell><cell></cell></row><row><cell>(a):</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_15" coords="16,70.87,353.55,453.48,237.24"><head>Table 12 :</head><label>12</label><figDesc><div><p><s coords="16,131.13,353.55,393.21,9.30;16,131.13,365.51,383.55,9.30;16,88.16,533.53,210.75,7.44">Intake estimates of manganese resulting from the use of the NF as an ingredient in the intended food categories or as a food supplement at the maximum proposed use levels DietEx tool exposure estimate was generated on 10/6/2022.</s><s coords="16,301.50,533.53,212.11,7.44;16,88.16,543.50,135.98,7.44">The lowest and the highest averages observed among all EU surveys are reported in these columns.</s><s coords="16,70.87,553.48,228.26,7.44">(b): DietEx tool exposure estimate was generated on 10/6/2022.</s><s coords="16,301.72,553.48,193.96,7.44;16,88.44,563.40,343.50,7.44">The lowest and the highest P95 observed among all EU surveys are reported in these columns (P95 based on less than 60 individuals are not considered).</s><s coords="16,70.87,573.20,348.18,7.97">(c): Referred to as 'toddlers' in the EFSA food consumption comprehensive database (EFSA, 2011).</s><s coords="16,70.87,583.36,272.08,7.44">(d): Includes elderly, very elderly, pregnant, lactating women and vegetarian.</s></p></div></figDesc><table coords="16,70.87,385.46,441.08,155.51"><row><cell></cell><cell></cell><cell cols="2">Mean Mn intake</cell><cell cols="2">P95 Mn intake</cell></row><row><cell>Population group</cell><cell>Age (years)</cell><cell cols="2">(mg per day)</cell><cell cols="2">(mg per day)</cell></row><row><cell></cell><cell></cell><cell>Lowest (a)</cell><cell>Highest (a)</cell><cell>Lowest (b)</cell><cell>Highest (b)</cell></row><row><cell>Infants</cell><cell>&lt; 1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0.02</cell></row><row><cell>Young children (c)</cell><cell>1 to &lt; 3</cell><cell>0</cell><cell>0.02</cell><cell>0</cell><cell>0.06</cell></row><row><cell>Other children</cell><cell>3 to &lt; 10</cell><cell>0</cell><cell>0.03</cell><cell>0</cell><cell>0.14</cell></row><row><cell>Adolescents</cell><cell>10 to &lt; 18</cell><cell>0</cell><cell>0.03</cell><cell>0</cell><cell>0.18</cell></row><row><cell>Adults (d)</cell><cell>≥ 18</cell><cell>0.03</cell><cell>0.03</cell><cell>0.20</cell><cell>0.20</cell></row><row><cell>From food supplements</cell><cell></cell><cell></cell><cell>0.1</cell><cell></cell><cell></cell></row><row><cell>only for adults</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mn: manganese; NF: novel food.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(a):</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_16" coords="17,70.87,362.91,444.52,126.64"><head>Table 13 :</head><label>13</label><figDesc><div><p><s coords="17,131.13,362.91,170.95,9.30">List of toxicological studies with the NF</s></p></div></figDesc><table coords="17,70.87,382.85,444.52,106.69"><row><cell>Reference</cell><cell>Type of study</cell><cell>Test system</cell><cell>Dose</cell></row><row><cell>Study No. 997-471-</cell><cell>Bacterial reverse</cell><cell>S. Typhimurium TA98,</cell><cell>Up to 5,000 lg/plate (absence and</cell></row><row><cell>5889 (V ertesi, 2021)</cell><cell>mutation test (GLP,</cell><cell>TA100, TA1535 and TA1537</cell><cell>presence of S9 mix)</cell></row><row><cell></cell><cell>OECD TG 471)</cell><cell>and E. coli WP2 uvrA</cell><cell></cell></row><row><cell>Study No. 997-487-</cell><cell>In vitro mammalian</cell><cell>L5178Y tk+/ 3.7.2c (IVGT)</cell><cell>Up to 400 ug/mL (absence of S9</cell></row><row><cell>5890 (Fekete, 2021)</cell><cell>cell micronucleus test</cell><cell>mouse lymphoma cell line</cell><cell>mix) and up to 600 ug/mL</cell></row><row><cell></cell><cell>(GLP, OECD TG 487)</cell><cell></cell><cell>(presence of S9 mix)</cell></row><row><cell cols="4">bw: body weight; GLP: Good Laboratory Practice; OECD TG: Organisation for Economic Co-operation and Development Test</cell></row><row><cell>Guideline.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_17" coords="19,74.61,649.77,449.85,113.71"><head></head><label></label><figDesc><div><p><s coords="19,85.04,649.77,439.33,9.30;19,104.20,661.42,420.10,9.61;19,104.20,673.38,225.69,9.61;19,140.37,717.21,384.08,7.44;19,81.52,726.91,442.90,7.44;19,81.52,736.60,442.93,7.44;19,81.52,746.35,442.93,7.44;19,81.52,756.05,256.12,7.44">1) On 13/05/2019 EFSA received a letter from the European Commission with the request for a scientific opinion on the safety of water lentil protein concentrate from a mixture of Lemna gibba and Lemna minor.[Ref.Ares(2019)3149260].No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/ EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004.OJ L 30422.11.2011, pp.</s><s coords="19,340.27,756.05,23.61,7.44">18-63.</s></p></div></figDesc><table /><note coords="19,74.61,715.57,3.23,4.96;19,81.52,717.21,55.54,7.44"><p><s coords="19,74.61,715.57,3.23,4.96;19,81.52,717.21,55.54,7.44">8 Regulation (EU)</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_18" coords="20,102.78,275.96,421.52,21.58"><head></head><label></label><figDesc><div><p><s coords="20,290.83,275.96,233.47,9.61;20,102.78,287.92,319.93,9.61">lentil protein concentrate from a mixture of Lemna gibba and Lemna minor as a NF pursuant to Regulation (EU) 2015/2283.</s><s coords="24,154.49,72.67,260.33,11.96">Amino acid profile of five batches of the NF</s></p></div></figDesc><table coords="23,70.87,75.25,417.12,188.61"><row><cell>NEN NF NOAEL OECD TG PUFA Appendix A -Parameter (g/100 g)</cell><cell cols="6">Nederlandse Norm novel food no observed adverse effect level Organisation for Economic Co-operation and Development Test Guideline polyunsaturated fatty acids Batch number Method of analysis #1 #2 #3 #4 #5</cell></row><row><cell>rDNA Alanine</cell><cell cols="3">ribosomal deoxyribonucleic acid 3.88 3.95 3.96</cell><cell>3.95</cell><cell>4</cell><cell>ISO13903</cell></row><row><cell>RH Arginine</cell><cell cols="2">relative humidity 4.14 4.16</cell><cell>4.15</cell><cell>4.13</cell><cell>4.11</cell><cell>ISO13903</cell></row><row><cell>SCF Aspartic acid</cell><cell cols="3">Scientific Committee on Food 5.95 6.06 6.05</cell><cell>5.97</cell><cell>6.08</cell><cell>ISO13903</cell></row><row><cell>RPMI Cysteine</cell><cell cols="3">Roswell Park Memorial Institute 0.49 0.49 0.43</cell><cell>0.44</cell><cell>0.4</cell><cell>ISO13903</cell></row><row><cell>SDS-PAGE TDI Glutamic acid TEQ Glycine TF Histidine UL Hydroxyproline</cell><cell cols="6">sodium dodecyl sulphate-polyacrylamide gel electrophoresis 6.93 7.21 7.21 7.1 7.18 ISO13903 tolerable daily intake 3.6 3.56 3.58 3.56 3.58 ISO13903 toxic equivalent 1.41 1.42 1.4 1.41 1.37 ISO13903 traditional food tolerable upper intake level &lt; 0.05 &lt; 0.05 &lt; 0.05 &lt; 0.05 &lt; 0.05 ISO13903</cell></row><row><cell>USDA Iso-Leucine</cell><cell cols="4">United States Department of Agriculture 3.1 3.16 3.13 3.12</cell><cell>3.1</cell><cell>ISO13903</cell></row><row><cell>WHO/IUIS Leucine</cell><cell cols="6">World Health Organization/International Union of Immunological Societies 5.98 6.07 5.99 5.97 5.93 ISO13903</cell></row><row><cell>Lysine</cell><cell>3.83</cell><cell>3.98</cell><cell>4.12</cell><cell>4.1</cell><cell>4.13</cell><cell>ISO13903</cell></row><row><cell>Methionine</cell><cell>1.29</cell><cell>1.33</cell><cell>1.34</cell><cell>1.32</cell><cell>1.31</cell><cell>ISO13903</cell></row><row><cell>Phenylalanine</cell><cell>3.9</cell><cell>3.93</cell><cell>3.76</cell><cell>3.83</cell><cell>3.76</cell><cell>ISO13903</cell></row><row><cell>Proline</cell><cell>3.07</cell><cell>2.96</cell><cell>2.99</cell><cell>3.07</cell><cell>2.92</cell><cell>ISO13903</cell></row><row><cell>Serine</cell><cell>2.75</cell><cell>2.81</cell><cell>2.81</cell><cell>2.8</cell><cell>2.89</cell><cell>ISO13903</cell></row><row><cell>Threonine</cell><cell>2.83</cell><cell>2.88</cell><cell>2.9</cell><cell>2.89</cell><cell>2.93</cell><cell>ISO13903</cell></row><row><cell>Tyrosine</cell><cell>2.85</cell><cell>2.84</cell><cell>2.81</cell><cell>2.77</cell><cell>2.69</cell><cell>ISO13903</cell></row><row><cell>Valine</cell><cell>3.84</cell><cell>3.95</cell><cell>4</cell><cell>3.95</cell><cell>3.93</cell><cell>ISO13903</cell></row><row><cell>Tryptophan</cell><cell>1.03</cell><cell>1.06</cell><cell>1.09</cell><cell>1.17</cell><cell>1.03</cell><cell>NEN-EN-ISO 13904</cell></row></table><note coords="24,70.87,389.92,344.75,7.44"><p><s coords="24,70.87,389.92,344.75,7.44">EN: Europese Norm; ISO: International Organization for Standardization; NEN: Nederlandse Norm.</s></p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0" coords="2,70.87,781.25,104.58,7.02"><p><s coords="2,70.87,781.25,104.58,7.02">www.efsa.europa.eu/efsajournal</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1" coords="2,427.64,781.25,96.79,7.02"><p><s coords="2,427.64,781.25,96.79,7.02">EFSA Journal 2023;21(4):7903</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2" coords="6,81.52,746.35,442.92,7.44;6,81.52,756.05,190.18,7.44"><p><s coords="6,81.52,746.35,442.92,7.44;6,81.52,756.05,163.94,7.44">Commission Regulation (EC) No 152/2009 of 27 January 2009 laying down the methods of sampling and analysis for the official control of feed.OJ L 54, 26.2.2009, pp.</s><s coords="6,248.09,756.05,23.62,7.44">1-130.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3" coords="9,81.52,746.35,442.85,7.44;9,81.52,756.05,130.89,7.44"><p><s coords="9,81.52,746.35,442.85,7.44;9,81.52,756.05,130.89,7.44">Commission Regulation (EC) No 1881/2006 of 19 December 2006 setting maximum levels for certain contaminants in foodstuffs.OJ L 364, 20.12.2006, pp.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4" coords="9,215.04,756.05,19.31,7.44"><p><s coords="9,215.04,756.05,19.31,7.44">5-24.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_5" coords="10,81.52,717.21,442.91,7.44;10,81.52,726.91,442.89,7.44;10,81.52,736.60,97.66,7.44"><p><s coords="10,81.52,717.21,442.91,7.44;10,81.52,726.91,431.19,7.44">Commission Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive 91/414/EEC.</s><s coords="10,515.63,726.91,8.79,7.44;10,81.52,736.60,61.90,7.44">OJL 070, 16.3.2005,</s><s coords="10,146.04,736.60,11.21,7.44">pp.</s><s coords="10,159.87,736.60,19.31,7.44">1-16.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_6" coords="10,81.52,746.35,442.86,7.44;10,81.52,756.05,380.22,7.44"><p><s coords="10,81.52,746.35,442.86,7.44;10,81.52,756.05,262.29,7.44">Commission Regulation (EC) No 1925/2006 of the European Parliament and of the Council of 20 December 2006 on the addition of vitamins and minerals and of certain other substances to foods.</s><s coords="10,346.45,756.05,89.05,7.44">OJL 404 30.12.2006, pp.</s><s coords="10,438.13,756.05,23.61,7.44">26-38.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_7" coords="12,81.52,756.05,228.38,7.44;12,70.87,32.56,298.68,8.97;12,70.87,781.25,104.58,7.02"><p><s coords="12,81.52,756.05,228.38,7.44">https://www.efsa.europa.eu/it/science/tools-and-resources/dietex</s><s coords="12,70.87,32.56,298.68,8.97;12,70.87,781.25,104.58,7.02">Safety of water lentil protein concentrate from Lemna gibba and Lemna minor www.efsa.europa.eu/efsajournal</s></p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abbreviations</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="3,70.87,94.17,438.70,8.37" xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,70.87,94.17,435.92,8.37">Abstract.....................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.65,105.11,3.78,8.37;3,104.88,105.11,403.47,8.37" xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,105.11,400.65,8.37">Introduction..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,116.05,11.34,8.37;3,104.88,116.05,403.45,8.37" xml:id="b2">
+	<monogr>
+		<title level="m" type="main" coord="3,104.88,116.05,248.79,8.37">Background and Terms of Reference as provided by the requestor</title>
+		<author>
+			<orgName type="collaboration" coords="3,353.67,116.05,151.75,8.37">....................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,127.05,11.34,8.37;3,104.88,127.05,403.44,8.37" xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,78.42,127.05,7.56,8.37;3,104.88,127.05,400.61,8.37">2. Additional information....................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,137.99,3.78,8.37;3,104.88,137.99,403.50,8.37" xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,137.99,400.79,8.37">Data and methodologies ................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,82.20,148.93,3.78,8.37;3,104.88,148.93,403.49,8.37" xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,148.93,400.73,8.37">Data.............................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,82.20,159.93,3.78,8.37;3,104.88,159.93,403.51,8.37" xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,159.93,400.65,8.37">Methodologies...............................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,170.87,3.78,8.37;3,104.88,170.87,403.45,8.37" xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,170.87,400.61,8.37">Assessment...................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,82.20,181.81,3.78,8.37;3,104.88,181.81,403.47,8.37" xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,181.81,400.65,8.37">Introduction..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,192.81,11.34,8.37;3,104.88,192.81,403.48,8.37" xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,78.42,192.81,7.56,8.37;3,104.88,192.81,400.72,8.37">2. Identity of the NF..........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,82.20,203.75,3.78,8.37;3,104.88,203.75,403.44,8.37" xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,203.75,400.74,8.37">Production process ........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,82.20,214.70,3.78,8.37;3,104.88,214.70,403.44,8.37" xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,214.70,400.68,8.37">Compositional data........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,89.76,225.64,418.62,8.37" xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,225.64,400.79,8.37">Stability ........................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,236.64,11.34,8.37;3,104.87,236.64,403.49,8.37" xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,78.42,236.64,7.56,8.37;3,104.87,236.64,400.78,8.37">5. Specifications ................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,247.58,11.34,8.37;3,104.87,247.58,403.49,8.37" xml:id="b14">
+	<monogr>
+		<title level="m" type="main" coord="3,104.87,247.58,174.03,8.37">History of use of the NF and/or of its source</title>
+		<author>
+			<orgName type="collaboration" coords="3,280.90,247.58,224.75,8.37">...................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,258.52,433.69,8.37" xml:id="b15">
+	<monogr>
+		<title level="m" type="main" coord="3,104.87,258.52,109.34,8.37">History of use of the source</title>
+		<author>
+			<orgName type="collaboration" coords="3,215.88,258.52,289.74,8.37">...........................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,269.52,433.72,8.37" xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,85.97,269.52,419.62,8.37">2. History of use of the NF.................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.42,280.46,10.71,8.37;3,104.87,280.46,403.47,8.37" xml:id="b17">
+	<monogr>
+		<title level="m" type="main" coord="3,104.87,280.46,198.54,8.37">Proposed uses and use levels and anticipated intake</title>
+		<author>
+			<orgName type="collaboration" coords="3,303.41,280.46,202.11,8.37">........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,89.05,291.40,419.30,8.37" xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.87,291.40,400.77,8.37">Target population ..........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,89.05,302.40,419.30,8.37" xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.87,302.40,400.77,8.37">Proposed uses and use levels .........................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.49,313.34,433.83,8.37" xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,204.25,313.34,301.36,8.37">NF ...........................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>3. Anticipated intake of the</note>
+</biblStruct>
+
+<biblStruct coords="3,89.05,324.28,419.31,8.37" xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.87,324.28,400.79,8.37">Combined intake of the NF ............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.49,335.28,433.88,8.37" xml:id="b22">
+	<monogr>
+		<title level="m" type="main" coord="3,104.87,335.28,187.36,8.37">Estimate of exposure to undesirable substances</title>
+		<author>
+			<orgName type="collaboration" coords="3,294.45,335.28,211.21,8.37">..............................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.63,346.22,11.34,8.37;3,104.87,346.22,403.49,8.37" xml:id="b23">
+	<monogr>
+		<title level="m" type="main" coord="3,104.87,346.22,198.10,8.37">Absorption, distribution, metabolism and excretion</title>
+		<author>
+			<orgName type="collaboration" coords="3,311.00,346.22,194.65,8.37">ADME) ..............................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,82.19,357.16,3.78,8.37;3,104.87,357.16,403.46,8.37" xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.87,357.16,400.75,8.37">Nutritional information ...................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.85,368.10,433.52,8.37" xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,78.84,368.10,426.82,8.37">10. Toxicological information ................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,94.45,379.10,413.89,8.37" xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.87,379.10,400.65,8.37">Genotoxicity..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,94.45,390.04,413.86,8.37" xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.87,390.04,400.74,8.37">Subchronic toxicity ........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,94.44,400.99,413.89,8.37" xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.87,400.99,400.71,8.37">Human data..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.84,411.98,433.50,8.37" xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,78.84,411.98,426.80,8.37">11. Allergenicity ..................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,422.93,3.78,8.37;3,104.88,422.93,403.50,8.37" xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,422.93,400.79,8.37">Discussion ....................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,433.87,3.78,8.37;3,104.88,433.87,403.45,8.37" xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,433.87,400.63,8.37">Conclusions...................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,444.87,11.34,8.37;3,104.88,444.87,401.89,8.37" xml:id="b32">
+	<monogr>
+		<title level="m" type="main" coord="3,104.88,444.87,336.22,8.37">Request for protection of proprietary data in accordance with Article 26 of Regulation</title>
+		<idno>EU) 2015/2283</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,74.64,455.81,3.78,8.37;3,104.88,455.81,403.49,8.37" xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,104.88,455.81,400.78,8.37">Steps taken by EFSA .....................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,70.86,466.75,438.70,8.37;3,70.86,477.69,438.69,8.37" xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration" coords="3,70.86,466.75,438.70,8.37;3,70.86,477.69,435.99,8.37">References.................................................................................................................................................. Abbreviations .............................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="3,70.86,488.49,438.66,8.97;20,275.54,330.58,248.88,8.37;20,84.59,341.52,439.76,8.37;20,84.59,352.46,160.52,8.37" xml:id="b35">
+	<analytic>
+		<title level="a" type="main" coord="3,504.11,488.69,5.42,8.37;20,275.54,330.58,187.04,8.37">&apos;alimentation, de l&apos;environnement et du travail)</title>
+		<author>
+			<persName coords=""><forename type="first">A -Amino</forename><surname>Appendix</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">NF ............................................................................</orgName>
+			</affiliation>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="20,495.95,330.58,28.47,8.37;20,84.59,341.52,439.76,8.37;20,84.59,352.46,123.17,8.37">Second French Total Diet Study (TDS 2) Report 1: Inorganic contaminants, minerals, persistent organic pollutants, mycotoxins and phytoestrogens</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">305</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.87,362.18,111.24,9.65;20,177.45,363.46,346.96,8.37;20,84.59,374.40,286.78,8.37" xml:id="b36">
+	<analytic>
+		<title level="a" type="main" coord="20,446.46,363.46,77.95,8.37;20,84.59,374.40,157.91,8.37">Nutritional value of duckweeds (Lemnaceae) as human food</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">J</forename><surname>Appenroth</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">S</forename><surname>Sree</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>€ Ohm</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Hammann</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Vetter</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Leiterer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Jahreis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,249.51,374.40,58.89,8.37">Food Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">217</biblScope>
+			<biblScope unit="page" from="266" to="273" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.87,384.06,215.44,9.65;20,281.60,385.34,242.75,8.37;20,84.59,396.05,439.80,8.65;20,84.59,407.28,81.55,8.37" xml:id="b37">
+	<analytic>
+		<title level="a" type="main" coord="20,120.87,396.05,362.01,8.65">Nutritional value of the duckweed species of the genus Wolffia (Lemnaceae) as human food</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">J</forename><surname>Appenroth</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">S</forename><surname>Sree</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Bog</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Ecker</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Seeliger</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>€ Ohm</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Lorkowski</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Sommer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Vetter</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Tolzin-Banasch K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,490.06,396.34,34.33,8.37;20,84.59,407.28,46.65,8.37">Frontiers in Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">483</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.87,417.94,453.51,8.65;20,84.59,429.22,17.26,8.37;20,70.87,440.16,453.47,8.37;20,84.59,451.10,439.82,8.37;20,84.59,462.05,46.04,8.37" xml:id="b38">
+	<analytic>
+		<title level="a" type="main" coord="20,240.10,417.94,227.89,8.65;20,382.51,440.16,141.83,8.37;20,84.59,451.10,301.35,8.37">Phylogenetic relationships of aroids and duckweeds (Araceae) inferred from coding and noncoding plastid DNA</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Bhanthumnavin</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Mg ;</forename><surname>Mcgarry</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">I</forename><surname>Cabrera</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">A</forename><surname>Salazar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">W</forename><surname>Chase</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">J</forename><surname>Mayo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Bogner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,474.86,418.22,24.95,8.37;20,394.93,451.10,108.94,8.37">American Journal of Botany</title>
+		<imprint>
+			<biblScope unit="volume">232</biblScope>
+			<biblScope unit="page" from="1153" to="1165" />
+			<date type="published" when="1971">1971. 2008</date>
+		</imprint>
+	</monogr>
+	<note>Nature</note>
+</biblStruct>
+
+<biblStruct coords="20,70.87,473.04,453.53,8.37;20,84.59,483.99,439.75,8.37;20,84.59,494.93,335.72,8.37" xml:id="b39">
+	<analytic>
+		<title level="a" type="main" coord="20,252.74,473.04,271.65,8.37;20,84.59,483.99,198.02,8.37">The Importance and Potential of Duckweeds as a Model and Crop Plant for Biomass-Based Applications and Beyond</title>
+		<author>
+			<persName coords=""><forename type="first">H</forename><forename type="middle">X</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Fourounjian</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Wang</forename><forename type="middle">W</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-58538-3_67-1EFSA</idno>
+		<ptr target="https://doi.org/10.1007/978-3-319-58538-3_67-1EFSA" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="20,373.95,483.99,150.39,8.37;20,84.59,494.93,48.61,8.37">Handbook of Environmental Materials Management</title>
+		<editor>
+			<persName><surname>Hussain</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.87,505.93,453.49,8.37;20,84.59,516.87,439.80,8.37;20,84.59,527.81,295.69,8.37" xml:id="b40">
+	<analytic>
+		<title level="a" type="main" coord="20,203.81,505.93,320.54,8.37;20,84.59,516.87,311.08,8.37">Systematic literature search to assist EFSA in the preparatory work for the safety assessment of novel food applications and traditional food notifications</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Dibusz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Vejvodova</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/sp.efsa.2019.EN-1774</idno>
+		<idno>EN-1774</idno>
+		<ptr target="https://doi.org/10.2903/sp.efsa.2019.EN-1774" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="20,406.32,516.87,118.07,8.37">EFSA supporting publication</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2020">2020. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.87,538.81,453.53,8.37;20,84.59,549.75,62.27,8.37" xml:id="b41">
+	<monogr>
+		<title level="m" type="main" coord="20,136.80,538.81,336.42,8.37">Handbook of phytochemical constituents of GRAS herbs and other economic plants</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">A</forename><surname>Duke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>CRC Press</publisher>
+			<pubPlace>Boca Raton, FL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,70.87,560.69,453.48,8.37;20,84.59,571.63,439.77,8.37;20,84.59,582.63,19.40,8.37;20,70.87,593.57,453.54,8.37;20,84.59,604.23,439.75,8.65;20,84.59,615.51,439.76,8.37;20,84.59,626.45,33.50,8.37;20,70.87,637.11,453.50,8.65;20,84.59,648.11,439.82,8.65;20,84.59,659.33,439.74,8.37;20,84.59,670.28,22.77,8.37;20,70.87,681.22,453.49,8.37;20,84.59,692.22,439.77,8.37" xml:id="b42">
+	<analytic>
+		<title level="a" type="main" coord="20,269.98,560.69,254.37,8.37;20,84.59,571.63,132.95,8.37;20,341.35,593.57,183.06,8.37;20,84.59,604.23,439.75,8.65;20,84.59,615.51,17.46,8.37;20,339.65,637.11,184.72,8.65;20,84.59,648.11,439.82,8.65;20,84.59,659.33,40.39,8.37;20,410.41,681.22,113.95,8.37;20,84.59,692.22,133.66,8.37">on the notification of fresh plants of Wolffia arrhiza and Wolffia globosa as a traditional food from a third country pursuant to Article 14 of Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2013.3333</idno>
+		<idno>EN-6658</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2013" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="20,100.37,593.57,132.78,8.37;20,314.53,615.51,30.59,8.37;20,84.59,626.45,33.50,8.37;20,70.87,637.39,161.43,8.37">EN-1443 EFSA (European Food Safety Authority)</title>
+		<imprint>
+			<publisher>EFSA Panel on Dietetic Products, Nutrition and Allergies</publisher>
+			<date type="published" when="2011">2011. 2011. 2018. 2015/2283. 2018. 2021. 2018. 2013. 2013</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="3333" to="3335" />
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>EFSA Journal</note>
+</biblStruct>
+
+<biblStruct coords="20,70.87,714.10,453.49,8.37;20,84.59,725.10,439.77,8.37" xml:id="b43">
+	<analytic>
+		<title level="a" type="main" coord="20,410.46,714.10,113.90,8.37;20,84.59,725.10,128.33,8.37">Scientific Opinion on Dietary Reference Values for manganese</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2013.3419</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2013" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="20,145.53,714.10,226.39,8.37">EFSA Panel on Dietetic Products, Nutrition and Allergies)</title>
+		<imprint>
+			<date type="published" when="2013">2013. 2013</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">44</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.87,73.08,453.54,8.37;21,84.59,84.08,439.75,8.37;21,84.59,95.02,320.27,8.37" xml:id="b44">
+	<analytic>
+		<title level="a" type="main" coord="21,394.25,73.08,130.16,8.37;21,84.59,84.08,435.26,8.37">Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2016.4594</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2016.4594" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,84.59,95.02,51.08,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="4594" to="4618" />
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>EFSA Panel on Dietetic Products, Nutrition and Allergies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.87,105.96,453.50,8.37;21,84.59,116.96,438.06,8.37" xml:id="b45">
+	<analytic>
+		<title level="a" type="main" coord="21,397.48,105.96,126.89,8.37;21,84.59,116.96,116.50,8.37">Scientific Opinion on the dietary reference values for vitamin K</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2017.4780</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2017.4780" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,208.06,116.96,51.03,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">78</biblScope>
+			<date type="published" when="2017">2017. 2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>EFSA Panel on Dietetic Products, Nutrition and Allergies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.87,127.90,453.50,8.37;21,84.59,138.84,439.75,8.37;21,84.59,149.84,189.31,8.37" xml:id="b46">
+	<analytic>
+		<title level="a" type="main" coord="21,379.22,127.90,145.15,8.37;21,84.59,138.84,300.67,8.37">2021a. Safety of water lentil powder from Lemnaceae as a Novel Food pursuant to Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2021.6845</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2021.6845" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="21,143.55,127.90,228.55,8.37">EFSA Panel on Nutrition, Novel Foods and Food Allergens)</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="6845" to="6870" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.87,160.49,453.52,8.65;21,84.58,171.72,439.79,8.37;21,84.58,182.66,161.02,8.37" xml:id="b47">
+	<analytic>
+		<title level="a" type="main" coord="21,422.48,160.49,101.91,8.65;21,84.58,171.72,266.48,8.37">Safety of Wolffia globosa powder as a novel food pursuant to Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2021.6938</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2021.6938" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="21,146.49,160.78,267.18,8.37">EFSA Panel on Nutrition, Novel Foods and Food Allergens), 2021b</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">25</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.87,193.66,453.48,8.37;21,84.58,204.32,439.80,8.65;21,84.58,215.55,351.55,8.37" xml:id="b48">
+	<analytic>
+		<title level="a" type="main" coord="21,401.90,193.66,122.45,8.37;21,84.58,204.32,439.80,8.65;21,84.58,215.55,17.69,8.37">Scientific Opinion on the safety of Lemna minor and Lemna gibba whole plant material as a novel food pursuant to Regulation (EU) 2015/ 2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/sp.efsa.2022.7598</idno>
+		<ptr target="https://doi.org/10.2903/sp.efsa.2022.7598" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="21,142.92,193.66,226.90,8.37">EFSA Panel on Nutrition, Novel Foods and Food Allergens)</title>
+		<imprint>
+			<date type="published" when="2022">2022. 2022</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="7598" to="7618" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,226.54,453.51,8.37;21,84.58,237.48,439.77,8.37;21,84.58,248.43,189.31,8.37" xml:id="b49">
+	<analytic>
+		<title level="a" type="main" coord="21,216.57,226.54,307.81,8.37;21,84.58,237.48,309.42,8.37">Guidance on selected default values to be used by the EFSA Scientific Committee, Scientific Panels and Units in the absence of actual measured data</title>
+		<idno type="DOI">10.2903/j.efsa.2012.2579</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2012.2579" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,401.10,237.48,51.20,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="2579" to="2611" />
+			<date type="published" when="2012">2012. 2012</date>
+			<publisher>EFSA Scientific Committee</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,259.42,453.51,8.37;21,84.58,270.37,118.25,8.37" xml:id="b50">
+	<analytic>
+		<title level="a" type="main" coord="21,117.97,259.42,206.59,8.37">Dietary protein quality evaluation in human nutrition</title>
+		<author>
+			<persName coords=""><surname>Fao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="21,331.37,259.42,193.01,8.37;21,84.58,270.37,74.15,8.37">Report of an FAQ Expert Consultation. FAO Food and Nutrition Paper</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1" to="66" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,281.02,453.48,8.65;21,84.58,292.25,163.43,8.37" xml:id="b51">
+	<monogr>
+		<title level="m" type="main" coord="21,136.74,281.02,387.61,8.65;21,84.58,292.25,29.36,8.37">Study title: in vitro mammalian cell micronucleus test with water lentil protein concentrate. Study Number</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Fekete</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>TOXI-COOP ZRT</publisher>
+			<biblScope unit="page" from="997" to="487" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,303.25,453.49,8.37;21,84.58,314.19,439.83,8.37;21,84.58,325.13,17.26,8.37" xml:id="b52">
+	<analytic>
+		<title level="a" type="main" coord="21,496.46,303.25,27.89,8.37;21,84.58,314.19,306.20,8.37">Dietary estimated intake of trace elements: risk assessment in an Italian Population</title>
+		<author>
+			<persName coords=""><forename type="first">T</forename><surname>Filippini</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Tancredi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Malagoli</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Malavolti</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Bargellini</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Vescovi</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Nicolini</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Vinceti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,398.72,314.19,82.25,8.37">Exposure and Health</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="641" to="655" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,336.13,453.54,8.37;21,84.58,347.07,103.12,8.37" xml:id="b53">
+	<analytic>
+		<title level="a" type="main" coord="21,149.61,336.13,262.17,8.37">Nutritional value of proteins from different food sources. A review</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Friedman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,419.30,336.13,105.10,8.37;21,84.58,347.07,58.89,8.37">Journal of Agricultural and Food Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="6" to="29" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,358.01,453.54,8.37;21,84.58,369.01,405.19,8.37" xml:id="b54">
+	<analytic>
+		<title level="a" type="main" coord="21,159.02,358.01,365.38,8.37;21,84.58,369.01,165.23,8.37">Chemistry, biochemistry, nutrition, and microbiology of lysinoalanine, lanthionine, and histidinoalanine in food and other proteins</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Friedman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,256.59,369.01,165.36,8.37">Journal of Agricultural and Food Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1295" to="1319" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,379.95,453.53,8.37;21,84.58,390.89,394.72,8.37" xml:id="b55">
+	<analytic>
+		<title level="a" type="main" coord="21,328.25,379.95,196.14,8.37;21,84.58,390.89,268.51,8.37">Bacterial production of indole related compounds reveals their role in association between duckweeds and endophytes</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Acosta</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Poulev</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Lebeis</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Lam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,360.45,390.89,83.95,8.37">Frontiers in Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">265</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,401.83,453.51,8.37;21,84.58,412.83,258.60,8.37" xml:id="b56">
+	<analytic>
+		<title level="a" type="main" coord="21,189.69,401.83,334.69,8.37;21,84.58,412.83,15.82,8.37">A review on the role of duckweed in nutrient reclamation and as a source of animal feed</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Goopy</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,107.37,412.83,177.04,8.37">Asian-Australasian Journal of Animal Sciences</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="297" to="305" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,423.77,453.49,8.37;21,84.58,434.72,224.60,8.37" xml:id="b57">
+	<monogr>
+		<idno>GRN No. 742</idno>
+		<ptr target="https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&amp;id=742" />
+		<title level="m" coord="21,155.84,423.77,236.13,8.37">Duckweed (subfamily Lemnoideae) powder Available online</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,445.43,453.49,8.65;21,84.58,456.37,408.16,8.65" xml:id="b58">
+	<analytic>
+		<title level="a" type="main" coord="21,243.32,445.43,281.03,8.65;21,84.58,456.37,87.50,8.65">Paenibacillus lemnae sp. nov., an endophytic bacterium of duckweed (Lemna aequinoctialis)</title>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Kittiwongwattana</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Thawai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,178.75,456.66,255.40,8.37">International Journal of Systematic and Evolutionary Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="107" to="112" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,467.60,453.53,8.37;21,84.58,478.60,439.79,8.37;21,84.58,489.54,185.87,8.37" xml:id="b59">
+	<analytic>
+		<title level="a" type="main" coord="21,243.66,467.60,189.67,8.37">Plant nutrient phytoremediation using duckweed</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Landesman</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Fedler</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Duan</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-90-481-9625-8_17</idno>
+		<ptr target="https://doi.org/10.1007/978-90-481-9625-8_17" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="21,226.54,478.60,207.62,8.37">Eutrophication: Causes, Consequences and Control</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Ansari</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Singh Gill</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Lanza</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Rast</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,500.48,453.49,8.37;21,84.58,511.42,333.62,8.37" xml:id="b60">
+	<monogr>
+		<title level="m" type="main" coord="21,136.68,500.48,363.74,8.37">Water lentils: a tiny aquatic plant with enormous potential for agriculture and environment</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">A</forename><surname>Leng</surname></persName>
+		</author>
+		<ptr target="http://www.fao.org/ag/AGAinfo/resources/documents/DW/Dw2.htm" />
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,522.42,453.52,8.37;21,84.58,533.15,258.68,8.97" xml:id="b61">
+	<analytic>
+		<title level="a" type="main" coord="21,239.18,522.42,285.20,8.37;21,84.58,533.15,30.64,8.97">Duckweed -a potential highprotein feed resource for domestic animals and fish</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">A</forename><surname>Leng</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">H</forename><surname>Stambolie</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Bell</surname></persName>
+		</author>
+		<idno>#5</idno>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,121.49,533.36,163.96,8.37">Livestock Research for Rural Development</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,544.30,453.53,8.37;21,84.58,555.30,439.82,8.37;21,84.58,566.24,411.16,8.37" xml:id="b62">
+	<analytic>
+		<title level="a" type="main" coord="21,519.08,544.30,5.32,8.37;21,84.58,555.30,439.82,8.37;21,84.58,566.24,130.83,8.37">A controlled human intervention trial to study protein quality by amino acid uptake kinetics with the novel Lemna protein concentrate as case study</title>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename><surname>Mes</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Esser</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Oosterink</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Rtm</forename><surname>Van Den Dool</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Engel</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Gah</forename><surname>De Jong</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Wehrens</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">M</forename><surname>Van Der Meer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,222.23,566.24,203.71,8.37">International Journal of Food Sciences and Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="251" to="262" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,577.18,453.50,8.37;21,84.58,587.89,439.77,9.05;21,84.58,599.13,157.63,8.37" xml:id="b63">
+	<analytic>
+		<title level="a" type="main" coord="21,278.64,577.18,245.72,8.37;21,84.58,587.89,378.75,9.05">Bioaccumulation and harmful effects of microcystin-LR in the aquatic plants Lemna minor and Wolffia arrhiza and the filamentous alga Chladophora fracta</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><forename type="middle">M</forename><surname>Mitrovic</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Allis</forename><forename type="middle">O</forename><surname>Furey</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,471.17,588.19,53.18,8.37;21,84.58,599.13,99.16,8.37">Ecotoxicology and Environmental Safety</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="345" to="352" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,610.07,453.52,8.37;21,84.58,621.02,130.82,8.37" xml:id="b64">
+	<monogr>
+		<title level="m" type="main" coord="21,128.13,610.07,396.26,8.37;21,84.58,621.02,32.02,8.37">Test No. 471: Bacterial Reverse Mutation Test, OECD Guidelines for the Testing of Chemicals, Section4</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>OECD Publishing</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,632.01,453.50,8.37;21,84.58,642.95,231.51,8.37" xml:id="b65">
+	<monogr>
+		<title level="m" type="main" coord="21,124.61,632.01,399.76,8.37;21,84.58,642.95,105.61,8.37">OECD Principles on Good Laboratory Practice, OECD Series on Principles of Good Laboratory Practice and Compliance Monitoring</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>OECD Publishing</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,653.90,373.25,8.37" xml:id="b66">
+	<monogr>
+		<title level="m" coord="21,191.39,653.90,154.20,8.37">Vitro Mammalian Cell Micronucleus Test</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">487</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,664.89,453.50,8.37;21,84.58,675.84,439.83,8.37;21,84.58,686.78,22.11,8.37" xml:id="b67">
+	<analytic>
+		<title level="a" type="main" coord="21,287.60,664.89,236.77,8.37;21,84.58,675.84,234.80,8.37">Dietary exposure to metals and other elements in the 2006 UK Total Diet Study and some trends over the last 30 years</title>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Baxter</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">N</forename><surname>Brereton</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Baskaran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,326.44,675.84,152.04,8.37">Food Additives &amp; Contaminants: Part A</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1380" to="1404" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,697.78,453.53,8.37;21,84.58,708.43,439.76,8.65;21,84.58,719.66,301.63,8.37" xml:id="b68">
+	<analytic>
+		<title level="a" type="main" coord="21,109.47,708.43,414.88,8.65;21,84.58,719.66,165.82,8.37">Phytotoxic effects of cyanobacteria extract on the aquatic plant Lemna gibba: microcystin accumulation, detoxication and oxidative stress induction</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Saqrane</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">E</forename><surname>Ghazali</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Ouahid</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">E</forename><surname>Hassni</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">E</forename><surname>Hadrami</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Bouarab</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><forename type="middle">F</forename><surname>Del Campo</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Oudra</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Vasconcelos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="21,257.27,719.66,70.38,8.37">Aquatic Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="284" to="294" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,70.86,730.60,453.52,8.37;21,84.58,741.60,395.38,8.37" xml:id="b69">
+	<monogr>
+		<author>
+			<persName coords=""><surname>Scf/Nda</surname></persName>
+		</author>
+		<ptr target="https://www.efsa.europa.eu/sites/default/files/efsa_rep/blobserver_assets/ndatolerableuil.pdf" />
+		<title level="m" coord="21,264.36,730.60,260.02,8.37;21,84.58,741.60,22.63,8.37">Tolerable Upper Intake Levels for Vitamins and Minerals Available online</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,70.87,73.08,453.53,8.37;22,84.59,84.08,439.85,8.37;22,84.59,95.02,97.95,8.37" xml:id="b70">
+	<analytic>
+		<title level="a" type="main" coord="22,310.68,73.08,213.72,8.37;22,84.59,84.08,282.00,8.37">Phytate in foods and significance for humans: food sources, intake, processing, bioavailability, protective role and analysis</title>
+		<author>
+			<persName coords=""><forename type="first">U</forename><surname>Schlemmer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Frølich</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><forename type="middle">M</forename><surname>Prieto</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">F</forename><surname>Grases</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="22,374.23,84.08,145.94,8.37">Molecular Nutrition &amp; Food Research</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="330" to="S375" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,70.87,104.68,171.90,9.65;22,238.05,105.96,286.29,8.37;22,84.59,116.96,413.12,8.37" xml:id="b71">
+	<analytic>
+		<title level="a" type="main" coord="22,362.27,105.96,162.07,8.37;22,84.59,116.96,312.40,8.37">Effect of vitamin K intake on the stability of oral anticoagulant treatment: dose-response relationships in healthy subjects</title>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">J</forename><surname>Schurgers</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><forename type="middle">J</forename><surname>Shearer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Hamuly Ak</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">€</forename><surname>St</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Vermeer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="22,403.88,116.96,20.45,8.37">Blood</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="2682" to="2689" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,70.87,127.90,453.52,8.37;22,84.58,138.84,439.75,8.37;22,84.58,149.84,97.58,8.37" xml:id="b72">
+	<analytic>
+		<title level="a" type="main" coord="22,430.13,127.90,94.25,8.37;22,84.58,138.84,201.17,8.37">Health effects, sources, utilization and safety of tannins: a critical review</title>
+		<author>
+			<persName coords=""><forename type="first">K</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">V</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Kaur</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Tanwar</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Goyal</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Gat</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15569543.2019.1662813</idno>
+		<ptr target="https://doi.org/10.1080/15569543" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="22,294.52,138.84,55.30,8.37">Toxin Reviews</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="432" to="444" />
+			<date type="published" when="2019">2021. 2019.1662813</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,70.87,160.78,453.48,8.37;22,84.58,171.72,361.18,8.37" xml:id="b73">
+	<analytic>
+		<title level="a" type="main" coord="22,99.33,160.78,254.18,8.37;22,387.27,160.78,137.07,8.37;22,84.58,171.72,104.01,8.37">Agricultural Research Service, National Plant Germplasm System</title>
+		<author>
+			<persName coords=""><surname>Usda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="22,196.21,171.72,164.93,8.37">National Germplasm Resources Laboratory</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Beltsville, Maryland</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Germplasm Resources Information Network (GRIN Taxonomy)</note>
+</biblStruct>
+
+<biblStruct coords="22,70.87,182.66,453.50,8.37;22,84.59,193.66,126.19,8.37" xml:id="b74">
+	<monogr>
+		<title level="m" type="main" coord="22,137.42,182.66,382.05,8.37">Study title: Bacterial reverse mutation assay with water lentil protein concentrate. Study Number</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>TOXI-COOP ZRT</publisher>
+			<biblScope unit="page" from="997" to="471" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,70.87,204.60,453.58,8.37;22,84.59,215.55,194.14,8.37" xml:id="b75">
+	<analytic>
+		<title level="a" type="main" coord="22,354.16,204.60,170.29,8.37;22,84.59,215.55,78.01,8.37">DNA barcoding of the Lemnaceae, a family of aquatic monocots</title>
+		<author>
+			<persName coords=""><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Y</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Ermakova</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Kerstetter</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><surname>Messing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="22,170.14,215.55,69.18,8.37">BMC Plant Biology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">205</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,70.87,226.54,453.50,8.37;22,84.59,237.48,439.83,8.37;22,84.59,248.43,306.48,8.37" xml:id="b76">
+	<monogr>
+		<title level="m" type="main" coord="22,248.09,226.54,276.28,8.37;22,84.59,237.48,411.30,8.37">Cyanobacterial toxins: microcystins. Background document for the development of WHO Guidelines for Drinking-water Quality and Guidelines for safe recreational</title>
+		<author>
+			<persName coords=""><surname>Who</surname></persName>
+		</author>
+		<ptr target="https://apps.who.int/iris/handle/10665/338066" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,70.87,259.42,453.49,8.37;22,84.59,270.08,439.76,8.65;22,84.59,281.02,372.30,8.65" xml:id="b77">
+	<analytic>
+		<title level="a" type="main" coord="22,84.59,270.08,439.76,8.65;22,84.59,281.02,223.05,8.65">Postprandial amino acid, glucose and insulin responses among healthy adults after a single intake of Lemna minor in comparison with green peas: a randomised trial</title>
+		<author>
+			<persName coords=""><forename type="first">G</forename><forename type="middle">G</forename><surname>Zeinstra</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">D</forename><surname>Somhorst</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">E</forename><surname>Oosterink</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">H</forename><surname>Fick</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><surname>Klopping-Ketelaars</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">Van</forename><surname>Der Meer</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">I</forename><forename type="middle">M</forename><surname>Mes</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">J</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="22,313.57,281.31,113.35,8.37">Journal of Nutritional Science</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">28</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

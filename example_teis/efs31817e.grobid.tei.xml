@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Requestor: European Commission following a notification from PROMPERU/Agroindustrias Osho SAC/Amazon Health Products SAC/Comercio Alternativo de Productos No Tradicionales y Desarrollo para Latino América Perú -Candela/Shanantina SAC (Peru)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-03-06">06 March 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Bernard</forename><surname>Bottex</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Karl-Heinz</forename><surname>Engel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wolfgang</forename><surname>Gelbmann</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><surname>Kearney</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alexandre</forename><surname>Maciuk</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Carmen</forename><surname>Peláez</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Emanuela</forename><surname>Turla</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Robert</forename><surname>Anton</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ulla</forename><forename type="middle">Beckman</forename><surname>Sundh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Carlo</forename><surname>Bicchi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qasim</forename><surname>Chaudhry</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Secundino</forename><forename type="middle">Lopez</forename><surname>Puente</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kirsten</forename><surname>Pilegaard</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mauro</forename><surname>Serafini</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Vittorio</forename><surname>Silano</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">van Loveren)</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Requestor: European Commission following a notification from PROMPERU/Agroindustrias Osho SAC/Amazon Health Products SAC/Comercio Alternativo de Productos No Tradicionales y Desarrollo para Latino América Perú -Candela/Shanantina SAC (Peru)</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">2397-8325</idno>
+						<imprint>
+							<date type="published" when="2020-03-06">06 March 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A13E37C0DF9061129758C7138324E9B4</idno>
+					<idno type="DOI">10.2903/sp.efsa.2020.EN-1817</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-20T10:10+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Plukenetia volubilis L.</term>
+					<term>sacha</term>
+					<term>seeds</term>
+					<term>traditional food</term>
+					<term>third country</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Following a notification from PROMPERU/Agroindustrias Osho SAC/Amazon Health Products SAC/Comercio Alternativo de Productos No Tradicionales y Desarrollo para Latino América Perú -Candela/Shanantina SAC (Peru) submitted to the European Commission under Article 14 of Regulation (EU) 2015/2283 to place on the market roasted seeds from Plukenetia volubilis L. as a traditional food from a third country (TF), and in line with Article 15(2) of that Regulation, EFSA was asked by the European Commission whether there are duly reasoned safety objections to the placing on the market of the TF within the European Union. The approach of EFSA for the evaluation of TF notifications is based on the EFSA guidance for stakeholders on notifications for authorisation of TF and on the principles described in the relevant existing guidance documents from the EFSA Scientific Committee.</p><p>Based on the lack of information on the type and quantity of alkaloids in the TF, EFSA concludes that the TF may pose a risk to human health. Thus, EFSA raises safety objections to the placing on the market within the EU of the TF (i.e. roasted seeds from Plukenetia volubilis L.).</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In accordance with Article 15 <ref type="bibr">(2)</ref> of Regulation (EU) 2015/2283, EFSA may submit to the European Commission duly reasoned safety objections to placing on the market within the European Union (EU) roasted seeds from Plukenetia volubilis L. as TF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Data and Methodologies</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Data</head><p>The data provided to EFSA concern a notification for roasted seeds from Plukenetia volubilis L. as a TF pursuant to Regulation (EU) 2015/2283 and Commission Implementing Regulation (EU) 2017/2468. 2   Additional data, which were not included in the notification, were retrieved by performing a literature search <ref type="bibr" target="#b26">(Dibusz and Vejvodova, 2020)</ref> and considered by EFSA.</p><p>A common and structured format on the presentation of TF notifications is described in the EFSA guidance on the preparation and presentation of TF notifications. 3</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Methodologies</head><p>The approach of EFSA for the evaluation of TF notifications is based on the EFSA guidance for stakeholders on notifications for authorisations of TF 3 and on the principles described in the relevant existing guidance documents from the EFSA Scientific Committee. As indicated in the EFSA guidance on TF, it is the duty of applicants to provide all the available data that are pertinent to the safety of the TF. EFSA may retrieve additional publicly available information in order to perform comprehensive hazard identification and evaluate whether identified hazards may pose a risk to human health.</p><p>Based on that evaluation, EFSA may submit to the European Commission duly reasoned safety objections in accordance with Article 15(2) of Regulation (EU) 2015/2283.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Assessment</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Introduction</head><p>The TF consists of roasted seeds from Plukenetia volubilis L. that, according to the applicant, have been consumed for more than 25 years in Peru. Seeds from Plukenetia volubilis are consumed after removing the shell, washing and roasting.  Roasted seeds from Plukenetia volubilis L. are proposed to be marketed as such in the EU and are intended to be consumed as snacks.</p><p>A summary of the notification on roasted seeds from Plukenetia volubilis L. has been published by the European Commission on its website.<ref type="foot" target="#foot_1">4</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Identity of the TF</head><p>The TF consists of roasted seeds from Plukenetia volubilis L. (family: Euphorbiaceae). According to The Plant List<ref type="foot" target="#foot_2">5</ref> Plukenetia volubilis L. is an accepted scientific name. Other synonyms are: Fragariopsis paxii Pittier, Plukenetia macrostyla Ule, Plukenetia peruviana Müll. Arg. and Sajorium volubile (L.) Baill.</p><p>Common names used by the applicant are: sacha inchi seeds and Inca peanuts. The prepared seeds (i.e. after shelling and peeling by sieving using mesh) are washed in hot water and then roasted in a roasting machine at temperatures below 120°C. The applicant indicated that under the applied roasting conditions the risk of formation of acrylamide and 5-(hydroxymethyl)furfural is reduced <ref type="bibr" target="#b28">(EFSA CONTAM Panel, 2015)</ref>. EFSA notes that acrolein may also be formed during the roasting process <ref type="bibr" target="#b29">(Endo et al., 2013)</ref>. Oxidation processes of acrolein also contributes to the formation of acrylamide <ref type="bibr" target="#b32">(Gertz and Klostermann, 2002;</ref><ref type="bibr">EFSACONTAM Panel, 2015)</ref>. Antinutrients concentrations (hydrogen cyanide, tannins, phytates, oxalates, lectins) can be reduced by heating in water <ref type="bibr" target="#b42">(Pusztai and Grant, 1998;</ref><ref type="bibr" target="#b50">Udousoro and Akpan, 2014)</ref>. However, EFSA notes that heating under dry conditions might not efficiently inactivate antinutrients (e.g. lectins) <ref type="bibr" target="#b48">(Savage, 2003)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Production process</head><p>EFSA notes that according to the description provided in the notification, the production process of the TF follows conventional agricultural and technological practices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Compositional data</head><p>The applicant provided compositional data on 5 representative batches of roasted sacha inchi seeds originating from 4 different companies producing the TF. The compositional data of the TF include standard proximate analysis as well as contents of cholesterol, vitamins and minerals. For the proximate analysis of the TF the following ranges were reported: lipids: 47.2-53.7%; protein: 31.5-35.6%; carbohydrates: 7.2-10.4%; dietary fiber: 7.3-9.7%; fiber (crude): 2.8-4.8%; moisture: 1.6-3%; ash: 2.6-2.8%.</p><p>The publication by <ref type="bibr" target="#b51">Wang et al. (2018)</ref> presents ranges of compositional parameters reported in raw and processed sacha inchi seeds, including proximate composition [lipids: 33.4-54.3%; protein: 24.2-27.0%; carbohydrate (mainly fibers): 13.4-30.9%; moisture: 3.3-8.3%; ash: 2.7-6.4%], fatty acids profile, tocopherols, phytosterols. The reported data (summarized as ranges) were collected from 9 different research articles and included both raw and processed seeds. Therefore, these data are not necessarily applicable to the TF.</p><p>The publication by <ref type="bibr" target="#b21">Bueno-Borges et al. (2018)</ref> presents the proximate composition of raw and roasted sacha inchi seeds (roasted at a temperature of either 80° C, 120°C or 160° C for 15 minutes). The following ranges were reported for roasted seeds: fat 54.3-54.8 %; protein 28.8-29.0%; total fiber 6.23-6.58%; moisture ranges from 0.80% (at temperature of 160°C) to 5.05% (at temperature of 80°C); ash 2.97-3.02 %; carbohydrates 6.92-7.43%.</p><p>Antinutritional substances in the TF Contents of saponins, alkaloids and lectins were reported in batches of raw/unprocessed (i.e. excluding washing and roasting) and roasted sacha inchi seeds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Saponins</head><p>The applicant reported that the content of saponins is reduced in roasted sacha inchi seeds as compared to the unprocessed (raw) sacha inchi seeds owing to the traditional practice of washing or soaking sacha inchi seeds before roasting (Table <ref type="table" target="#tab_2">1</ref>). For three out of five initially tested batches of the TF, contents of saponins below 0.05 mg/kg were reported. In one of the batches, the saponin content was 2.2 mg/kg; analysis of an extra batch (150719) from this producer resulted in a content of saponins below 0.05 mg/kg.</p><p>The applicant proposed a maximum limit for 'total saponins' (&lt; 0.05 mg/kg) in the specifications of the TF (see section 3.5). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Total alkaloids</head><p>Concentrations of total alkaloids in raw (unprocessed) sacha inchi seeds ranged from 11 mg/kg to 17 mg/kg (Table <ref type="table" target="#tab_3">2</ref>). For three out of five batches of the TF initially tested contents of total alkaloids below 0.1 mg/kg were reported. For two batches total alkaloid contents of 2.5 and 3.2 mg/kg, respectively, were determined. Therefore, two additional batches (150719 and 19190) of the TF were analysed for total alkaloid contents which resulted in concentrations below 0.1 mg/kg (Table <ref type="table" target="#tab_3">2</ref>). The applicant explained that the level of alkaloids in processed roasted sacha inchi seeds is reduced by the roasting process.</p><p>The applicant proposed a maximum limit for 'total alkaloids' (&lt; 0.1 mg/kg) in the specifications of the TF (see section 3.5).</p><p>EFSA notes that the analytical methods used by the applicant are insufficiently described and that validation information was not provided. Therefore, EFSA considers that they may not be appropriate to determine quantitatively total alkaloids in the TF in such small amounts. In addition, no information has been provided on the type of alkaloids which may be present in the TF. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lectins</head><p>Concentration of lectins in the tested batches of raw and roasted sacha inchi seeds were below the limit of detection (i.e. 0.01% or 100 mg/kg) of the applied analytical method.</p><p>The applicant proposed a maximum limit for 'lectins' (&lt; 100 mg/kg) in the specifications of the TF (see section 3.5).</p><p>Publications on antinutritional substances in roasted sacha inchi seeds ). This apparent increase of the saponin concentration may be explained by increasing loss of water upon roasting at these temperatures.</p><p>Publications on composition of raw sacha inchi seeds, pressed-cakes and oil from sacha inchi seeds <ref type="bibr" target="#b47">Ruiz et al. (2013)</ref> reported the contents of saponins and tannins in raw sacha inchi seeds and oilcakes (i.e. residues after oil extraction).</p><p>The following two publications were retrieved by EFSA. <ref type="bibr" target="#b43">Rawdkuen et al. (2016)</ref> reported the composition of cold pressed oilcakes from sacha inchi seeds, particularly in relation to condensed tannins, saponins, trypsin inhibitors. <ref type="bibr" target="#b30">Fanali et al. (2011)</ref> reported the composition of a sacha inchi oil derived from cold pressing of seeds which included triacylglycerols, polyphenols (including phenyl alcohols, coumarins, flavonoids, secoiridoids and lignans), and tocopherols as main components.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Other compounds in the TF</head><p>The applicant provided the analysis on heavy metals of five batches of the TF: concentrations of arsenic, lead and mercury were below the limit of quantifications and the concentration of cadmium ranged from 0.03 mg/kg to 0.06 mg/kg.</p><p>A total of 5 batches of the TF were also analysed for acrylamide (range: 11-46 µg/kg) and 5-hydroxy methyl furfural content (range: 2-13 mg/kg). The applicant proposed specifications for acrylamide (&lt; 50 µg/kg) and 5-hydroxy methyl furfural (&lt;13 mg/kg) in the TF (see section 3.5).</p><p>The applicant provided also analyses on microbiological contamination, pesticides and contaminants (namely mycotoxins, polycyclic aromatic hydrocarbons, dioxins and polychlorinated biphenyls).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stability of the TF</head><p>Based on the accelerated stability tests on 5 samples of the TF, the applicant proposed a shelf life of 18 months.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Specifications</head><p>The applicant proposed a list of specifications for the TF (Table <ref type="table" target="#tab_5">3</ref>). As indicated in section 3.4, EFSA notes that the analytical methods used by the applicant to determine the concentration of total alkaloids in such small amounts in the TF are not sufficiently described and may not be appropriate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.">Experience of continued food use in a third country</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Extent of use of the TF</head><p>The applicant indicated that sacha inchi seeds have been consumed by indigenous groups in Peru, in particular in the San Martin region, with evidence back to pre-Inca times <ref type="bibr" target="#b46">(Rodriguez Cerron, 2006;</ref><ref type="bibr" target="#b31">Flores, 2010;</ref><ref type="bibr" target="#b45">Rodriguez et al., 2019)</ref>. In the 1970s, sacha inchi seeds were subjected to investigations by the Peruvian government in order to promote its use as a crop. At this time Technical Standards on cultivation, harvesting, and traceability of roasted sacha inchi seeds for sale in Peru and for exports started to be developed.</p><p>Several publications provided by the applicant reported the consumption of sacha inchi seeds roasted or cooked with salt and their use in the preparation of dishes by native population in Peru (Manual de produccion de sacha inchi, undated; de la Vega, 1609; <ref type="bibr">Arevalo, 1989</ref><ref type="bibr">Arevalo, -1992;;</ref><ref type="bibr" target="#b25">de Mayolo, 1981;</ref><ref type="bibr" target="#b39">Mori, 1991;</ref><ref type="bibr" target="#b23">Correa and Bernal, 1992;</ref><ref type="bibr">Benavides and Morales, 1994;</ref><ref type="bibr" target="#b27">Duke and Vasquez, 1994;</ref><ref type="bibr">Proyecto Suelos Tropicales/INIA, 1996;</ref><ref type="bibr" target="#b20">Arevalo, 1999;</ref><ref type="bibr" target="#b36">INIA, 1998;</ref><ref type="bibr" target="#b31">Flores, 2010;</ref><ref type="bibr" target="#b40">PPB, 2013;</ref><ref type="bibr" target="#b45">Rodriguez et al., 2019;</ref><ref type="bibr">)</ref>.</p><p>The applicant indicated that in 2008, Peruvian companies started exporting sacha inchi seeds (roasted, oil, flour) to different international markets (e.g. Japan, USA, Canada, Australia) (ITC, 2013).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characteristics of the population group(s) of consumers</head><p>The TF has been consumed by the general population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Role in the diet</head><p>Roasted sacha inchi seeds have been consumed as such or in foods preparations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Information on the handling and preparation of the food</head><p>No particular information on handling and preparation of the TF has been indicated by the applicant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Precautions for the preparation and restrictions of use</head><p>No particular precautions for the preparation and restrictions of use have been indicated by the applicant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human data</head><p>The applicant provided a thesis <ref type="bibr" target="#b37">(Lazaro Aguilar, 2015)</ref>, which reported an allergic reaction to Plukenetia volubilis and investigated the potential cross reactivity of proteins from Plukenetia volubilis seeds and soy and peanut known allergenic proteins. No cross reactivity was found.</p><p>The publication by <ref type="bibr" target="#b22">Bueso et al. (2010)</ref> reported occupational allergic rhinoconjunctivitis and bronchial asthma induced by Plukenetia volubilis seeds in a cosmetic company. Prick-to-prick test with Plukenetia volubilis seed extracts (crushed seeds in saline solution 10 mg/ml) was positive.</p><p>The publication by <ref type="bibr" target="#b33">Gonzales et al. (2018)</ref> reported no statistically significant differences between allergy to sacha inchi or soy in a skin Prick-test in subjects who consumed either sacha inchi or soybean flour.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.7.</head><p>Other information on the TF <ref type="bibr" target="#b49">Srichamnong et al. (2018)</ref> investigated cellular toxicity of extracts (80% ethanol) of fresh and roasted (at 120 °C for 10 minutes) sacha inchi seeds in a variety of non-cancerous mouse and human cell lines. Extracts from fresh seeds displayed mild toxicity observed in hepatic stellate cells (LX-2) with IC20 at 250 μg/mL. In contrast to fresh seeds, extract from roasted seeds did not show in vitro toxicity [50% inhibitory concentration ˃ 500 μg/mL, the highest dose tested] in all tested cell types, including hepatic stellate cells (LX-2), implying that heat processing sacha inchi seeds may inactivate or destroy hepatotoxins. The authors concluded that heat processing should be applied before the consumption of sacha inchi seeds in order to reduce phytotoxins and potential health risks.</p><p>et al. ( <ref type="formula">2018</ref>) investigated also the genotoxicity of different parts of P. volubilis using the SMART test in Drosophila melanogaster. Powder of fresh and roasted sacha inchi seeds tested at 145 mg/mL and all tested sacha inchi seed samples did not increase the incidence of total mutant spots compared to urethane (positive control) after statistical analysis. Therefore, the authors concluded that this indicates that secondary metabolites including saponins, alkaloids, and lectins detected in sacha inchi seeds are not mutagenic and roasting does not lead to the formation of mutagens.</p><p>The applicant provided the publication by <ref type="bibr" target="#b44">Rodeiro et al. (2018)</ref> which reported no signs of toxicity in rats and mice after administration of a single dose of 2,000 mg/kg body weight (bw) of sacha inchi powder obtained from seeds after oil extraction and heat treatment (conditions of heat treatment were not specified). No toxicity was observed in rats after daily oral administration of doses of sacha inchi powder up to 500 mg/kg bw for 90 days. A micronucleus test was also conducted in mice with a single oral dose of 2,000 mg/kg bw of sacha inchi powder. A negative and a positive control were included in this experiment. No statistically significant differences were observed between the treated and control groups.</p><p>EFSA retrieved the publication by <ref type="bibr" target="#b34">Gorriti et al. (2010)</ref> which evaluated the oral toxicity (repeated dose of 0.5 mL/kg bw for 60 days) and determined the lethal dose 50 (LD50) of raw sacha inchi oil in rats and mice. No signs of toxicity on body weight or serum parameters were observed after 60 days of administration. The LD50 was above the highest dose administered of raw sacha inchi oil (i.e. 37 g/kg bw).</p><p>The English abstract of a Chinese publication retrieved by EFSA <ref type="bibr" target="#b35">(Huang et al., 2012)</ref> reported that the oral LD50 of sacha inchi oil in mice was higher than the dose tested (54 g/kg bw). There was no increase in the number of revertant colonies in an Ames test with sacha inchi oil. Micronucleus rates and sperm abnormality rates at all doses tested of sacha inchi oil were not significantly different from the negative control.</p><p>No publications reporting adverse effects in animals fed with sacha inchi seeds have been identified either by the applicant or by EFSA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.8.">Proposed conditions of use for the EU market Target population</head><p>The target population proposed by the applicant is the general population. However, as with other nuts and seeds, the consumption of the TF in individuals below 2 years of age should be avoided owing to the risk of choking.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Proposed uses and use levels</head><p>The TF (roasted sacha inchi seeds) is proposed to be marketed as such in the EU, in packets of 28 g. The TF is intended to be consumed as snacks.</p><p>The applicant referred to the UK National Diet and Nutrition Survey which reported a consumption of 16 g per day of nuts and seeds for consumers-only.</p><p>EFSA notes that, according to the EFSA Comprehensive European Food Consumption Database<ref type="foot" target="#foot_3">6</ref> , the highest P95 percentile consumption of 'peanuts and similar' among the EU surveys is 100 g/day in the population of consumers-only.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intended role in the diet</head><p>The TF is expected to be an alternative to seed or nut snacks already on the market.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Precautions and restrictions of use</head><p>No specific precautions or restrictions of use have been indicated by the applicant. However, considering that one company in the group of applicants processes other nuts, the applicant proposes to include a warning in the labelling that the product may contain nuts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>EFSA notes that:</p><p>• the analytical methods used by the applicant are insufficiently described and that validation information was not provided. Therefore, EFSA considers that they may not be appropriate to determine quantitatively total alkaloids in the TF in such small amounts;</p><p>• no information has been provided on the type of alkaloids which may be present in the TF.</p><p>Therefore, EFSA concludes that the TF may pose a safety risk to human health. Thus, EFSA raises safety objections to the placing on the market within the EU of the TF (i.e. roasted seeds from Plukenetia volubilis L). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Documentation as provided to EFSA</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>of Reference as provided by the requestor On 30 November 2018, PROMPERU/Agroindustrias Osho SAC/Amazon Health Products SAC/Comercio Alternativo de Productos No Tradicionales y Desarrollo para Latino América Perú -Candela/Shanantina SAC (Peru) submitted a notification under Article 14 of the Novel Food Regulation (EU) 2015/2283 1 to place on the market roasted seeds from Plukenetia volubilis L. as a traditional food from a third country (TF). On 8 November 2019, the European Commission forwarded to EFSA the notification on roasted seeds from Plukenetia volubilis L. as a TF in accordance with Article 15(1) of Regulation (EU) 2015/2283.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>3 EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies), Turck D, Bresson J-L, Burlingame B, Dean T, Fairweather-Tait S, Heinonen M, Hirsch-Ernst KI, Mangelsdorf I, McArdle H, Naska A, Neuhäuser-Berthold M, Nowicka G, Pentieva K, Sanz Y, Siani A, Sjödin A, Stern M, Tome D, Vinceti M, Willatts P, Engel K-H, Marchelli R, Pöting A, Poulsen M, Schlatter J, Gelbmann W, de Sesmaisons-Lecarré A, Verhagen H and van Loveren H, 2016. Guidance on the preparation and presentation of the notification and application for authorisation of traditional foods from third countries in the context of Regulation (EU) 2015/2283. EFSA Journal 2016;14(11):4590, 16 pp. doi:10.2903/j.efsa.2016.4590 EFSA Supporting publication 2020:EN-1817</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 :</head><label>1</label><figDesc>Saponin content in raw (unprocessed) and roasted sacha inchi seeds</figDesc><table><row><cell></cell><cell cols="2">Shanantina Shanantina</cell><cell>Agroindustrias Osho</cell><cell>Candela</cell><cell></cell><cell>Amazon Health Products</cell></row><row><cell>Raw seeds</cell><cell>Batch</cell><cell>Batch</cell><cell>Batch 394520</cell><cell>Batch</cell><cell>-</cell><cell>Batch 394522</cell></row><row><cell>Total</cell><cell>394518 12 mg/kg</cell><cell>394519 11.5 mg/kg</cell><cell>6.3 mg/kg</cell><cell>394521 8.8 mg/kg</cell><cell>-</cell><cell>13.7 mg/kg</cell></row><row><cell>saponins Roasted</cell><cell>Batch</cell><cell>Batch</cell><cell>Batch 394520</cell><cell>Batch</cell><cell>Batch</cell><cell>Batch 394522</cell></row><row><cell>seeds Total</cell><cell cols="3">394518 &lt;0.05 mg/kg &lt;0.05 mg/kg &lt;0.05 mg/kg 394519</cell><cell>394521 2.2 mg/kg</cell><cell>150719 &lt;0.05</cell><cell>2.5 mg/kg</cell></row><row><cell>saponins</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>mg/kg</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 :</head><label>2</label><figDesc>Total alkaloid content in raw (unprocessed) and roasted sacha inchi seeds</figDesc><table><row><cell></cell><cell cols="2">Shanantina Shanantina</cell><cell>Agroindustrias Osho</cell><cell>Candela</cell><cell></cell><cell cols="2">Amazon Health Products</cell></row><row><cell>Raw</cell><cell>Batch</cell><cell>Batch</cell><cell>Batch 394520</cell><cell>Batch</cell><cell>-</cell><cell>Batch</cell><cell>-</cell></row><row><cell>seeds</cell><cell>394518</cell><cell>394519</cell><cell></cell><cell>394521</cell><cell></cell><cell>394522</cell><cell></cell></row><row><cell>Total</cell><cell>15.2 mg/kg</cell><cell>17.3 mg/kg</cell><cell>13.3 mg/kg</cell><cell>11.2</cell><cell>-</cell><cell>12.1</cell><cell>-</cell></row><row><cell>alkaloids</cell><cell></cell><cell></cell><cell></cell><cell>mg/kg</cell><cell></cell><cell>mg/kg</cell><cell></cell></row><row><cell>Roasted</cell><cell>Batch</cell><cell>Batch</cell><cell>Batch 394520</cell><cell>Batch</cell><cell>Batch</cell><cell>Batch</cell><cell>Batch</cell></row><row><cell>seeds</cell><cell>394518</cell><cell>394519</cell><cell></cell><cell>394521</cell><cell>150719</cell><cell>394522</cell><cell>19190</cell></row><row><cell>Total</cell><cell>&lt;0.1 mg/kg</cell><cell>&lt;0.1 mg/kg</cell><cell>&lt;0.1 mg/kg</cell><cell>2.5</cell><cell>&lt;0.1</cell><cell>3.20</cell><cell>&lt;0.1</cell></row><row><cell>alkaloids</cell><cell></cell><cell></cell><cell></cell><cell>mg/kg</cell><cell>mg/kg</cell><cell>mg/kg</cell><cell>mg/kg</cell></row></table><note><p>EFSA Supporting publication 2020:EN-1817</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc><ref type="bibr" target="#b49">Srichamnong et al. (2018)</ref> reported the amount of saponins, total alkaloids, and lectins in fresh (FS) and roasted (RS) sacha inchi seeds (120 °C for 10 minutes) [total alkaloids in FS 485±35 mg/kg dry weight (DW) and in RS 20±0 mg/kg DW; saponins in FS 27±4 mg/kg DW and in RS 5±0 mg/kg DW; lectins in FS 0.22±0.03 ng/g DW and in RS 0.15±0.02 ng/g DW]. The authors did not report any washing step prior to roasting.<ref type="bibr" target="#b21">Bueno-Borges et al. (2018)</ref> reported the presence of antinutrients (phytic acid, saponins, lectins, trypsin inhibitors) in raw and roasted sacha inchi seeds (at temperature of either 80 °C, 120°C or 160°C for 15 minutes). The authors did not report any washing step prior to roasting. The authors reported a decrease in phytic acid and trypsin inhibitors levels upon increasing of roasting temperature [phytic acid decreased by 34% at 120°C and by 91% at 160°C as compared to raw seeds (59.4±1.0 mg/g seeds); trypsin inhibitor activity decreased by 60% at 120°C and by 94% at 160°C as compared to raw seeds]. The minimal concentration of sample necessary to generate hemagglutination, increased with temperature (from 0.68 µg seed/mL in raw seeds, up to 3.36 µg seed/mL at 120°C and 62.5 µg seed/mL at 160 °C), suggesting inactivation of lectins. Saponins concentration in raw seeds (7.02±0.2 mg/g) increased with the temperature (by 20% at 120 °C and by 54% at 160°C</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 3 :</head><label>3</label><figDesc>List of specifications of the TF</figDesc><table><row><cell>Component</cell><cell>Unit</cell><cell>Test Method</cell><cell>Range</cell></row><row><cell>Proximate Analysis</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Moisture</cell><cell>g/100g</cell><cell>AOAC 925.40:2016 20th Ed.</cell><cell>&lt; 3</cell></row><row><cell>Protein</cell><cell>%</cell><cell>AOAC 950.48:2016 20th Ed.</cell><cell>28-35</cell></row><row><cell></cell><cell></cell><cell>Método de Análisis para Etiquetado Nutricional:</cell><cell></cell></row><row><cell>Carbohydrate</cell><cell>%</cell><cell>1993, pág. 8</cell><cell>7-11</cell></row><row><cell>Sugar (Sucrose)</cell><cell>% (g/100g)</cell><cell>AM/C/1014</cell><cell>0.5-2</cell></row><row><cell>Fat</cell><cell>g/100g</cell><cell>AOAC 948.22(a) 20th Ed. 2016</cell><cell>46-56</cell></row><row><cell>Polyunsaturated fat</cell><cell>g/100g</cell><cell>AOAC 996.06, 20th Ed., 2016, Fat (Total, Saturated and Unsaturated) in Foods. Hydrolytic Extraction Gas</cell><cell>31-38</cell></row><row><cell>Saturated Fat</cell><cell>g/100g</cell><cell>Chromatographic Method.</cell><cell>3.3-4.4</cell></row><row><cell>Cholesterol</cell><cell>mg/100g</cell><cell>AOAC 994.10 20th Ed. 2016/\Cholesterol in Foods</cell><cell>&lt;1.02</cell></row><row><cell>Omega 3</cell><cell>g/100g</cell><cell>ISO 5508</cell><cell>17-22</cell></row><row><cell>Omega 6</cell><cell>g/100g</cell><cell>AOAC 996.06, 20th Ed., 2016, Fat (Total, Saturated and Unsaturated) in Foods. Hydrolytic Extraction Gas</cell><cell>14-16</cell></row><row><cell>Omega 9</cell><cell>g/100g</cell><cell>Chromatographic Method</cell><cell>2.5-5.0</cell></row><row><cell>Fibre Crude</cell><cell>%</cell><cell>AOAC 962.09, 20th Ed.2016</cell><cell>2.5-5.0</cell></row><row><cell>Dietary fibre</cell><cell>%</cell><cell>AOAC 985.29 20th Ed. 2016</cell><cell>7-10</cell></row><row><cell>Ash</cell><cell>g/100g</cell><cell>AOAC 950.49(B):2016: 20th</cell><cell>2.5-3</cell></row><row><cell>Energy</cell><cell cols="2">Kcal/100g AOAC: 1993</cell><cell>595-650</cell></row><row><cell>Peroxide Value</cell><cell cols="2">MeqO2/kg AOAC 965.33 20th Ed.</cell><cell>&lt; 10</cell></row><row><cell>Acid value</cell><cell cols="2">mgKOH/g AOCS Cd 3d-63: 2017 7th Ed.</cell><cell>&lt; 4</cell></row><row><cell>Odour</cell><cell></cell><cell>ISO 4121 Sensory analysis</cell><cell>Characteristic</cell></row><row><cell>Component</cell><cell>Unit</cell><cell>Test Method</cell><cell>Range</cell></row><row><cell>Colour</cell><cell></cell><cell>ISO 4121 Sensory analysis</cell><cell>Characteristic</cell></row><row><cell>Flavour</cell><cell></cell><cell>ISO 4121 Sensory analysis</cell><cell>Characteristic</cell></row><row><cell>Texture</cell><cell></cell><cell>ISO 4121 Sensory analysis</cell><cell>Characteristic</cell></row><row><cell>Vitamins</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Vitamin E</cell><cell cols="2">ng/100g DIN EN 12822 HPLC/FI</cell><cell>9-12</cell></row><row><cell>Minerals</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sodium/Salt</cell><cell>mg/kg</cell><cell>DIN EN 15621</cell><cell>50-160</cell></row><row><cell>Microbiological Analysis</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Moulds</cell><cell>CFU/g</cell><cell>ICMSF Microorganisms in food</cell><cell>&lt; 10</cell></row><row><cell>Yeasts</cell><cell>CFU/g</cell><cell>ICMSF Microorganisms in food</cell><cell>&lt; 10</cell></row><row><cell>Escherichia coli</cell><cell>MPN/g</cell><cell>FDA/BAM Online 8 th Ed. A/.1997 Chapter 4</cell><cell>&lt; 3.0</cell></row><row><cell>Total Coliforms</cell><cell>MPN/g</cell><cell>FDA/BAM Online 8 th Ed. A/.1997 Chapter 4</cell><cell>&lt; 3.0</cell></row><row><cell>Salmonella sp.</cell><cell>In 25 g</cell><cell>FDA/BAM Online 8 th Ed. A/.1999 Chapter 5</cell><cell>Absent</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>November 2019, a valid notification on roasted seeds from Plukenetia volubilis L. as a TF, which was submitted by PROMPERU/Agroindustrias Osho SAC/Amazon Health Products SAC/Comercio Alternativo de Productos No Tradicionales y Desarrollo para Latino América Perú -Candela/Shanantina SAC (Peru), was made available to EFSA by the European Commission through the Commission e-submission portal (NF 2018/0752).</figDesc><table><row><cell>1.</cell><cell>On 8</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>www.efsa.europa.eu/publications</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p>https://ec.europa.eu/food/safety/novel_food/authorisations/summary-applications-and-notifications_en</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_2"><p>http://www.theplantlist.org/</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_3"><p>https://www.efsa.europa.eu/en/food-consumption/comprehensive-database</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abbreviations</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Abstract .......................................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Introduction .....................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Background and Terms of Reference as provided by the requestor</title>
+		<author>
+			<orgName type="collaboration">.....................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Data and Methodologies ...................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2.1. Data ................................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2. Methodologies .................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Assessment .....................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3.1. Introduction .....................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2. Identity of the TF .............................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3.3. Production process ...........................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Compositional data ..........................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3.5. Specifications ....................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Experience of continued food use in a third country</title>
+		<author>
+			<orgName type="collaboration">............................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">information on the TF ...........................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Proposed conditions of use for the</title>
+		<author>
+			<orgName type="collaboration">EU market ...................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Conclusions ....................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Documentation as provided to EFSA .................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">References .................................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Abbreviations ............................................................................................................................</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">References</forename><surname>Arevalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<title level="m">Reporte: Avances y Logros en Sacha inchi</title>
+		<imprint>
+			<date type="published" when="1989">1989-1992</date>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName><forename type="first">G</forename><surname>Arevalo</surname></persName>
+		</author>
+		<ptr target="http://www4.congreso.gob.pe/comisiones/1999/ciencia/cd/inia/inia-i5/inia-i5-06.htm" />
+	</analytic>
+	<monogr>
+		<title level="m">Usos y valores nutritivos del Sacha Inchi (Plukenetia volubilis L) en la Amazonia Retrieved from URL</title>
+		<imprint>
+			<publisher>Plukenetia volubilis L</publisher>
+			<date type="published" when="1994">1999. 1994</date>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+	<note>Caracterization del aceite y la protein del cultivo de sancha inchi o mani de monte</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Sacha inchi seeds from sub-tropical cultivation:effects of roasting on antinutrients, antioxidant capacity and oxidative stability</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Bueno-Borges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Sartim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Sampaio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phv</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mab</forename><surname>Regitano-D'arce</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13197-018-3345-1</idno>
+		<ptr target="https://doi.org/10.1007/s13197-018-3345-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Food Science and Technology</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="4159" to="4166" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Occupational allergic rhinoconjunctivitis and bronchial asthma introduced by Plukenetia volubilis seeds</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bueso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rodriguez-Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rodriguez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Occupational and Environmental Medicine</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="797" to="798" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Especies vegetales promisorias del los paises del Convenio Andrés Bello. Tomo VII. SECAB</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Bernal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CAF</title>
+		<imprint>
+			<biblScope unit="page" from="577" to="596" />
+			<date type="published" when="1992">1992</date>
+			<publisher>Ministerio de Educación y Ciencia de España. Corporación Andina de Fomento</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">La</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Vega</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">1609</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Amui-o: sumo entre semillas oleo-proteicas</title>
+		<author>
+			<persName><forename type="first">Sea</forename><surname>De Mayolo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Boletin de Lima</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="11" to="15" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Systematic literature search to assist EFSA in the preparatory work for the safety assessment of novel food applications and traditional food notifications. EFSA supporting publication 2020:EN-1774</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dibusz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vejvodova</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/sp.efsa.2019.EN-1774</idno>
+		<ptr target="https://doi.org/10.2903/sp.efsa.2019.EN-1774" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Amazonian Ethnobotanical Dictionary</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Duke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vasquez</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>CRC Press</publisher>
+			<biblScope unit="page">140</biblScope>
+			<pubPlace>BocaRaton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Scientific Opinion on acrylamide in food</title>
+		<author>
+			<persName><surname>Efsa Contam Panel</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">EFSA Panel on Contaminants in the Food Chain</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2015.4104</idno>
+	</analytic>
+	<monogr>
+		<title level="j">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">321</biblScope>
+			<date type="published" when="2015">2015. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Linolenic Acid as the Main Source of Acrolein Formed During Heating of Vegetable Oils</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Endo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yamanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Takayose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamaoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tsuno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nakajima</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11746-013-2242-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Oil Chemists&apos; Society</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="959" to="964" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fanali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dugo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cacciola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beccaria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dachà</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dugo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mondello</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jf203184y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of agricultural and food chemistry</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="13043" to="13049" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Uso Histórico: sacha inchi (Plukenetia volubilis)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Flores</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Information bibliografica sobre historia y usos tradicionales de 3 plantas seleccionadas</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+	<note>Base de datos Proyecto Perubiodiverso</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Analysis of acrylamide and mechanisms of its formation in deep-fried production</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gertz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Klostermann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Lipid Science and Technology</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="762" to="771" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Nitrogen balance after a single oral consumption of Sancha Inchi (Plukenetia volubilis L) protein compared to soy protein. A randomized study in humans</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Gonzales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tello</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zevallos-Concha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baquerizo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Caballero</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15376516.2017.1373880</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology Mechanisms and Methods</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="140" to="147" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gorriti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Arroyo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Quispe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cisneros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Condorhuaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Almora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chumpitaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Peruana de Medicina Experimental y Salud Publica</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="352" to="360" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Acute toxicity and mutagenicity of Sacha Inchi oil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Z</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carcinogenesis,Teratogenesis &amp; Mutagenesis</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="148" to="150" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Market analysis for three peruvian natural ingredients</title>
+		<author>
+			<persName><surname>Inia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proyecto de Investigación: Colección Caracterización y Codificación; Evaluación del Germoplasma de Sacha Inchi-INIA-Programa Nacional de Granos ITC</title>
+		<imprint>
+			<publisher>Instituto Nacional de Investigacion Agraria</publisher>
+			<date type="published" when="1998">1998. 2013</date>
+			<biblScope unit="volume">160</biblScope>
+		</imprint>
+	</monogr>
+	<note>International Trade Centre</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Determinacion de la presencia de sustancias antinutricionales y alergenos en semilla y torta de sancha inchi</title>
+		<author>
+			<persName><forename type="first">Lazaro</forename><surname>Aguilar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">132</biblScope>
+			<pubPlace>Lima</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universidad Nacional Agraria La Molina, Facultad De Industrias Alimentarias</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Plukenetia volubilis L.). Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Manual de produccion de sacha inchi, undated</title>
+		<ptr target="https://www.scribd.com/document/74304726/Manual-de-produccion-de-Sacha-Inchi" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Fomento del sacha inchi (mani del monte) y sus prodigios. Casa Editora &apos;Didactica Estudiantil</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mori</surname></persName>
+		</author>
+		<idno>EN-1817</idno>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<pubPlace>Tarapoto</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Peru. 4 pp. EFSA Supporting publication 2020</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">La cadena del valor del sacha inchi en la region San Martin</title>
+		<author>
+			<persName><surname>Ppb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Peru Biodiverso</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="57" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Proyecto PeruBiodiverso</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Instituto Nacional de Investigacion Agraria)</title>
+		<imprint>
+			<publisher>Proyecto Suelos Tropicales/INIA</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="page" from="36" to="37" />
+		</imprint>
+	</monogr>
+	<note>Rescate del &quot;sacha inchi&quot; o &quot;mani del monte</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Assessment of lectin inactivation by heat and digestion</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pusztai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Grant</surname></persName>
+		</author>
+		<idno type="DOI">10.1385/0-89603-396-1:505</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Methods in Molecular Medicine</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="505" to="514" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Chemical properties and nutritional factors of pressed-cake from tea and sacha inchi seeds</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rawdkuen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Murdayanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ketnawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Phongthai</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.fbio.2016.05.004</idno>
+		<ptr target="https://dx.doi.org/10.1016/j.fbio.2016.05.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Food Bioscience</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="64" to="71" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Sacha Inchi (Plukenetia volubilis L.) powder: acute toxicity, 90 days oral toxicity study and micronucleus assay in rodents</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rodeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Remirez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Flores</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pharmacy &amp; Pharmacognosy Research</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="17" to="26" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Ethnobotanical Knowledge in the Peruvian Amazon of the Neglected and Underutilized Crops sacha inchi</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gonzáles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kodahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plukenetia volubilis L.). Economic Botany</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="281" to="287" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Arte rupestre en el departemento de San Martin. Thesis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Rodriguez Cerron</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Facultad de Ciencias Humanas</publisher>
+			<biblScope unit="page">343</biblScope>
+			<pubPlace>Lima</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universidad Nacional Mayor de San Marcos</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Analisis proximal, antinutrientes, perfil</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rojas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="29" to="36" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Savage</surname></persName>
+		</author>
+		<title level="m">Hemagglutinins in Encyclopedia of Food Sciences and Nutrition</title>
+		<imprint>
+			<publisher>Benjamin Caballero</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="3057" to="3060" />
+		</imprint>
+	</monogr>
+	<note>Second Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Safety assessment of Plukenetia volubilis (Inca peanut) seeds, leaves, and their products</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Srichamnong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pitchakarn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Nuchuchua</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Temviriyanukul</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/fsn3.633</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Food Science &amp; Nutrition</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Changes in Anti-Nutrients Contents of Edible Vegetables Under Varied Temperature and Heating Time</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename><surname>Udousoro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Akpan</surname></persName>
+		</author>
+		<idno type="DOI">10.12944/CRNFSJ.2.3.06</idno>
+		<ptr target="http://dx.doi.org/10.12944/CRNFSJ.2.3.06" />
+	</analytic>
+	<monogr>
+		<title level="m">Current Research in Nutrition and Food science</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="146" to="152" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Sacha inchi (Plukenetia volubilis L.): Nutritional composition, biological activity, and uses</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kakuda</forename><surname>Yukio</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foodchem.2018.05.055</idno>
+		<ptr target="https://doi.org/10.1016/j.foodchem.2018.05.055" />
+	</analytic>
+	<monogr>
+		<title level="j">Food Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">265</biblScope>
+			<biblScope unit="page" from="316" to="328" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

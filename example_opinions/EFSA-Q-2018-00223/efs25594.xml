@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN" "JATS-archive-oasis-article1-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" id="efs25594" dtd-version="1.1" xml:lang="en" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="doi">10.1002/(ISSN)1831-4732</journal-id>
+<journal-id journal-id-type="publisher-id">EFS2</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">EFSA Journal</journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="en">EFSA Journal</abbrev-journal-title>
+</journal-title-group>
+<issn publication-format="ppub">1831-4732</issn>
+<issn publication-format="epub">1831-4732</issn>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.2903/j.efsa.2019.5594</article-id>
+<article-id pub-id-type="publisher-id">EFS25594</article-id>
+<article-categories>
+<subj-group subj-group-type="overline" xml:lang="en"><subject>Scientific Opinion</subject></subj-group>
+<subj-group subj-group-type="heading" xml:lang="en"><subject>Scientific Opinion</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title xml:lang="en">Safety of <italic>Yarrowia lipolytica</italic> yeast biomass as a novel food pursuant to Regulation (<styled-content style="fixed-case" toggle="no">EU</styled-content>) 2015/2283</article-title>
+</title-group>
+<contrib-group>
+<contrib id="efs25594-cr-0001" contrib-type="author"><collab collab-type="authors">EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA)</collab>
+</contrib>
+<contrib id="efs25594-cr-0002" contrib-type="author"><name>
+<surname>Turck</surname>
+<given-names>Dominique</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0003" contrib-type="author"><name>
+<surname>Castenmiller</surname>
+<given-names>Jacqueline</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0004" contrib-type="author"><name>
+<surname>de Henauw</surname>
+<given-names>Stefaan</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0005" contrib-type="author"><name>
+<surname>Hirsch‐Ernst</surname>
+<given-names>Karen‐Ildico</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0006" contrib-type="author"><name>
+<surname>Kearney</surname>
+<given-names>John</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0007" contrib-type="author"><name>
+<surname>Maciuk</surname>
+<given-names>Alexandre</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0008" contrib-type="author"><name>
+<surname>Mangelsdorf</surname>
+<given-names>Inge</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0009" contrib-type="author"><name>
+<surname>McArdle</surname>
+<given-names>Harry J</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0010" contrib-type="author"><name>
+<surname>Naska</surname>
+<given-names>Androniki</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0011" contrib-type="author"><name>
+<surname>Pelaez</surname>
+<given-names>Carmen</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0012" contrib-type="author"><name>
+<surname>Pentieva</surname>
+<given-names>Kristina</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0013" contrib-type="author"><name>
+<surname>Siani</surname>
+<given-names>Alfonso</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0014" contrib-type="author"><name>
+<surname>Thies</surname>
+<given-names>Frank</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0015" contrib-type="author"><name>
+<surname>Tsabouri</surname>
+<given-names>Sophia</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0016" contrib-type="author"><name>
+<surname>Vinceti</surname>
+<given-names>Marco</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0017" contrib-type="author"><name>
+<surname>Cubadda</surname>
+<given-names>Francesco</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0018" contrib-type="author"><name>
+<surname>Engel</surname>
+<given-names>Karl‐Heinz</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0019" contrib-type="author"><name>
+<surname>Frenzel</surname>
+<given-names>Thomas</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0020" contrib-type="author"><name>
+<surname>Heinonen</surname>
+<given-names>Marina</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0021" contrib-type="author"><name>
+<surname>Marchelli</surname>
+<given-names>Rosangela</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0022" contrib-type="author"><name>
+<surname>Neuhäuser‐Berthold</surname>
+<given-names>Monika</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0023" contrib-type="author"><name>
+<surname>Pöting</surname>
+<given-names>Annette</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0024" contrib-type="author"><name>
+<surname>Poulsen</surname>
+<given-names>Morten</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0025" contrib-type="author"><name>
+<surname>Sanz</surname>
+<given-names>Yolanda</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0026" contrib-type="author"><name>
+<surname>Schlatter</surname>
+<given-names>Josef Rudolf</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0027" contrib-type="author"><name>
+<surname>van Loveren</surname>
+<given-names>Henk</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0028" contrib-type="author"><name>
+<surname>Ackerl</surname>
+<given-names>Reinhard</given-names>
+</name>
+</contrib>
+<contrib id="efs25594-cr-0029" contrib-type="author"><name>
+<surname>Knutsen</surname>
+<given-names>Helle Katrine</given-names>
+</name>
+</contrib>
+</contrib-group>
+<author-notes>
+<corresp id="correspondenceTo"><bold>Correspondence: </bold> <email>nda@efsa.europa.eu</email></corresp></author-notes>
+<pub-date pub-type="epub">
+<day>14</day>
+<month>02</month>
+<year>2019</year>
+</pub-date>
+<pub-date pub-type="ppub">
+<day>14</day>
+<month>02</month>
+<year>2019</year>
+</pub-date>
+<volume>17</volume>
+<issue seq="3">2</issue>
+<issue-id pub-id-type="doi">10.1002/efs2.2019.17.issue-2</issue-id>
+<elocation-id>e05594</elocation-id>
+<permissions>
+<copyright-statement content-type="issue-copyright">© European Food Safety Authority</copyright-statement>
+<copyright-statement content-type="article-copyright">© 2019 European Food Safety Authority. <italic>EFSA Journal</italic> published by John Wiley and Sons Ltd on behalf of European Food Safety Authority.</copyright-statement>
+<license license-type="creativeCommonsBy-nd">
+<license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution‐NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited and no modifications or adaptations are made.</license-p>
+</license><license license-type="open-access"><license-p/></license></permissions>
+<self-uri xlink:href="file:efs25594.pdf" content-type="pdf"/><abstract xml:lang="en" abstract-type="main" id="efs25594-abs-0001">
+<title>Abstract</title>
+<p xml:lang="en">Following a request from the European Commission, the <styled-content style="fixed-case" toggle="no">EFSA</styled-content> Panel on Nutrition, Novel Foods and Food Allergens (<styled-content style="fixed-case" toggle="no">NDA</styled-content>) was asked to deliver a scientific opinion on <italic>Yarrowia lipolytica</italic> yeast biomass as a novel food (<styled-content style="fixed-case" toggle="no">NF</styled-content>) pursuant to Regulation (<styled-content style="fixed-case" toggle="no">EU</styled-content>) 2015/2283. The <styled-content style="fixed-case" toggle="no">NF</styled-content> is the dried and heat‐killed biomass of <italic>Yarrowia lipolytica</italic>, a yeast species that is widespread in nature and which can be found in the environment as well as in foods. The production process is sufficiently described and does not raise safety concerns. The information provided on the composition of the <styled-content style="fixed-case" toggle="no">NF</styled-content> is sufficient and does not raise safety concerns. The applicant proposed to use the <styled-content style="fixed-case" toggle="no">NF</styled-content> as a food supplement in the form of capsules, tablets or powder. The target population for the <styled-content style="fixed-case" toggle="no">NF</styled-content> is the general population above 3 years of age. The maximum proposed daily use levels are 3 g/day for children from 3 years to less than 10 years of age and 6 g/day thereafter. Taking into account the composition of the <styled-content style="fixed-case" toggle="no">NF</styled-content> and the proposed use levels, the consumption of the <styled-content style="fixed-case" toggle="no">NF</styled-content> is not nutritionally disadvantageous. No relevant toxicological information was provided. The Panel considers that given the qualified presumption of safety (<styled-content style="fixed-case" toggle="no">QPS</styled-content>) status for production purposes of <italic>Yarrowia lipolytica</italic> and the fact that the production process of the <styled-content style="fixed-case" toggle="no">NF</styled-content> does not raise safety concerns, no toxicological studies are needed for the safety assessment of the <styled-content style="fixed-case" toggle="no">NF</styled-content>. The Panel concludes that the <styled-content style="fixed-case" toggle="no">NF</styled-content>,<italic> Yarrowia lipolytica</italic> yeast biomass, is safe under the proposed conditions of use.</p>
+</abstract>
+<kwd-group kwd-group-type="author-generated" xml:lang="en">
+<kwd id="efs25594-kwd-0001">
+<italic>Yarrowia lipolytica</italic>
+</kwd>
+<kwd id="efs25594-kwd-0002">yeast</kwd>
+<kwd id="efs25594-kwd-0003">biomass</kwd>
+<kwd id="efs25594-kwd-0004">novel food</kwd>
+<kwd id="efs25594-kwd-0005">safety</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="3"/>
+<page-count count="12"/>
+<word-count count="5424"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>source-schema-version-number</meta-name>
+<meta-value>2.0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>cover-date</meta-name>
+<meta-value>February 2019</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>details-of-publishers-convertor</meta-name>
+<meta-value>Converter:WILEY_ML3GV2_TO_JATS version:6.3.6 mode:remove_FC converted:25.01.2024</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+<notes>
+<p content-type="self-citation"><mixed-citation publication-type="self-citation" id="efs25594-cit-1001"><bold>Suggested citation: </bold><collab collab-type="authors">EFSA NDA Panel (EFSA Panel on Nutrition, Novel Foods and Food Allergens)</collab>
+, <string-name><surname>Turck</surname> <given-names>D</given-names></string-name>, <string-name><surname>Castenmiller</surname> <given-names>J</given-names></string-name>, <string-name><surname>de Henauw</surname> <given-names>S</given-names></string-name>, <string-name><surname>Hirsch‐Ernst</surname> <given-names>K‐I</given-names></string-name>, <string-name><surname>Kearney</surname> <given-names>J</given-names></string-name>, <string-name><surname>Maciuk</surname> <given-names>A</given-names></string-name>, <string-name><surname>Mangelsdorf</surname> <given-names>I</given-names></string-name>, <string-name><surname>McArdle</surname> <given-names>HJ</given-names></string-name>, <string-name><surname>Naska</surname> <given-names>A</given-names></string-name>, <string-name><surname>Pelaez</surname> <given-names>C</given-names></string-name>, <string-name><surname>Pentieva</surname> <given-names>K</given-names></string-name>, <string-name><surname>Siani</surname> <given-names>A</given-names></string-name>, <string-name><surname>Thies</surname> <given-names>F</given-names></string-name>, <string-name><surname>Tsabouri</surname> <given-names>S</given-names></string-name>, <string-name><surname>Vinceti</surname> <given-names>M</given-names></string-name>, <string-name><surname>Cubadda</surname> <given-names>F</given-names></string-name>, <string-name><surname>Engel</surname> <given-names>K‐H</given-names></string-name>, <string-name><surname>Frenzel</surname> <given-names>T</given-names></string-name>, <string-name><surname>Heinonen</surname> <given-names>M</given-names></string-name>, <string-name><surname>Marchelli</surname> <given-names>R</given-names></string-name>, <string-name><surname>Neuhäuser‐Berthold</surname> <given-names>M</given-names></string-name>, <string-name><surname>Pöting</surname> <given-names>A</given-names></string-name>, <string-name><surname>Poulsen</surname> <given-names>M</given-names></string-name>, <string-name><surname>Sanz</surname> <given-names>Y</given-names></string-name>, <string-name><surname>Schlatter</surname> <given-names>JR</given-names></string-name>, <string-name><surname>van Loveren</surname> <given-names>H</given-names></string-name>, <string-name><surname>Ackerl</surname> <given-names>R</given-names></string-name> and <string-name><surname>Knutsen</surname> <given-names>HK</given-names></string-name>, <year>2019</year>. <article-title xml:lang="en">Scientific Opinion on the safety of <italic>Yarrowia lipolytica</italic> yeast biomass as a novel food pursuant to Regulation (EU) 2015/2283</article-title>. <source xml:lang="en">EFSA Journal</source> 2019;17(2):5594, 12 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2019.5594">https://doi.org/10.2903/j.efsa.2019.5594</ext-link></mixed-citation></p>
+<fn-group id="efs25594-ntgp-0001">
+<fn id="efs25594-note-1001" xml:lang="en"><p><bold>Requestor:</bold> European Commission following an application by Skotan S.A. (Poland)</p></fn>
+<fn id="efs25594-note-1002" xml:lang="en"><p><bold>Question number:</bold> EFSA‐Q‐2018‐00223</p></fn>
+<fn id="efs25594-note-1003" xml:lang="en"><p><bold>Panel members:</bold> Jacqueline Castenmiller, Stefaan de Henauw, Karen‐Ildico Hirsch‐Ernst, John Kearney, Helle Katrine Knutsen, Alexandre Maciuk, Inge Mangelsdorf, Harry J McArdle, Androniki Naska, Carmen Pelaez, Kristina Pentieva, Alfonso Siani, Frank Thies, Sophia Tsabouri, Dominique Turck and Marco Vinceti.</p></fn>
+<fn id="efs25594-note-1004" xml:lang="en"><p>Adopted: 17 January 2019</p></fn>
+</fn-group>
+</notes>
+</front>
+<body id="efs25594-body-0001">
+
+<sec id="efs25594-sec-0001" xml:lang="en">
+<title>Summary</title>
+<p xml:lang="en">Following a request from the European Commission, the EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA) was asked to deliver a scientific opinion on <italic>Yarrowia lipolytica</italic> yeast biomass as a novel food (NF) pursuant to Regulation (EU) 2015/2283. The assessment of the safety of this NF follows the methodology set out in the EFSA Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283 and in the Commission Implementing Regulation (EU) 2017/2469. The assessment is based on the data supplied in the application and on information submitted by the applicant following EFSA requests for supplementary information.</p>
+<p xml:lang="en">The NF is the dried and heat‐killed biomass of <italic>Yarrowia lipolytica</italic>. This yeast species is widespread in nature and can be found in the environment as well as in a number of foods. <italic>Y. lipolytica</italic> and <italic>Candida lipolytica</italic> are the teleomorph and anamorph names of the same species.</p>
+<p xml:lang="en">In 2018, the EFSA BIOHAZ Panel assessed <italic>Yarrowia lipolytica</italic> and recommended this yeast for the qualified presumption of safety (QPS) status but only for production purposes, including food and feed products based on biomass. The qualification ‘only for production purposes’ requires the absence of viable <italic>Y. lipolytica</italic> cells in the NF.</p>
+<p xml:lang="en">The production process, basically fermentation followed by washing and drying of the yeast, includes a heat‐killing step of the yeast at high temperatures, resulting in the absence of viable <italic>Y. lipolytica</italic> cells in the NF. The Panel considers that the production process is sufficiently described and does not raise safety concerns.</p>
+<p xml:lang="en">The NF consists primarily of proteins (about 50%) and dietary fibre (about 25%). Information was also submitted on the fat content, the amino acid profile and the amount of vitamins and minerals in the NF. The Panel considers that the information provided on the composition of the NF is sufficient and does not raise safety concerns.</p>
+<p xml:lang="en">The applicant proposed to use the NF as a food supplement in the form of capsules, tablets or powder. The target population for the NF is the general population from 3 years of age onwards. The maximum proposed use levels are 3 g/day for children from 3 years to less than 10 years of age and 6 g/day thereafter.</p>
+<p xml:lang="en">Taking into account the composition of the NF and the proposed conditions of use, the consumption of the NF is not nutritionally disadvantageous.</p>
+<p xml:lang="en">No relevant toxicological information was provided. The Panel considers that given the QPS status for production purposes of <italic>Yarrowia lipolytica</italic> and the fact that the production process of the NF does not raise safety concerns, no toxicological studies are needed for the safety assessment of the NF.</p>
+<p xml:lang="en">The Panel concludes that the NF, <italic>Yarrowia lipolytica</italic> yeast biomass, is safe under the proposed conditions of use.</p>
+</sec>
+<sec id="efs25594-sec-0003" xml:lang="en">
+<label>1</label>
+<title>Introduction</title>
+<sec id="efs25594-sec-0004" xml:lang="en">
+<label>1.1</label>
+<title>Background and Terms of Reference as provided by the European Commission</title>
+<p xml:lang="en">On 10 April 2017, the company Skotan S.A. submitted a request in accordance with Article 4 of the Novel Food Regulation (EU) 258/1997<xref rid="efs25594-note-1005" ref-type="fn">1</xref> to place on the market <italic>Yarrowia lipolytica</italic> yeast biomass as a novel food (NF).</p>
+<p xml:lang="en">On 26 October 2017, the competent authority of Poland (Institute of Food and Nutrition, Warsaw) forwarded to the Commission its initial assessment report, which came to the conclusion that <italic>Yarrowia lipolytica</italic> yeast biomass meets the criteria for acceptance of a NF defined in Article (3)1 of Regulation (EU) 258/1997.</p>
+<p xml:lang="en">Pursuant to Article 35 (1) of Regulation (EU) 2015/2283<xref rid="efs25594-note-1006" ref-type="fn">2</xref>, any request for placing a novel food on the market within the Union submitted to a Member State in accordance with Article 4 of Regulation (EU) 258/1997 and for which the final decision has not been taken before 1 January 2018 shall be treated as an application under Regulation (EU) 2015/2283.</p>
+<p xml:lang="en">On 20 February 2018, the company Skotan S.A. submitted the same request to the European Commission in accordance with Article 10 of Regulation (EU) No 2015/2283 to place <italic>Yarrowia lipolylica</italic> yeast biomass on the Union market as a novel food.</p>
+<p xml:lang="en">On 22 June 2018, in accordance with Article 10(3) of Regulation (EU) 2015/2283, the European Commission asked EFSA to provide a scientific opinion on <italic>Yarrowia lipolytica</italic> yeast biomass as a NF.</p>
+</sec>
+</sec>
+<sec id="efs25594-sec-0005" xml:lang="en">
+<label>2</label>
+<title>Data and methodologies</title>
+<sec id="efs25594-sec-0006" xml:lang="en">
+<label>2.1</label>
+<title>Data</title>
+<p xml:lang="en">The safety assessment of this NF is based on data supplied in the application and on information submitted by the applicant following EFSA requests for supplementary information.</p>
+<p xml:lang="en">Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469<xref rid="efs25594-note-5003" ref-type="fn">3</xref>.</p>
+<p xml:lang="en">A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application.<xref rid="efs25594-note-1007" ref-type="fn">4</xref> As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data, including both data in favour and not in favour, to support the safety of the proposed NF.</p>
+<p xml:lang="en">This NF application does not include a request for the protection of proprietary data.</p>
+</sec>
+<sec id="efs25594-sec-0007" xml:lang="en">
+<label>2.2</label>
+<title>Methodologies</title>
+<p xml:lang="en">The assessment follows the methodology set out in the EFSA guidance on NF applications and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee. The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of the Commission Implementing Regulation (EU) 2017/2469.</p>
+<p xml:lang="en">This assessment concerns only risks that might be associated with the consumption of the NF under the proposed conditions of use, and it is not an assessment of the efficacy of the NF with regard to any claimed benefit.</p>
+</sec>
+</sec>
+<sec id="efs25594-sec-0008" xml:lang="en">
+<label>3</label>
+<title>Assessment</title>
+<sec id="efs25594-sec-0009" xml:lang="en">
+<label>3.1</label>
+<title>Introduction</title>
+<p xml:lang="en">The NF which is the subject of the application is the dried and heat‐killed biomass of the yeast <italic>Yarrowia lipolytica</italic>. The biomass, which is produced by fermentation and which is mostly composed of proteins and fibre, is proposed to be used as a food supplement in the form of capsules, tablets or powder. The target population for the NF is the general population from 3 years onwards.</p>
+</sec>
+<sec id="efs25594-sec-0010" xml:lang="en">
+<label>3.2</label>
+<title>Identity of the NF</title>
+<p xml:lang="en">The NF is the dried and heat‐killed biomass of the yeast <italic>Yarrowia lipolytica</italic>.</p>
+<p xml:lang="en">The taxonomic position of the species was first established by Van der Walt and von Arx (<xref rid="efs25594-bib-0014" ref-type="ref">1980</xref>), with the following microbiological taxonomy. Kingdom: fungi; sub‐kingdom: Dikaryota; division: Ascomycota; subdivision: Saccharomycotina; class: Saccharomycetes; order: Saccharomycetales; family: Dipodascaceae; genus: <italic>Yarrowia</italic>; species: <italic>Yarrowia lipolytica</italic>.</p>
+<p xml:lang="en">The species <italic>Y. lipolytica</italic> can be found in the ‘IndexFungorum’ database<xref rid="efs25594-note-1008" ref-type="fn">5</xref> (record number ID108643).</p>
+<p xml:lang="en"><italic>Y. lipolytica</italic> and <italic>Candida lipolytica</italic> are the teleomorph and anamorph names of the same species.</p>
+<p xml:lang="en"><italic>Y. lipolytica</italic> is widespread in nature and it has been isolated from the environment (i.e. soil and water) as well as from foods high in fat and protein, i.e. ripening meat and dairy products (e.g. cheddar cheese, Stilton Blue cheese, Armada cheese, Reblochon cheese, Italian‐style cheeses, Rokpol) (Bärtschi et al., <xref rid="efs25594-bib-0001" ref-type="ref">1994</xref>; Tornadijo et al., <xref rid="efs25594-bib-0013" ref-type="ref">1998</xref>; Czajgucka et al., <xref rid="efs25594-bib-0002" ref-type="ref">2003</xref>; Ferreira and Viljoen, <xref rid="efs25594-bib-0005" ref-type="ref">2003</xref>; Gkatzionis et al., <xref rid="efs25594-bib-0006" ref-type="ref">2013</xref>).</p>
+<p xml:lang="en">The genome sequence for <italic>Y. lipolytica</italic> was described by Dujon et al. (<xref rid="efs25594-bib-0003" ref-type="ref">2004</xref>).</p>
+<p xml:lang="en">The strain <italic>Y. lipolytica</italic> A‐101 was isolated and identified in 1975 by the University of Environmental and Life Sciences in Wrocław/Poland (Department of Biotechnology and Food Microbiology). According to the information provided, the strain was isolated from soil, it is actively growing on agar (i.e. form of supply) and it belongs to risk group 1 of microorganisms (WHO, <xref rid="efs25594-bib-0016" ref-type="ref">2004</xref>).</p>
+<p xml:lang="en">The strain was deposited in the Collection of Cultures of the Department of Biotechnology and Food Microbiology of the University of Wrocław and at the Institute of Agricultural and Food Biotechnology in Warsaw. The latter institute is a depository body acting in accordance with the Budapest Treaty on the International Recognition of the Deposit of Microorganisms.</p>
+<p xml:lang="en">In 2018, <italic>Y. lipolytica</italic> was assessed by the EFSA Panel on Biological Hazards (BIOHAZ) for its suitability to be added to the list of qualified presumption of safety (QPS)‐recommended biological agents intentionally added to food or feed (EFSA BIOHAZ Panel, <xref rid="efs25594-bib-0004" ref-type="ref">2018</xref>). For this purpose, the BIOHAZ Panel considered the identity, the body of knowledge, safety concerns and any potential antimicrobial resistance of this yeast species. The BIOHAZ Panel noted that several cases of infections by <italic>Y. lipolytica</italic> (or its anamorph <italic>C. lipolytica</italic>) have been described in humans. However, those infections have occurred in immunocompromised patients with underlying disease and the majority were catheter‐related. Antifungal therapy invariably resulted in clearance of the pathogen. The Panel concluded that <italic>Y. lipolytica</italic> is recommended for the QPS status but only for production purposes. The Panel clarified that the qualification ‘for production purpose only’ implies the absence of viable cells of the production organism in the final product and can also be applied for food and feed products based on microbial biomass (EFSA BIOHAZ Panel, <xref rid="efs25594-bib-0004" ref-type="ref">2018</xref>).</p>
+</sec>
+<sec id="efs25594-sec-0011" xml:lang="en">
+<label>3.3</label>
+<title>Production process</title>
+<p xml:lang="en">The NF is produced according to Good Manufacturing Practices (GMP) and Hazard Analysis Critical Control Points (HACCP) principles.</p>
+<p xml:lang="en">Flow charts of the manufacturing process and detailed information on the culture conditions and media have been provided (not shown, confidential).</p>
+<p xml:lang="en">The first step of the manufacturing process consists in the preparation of the <italic>Yarrowia lipolytica</italic> yeast <italic>inoculum</italic> (by grafting the yeast from an agar slant). Proliferation of the yeast is continued in tanks of increasing capacity using culture media consisting of nutrient sources commonly employed in fermentation processes. The culture conditions (i.e. temperature, aeration, pH, speed of mixing) are continuously monitored.</p>
+<p xml:lang="en">After reaching a certain concentration of yeast dry matter, the yeast is harvested, i.e. centrifuged, rinsed with water, and centrifuged again in order to remove remnant culture medium. Thereafter the yeast biomass is dried on a drum drier at a specified temperature for a certain period of time (information provided) until a moisture content of less than 5% is achieved. During this step the yeast cells are killed.</p>
+<p xml:lang="en">The Panel notes that in order to monitor the efficiency of the heat treatment and to guarantee that there are no viable <italic>Y. lipolytica</italic> cells remaining in the dried biomass thereafter, testing for the presence of viable yeast cells has to be carried out immediately after the heat treatment (see also Specifications, Table <xref rid="efs25594-tbl-0003" ref-type="table-wrap">3</xref>).</p>
+<p xml:lang="en">The Panel also notes that it has to be ensured that no cross‐contamination occurs with viable <italic>Y. lipolytica</italic> in the final steps of the manufacturing process (packaging and storage).</p>
+<p xml:lang="en">The Panel considers that the production process is sufficiently described and does not raise safety concerns.</p>
+</sec>
+<sec id="efs25594-sec-0012" xml:lang="en">
+<label>3.4</label>
+<title>Compositional data</title>
+<p xml:lang="en">The NF consists primarily of proteins (about 45–55 g/100 g) and dietary fibre (about 25 g/100 g). The fat content in the NF is about 7–10 g/100 g, the majority being mono‐ and polyunsaturated fatty acids.</p>
+<p xml:lang="en">Information was provided on the accreditation of the laboratories that conducted the analyses presented in the application.</p>
+<p xml:lang="en">The applicant provided nutritional information for three batches of the NF (Table <xref rid="efs25594-tbl-0001" ref-type="table-wrap">1</xref>).</p>
+<table-wrap id="efs25594-tbl-0001" xml:lang="en">
+
+<label>Table 1</label>
+<caption><title>Nutritional analysis of the NF</title></caption>
+
+<table frame="hsides">
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<thead valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" valign="top">Parameter (unit)</th>
+<th align="center" colspan="3" style="border-bottom:solid 1px #000000" valign="top">Batch number/date</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="top">‘001’ (2014‐12‐18)</th>
+<th align="center" valign="top">‘001’ (2015‐08‐11)</th>
+<th align="center" valign="top">‘1’ (2018‐10‐16)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Protein (g/100 g)</td>
+<td align="char" char=".">44.0</td>
+<td align="char" char=".">55.3</td>
+<td align="char" char=".">44.4</td>
+</tr>
+<tr>
+<td align="left">Dietary fibre (g/100 g)</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">24.6</td>
+<td align="char" char=".">27.2</td>
+</tr>
+<tr>
+<td align="left">Saccharides (g/100 g)</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">&lt; 1.0</td>
+<td align="char" char=".">&lt; 0.2</td>
+</tr>
+<tr>
+<td align="left">Fat (g/100 g)</td>
+<td align="char" char=".">&gt; 7</td>
+<td align="char" char=".">9</td>
+<td align="char" char=".">9.9</td>
+</tr>
+<tr>
+<td align="left">Saturated fatty acids (FA)</td>
+<td align="char" char=".">0.7</td>
+<td align="char" char=".">0.6</td>
+<td align="char" char=".">1.0</td>
+</tr>
+<tr>
+<td align="left">Monounsaturated FA</td>
+<td align="char" char=".">4.7</td>
+<td align="char" char=".">4.4</td>
+<td align="char" char=".">4.7</td>
+</tr>
+<tr>
+<td align="left">Polyunsaturated FA</td>
+<td align="char" char=".">3.6</td>
+<td align="char" char=".">3.9</td>
+<td align="char" char=".">3.5</td>
+</tr>
+<tr>
+<td align="left">Total ash (%)</td>
+<td align="char" char=".">9.6</td>
+<td align="char" char=".">9.4</td>
+<td align="char" char=".">10.3</td>
+</tr>
+<tr>
+<td align="left">Water content (%)</td>
+<td align="char" char=".">1.5</td>
+<td align="char" char=".">1.7</td>
+<td align="char" char=".">4.5</td>
+</tr>
+<tr>
+<td align="left">Dry matter content (%)</td>
+<td align="char" char=".">98.5</td>
+<td align="char" char=".">98.3</td>
+<td align="char" char=".">95.5</td>
+</tr>
+<tr>
+<td align="left">Sodium content (g/100 g)</td>
+<td align="char" char=".">1.86</td>
+<td align="char" char=".">1.98</td>
+<td align="char" char=".">1.85</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs25594-ntgp-0102">
+<fn id="efs25594-note-0050" xml:lang="en">
+<p xml:lang="en">FA: fatty acids.</p>
+</fn>
+</table-wrap-foot>
+
+<permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions>
+</table-wrap>
+<p xml:lang="en">To confirm the microbiological quality of the NF, the applicant provided the results of the testing for microbiological parameters for eight batches of the NF (Table <xref rid="efs25594-tbl-0002" ref-type="table-wrap">2</xref>), performed in two distinct testing facilities.</p>
+<table-wrap id="efs25594-tbl-0002" xml:lang="en">
+
+<label>Table 2</label>
+<caption><title>Microbiological analysis of the NF</title></caption>
+
+<table frame="hsides">
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<thead valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" rowspan="2" valign="top">Parameter</th>
+<th align="center" colspan="8" style="border-bottom:solid 1px #000000" valign="top">Batch numbers</th>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<th align="center" valign="top">037/15/01/LHŻ/G</th>
+<th align="center" valign="top">037/15/02/LHŻ/G</th>
+<th align="center" valign="top">037/15/03/LHŻ/G</th>
+<th align="center" valign="top">037/15/04/LHŻ/G</th>
+<th align="center" valign="top">037/15/05/LHŻ/G</th>
+<th align="center" valign="top">091‐13</th>
+<th align="center" valign="top">095‐13</th>
+<th align="center" valign="top">099‐13</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Number of aerobic microorganisms (CFU/g)</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">250</td>
+<td align="char" char=".">100</td>
+<td align="char" char=".">&lt; 10</td>
+</tr>
+<tr>
+<td align="left">Number of yeasts and moulds (CFU/g)</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+</tr>
+<tr>
+<td align="left">Number of <italic>coliforms</italic> (CFU/g)</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+</tr>
+<tr>
+<td align="left">Number of coagulase‐positive staphylococci (CFU/g)</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+</tr>
+<tr>
+<td align="left"><italic>Salmonella</italic> spp. (in 25 g)</td>
+<td align="char" char=".">Absent</td>
+<td align="char" char=".">Absent</td>
+<td align="char" char=".">Absent</td>
+<td align="char" char=".">Absent</td>
+<td align="char" char=".">Absent</td>
+<td align="char" char=".">Absent</td>
+<td align="char" char=".">Absent</td>
+<td align="char" char=".">Absent</td>
+</tr>
+<tr>
+<td align="left">Number of moulds (CFU/g)</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">&lt; 10</td>
+<td align="char" char=".">60</td>
+<td align="char" char=".">&lt; 10</td>
+</tr>
+<tr>
+<td align="left">Presence of anaerobic spores and sulfate (IV)‐ reducing bacteria (in 0.1 g)</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">–</td>
+<td align="char" char=".">Absent</td>
+<td align="char" char=".">Absent</td>
+<td align="char" char=".">Absent</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs25594-ntgp-0002">
+<fn id="efs25594-note-0005" xml:lang="en">
+<p xml:lang="en">CFU: colony forming units.</p>
+</fn>
+</table-wrap-foot>
+
+<permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions>
+</table-wrap>
+<p xml:lang="en">The NF contains fibre which is mainly composed of beta‐glucans, complex polysaccharides that form part of the cell walls of yeasts and cereals. The applicant submitted a Fourier transformed infra‐red (FTIR) analysis for one sample of the NF, which is compatible with the presence of beta‐glucans in the carbohydrate fraction of the NF.</p>
+<p xml:lang="en">The applicant also submitted detailed information on the amino acid profile and the amount of vitamins and minerals in the NF.</p>
+<p xml:lang="en">Additionally, the applicant provided the analytical results for the content of pesticides in the NF. The analysed pesticides, i.e. organochlorinated and organophosphate pesticides, pyrethroids and ‘other pesticides’ were below their limits of quantification.</p>
+<p xml:lang="en">The applicant declared that no genetically modified organisms are used in the manufacturing process. In order to support this statement, the applicant provided the results of an analysis for a number of DNA sequences (i.e. P35s, T‐nos, pFMV, npt II, pat, bar, CTP2‐CP4‐EPSPS) which are characteristic for genetically modified organisms. No such sequences were detected in the sample of the NF analysed.</p>
+<p xml:lang="en">The Panel considers that the information provided on the composition of the NF is sufficient and does not raise safety concerns.</p>
+<sec id="efs25594-sec-0013" xml:lang="en">
+<label>3.4.1</label>
+<title>Stability</title>
+<p xml:lang="en">In order to demonstrate the stability of the NF, the applicant performed stability tests with five independently produced batches of the NF. The tests for all the batches were carried out at 18–26°C and at 65% RH. The batches were analysed for their amounts of dry matter, moisture, protein, fat, ash, and microbiological parameters. After storage of 12 months, an increase of moisture above 5% was found in the NF, which was considered to be disadvantageous. The other parameters, including the levels of microorganisms, remained stable over the time of the testing. Accordingly, the manufacturer set the shelf life to 12 months from the date of manufacture.</p>
+<p xml:lang="en">The Panel considers that the data provided sufficient information with respect to the stability of the NF.</p>
+</sec>
+</sec>
+<sec id="efs25594-sec-0014" xml:lang="en">
+<label>3.5</label>
+<title>Specifications</title>
+<p xml:lang="en">The specifications of the NF are indicated in Table <xref rid="efs25594-tbl-0003" ref-type="table-wrap">3</xref>.</p>
+<table-wrap id="efs25594-tbl-0003" xml:lang="en">
+
+<label>Table 3</label>
+<caption><title>Specifications of the NF</title></caption>
+
+<table frame="hsides">
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<col style="border-right:solid 1px #000000"/>
+<thead valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="top">Parameter</th>
+<th align="left" valign="top">Amount</th>
+<th align="left" valign="top">Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Protein</td>
+<td align="left">45–55 g/100 g</td>
+<td align="left">PN‐A‐79005‐7:1997 or PN‐EN ISO 8968‐1:2014‐03</td>
+</tr>
+<tr>
+<td align="left">Dietary fibre</td>
+<td align="left">24–30 g/100 g</td>
+<td align="left">AOAC 985.29 or PN‐A‐79011‐15:1998</td>
+</tr>
+<tr>
+<td align="left">Saccharides</td>
+<td align="left">&lt; 1.0 g/100 g</td>
+<td align="left">PN‐A‐74252:1998</td>
+</tr>
+<tr>
+<td align="left">Fat</td>
+<td align="left">7–10 g/100 g</td>
+<td align="left">AOAC 922.06 or PN‐ISO 1444:2000</td>
+</tr>
+<tr>
+<td align="left">Total ash</td>
+<td align="left">≤ 12%</td>
+<td align="left">PN‐ISO 928:1999</td>
+</tr>
+<tr>
+<td align="left">Water content</td>
+<td align="left">≤ 5%</td>
+<td align="left">PN‐EN ISO 665:2004</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left">Dry matter content</td>
+<td align="left">≥ 95%</td>
+<td align="left">PN‐EN ISO 665:2004</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" colspan="3">
+<bold>Heavy metals</bold>
+</td>
+</tr>
+<tr>
+<td align="left">Lead</td>
+<td align="left">≤ 3.0 mg/kg</td>
+<td align="left">PN‐EN ISO 17294‐2:2006</td>
+</tr>
+<tr>
+<td align="left">Cadmium</td>
+<td align="left">≤ 1.0 mg/kg</td>
+<td align="left">PN‐EN ISO 17294‐2:2006</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left">Mercury</td>
+<td align="left">≤ 0.1 mg/kg</td>
+<td align="left">PN‐EN 13804:2013‐06 + ASA mercury analyser or PN‐EN 13806:2003</td>
+</tr>
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" colspan="3">
+<bold>Microbiological</bold>
+</td>
+</tr>
+<tr>
+<td align="left">TAMC</td>
+<td align="left">≤ 5 × 10<sup>3</sup> CFU/g</td>
+<td align="left">PN‐EN ISO 4833:2004 + AP1:2005</td>
+</tr>
+<tr>
+<td align="left">TYMC</td>
+<td align="left">≤ 10<sup>2</sup> CFU/g</td>
+<td align="left">PN‐ISO 7954:1999</td>
+</tr>
+<tr>
+<td align="left">Viable <italic>Yarrowia lipolytica</italic> cells<xref rid="efs25594-note-0007" ref-type="fn">a</xref></td>
+<td align="left">&lt; 10 CFU/g (i.e. limit of detection)</td>
+<td align="left">PN‐ISO 7954:1999</td>
+</tr>
+<tr>
+<td align="left">Coliforms</td>
+<td align="left">≤ 10 CFU/g</td>
+<td align="left">PN‐ISO 4832:2007</td>
+</tr>
+<tr>
+<td align="left"><italic>Salmonella</italic> spp.</td>
+<td align="left">Absent in 25 g</td>
+<td align="left">PN‐EN ISO 6579:2003</td>
+</tr>
+</tbody>
+</table>
+
+
+<table-wrap-foot id="efs25594-ntgp-0003">
+<fn id="efs25594-note-0006" xml:lang="en">
+<p xml:lang="en">TAMC: total aerobic microbial count; TYMC: total yeast and mould count; CFU: colony forming units.</p>
+</fn>
+<fn id="efs25594-note-0007" xml:lang="en">
+<label>a</label>
+<p xml:lang="en">To be tested immediately after the heat‐treatment step. Measures have to be in place to prevent cross‐contamination with viable <italic>Yarrowia lipolytica</italic> cells during packaging and/or storage of the NF.</p>
+</fn>
+</table-wrap-foot>
+
+<permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions>
+</table-wrap>
+<p xml:lang="en">The Panel considers that the information provided on the specifications of the NF is sufficient and does not raise safety concerns.</p>
+</sec>
+<sec id="efs25594-sec-0015" xml:lang="en">
+<label>3.6</label>
+<title>History of use of the NF and/or of its source</title>
+<p xml:lang="en"><italic>Yarrowia lipolytica</italic> can naturally be found in a number of foods such as yoghurts, kefir and in various types of cheese (e.g. cheddar cheese, Stilton Blue cheese, Armada cheese, Reblochon cheese, Italian‐style cheeses, Rokpol). Even though not added deliberately to cheese, <italic>Y. lipolytica</italic> has been reported to be among the common yeast species therein (Roostita and Fleet, <xref rid="efs25594-bib-0011" ref-type="ref">1996</xref>; Welthagen and Viljoen, <xref rid="efs25594-bib-0015" ref-type="ref">1998</xref>; Larpin et al., <xref rid="efs25594-bib-0008" ref-type="ref">2006</xref>; Monnet et al., <xref rid="efs25594-bib-0010" ref-type="ref">2010</xref>; Larpin‐Laborde et al., <xref rid="efs25594-bib-0009" ref-type="ref">2011</xref>).</p>
+<p xml:lang="en"><italic>Y. lipolytica</italic> has been used for a number of biotechnological applications, owing to its lipolytic and proteolytic characteristics and its ability to utilise a broad range of substances (e.g. glycerol, ethanol, <italic>n</italic>‐paraffin and alkanes, fatty acids, acetates, animal and vegetable fats) as a carbon source.</p>
+<p xml:lang="en">In the 1950s, <italic>Y. lipolytica</italic> was used by British Petroleum Co. (BP) to produce single cell protein (SCP) for animal feeding (Groenewald et al., <xref rid="efs25594-bib-0007" ref-type="ref">2013</xref>).</p>
+<p xml:lang="en">Mutated and/or genetically engineered strains of <italic>Y. lipolytica</italic> have obtained Generally Recognized as Safe (GRAS) status for the production of eicosapentaenoic acid (EPA)‐rich triglyceride oil (GRN 000355), erythritol (GRN 000382), rebaudioside A (GRN 000632) and steviol glycosides consisting primarily of rebaudioside M (GRN 000759), respectively.</p>
+<p xml:lang="en">Since 2010, <italic>Yarrowia lipolytica</italic> biomass is used as a feed material in Europe.<xref rid="efs25594-note-1009" ref-type="fn">6</xref></p>
+</sec>
+<sec id="efs25594-sec-0016" xml:lang="en">
+<label>3.7</label>
+<title>Proposed uses and use levels and anticipated intake</title>
+<sec id="efs25594-sec-0017" xml:lang="en">
+<label>3.7.1</label>
+<title>Target population</title>
+<p xml:lang="en">The target population for the NF is the general population from 3 years of age onwards.</p>
+</sec>
+<sec id="efs25594-sec-0018" xml:lang="en">
+<label>3.7.2</label>
+<title>Proposed uses and use levels</title>
+<p xml:lang="en">The applicant proposed to use the NF as a food supplement in the form of capsules, tablets or powder.</p>
+<p xml:lang="en">For the use of the NF as capsules or tablets, the applicant proposed amounts of 1–2 g/day for children from 3 years to less than 10 years of age, and 2–3 g/day thereafter.</p>
+<p xml:lang="en">As concerns the use of the NF in the form of powder (to be measured by the consumer using a teaspoon or scoop attached to the package), the applicant proposed a daily intake of 1.5–3 g/day for children from 3 years to less than 10 years of age, and 3–6 g/day thereafter.</p>
+<p xml:lang="en">The maximum use levels proposed by the applicant, irrespective of the form consumed, are 3 g per day for children from 3 years to less than 10 years of age, and 6 g per day thereafter.</p>
+</sec>
+</sec>
+<sec id="efs25594-sec-0019" xml:lang="en">
+<label>3.8</label>
+<title>Absorption, distribution, metabolism and excretion (ADME)</title>
+<p xml:lang="en">No ADME data have been provided on the NF.</p>
+</sec>
+<sec id="efs25594-sec-0020" xml:lang="en">
+<label>3.9</label>
+<title>Nutritional information</title>
+<p xml:lang="en">The applicant provided a nutritional analysis of the NF, which comprises information on the content of protein, amino acid composition, carbohydrates, fibre, fatty acids, vitamins and minerals in the NF.</p>
+<p xml:lang="en">The Panel considers that taking into account the composition of the NF and the proposed conditions of use (up to 3 g/day for children from 3 years to less than 10 years of age and up to 6 g/day thereafter), the consumption of the NF is not nutritionally disadvantageous.</p>
+</sec>
+<sec id="efs25594-sec-0021" xml:lang="en">
+<label>3.10</label>
+<title>Toxicological information</title>
+<p xml:lang="en">The applicant did not submit any relevant toxicological studies performed with the NF.</p>
+<p xml:lang="en">No human studies with the NF were provided.</p>
+</sec>
+<sec id="efs25594-sec-0022" xml:lang="en">
+<label>3.11</label>
+<title>Allergenicity</title>
+<p xml:lang="en">The applicant pointed out that <italic>Y. lipolytica</italic> is naturally occurring in foods and that it is not known to cause allergic reactions in humans.</p>
+<p xml:lang="en">The Panel notes that <italic>Y. lipolytica</italic> is not among the yeast species which have been shown to elicit allergic reactions in humans (Simon‐Nobbe et al., <xref rid="efs25594-bib-0012" ref-type="ref">2008</xref>).</p>
+<p xml:lang="en">The Panel considers that given the protein content of the NF (45–55 g/100 g) allergic reactions to the NF cannot be excluded. However, the Panel considers that the risk is low.</p>
+</sec>
+</sec>
+<sec id="efs25594-sec-0023" xml:lang="en">
+<label>4</label>
+<title>Discussion</title>
+<p xml:lang="en">The NF is the dried and heat‐killed biomass of <italic>Yarrowia lipolytica</italic>, which is a yeast species that is widespread in nature and which can be found in the environment as well as in foods.</p>
+<p xml:lang="en">In 2018, the EFSA BIOHAZ Panel assessed <italic>Y. lipolytica</italic> and recommended this yeast for the QPS status but only for production purposes, including food and feed products based on biomass. The qualification ‘only for production purposes’ requires that there are no viable <italic>Y. lipolytica</italic> cells in the final product (e.g. the microbial biomass).</p>
+<p xml:lang="en">The Panel considers that given the QPS status for production purposes of <italic>Yarrowia lipolytica</italic> and the fact that the production process of the NF does not raise safety concerns, no toxicological studies are needed for the safety assessment of this NF.</p>
+</sec>
+<sec id="efs25594-sec-0024" xml:lang="en">
+<label>5</label>
+<title>Conclusions</title>
+<p xml:lang="en">The Panel concludes that the NF, <italic>Yarrowia lipolytica</italic> yeast biomass, is safe under the proposed conditions of use. The target population is the general population above 3 years of age.</p>
+</sec>
+<sec id="efs25594-sec-0025" xml:lang="en">
+<title>Steps taken by EFSA</title>
+<p xml:lang="en">
+<list list-type="order" id="efs25594-list-0001">
+
+<list-item><p>Letter from the European Commission to the European Food Safety Authority with the request for a scientific opinion on the safety of <italic>Yarrowia lipolytica</italic> yeast biomass. Ref. Ares(2018)3311267, dated 22 June 2018.</p></list-item>
+
+<list-item><p>On 22 June 2018, EFSA received a valid application from the European Commission on <italic>Yarrowia lipolytica</italic> yeast biomass as a NF, which was submitted by the company Skotan S.A., and the scientific evaluation procedure started.</p></list-item>
+
+<list-item><p>On 24 July 2018, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</p></list-item>
+
+<list-item><p>On 23 October 2018, additional information was provided by the applicant and the scientific evaluation was restarted.</p></list-item>
+
+<list-item><p>During its meeting on 17 January 2019, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of <italic>Yarrowia lipolytica</italic> yeast biomass as a NF pursuant to Regulation (EU) 2015/2283.</p></list-item>
+</list>
+</p>
+</sec>
+
+
+<sec id="efs25594-sec-0026" xml:lang="en">
+<title>Abbreviations</title>
+<p xml:lang="en">
+<def-list list-type="simple">
+
+<def-item>
+
+<term>ADME</term>
+
+<def><p>absorption, distribution, metabolism and excretion</p></def>
+</def-item>
+
+<def-item>
+
+<term>BIOHAZ</term>
+
+<def><p>Biological Hazards</p></def>
+</def-item>
+
+<def-item>
+
+<term>CFU</term>
+
+<def><p>colony forming units</p></def>
+</def-item>
+
+<def-item>
+
+<term>EPA</term>
+
+<def><p>eicosapentaenoic acid</p></def>
+</def-item>
+
+<def-item>
+
+<term>FA</term>
+
+<def><p>fatty acids</p></def>
+</def-item>
+
+<def-item>
+
+<term>FTIR analysis</term>
+
+<def><p>Fourier transformed infra‐red analysis</p></def>
+</def-item>
+
+<def-item>
+
+<term>GMP</term>
+
+<def><p>Good Manufacturing Practices</p></def>
+</def-item>
+
+<def-item>
+
+<term>GRAS</term>
+
+<def><p>Generally Recognized as Safe</p></def>
+</def-item>
+
+<def-item>
+
+<term>HACCP</term>
+
+<def><p>Hazard Analysis Critical Control Points</p></def>
+</def-item>
+
+<def-item>
+
+<term>NDA</term>
+
+<def><p>Nutrition, Novel Foods and Food Allergens</p></def>
+</def-item>
+
+<def-item>
+
+<term>NF</term>
+
+<def><p>novel food</p></def>
+</def-item>
+
+<def-item>
+
+<term>QPS</term>
+
+<def><p>qualified presumption of safety</p></def>
+</def-item>
+
+<def-item>
+
+<term>RH</term>
+
+<def><p>residual humidity</p></def>
+</def-item>
+
+<def-item>
+
+<term>SCP</term>
+
+<def><p>single cell protein</p></def>
+</def-item>
+
+<def-item>
+
+<term>TAMC</term>
+
+<def><p>total aerobic microbial count</p></def>
+</def-item>
+
+<def-item>
+
+<term>TYMC</term>
+
+<def><p>total yeast and mould count</p></def>
+</def-item>
+</def-list>
+</p>
+</sec>
+</body>
+<back>
+<fn-group id="efs25594-ntgp-0005">
+<title>Notes</title>
+<fn id="efs25594-note-1005" xml:lang="en">
+<label>1</label>
+<p xml:lang="en">Regulation (EU) No 258/97 of the European Parliament and of the Council of 27 January 1997 concerning novel foods and novel food ingredients. OJ L 43, 14.2.1997, p. 1–6.</p>
+</fn>
+<fn id="efs25594-note-1006" xml:lang="en">
+<label>2</label>
+<p xml:lang="en">Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (2013/0435 (COD). OJ L 327, 11.12.2015, p. 1–22.</p>
+</fn>
+<fn id="efs25594-note-5003" xml:lang="en">
+<label>3</label>
+<p xml:lang="en">Commission Implementing Regulation (EU) 2017/2469 of 20 December 2017 laying down administrative and scientific requirements for applications referred to in Article 10 of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods. OJ L 351, 30.12.2017, pp. 64–71.</p>
+</fn>
+<fn id="efs25594-note-1007" xml:lang="en">
+<label>4</label>
+<p xml:lang="en">EFSA NDA Panel (EFSA Panel on Dietetic Products, Nutrition and Allergies), Turck D, Bresson J‐L, Burlingame B, Dean T, Fairweather‐Tait S, Heinonen M, Hirsch‐Ernst KI, Mangelsdorf I, McArdle H, Naska A, Neuhäuser‐Berthold M, Nowicka G, Pentieva K, Sanz Y, Siani A, Sjödin A, Stern M, Tomé D, Vinceti M, Willatts P, Engel K‐H, Marchelli R, Pöting A, Poulsen M, Salminen S, Schlatter J, Arcella D, Gelbmann W, de Sesmaisons‐Lecarré A, Verhagen H and van Loveren H, 2016. Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283. EFSA Journal 2016;14(11):4594, 24 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2016.4594">https://doi.org/10.2903/j.efsa.2016.4594</ext-link></p>
+</fn>
+<fn id="efs25594-note-1008" xml:lang="en">
+<label>5</label>
+<p xml:lang="en">
+<ext-link ext-link-type="uri" xlink:href="http://www.indexfungorum.org/names/names.asp">http://www.indexfungorum.org/names/names.asp</ext-link>
+</p>
+</fn>
+<fn id="efs25594-note-1009" xml:lang="en">
+<label>6</label>
+<p xml:lang="en">
+<ext-link ext-link-type="uri" xlink:href="http://www.feedmaterialsregister.eu">http://www.feedmaterialsregister.eu</ext-link>
+</p>
+</fn>
+</fn-group>
+<ref-list content-type="cited-references" id="efs25594-bibl-0001">
+<title>References</title>
+<ref id="efs25594-bib-0001">
+<mixed-citation publication-type="journal" id="efs25594-cit-0001"><string-name><surname>Bärtschi</surname> <given-names>C</given-names></string-name>, <string-name><surname>Berthier</surname> <given-names>J</given-names></string-name> and <string-name><surname>Valla</surname> <given-names>G</given-names></string-name>, <year>1994</year>. <article-title xml:lang="en">Inventaire et évolution des flores fongiques de surface du reblochon de Savoie</article-title>. <source xml:lang="en">Le Lait, INRA Editions</source>, <volume>74</volume>, <fpage>105</fpage>–<lpage>114</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0002">
+<mixed-citation publication-type="journal" id="efs25594-cit-0002"><string-name><surname>Czajgucka</surname> <given-names>A</given-names></string-name>, <string-name><surname>Chrzanowska</surname> <given-names>J</given-names></string-name>, <string-name><surname>Juszczyk</surname> <given-names>P</given-names></string-name>, <string-name><surname>Szołtysik</surname> <given-names>M</given-names></string-name> and <string-name><surname>Wojtatowicz</surname> <given-names>M</given-names></string-name>, <year>2003</year>. <article-title xml:lang="en">Aktywność proteolityczna szczepów drożdży pochodzących z serów Rokpol (engl.: Proteolytic activity of yeast strains originating from Rokpol cheese)</article-title>. <source xml:lang="en">Acta Scientiarium Polonorum Biotechnologia</source>, <volume>2</volume>, <fpage>73</fpage>–<lpage>81</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0003">
+<mixed-citation publication-type="journal" id="efs25594-cit-0003"><string-name><surname>Dujon</surname> <given-names>B</given-names></string-name>, <string-name><surname>Sherman</surname> <given-names>D</given-names></string-name>, <string-name><surname>Fischer</surname> <given-names>G</given-names></string-name>, <string-name><surname>Durrens</surname> <given-names>P</given-names></string-name>, <string-name><surname>Casaregola</surname> <given-names>S</given-names></string-name>, <string-name><surname>Lafontaine</surname> <given-names>I</given-names></string-name>, <string-name> <surname>De Montigny</surname> <given-names>J</given-names></string-name>, <string-name><surname>Marck</surname> <given-names>C</given-names></string-name>, <string-name><surname>Neuvéglise</surname> <given-names>C</given-names></string-name>, <string-name><surname>Talla</surname> <given-names>E</given-names></string-name>, <string-name><surname>Goffard</surname> <given-names>N</given-names></string-name>, <string-name><surname>Frangeul</surname> <given-names>L</given-names></string-name>, <string-name><surname>Aigle</surname> <given-names>M</given-names></string-name>, <string-name><surname>Anthouard</surname> <given-names>V</given-names></string-name>, <string-name><surname>Babour</surname> <given-names>A</given-names></string-name>, <string-name><surname>Barbe</surname> <given-names>V</given-names></string-name>, <string-name><surname>Barnay</surname> <given-names>S</given-names></string-name>, <string-name><surname>Blanchin</surname> <given-names>S</given-names></string-name>, <string-name><surname>Beckerich</surname> <given-names>JM</given-names></string-name>, <string-name><surname>Beyne</surname> <given-names>E</given-names></string-name>, <string-name><surname>Bleykasten</surname> <given-names>C</given-names></string-name>, <string-name><surname>Boisramé</surname> <given-names>A</given-names></string-name>, <string-name><surname>Boyer</surname> <given-names>J</given-names></string-name>, <string-name><surname>Cattolico</surname> <given-names>L</given-names></string-name>, <string-name><surname>Confanioleri</surname> <given-names>F</given-names></string-name>, <string-name> <surname>De Daruvar</surname> <given-names>A</given-names></string-name>, <string-name><surname>Despons</surname> <given-names>L</given-names></string-name>, <string-name><surname>Fabre</surname> <given-names>E</given-names></string-name>, <string-name><surname>Fairhead</surname> <given-names>C</given-names></string-name>, <string-name><surname>Ferry‐Dumazet</surname> <given-names>H</given-names></string-name>, <string-name><surname>Groppi</surname> <given-names>A</given-names></string-name>, <string-name><surname>Hantraye</surname> <given-names>F</given-names></string-name>, <string-name><surname>Hennequin</surname> <given-names>C</given-names></string-name>, <string-name><surname>Jauniaux</surname> <given-names>N</given-names></string-name>, <string-name><surname>Joyet</surname> <given-names>P</given-names></string-name>, <string-name><surname>Kachouri</surname> <given-names>R</given-names></string-name>, <string-name><surname>Kerrest</surname> <given-names>A</given-names></string-name>, <string-name><surname>Koszul</surname> <given-names>R</given-names></string-name>, <string-name><surname>Lemaire</surname> <given-names>M</given-names></string-name>, <string-name><surname>Lesur</surname> <given-names>I</given-names></string-name>, <string-name><surname>Ma</surname> <given-names>L</given-names></string-name>, <string-name><surname>Muller</surname> <given-names>H</given-names></string-name>, <string-name><surname>Nicaud</surname> <given-names>JM</given-names></string-name>, <string-name><surname>Nikolski</surname> <given-names>M</given-names></string-name>, <string-name><surname>Oztas</surname> <given-names>S</given-names></string-name>, <string-name><surname>Ozier‐Kalogeropoulos</surname> <given-names>O</given-names></string-name>, <string-name><surname>Pellenz</surname> <given-names>S</given-names></string-name>, <string-name><surname>Potier</surname> <given-names>S</given-names></string-name>, <string-name><surname>Richard</surname> <given-names>GF</given-names></string-name>, <string-name><surname>Straub</surname> <given-names>ML</given-names></string-name>, <string-name><surname>Suleau</surname> <given-names>A</given-names></string-name>, <string-name><surname>Swennen</surname> <given-names>D</given-names></string-name>, <string-name><surname>Tekaia</surname> <given-names>F</given-names></string-name>, <string-name><surname>Wésolowski‐Louvel</surname> <given-names>M</given-names></string-name>, <string-name><surname>Westhof</surname> <given-names>E</given-names></string-name>, <string-name><surname>Wirth</surname> <given-names>B</given-names></string-name>, <string-name><surname>Zeniou‐Meyer</surname> <given-names>M</given-names></string-name>, <string-name><surname>Zivanovic</surname> <given-names>I</given-names></string-name>, <string-name><surname>Bolotin‐Fukuhara</surname> <given-names>M</given-names></string-name>, <string-name><surname>Thierry</surname> <given-names>A</given-names></string-name>, <string-name><surname>Bouchier</surname> <given-names>C</given-names></string-name>, <string-name><surname>Caudron</surname> <given-names>B</given-names></string-name>, <string-name><surname>Scarpelli</surname> <given-names>C</given-names></string-name>, <string-name><surname>Gaillardin</surname> <given-names>C</given-names></string-name>, <string-name><surname>Weissenbach</surname> <given-names>J</given-names></string-name>, <string-name><surname>Wincker</surname> <given-names>P</given-names></string-name> and <string-name><surname>Souciet</surname> <given-names>JL</given-names></string-name>, <year>2004</year>. <article-title xml:lang="en">Genome evolution in yeasts</article-title>. <source xml:lang="en">Nature</source>, <volume>430</volume>, <fpage>35</fpage>–<lpage>44</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0004">
+<mixed-citation publication-type="journal" id="efs25594-cit-0004"><collab collab-type="authors">EFSA BIOHAZ Panel</collab>
+ (EFSA Panel on Biological Hazards), <string-name><surname>Ricci</surname> <given-names>A</given-names></string-name>, <string-name><surname>Allende</surname> <given-names>A</given-names></string-name>, <string-name><surname>Bolton</surname> <given-names>D</given-names></string-name>, <string-name><surname>Chemaly</surname> <given-names>M</given-names></string-name>, <string-name><surname>Davies</surname> <given-names>R</given-names></string-name>, <string-name><surname>Fernández</surname> <given-names>Escámez PS</given-names></string-name>, <string-name><surname>Girones</surname> <given-names>R</given-names></string-name>, <string-name><surname>Koutsoumanis</surname> <given-names>K</given-names></string-name>, <string-name><surname>Lindqvist</surname> <given-names>R</given-names></string-name>, <string-name><surname>Nørrung</surname> <given-names>B</given-names></string-name>, <string-name><surname>Robertson</surname> <given-names>L</given-names></string-name>, <string-name><surname>Ru</surname> <given-names>G</given-names></string-name>, <string-name><surname>Sanaa</surname> <given-names>M</given-names></string-name>, <string-name><surname>Simmons</surname> <given-names>M</given-names></string-name>, <string-name><surname>Skandamis</surname> <given-names>P</given-names></string-name>, <string-name><surname>Snary</surname> <given-names>E</given-names></string-name>, <string-name><surname>Speybroeck</surname> <given-names>N</given-names></string-name>, <string-name><surname>Ter</surname> <given-names>Kuile B</given-names></string-name>, <string-name><surname>Threlfall</surname> <given-names>J</given-names></string-name>, <string-name><surname>Wahlström</surname> <given-names>H</given-names></string-name>, <string-name><surname>Cocconcelli</surname> <given-names>PS</given-names></string-name>, <string-name><surname>Peixe</surname> <given-names>L</given-names></string-name>, <string-name><surname>Maradona</surname> <given-names>MP</given-names></string-name>, <string-name><surname>Querol</surname> <given-names>A</given-names></string-name>, <string-name><surname>Suarez</surname> <given-names>JE</given-names></string-name>, <string-name><surname>Sundh</surname> <given-names>I</given-names></string-name>, <string-name><surname>Vlak</surname> <given-names>J</given-names></string-name>, <string-name><surname>Barizzone</surname> <given-names>F</given-names></string-name>, <string-name><surname>Correia</surname> <given-names>S</given-names></string-name> and <string-name><surname>Herman</surname> <given-names>L</given-names></string-name>, <year>2018</year>. <article-title xml:lang="en">Statement on the update of the list of QPS‐recommended biological agents intentionally added to food or feed as notified to EFSA 8: suitability of taxonomic units notified to EFSA until March 2018</article-title>. <source xml:lang="en">EFSA Journal</source> 2018;<volume>16</volume>(<issue>7</issue>):5315, 42 pp. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2903/j.efsa.2018.5315">https://doi.org/10.2903/j.efsa.2018.5315</ext-link></mixed-citation>
+</ref>
+<ref id="efs25594-bib-0005">
+<mixed-citation publication-type="journal" id="efs25594-cit-0005"><string-name><surname>Ferreira</surname> <given-names>AD</given-names></string-name> and <string-name><surname>Viljoen</surname> <given-names>BC</given-names></string-name>, <year>2003</year>. <article-title xml:lang="en">Yeasts as adjunct starters in matured Cheddar cheese</article-title>. <source xml:lang="en">International Journal of Food Microbiology</source>, <volume>86</volume>, <fpage>131</fpage>–<lpage>140</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0006">
+<mixed-citation publication-type="journal" id="efs25594-cit-0006"><string-name><surname>Gkatzionis</surname> <given-names>K</given-names></string-name>, <string-name><surname>Hewson</surname> <given-names>L</given-names></string-name>, <string-name><surname>Hollowood</surname> <given-names>T</given-names></string-name>, <string-name><surname>Hort</surname> <given-names>J</given-names></string-name>, <string-name><surname>Dodd</surname> <given-names>CER</given-names></string-name> and <string-name><surname>Linforth</surname> <given-names>RST</given-names></string-name>, <year>2013</year>. <article-title xml:lang="en">Effect of <italic>Yarrowia lipolytica</italic> on blue cheese odour development: flash profile sensory evaluation of microbiological models and cheeses</article-title>. <source xml:lang="en">International Dairy Journal</source>, <volume>30</volume>, <fpage>8</fpage>–<lpage>13</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0007">
+<mixed-citation publication-type="journal" id="efs25594-cit-0007"><string-name><surname>Groenewald</surname> <given-names>M</given-names></string-name>, <string-name><surname>Boekhout</surname> <given-names>T</given-names></string-name>, <string-name><surname>Neuvéglise</surname> <given-names>C</given-names></string-name>, <string-name><surname>Gaillardin</surname> <given-names>C</given-names></string-name>, <string-name> <surname>van Dijk</surname> <given-names>PWM</given-names></string-name> and <string-name><surname>Wyss</surname> <given-names>M</given-names></string-name>, <year>2013</year>. <article-title xml:lang="en"><italic>Yarrowia lipolytica</italic>: safety assessment of an oleaginous yeast with a great industrial potential</article-title>. <source xml:lang="en">Critical Reviews in Microbiology</source>, <volume>40</volume>, <fpage>187</fpage>–<lpage>206</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0008">
+<mixed-citation publication-type="journal" id="efs25594-cit-0008"><string-name><surname>Larpin</surname> <given-names>S</given-names></string-name>, <string-name><surname>Mondoloni</surname> <given-names>C</given-names></string-name>, <string-name><surname>Goerges</surname> <given-names>S</given-names></string-name>, <string-name><surname>Vernoux</surname> <given-names>JP</given-names></string-name>, <string-name><surname>Guéguen</surname> <given-names>M</given-names></string-name> and <string-name><surname>Desmasures</surname> <given-names>N</given-names></string-name>, <year>2006</year>. <article-title xml:lang="en"><italic>Geotrichum candidum</italic> dominates in yeast population dynamics in Livarot, a French red‐smear cheese</article-title>. <source xml:lang="en">FEMS Yeast Research</source>, <volume>6</volume>, <fpage>1243</fpage>–<lpage>1253</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0009">
+<mixed-citation publication-type="journal" id="efs25594-cit-0009"><string-name><surname>Larpin‐Laborde</surname> <given-names>S</given-names></string-name>, <string-name><surname>Imran</surname> <given-names>M</given-names></string-name>, <string-name><surname>Bonaïti</surname> <given-names>C</given-names></string-name>, <string-name><surname>Bora</surname> <given-names>N</given-names></string-name>, <string-name><surname>Gelsomino</surname> <given-names>R</given-names></string-name>, <string-name><surname>Goerges</surname> <given-names>S</given-names></string-name>, <string-name><surname>Irlinger</surname> <given-names>F</given-names></string-name>, <string-name><surname>Goodfellow</surname> <given-names>M</given-names></string-name>, <string-name><surname>Ward</surname> <given-names>AC</given-names></string-name>, <string-name><surname>Vancanneyt</surname> <given-names>M</given-names></string-name>, <string-name><surname>Swings</surname> <given-names>J</given-names></string-name>, <string-name><surname>Scherer</surname> <given-names>S</given-names></string-name>, <string-name><surname>Guéguen</surname> <given-names>M</given-names></string-name> and <string-name><surname>Desmasures</surname> <given-names>N</given-names></string-name>, <year>2011</year>. <article-title xml:lang="en">Surface microbial consortia from Livarot, a French smear‐ripened cheese</article-title>. <source xml:lang="en">Canadian Journal of Microbiology</source>, <volume>57</volume>, <fpage>651</fpage>–<lpage>660</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0010">
+<mixed-citation publication-type="journal" id="efs25594-cit-0010"><string-name><surname>Monnet</surname> <given-names>C</given-names></string-name>, <string-name><surname>Bleicher</surname> <given-names>A</given-names></string-name>, <string-name><surname>Neuhaus</surname> <given-names>K</given-names></string-name>, <string-name><surname>Sarthou</surname> <given-names>AS</given-names></string-name>, <string-name><surname>Leclercq‐Perlat</surname> <given-names>MN</given-names></string-name> and <string-name><surname>Irlinger</surname> <given-names>F</given-names></string-name>, <year>2010</year>. <article-title xml:lang="en">Assessment of the antilisterial activity of microfloras from the surface of smear‐ripened cheeses</article-title>. <source xml:lang="en">Food Microbiology</source>, <volume>27</volume>, <fpage>302</fpage>–<lpage>310</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0011">
+<mixed-citation publication-type="journal" id="efs25594-cit-0011"><string-name><surname>Roostita</surname> <given-names>R</given-names></string-name> and <string-name><surname>Fleet</surname> <given-names>GH</given-names></string-name>, <year>1996</year>. <article-title xml:lang="en">The occurrence and growth of yeasts in Camembert and blue‐veined cheeses</article-title>. <source xml:lang="en">International Journal of Food Microbiology</source>, <volume>28</volume>, <fpage>393</fpage>–<lpage>404</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0012">
+<mixed-citation publication-type="journal" id="efs25594-cit-0012"><string-name><surname>Simon‐Nobbe</surname> <given-names>B</given-names></string-name>, <string-name><surname>Denk</surname> <given-names>U</given-names></string-name>, <string-name><surname>Pöll</surname> <given-names>V</given-names></string-name>, <string-name><surname>Rid</surname> <given-names>R</given-names></string-name> and <string-name><surname>Breitenbach</surname> <given-names>M</given-names></string-name>, <year>2008</year>. <article-title xml:lang="en">The spectrum of fungal allergy</article-title>. <source xml:lang="en">International Archives of Allergy and Immunology</source>, <volume>145</volume>, <fpage>58</fpage>–<lpage>86</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0013">
+<mixed-citation publication-type="journal" id="efs25594-cit-0013"><string-name><surname>Tornadijo</surname> <given-names>ME</given-names></string-name>, <string-name><surname>Fresno</surname> <given-names>JM</given-names></string-name>, <string-name><surname>Sarmiento</surname> <given-names>RM</given-names></string-name> and <string-name><surname>Carballo</surname> <given-names>J</given-names></string-name>, <year>1998</year>. <article-title xml:lang="en">Study of the yeasts during the ripening process of Armada cheeses from raw goat's milk</article-title>. <source xml:lang="en">Lait</source>, <volume>78</volume>, <fpage>647</fpage>–<lpage>659</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0014">
+<mixed-citation publication-type="journal" id="efs25594-cit-0014"><string-name> <surname>Van der Walt</surname> <given-names>JP</given-names></string-name> and <string-name> <surname>von Arx</surname> <given-names>JA</given-names></string-name>, <year>1980</year>. <article-title xml:lang="en">The yeast genus <italic>Yarrowia</italic> gen. nov</article-title>. <source xml:lang="en">Antonie van Leeuwenhoek</source>, <volume>46</volume>, <fpage>517</fpage>–<lpage>521</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0015">
+<mixed-citation publication-type="journal" id="efs25594-cit-0015"><string-name><surname>Welthagen</surname> <given-names>JJ</given-names></string-name> and <string-name><surname>Viljoen</surname> <given-names>BC</given-names></string-name>, <year>1998</year>. <article-title xml:lang="en">Yeast profile in Gouda cheese during processing and ripening</article-title>. <source xml:lang="en">International Journal of Food Microbiology</source>, <volume>41</volume>, <fpage>185</fpage>–<lpage>194</lpage>.</mixed-citation>
+</ref>
+<ref id="efs25594-bib-0016">
+<mixed-citation publication-type="book" id="efs25594-cit-0016"><collab collab-type="authors">WHO</collab>
+ (World Health Organization), <year>2004</year>. <source xml:lang="en">Laboratory biosafety manual. 3rd Edn. ISBN 92 4 154650 6 (LC/NLM classification: QY 25) WHO/CDS/CSR/LYO/2004.11</source>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

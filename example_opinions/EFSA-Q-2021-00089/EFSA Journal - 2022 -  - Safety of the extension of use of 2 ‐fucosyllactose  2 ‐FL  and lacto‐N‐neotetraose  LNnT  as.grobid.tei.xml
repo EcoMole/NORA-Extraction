@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" coord="1,141.96,247.38,311.39,10.22">Safety of the extension of use of 2’‐fucosyllactose (2’‐FL) and lacto‐N‐neotetraose (LNnT) as novel foods in food supplements for infants pursuant to Regulation (EU) 2015/2283</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2022-03-23">23 March 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,111.40,259.34,78.29,10.22"><forename type="first">Dominique</forename><surname>Turck</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,198.14,259.34,61.19,10.22"><forename type="first">Torsten</forename><surname>Bohn</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,268.50,259.34,108.72,10.22"><forename type="first">Jacqueline</forename><surname>Castenmiller</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,385.51,259.34,92.40,10.22"><forename type="first">Stefaan</forename><surname>De Henauw</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Karen</forename><forename type="middle">Ildico</forename><surname>Hirsch‐ernst</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,230.40,271.30,81.96,10.22"><forename type="first">Alexandre</forename><surname>Maciuk</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,321.17,271.30,81.13,10.22"><forename type="first">Inge</forename><surname>Mangelsdorf</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,411.03,271.30,73.90,10.22"><forename type="first">Harry</forename><forename type="middle">J</forename><surname>Mcardle</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,110.38,283.26,74.98,10.22"><forename type="first">Androniki</forename><surname>Naska</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,194.40,283.26,69.09,10.22"><forename type="first">Carmen</forename><surname>Pelaez</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,271.90,283.26,77.54,10.22"><forename type="first">Kristina</forename><surname>Pentieva</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,357.91,283.26,60.24,10.22"><forename type="first">Alfonso</forename><surname>Siani</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,426.11,283.26,54.07,10.22"><forename type="first">Frank</forename><surname>Thies</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,86.85,295.23,74.68,10.22"><forename type="first">Sophia</forename><surname>Tsabouri</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,170.02,295.23,63.11,10.22"><forename type="first">Marco</forename><surname>Vinceti</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,241.17,295.23,91.03,10.22"><forename type="first">Francesco</forename><surname>Cubadda</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,341.46,295.23,74.44,10.22"><forename type="first">Thomas</forename><surname>Frenzel</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,424.24,295.23,78.80,10.22"><forename type="first">Marina</forename><surname>Heinonen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,78.86,307.13,93.19,10.22"><forename type="first">Rosangela</forename><surname>Marchelli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Monika</forename><surname>Neuhäuser‐berthold</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,319.52,307.13,72.09,10.22"><forename type="first">Morten</forename><surname>Poulsen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,400.25,307.13,110.57,10.22"><forename type="first">Miguel</forename><surname>Prieto Maradona</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,77.78,319.09,101.75,10.22"><forename type="first">Josef</forename><forename type="middle">Rudolf</forename><surname>Schlatter</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,187.54,319.09,84.82,10.22"><forename type="first">Henk</forename><surname>Van Loveren</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,281.14,319.09,68.72,10.22"><forename type="first">Paolo</forename><surname>Colombo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Estefanía</forename><surname>Noriega Fernández</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Helle</forename><forename type="middle">Katrine</forename><surname>Knutsen</surname></persName>
+						</author>
+						<title level="a" type="main" coord="1,141.96,247.38,311.39,10.22">Safety of the extension of use of 2’‐fucosyllactose (2’‐FL) and lacto‐N‐neotetraose (LNnT) as novel foods in food supplements for infants pursuant to Regulation (EU) 2015/2283</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">EFSA Journal</title>
+						<title level="j" type="abbrev">EFS2</title>
+						<idno type="ISSN">1831-4732</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">20</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<date type="published" when="2022-03-23">23 March 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B38AF62D7C0EDB7AD18DA37B20F2D31F</idno>
+					<idno type="DOI">10.2903/j.efsa.2022.7257</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-04-29T08:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>2&apos;-FL</term>
+					<term>LNnT</term>
+					<term>HiMO</term>
+					<term>Novel Foods</term>
+					<term>food supplement</term>
+					<term>extension of use</term>
+					<term>infants Requestor: European Commission</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,82.15,165.28,430.97,13.94;1,92.81,183.20,409.60,13.94;1,100.40,201.17,394.39,13.94">Safety of the extension of use of 2'-fucosyllactose (2'-FL) and lacto-N-neotetraose (LNnT) as novel foods in food supplements for infants pursuant to Regulation (EU)</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="8" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="9" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table of contents</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2.">Interpretation of the Terms of Reference</head><p><s coords="4,85.04,287.90,439.32,9.30;4,70.87,299.86,453.43,9.30;4,70.87,311.60,453.51,9.96;4,70.87,323.79,433.06,9.30">The applications refer to an extension of use of the NFs 2'-FL and LNnT, whose respective use is already authorised in several food categories including: infant formulae (IF), follow-on formulae (FOF), milk-based drinks intended for young children (from 1 to &lt; 3 years), processed cereal-based food and baby food for infants and young children and in FS for the general population, excluding infants.</s><s coords="4,507.85,323.79,16.49,9.30;4,70.87,335.75,453.47,9.30;4,70.87,347.71,205.61,9.30">The applicant proposes to extend their use into FS for infants at the same maximum use levels as those individually authorised in FS for young children.</s><s coords="4,279.49,347.71,244.86,9.30;4,70.87,359.67,439.70,9.30">Therefore, the current assessment is exclusively focused on the proposed extension of use with respect to the possible impact on safety and nutritional aspects.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.3.">Additional information</head><p><s coords="4,85.04,401.57,439.31,9.30;4,70.87,413.53,152.29,9.30;4,223.20,411.53,4.04,6.20;4,227.28,413.53,297.05,9.30;4,70.87,425.27,293.22,9.96">2'-FL is included in the Union list of authorised NFs (Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 2 ) when chemically synthesised or produced by fermentation with genetically modified strains of Escherichia coli K-12 or E. coli BL21.</s><s coords="4,367.48,425.49,156.89,9.30;4,70.87,437.46,453.52,9.30;4,70.87,449.42,300.98,9.30">In 2015, EFSA published an opinion on the safety of the chemically synthesised 2'-FL as a NF (EFSA NDA, 2015a) and a statement on its use in FS for children, excluding infants (EFSA NDA Panel, 2015b).</s><s coords="4,376.16,449.42,148.20,9.30;4,70.87,461.38,453.50,9.30;4,70.87,473.11,416.35,9.96">In addition, scientific opinions on the safety as a NF of the mixture of 2'-FL and difucosyllactose (DFL), produced by fermentation with a genetically modified strain of E. coli K-12, have been published <ref type="bibr" coords="4,349.34,473.34,101.18,9.30" target="#b5">(EFSA NDA Panel, 2019</ref><ref type="bibr" coords="4,450.52,473.34,31.96,9.30" target="#b7">, 2022)</ref>.</s></p><p><s coords="4,85.04,485.08,439.25,9.96;4,70.87,497.21,453.52,9.30;4,70.87,509.17,48.72,9.30">The NF containing 2'-FL (2'-FL ≥ 83% w/w dry matter (DM)) is authorised for use in FS for young children up to the maximum use level of 1.2 g/day, and up to 3.0 g/day in FS for the general population.</s></p><p><s coords="4,85.04,521.13,439.32,9.30;4,70.87,533.10,152.29,9.30;4,223.20,531.09,4.04,6.20;4,227.28,533.10,297.05,9.30;4,70.87,544.83,257.80,9.96">LNnT is included in the Union list of authorised NFs (Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 2 ) when chemically synthesised or produced by fermentation with genetically modified strains of E. coli BL21 or E. coli K-12.</s><s coords="4,332.62,545.06,191.73,9.30;4,70.87,557.02,453.43,9.30;4,70.87,568.98,291.85,9.30">In 2015, EFSA published an opinion on the safety of the chemically synthesised LNnT as a NF (EFSA NDA Panel, 2015c) and a statement on its use in FS for children, excluding infants (EFSA NDA Panel, 2015b).</s><s coords="4,366.06,568.98,158.28,9.30;4,70.87,580.72,453.44,9.96;4,70.87,592.85,222.68,9.30">Moreover, a scientific opinion on the safety of LNnT as a NF when produced by fermentation with a genetically modified strain of E. coli BL21 has been published (EFSA NDA Panel, 2020).</s></p><p><s coords="4,85.04,604.58,439.36,9.96;4,70.87,616.78,410.19,9.30">The NF containing LNnT (LNnT ≥ 80% w/w DM) is authorised for use in FS for young children up to the maximum use level of 0.6 g/day, and up to 1.5 g/day in FS for the general population.</s></p><p><s coords="4,85.04,628.74,439.33,9.30;4,70.87,640.70,444.24,9.30">According to the applicant, FS containing the NFs shall bear a statement that the corresponding FS should not be used if foods with added 2'-FL or LNnT or human milk are consumed on the same day.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p><s coords="5,113.39,78.45,146.25,11.15">Data and methodologies</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Data</head><p><s coords="5,85.04,121.73,358.54,9.30">The safety assessment of these NFs is based on data supplied in the applications.</s></p><p><s coords="5,85.04,133.70,439.30,9.30;5,70.87,145.66,390.05,9.30">Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469<ref type="foot" coords="5,453.83,143.65,4.04,6.20" target="#foot_0">3</ref> .</s></p><p><s coords="5,85.04,157.62,439.29,9.30;5,70.87,169.53,388.85,9.30">A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application (EFSA NDA Panel, 2016).</s><s coords="5,462.22,169.53,62.15,9.30;5,70.87,181.49,453.50,9.30;5,70.87,193.45,430.18,9.30">As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data (both in favour and not in favour) that are pertinent to the safety of the NF.</s></p><p><s coords="5,85.04,205.41,439.30,9.30;5,70.87,217.37,453.48,9.30;5,70.87,229.34,309.54,9.30">Although these applications do not include requests for the protection of proprietary data, the applications referred to proprietary data submitted by the applicant in support of the application of 2'-FL/DFL and used in the safety assessment (EFSA NDA Panel, 2019).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Methodologies</head><p><s coords="5,85.04,271.29,439.26,9.30;5,70.87,283.25,453.46,9.30;5,70.87,295.16,92.21,9.30">The assessment follows the methodology set out in the EFSA guidance on NF applications (EFSA NDA Panel, 2016) and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee.</s><s coords="5,166.85,295.16,357.48,9.30;5,70.87,307.12,402.99,9.30">The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of the Commission Implementing Regulation (EU) 2017/2469.</s><s coords="5,85.04,319.08,439.32,9.30;5,70.87,331.04,453.52,9.30;5,70.87,343.01,100.49,9.30">This assessment concerns only the risks that might be associated with consumption of the NFs under the proposed conditions of use and is not an assessment of the efficacy of the NFs with regard to any claimed benefit.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Assessment</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Introduction</head><p><s coords="5,85.04,408.71,439.35,9.30;5,70.87,420.68,194.69,9.30">The NFs which are the subject of the application, are human identical milk oligosaccharides (HiMOs) composed of either 2'-FL or LNnT.</s><s coords="5,270.03,420.68,129.42,9.30;5,399.51,418.67,4.04,6.20;5,403.54,420.68,120.81,9.30;5,70.87,432.41,268.35,9.96">As specified in the Union list 2 , the NFs are produced by fermentation with genetically modified strains of E. coli K-12.</s><s coords="5,342.77,432.41,181.56,9.96;5,70.87,444.37,151.99,9.96">They consist, respectively, of ≥ 83% w/w DM 2'-FL or ≥ 80% w/w DM LNnT.</s><s coords="5,226.32,444.60,298.01,9.30;5,70.87,456.56,20.43,9.30">The remaining fraction of the NFs is composed of other saccharides (e.g.</s><s coords="5,94.68,456.56,47.28,9.30">D-lactose).</s></p><p><s coords="5,85.04,468.52,222.96,9.30">The NFs are proposed to be used in FS for infants.</s></p><p><s coords="5,85.04,480.43,381.99,9.30;5,96.26,498.17,428.06,9.96;5,110.66,510.36,285.58,9.30;5,96.27,522.04,379.79,9.96">According to Regulation (EU) 2015/2283, these NFs fall under the following categories: i) 'food with a new or intentionally modified molecular structure, where that structure was not used as, or in, a food within the Union before 15 May 1997'; and ii) 'food consisting of, isolated from or produced from microorganisms, fungi or algae'.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Identity of the NF</head><p><s coords="5,85.04,564.22,196.90,9.30">The two NFs are composed of 2'-FL or LNnT.</s><s coords="5,85.04,576.18,439.33,9.30;5,70.87,588.15,71.77,9.30">The applicant stated that there is no change to the identity of 2'-FL and LNnT as currently approved in the Union list.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Production process</head><p><s coords="5,85.04,630.10,404.39,9.30">The applicant also stated that the manufacturing conditions for both NFs have not changed.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.4.</head><p><s coords="5,113.78,652.52,246.60,11.15;6,85.04,73.03,343.77,9.30;6,428.83,71.03,4.04,6.20;6,432.85,73.03,3.42,9.30;6,85.04,90.78,439.28,9.96;6,70.87,102.74,453.48,9.96;6,70.87,114.93,62.71,9.30">History of use of the NF and of its source In IF and FOF, the NFs are authorised up to the following maximum use levels 2 : 2'-FL -'1.2 g/L alone or in combination with up to 0.6 g/L of lacto-N-neotetraose at a ratio of 2:1 in the final product ready for use, marketed as such or reconstituted as instructed by the manufacturer'.</s></p><p><s coords="6,85.04,126.61,439.29,9.96;6,70.87,138.80,407.40,9.30">LNnT -'0.6 g/L in combination with up to 1.2 g/L of 2'-fucosyllactose at a ratio of 1:2 in the final product ready for use, marketed as such or reconstituted as instructed by the manufacturer'.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.2.">Intake of 2'-FL and LNnT from human milk</head><p><s coords="6,85.04,180.18,439.33,9.30;6,70.87,192.09,453.48,9.30;6,70.87,204.05,453.46,9.30;6,70.87,216.01,247.01,9.30">In previous EFSA opinions, the daily intake levels of these oligosaccharides from the consumption of human milk have been estimated for a 6.7-kg body weight (bw) infant (EFSA Scientific Committee, 2012), considering the average and high daily intake of human milk (800 and 1,200 mL, respectively) for infants from 0 to 6 months <ref type="bibr" coords="6,208.00,216.01,105.13,9.30" target="#b0">(EFSA NDA Panel, 2013)</ref>.</s></p><p><s coords="6,85.04,227.98,439.33,9.30;6,70.87,239.94,453.47,9.30;6,70.87,251.90,453.44,9.30;6,70.87,263.86,307.10,9.30">Specifically, for 2'-FL the daily intake ranges from 284 to 856 mg/kg bw, when considering mean and high concentrations in human milk in average (800 mL) and high (1,200 mL) milk intake scenarios (Table <ref type="table" coords="6,101.14,251.90,4.04,9.30" target="#tab_2">1</ref>), according to data reported by <ref type="bibr" coords="6,257.72,251.90,86.01,9.30" target="#b9">Erney et al. (2001)</ref>  <ref type="bibr" coords="6,348.26,251.90,104.66,9.30" target="#b5">(EFSA NDA Panel, 2019</ref><ref type="bibr" coords="6,452.92,251.90,34.70,9.30" target="#b7">, 2022)</ref> of 2.38 and 4.78 g 2'-FL/L as mean and high concentrations, respectively.</s><s coords="6,383.52,263.86,140.87,9.30;6,70.87,275.82,453.51,9.30;6,70.87,287.50,284.26,9.96">In a recently published review <ref type="bibr" coords="6,70.87,275.82,110.01,9.30">(Soyyilmaz et al., 2021)</ref>, values of 2.28 and 4.28 g/L as mean of means and maximum mean, respectively, were reported from &gt;4,000 samples of mature milk.</s></p><p><s coords="6,85.04,444.54,439.33,9.30;6,70.87,456.50,453.47,9.30;6,70.87,468.47,453.48,9.30;6,70.87,480.43,192.47,9.30">For LNnT, the daily intake ranges from 88 to 201 mg/kg bw, when considering mean and high concentrations in human milk in average (800 mL) and high (1,200 mL) milk intake scenarios (Table <ref type="table" coords="6,101.14,468.47,4.04,9.30">2</ref>), according to data reported by <ref type="bibr" coords="6,258.07,468.47,84.09,9.30" target="#b11">Thurl et al. (2017)</ref> of 0.74 and 1.12 g LNnT/L as mean of means and maximum mean, respectively.</s><s coords="6,269.46,480.43,254.85,9.30;6,70.87,492.39,306.18,9.30">Likewise, in the Soyyilmaz et al. ( <ref type="formula" coords="6,433.94,480.43,19.35,9.30">2021</ref>) review, LNnT concentrations of 0.37 and 1.24 g/L from mature milk were recorded.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.5.</head><p><s coords="6,113.78,641.58,313.91,11.15">Proposed uses and use levels and anticipated intake</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.1.">Target population</head><p><s coords="6,85.04,684.41,257.72,9.30">The target population proposed by the applicant is infants.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.2.">Proposed uses and use levels</head><p><s coords="6,85.04,725.74,439.32,9.30;6,70.87,737.70,294.29,9.30">The applicant intends to market the NFs (2'-FL and LNnT) in FS for infants, at the proposed maximum use levels of 1.2 g/day for 2'-FL and 0.6 g/day for LNnT.</s></p><p><s coords="6,70.87,512.92,453.47,9.30;6,124.78,524.88,399.59,9.30;6,124.78,536.84,309.51,9.30;7,85.04,72.81,439.32,9.96;7,70.87,85.00,453.50,9.30;7,70.87,96.96,74.52,9.30">Table <ref type="table" coords="6,101.54,512.92,4.93,9.30">2</ref>: Estimated daily intake levels of LNnT from average (800 mL) and high (1,200 mL) human milk intake for infants of 6.7 kg bw, based on mean and high concentration of 0.74 and 1.12 g/L, respectively, of LNnT in human milk <ref type="bibr" coords="6,328.05,536.84,82.59,9.30" target="#b11">(Thurl et al., 2017;</ref><ref type="bibr" coords="6,413.96,536.84,20.33,9.30">term</ref>   The Panel notes that 2'-FL and LNnT produced by the same applicant showed a purity &gt; 96% (about 97 and 100% from the batch-to-batch analysis for 2'-FL and LNnT, respectively (EFSA NDA Panel, 2015a,c)).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.3.">Anticipated intake of the NF</head><p><s coords="7,85.04,138.29,222.96,9.30">The NFs are proposed to be used in FS for infants.</s><s coords="7,85.04,150.25,439.33,9.30;7,70.87,162.21,453.52,9.30;7,70.87,174.17,264.13,9.30">According to the maximum proposed use levels of 1.2 g/day for 2'-FL and 0.6 g/day for LNnT, and considering a bw of 5 kg (EFSA Scientific Committee, 2012), the estimated daily intakes amount to 240 and 120 mg per kg bw for 2'-FL and LNnT, respectively.</s></p><p><s coords="7,85.04,186.14,439.28,9.30;7,70.87,198.10,453.48,9.30;7,70.87,210.06,133.49,9.30">The Panel notes that the anticipated maximum daily intake of 2'-FL (expressed on a bw basis) from the proposed use of the NF in FS for infants (240 mg per kg bw) is below the lowest estimated daily intake of 2'-FL by infants (i.e.</s><s coords="7,208.57,210.06,315.80,9.30;7,70.87,222.02,299.22,9.30">284 mg/kg bw), considering average human milk intake (800 mL) and the mean concentration of 2'-FL in human milk (2.38 g/L) (Table <ref type="table" coords="7,357.90,222.02,4.06,9.30" target="#tab_2">1</ref>).</s></p><p><s coords="7,85.04,233.93,439.35,9.30;7,70.87,245.89,453.50,9.30;7,70.87,257.85,134.63,9.30">The Panel also notes that the anticipated maximum daily intake of LNnT (expressed on a bw basis) from the proposed use of the NF in FS for infants (120 mg per kg bw) is below the estimated daily intake of LNnT by infants (i.e.</s><s coords="7,209.59,257.85,314.78,9.30;7,70.87,269.81,295.48,9.30">134 mg/kg bw), considering average human milk intake (800 mL) and the high concentration of LNnT in human milk (1.12 g/L) (Table <ref type="table" coords="7,354.16,269.81,4.06,9.30">2</ref>).</s></p><p><s coords="7,85.04,281.78,439.36,9.30;7,70.87,293.74,453.50,9.30;7,70.87,305.70,453.50,9.30;7,70.87,317.66,70.78,9.30">Furthermore, the estimated intakes of 2'-FL and LNnT from their proposed uses in FS for infants are lower or similar to the estimated intakes from the already authorised uses of 2'-FL and LNnT in IF (infants of 0-16 weeks) and in other food categories (infants of 4-11 months of age) (EFSA NDA Panel, 2015a,c).</s></p><p><s coords="7,85.04,329.57,439.29,9.30;7,70.87,341.53,254.55,9.30">The applicant stated that FS containing the NFs are not intended to be used if human milk or foods with added 2'-FL or LNnT are consumed on the same day.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.">Nutritional information</head><p><s coords="7,85.04,383.49,355.50,9.30">The NFs are composed of non-digestible oligosaccharides, either 2'-FL or LNnT.</s><s coords="7,444.11,383.49,80.27,9.30;7,70.87,395.45,453.38,9.30">The proposed use levels of the NFs in FS for infants are identical to those already authorised in FS for young children.</s><s coords="7,70.87,407.41,453.58,9.30;7,70.87,419.37,453.50,9.30;7,70.87,431.33,453.51,9.30;7,70.87,443.30,72.21,9.30">In addition, the intakes from the proposed use of 2'-FL and LNnT in FS for infants are, respectively, lower than or similar to the estimated intake from the already authorised uses of the NFs in IF (infants of 0-16 weeks) and in other food categories (infants of 4-11 months of age) (EFSA NDA Panel, 2015a,c).</s></p><p><s coords="7,85.04,455.20,439.26,9.30;7,70.87,467.16,75.76,9.30">The Panel considers that consumption of the NFs at the proposed use levels is not nutritionally disadvantageous.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p><s coords="7,85.04,509.12,439.37,9.30">The NFs which are the subject of the application, are the already authorised HiMOs 2'-FL and LNnT.</s><s coords="7,70.87,521.08,126.31,9.30;7,197.23,519.07,4.04,6.20;7,201.26,521.08,323.15,9.30;7,70.87,532.81,431.61,9.96">As specified in the Union list 2 , the NFs are produced by fermentation with genetically modified strains of E. coli K-12 and consist, respectively, of ≥ 80% w/w DM LNnT or ≥ 83% w/w DM 2'-FL.</s><s coords="7,507.85,533.04,16.49,9.30;7,70.87,545.00,300.89,9.30">The remaining fraction of the NFs is composed of other saccharides (e.g.</s><s coords="7,375.13,545.00,47.29,9.30">D-lactose).</s></p><p><s coords="7,85.04,556.97,400.13,9.30">2'-FL is proposed to be used at the maximum use level of 1.2 g/day in FS for infants.</s><s coords="7,490.05,556.97,34.30,9.30;7,70.87,568.87,340.43,9.30">LNnT is proposed to be used at the maximum use level of 0.6 g/day in FS for infants.</s></p><p><s coords="7,85.04,580.83,439.30,9.30;7,70.87,592.79,453.48,9.30;7,70.87,604.76,306.25,9.30">The Panel notes that the maximum daily intakes of 2'-FL in FS for infants are lower than the estimated intake from the already authorised uses in IF (infants of 0-16 weeks) and in other food categories (infants of 4-11 months of age) (EFSA NDA Panel, 2015a).</s></p><p><s coords="7,85.04,616.72,439.30,9.30;7,70.87,628.68,453.48,9.30;7,70.87,640.64,305.63,9.30">The Panel notes that the maximum daily intakes of LNnT in FS for infants are similar to the estimated intake from the already authorised uses in IF (infants of 0-16 weeks) and in other food categories (infants of 4-11 months of age) (EFSA NDA Panel, 2015c).</s></p><p><s coords="7,85.04,652.60,439.32,9.30;7,70.87,664.51,403.42,9.30">Moreover, the intake per kg bw of 2'-FL from the proposed maximum use levels in FS for infants is lower than the lowest estimated mean intake of naturally occurring 2'-FL from human milk.</s><s coords="7,477.98,664.51,46.35,9.30;7,70.87,676.47,428.93,9.30">The intake per kg bw of LNnT is lower than the highest estimated mean intake of LNnT by breastfed infants.</s></p><p><s coords="7,85.04,688.43,439.29,9.30;7,70.87,700.40,254.55,9.30">The applicant stated that FS containing the NFs are not intended to be used if human milk or foods with added 2'-FL or LNnT are consumed on the same day.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p><s coords="7,85.04,742.35,439.29,9.30;7,70.87,754.31,138.34,9.30">The Panel concludes that the use of the NFs containing 2'-FL or LNnT in FS for infants is safe under the proposed conditions of use.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="3,75.29,109.87,433.23,8.37;3,75.29,120.81,4.85,8.37;3,100.80,120.81,408.88,8.37;3,75.29,131.81,434.38,8.37;3,75.29,142.75,434.39,8.37;3,75.29,153.70,434.37,8.37;3,75.29,164.69,7.56,8.37;3,100.80,164.69,408.91,8.37;3,75.29,175.63,434.42,8.37;3,75.29,186.58,434.38,8.37;3,75.29,197.57,7.56,8.37;3,100.80,197.57,408.87,8.37;3,75.29,208.52,434.39,8.37;3,75.29,219.46,434.40,8.37;3,75.29,230.40,434.37,8.37;3,75.29,241.40,434.42,8.37;3,75.29,252.34,434.41,8.37;3,75.29,263.28,434.39,8.37;3,75.29,274.28,434.39,8.37;3,75.29,285.22,434.40,8.37;3,75.29,296.16,434.40,8.37;3,75.29,307.16,434.38,8.37;3,75.29,318.10,434.38,8.37;3,75.29,329.04,7.56,8.37;3,100.80,329.04,408.91,8.37;3,75.29,339.98,7.56,8.37;3,100.80,339.98,408.87,8.37;3,75.29,350.98,7.56,8.37;3,100.80,350.98,408.90,8.37;3,75.29,361.92,433.23,8.37;3,75.29,372.87,433.22,8.37"><head></head><label></label><figDesc><div><p><s coords="3,75.29,109.87,433.23,8.37;3,75.29,120.81,4.85,8.37;3,100.80,120.81,408.88,8.37;3,75.29,131.81,15.12,8.37">Abstract.................................................................................................................................................... 1 Introduction..................................................................................................................................... 1.1.</s><s coords="3,100.80,131.81,408.87,8.37;3,75.29,142.75,15.12,8.37">Background and Terms of Reference as provided by the requestor....................................................... 1.2.</s><s coords="3,100.80,142.75,408.88,8.37;3,75.29,153.70,15.12,8.37">Interpretation of the Terms of Reference............................................................................................ 1.3.</s><s coords="3,100.80,153.70,408.86,8.37;3,75.29,164.69,7.56,8.37;3,100.80,164.69,408.91,8.37;3,75.29,175.63,15.12,8.37">Additional information....................................................................................................................... 2. Data and methodologies ................................................................................................................... 2.1.</s><s coords="3,100.80,175.63,408.90,8.37;3,75.29,186.58,15.12,8.37">Data................................................................................................................................................ 2.2.</s><s coords="3,100.80,186.58,408.87,8.37;3,75.29,197.57,7.56,8.37;3,100.80,197.57,408.87,8.37;3,75.29,208.52,15.12,8.37">Methodologies.................................................................................................................................. 3. Assessment...................................................................................................................................... 3.1.</s><s coords="3,100.80,208.52,408.88,8.37;3,75.29,219.46,15.12,8.37">Introduction..................................................................................................................................... 3.2.</s><s coords="3,100.80,219.46,408.89,8.37;3,75.29,230.40,15.12,8.37">Identity of the NF............................................................................................................................. 3.3.</s><s coords="3,100.80,230.40,408.86,8.37;3,75.29,241.40,15.12,8.37">Production process ........................................................................................................................... 3.4.</s><s coords="3,100.80,241.40,408.91,8.37;3,75.29,252.34,22.68,8.37">History of use of the NF and of its source .......................................................................................... 3.4.1.</s><s coords="3,100.80,252.34,408.90,8.37;3,75.29,263.28,22.68,8.37">History of use of the NF.................................................................................................................... 3.4.2.</s><s coords="3,100.80,263.28,408.88,8.37;3,75.29,274.28,15.12,8.37">Intake of 2'-FL and LNnT from human milk ........................................................................................ 3.5.</s><s coords="3,100.80,274.28,408.88,8.37;3,75.29,285.22,22.68,8.37">Proposed uses and use levels and anticipated intake........................................................................... 3.5.1.</s><s coords="3,100.80,285.22,408.89,8.37;3,75.29,296.16,22.68,8.37">Target population ............................................................................................................................. 3.5.2.</s><s coords="3,100.80,296.16,408.89,8.37;3,75.29,307.16,22.68,8.37">Proposed uses and use levels ............................................................................................................ 3.5.3.</s><s coords="3,100.80,307.16,408.86,8.37;3,75.29,318.10,15.12,8.37">Anticipated intake of the NF .............................................................................................................. 3.6.</s><s coords="3,100.80,318.10,408.87,8.37;3,75.29,329.04,7.56,8.37;3,100.80,329.04,408.91,8.37;3,75.29,339.98,7.56,8.37;3,100.80,339.98,408.87,8.37;3,75.29,350.98,7.56,8.37;3,100.80,350.98,408.90,8.37;3,75.29,361.92,433.23,8.37;3,75.29,372.87,433.22,8.37">Nutritional information ...................................................................................................................... 4. Discussion ....................................................................................................................................... 5. Conclusions...................................................................................................................................... 6. Steps taken by EFSA ........................................................................................................................ References................................................................................................................................................ Abbreviations ............................................................................................................................................</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="4,70.87,71.19,11.32,11.15;4,113.39,71.19,75.25,11.15;4,70.87,94.94,22.64,11.15;4,113.78,94.94,395.52,11.15;4,85.04,114.48,439.33,9.30;4,70.87,126.44,260.12,9.30;4,331.03,124.43,4.04,6.20;4,339.93,126.44,184.41,9.30;4,70.87,138.40,390.77,9.30;4,85.04,150.36,439.37,9.30;4,70.87,162.27,453.53,9.30;4,70.87,174.23,307.38,9.30;4,85.04,186.19,439.31,9.30;4,70.87,198.16,453.44,9.30;4,70.87,210.12,75.46,9.30;4,85.04,222.08,439.30,9.30;4,70.87,234.04,453.48,9.30;4,70.87,246.00,399.39,9.30"><head></head><label></label><figDesc><div><p><s coords="4,255.91,94.94,253.39,11.15;4,85.04,114.48,439.33,9.30;4,70.87,126.44,260.12,9.30;4,331.03,124.43,4.04,6.20;4,339.93,126.44,184.41,9.30;4,70.87,138.40,390.77,9.30">of Reference as provided by the requestor On 21 October 2019, the company Glycom A/S submitted a request to the European Commission in accordance with Article 10 of Regulation (EU) 2015/2283 1 to authorise the extension of use of the authorised novel food (NF) 2'-Fucosyllactose (2'-FL) in food supplements (FS) for infants.</s><s coords="4,85.04,150.36,439.37,9.30;4,70.87,162.27,453.53,9.30;4,70.87,174.23,307.38,9.30">Also, on 21 October 2019, the same company submitted a separate request to the European Commission in accordance with Article 10 of Regulation (EU) 2015/2283 to authorise the extension of use of the authorised NF lacto-N-neotetraose (LNnT) in FS for infants.</s><s coords="4,85.04,186.19,439.31,9.30;4,70.87,198.16,453.44,9.30;4,70.87,210.12,75.46,9.30">The applicant has not requested data protection under Article 26 of Regulation (EU) 2015/2283 for neither the data in support of the request concerning 2'-FL nor for the data in support of the request concerning LNnT.</s><s coords="4,85.04,222.08,439.30,9.30;4,70.87,234.04,453.48,9.30;4,70.87,246.00,399.39,9.30">In accordance with Article 10(3) of Regulation (EU) 2015/2283, the European Commission asks the European Food Safety Authority (EFSA) to provide a scientific opinion on the safety of the extension of use for each of the authorised NFs 2'-FL and LNnT to be used individually in FS for infants.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="5,70.87,677.17,173.73,10.22;5,85.04,695.35,439.31,9.30;5,70.87,707.31,283.62,9.30"><head>3. 4</head><label>4</label><figDesc><div><p><s coords="5,86.43,677.17,15.57,10.22">.1.</s><s coords="5,113.95,677.17,130.65,10.22;5,85.04,695.35,439.31,9.30;5,70.87,707.31,283.62,9.30">History of use of the NF These NFs are authorised alone or in combination in IF and FOF and for use in several food categories intended for the general population, including infants.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="8,70.87,78.45,11.32,11.15;8,113.39,78.45,122.84,11.15;8,96.26,97.98,428.09,9.30;8,113.90,109.89,410.43,9.30;8,113.90,121.85,233.87,9.30;8,96.26,133.81,428.09,9.30;8,113.90,145.77,410.46,9.30;8,113.90,157.73,410.48,9.30;8,113.90,169.70,152.97,9.30;8,96.26,181.66,428.08,9.30;8,113.90,193.62,410.45,9.30;8,113.90,205.53,357.68,9.30;8,96.26,217.49,428.09,9.30;8,113.90,229.45,410.47,9.30;8,113.90,241.41,263.50,9.30;8,96.26,253.37,428.10,9.30;8,113.90,265.34,410.42,9.30;8,113.89,277.30,355.46,9.30"><head></head><label></label><figDesc><div><p><s coords="8,129.94,97.98,394.41,9.30;8,113.90,109.89,410.43,9.30;8,113.90,121.85,118.31,9.30">10 June 2021 EFSA received a letter from the European Commission with the request for a scientific opinion on the safety of the extension of use of the authorised novel foods 2'-FL and LNnT in FS for infants.</s><s coords="8,235.50,121.85,112.26,9.30">Ref. Ares (2021)3810589.</s><s coords="8,96.26,133.81,428.09,9.30;8,113.90,145.77,410.46,9.30;8,113.90,157.73,410.48,9.30;8,113.90,169.70,152.97,9.30">2) On 10 June 2021, a valid application on 2'-FL and LNnT for use in FS for infants, which was submitted by Glycom A/S, was made available to EFSA by the European Commission through the Commission e-submission portal (NF 2019/1350 and NF 2019/1359) and the scientific evaluation procedure was initiated.</s><s coords="8,96.26,181.66,428.08,9.30;8,113.90,193.62,410.45,9.30;8,113.90,205.53,245.42,9.30">3) On 11 November 2021 EFSA received a letter from the European Commission with the updated request for a scientific opinion on the safety of the extension of use of the authorised novel foods 2'-FL and LNnT in FS for infants.</s><s coords="8,362.66,205.53,108.92,9.30;8,96.26,217.49,428.09,9.30;8,113.90,229.45,410.47,9.30;8,113.90,241.41,263.50,9.30">Ref. Ares(2021)6943273. 4) On 11 November 2021, a valid application on 2'-FL and LNnT for use in FS for infants was made available to EFSA by the European Commission through the Commission e-submission portal and the scientific evaluation procedure was restarted.</s><s coords="8,96.26,253.37,428.10,9.30;8,113.90,265.34,410.42,9.30;8,113.89,277.30,355.46,9.30">5) During its meeting on 23 March 2022, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of the extension of use of the authorized NFs 2'-FL and LNnT in FS for infants pursuant to Article 10 of Regulation (EU) 2015/2283 Novel food.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" coords="6,70.87,536.84,442.92,88.71"><head></head><label></label><figDesc><div><p><s coords="6,437.66,536.84,37.29,9.30">delivery)</s></p></div></figDesc><table coords="6,73.87,556.22,439.91,53.83"><row><cell></cell><cell cols="2">Daily intake levels (mg/kg bw)</cell><cell cols="2">Daily intake levels (mg/kg bw)</cell></row><row><cell></cell><cell cols="2">from 800 mL of human milk</cell><cell cols="2">from 1,200 mL of human milk</cell></row><row><cell></cell><cell>Mean concentration</cell><cell>High concentration</cell><cell>Mean concentration</cell><cell>High concentration</cell></row><row><cell>LNnT</cell><cell>88</cell><cell>134</cell><cell>133</cell><cell>201</cell></row></table><note coords="6,70.87,618.11,60.90,7.44"><p><s coords="6,70.87,618.11,60.90,7.44">bw: body weight.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2" coords="6,70.87,308.25,453.53,124.60"><head>Table 1 :</head><label>1</label><figDesc><div><p><s coords="6,124.78,308.25,399.55,9.30;6,124.78,320.22,399.62,9.30;6,124.78,332.18,399.57,9.30;6,124.78,344.14,53.34,9.30"><ref type="bibr" coords="6,354.91,332.18,88.20,9.30" target="#b9">(Erney et al., 2001;</ref><ref type="bibr" coords="6,447.62,332.18,76.72,9.30;6,124.78,344.14,19.65,9.30" target="#b5">EFSA NDA Panel, 2019</ref><ref type="bibr" coords="6,144.44,344.14,33.69,9.30" target="#b7">, 2022)</ref>rage (800 mL) and high (1,200 mL) human milk intake for infants of 6.7 kg bw, based on mean and high concentration of 2.38 g/L and 4.78 g/L, respectively, of 2'-FL in human milk(Erney et al., 2001;EFSA NDA Panel, 2019, 2022)</s></p></div></figDesc><table coords="6,73.87,364.03,439.74,53.32"><row><cell></cell><cell cols="2">Daily intake levels (mg/kg bw)</cell><cell cols="2">Daily intake levels (mg/kg bw)</cell></row><row><cell></cell><cell cols="2">from 800 mL of human milk</cell><cell cols="2">from 1,200 mL of human milk</cell></row><row><cell></cell><cell>Mean concentration</cell><cell>High concentration</cell><cell>Mean concentration</cell><cell>High concentration</cell></row><row><cell>2'-FL</cell><cell>284</cell><cell>571</cell><cell>426</cell><cell>856</cell></row></table><note coords="6,70.87,425.41,60.90,7.44"><p><s coords="6,70.87,425.41,60.90,7.44">bw: body weight.</s></p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_0" coords="5,77.78,736.60,446.65,7.44;5,77.78,746.35,446.60,7.44;5,77.78,756.05,196.76,7.44"><p><s coords="5,77.78,736.60,446.65,7.44;5,77.78,746.35,446.60,7.44;5,77.78,756.05,196.76,7.44">Commission Implementing Regulation (EU) 2017/2469 of 20 December 2017 laying down administrative and scientific requirements for applications referred to in Article 10 of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods.OJ L 351, 30.12.2017, p. 64-71.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1" coords="6,70.87,781.25,104.58,7.02"><p><s coords="6,70.87,781.25,104.58,7.02">www.efsa.europa.eu/efsajournal</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2" coords="6,578.72,18.19,4.85,22.91;6,578.72,42.44,4.85,12.13;6,578.72,55.92,4.85,4.04;6,578.72,61.31,4.85,27.54;6,578.72,90.20,4.85,10.48;6,578.72,102.02,4.85,141.48;6,578.72,244.85,4.85,5.39;6,578.72,251.59,4.85,20.65;6,578.72,273.59,4.85,13.47;6,578.72,288.41,4.85,20.81;6,578.72,310.57,4.85,13.17;6,578.72,325.09,4.85,14.67;6,578.72,341.11,4.85,16.16;6,578.72,358.62,4.85,5.39;6,578.72,365.36,4.85,29.49;6,578.72,396.20,4.85,7.78;6,578.72,405.33,4.85,6.59;6,578.72,413.26,4.85,13.77;6,578.72,428.38,4.85,7.78;6,578.72,437.51,4.85,23.66;6,578.72,462.52,4.85,117.67;6,578.72,581.54,4.85,5.39;6,578.72,588.28,4.85,13.17;6,578.72,602.80,4.85,14.67;6,578.72,618.82,4.85,16.16;6,578.72,636.33,4.85,6.28;6,578.72,643.97,4.85,10.48;6,578.72,655.79,4.85,4.49;6,578.72,661.63,4.85,8.68;6,578.72,671.66,4.85,7.78;6,578.72,680.79,4.85,15.57;6,578.72,697.70,4.85,6.58;6,578.72,705.63,4.85,20.06;6,578.72,727.04,4.85,5.39;6,578.72,733.77,4.85,6.59;6,578.72,741.71,4.85,22.15;6,578.72,765.21,4.85,18.26;6,578.72,784.82,4.85,22.16;6,578.72,808.33,4.85,16.76"><p><s coords="6,578.72,18.19,4.85,22.91;6,578.72,42.44,4.85,12.13;6,578.72,55.92,4.85,4.04;6,578.72,61.31,4.85,27.54;6,578.72,90.20,4.85,10.48;6,578.72,102.02,4.85,141.48">18314732, 2022, 5, Downloaded from https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2022.7257</s><s coords="6,578.72,244.85,4.85,5.39;6,578.72,251.59,4.85,20.65;6,578.72,273.59,4.85,13.47;6,578.72,288.41,4.85,20.81;6,578.72,310.57,4.85,13.17;6,578.72,325.09,4.85,14.67;6,578.72,341.11,4.85,16.16;6,578.72,358.62,4.85,5.39;6,578.72,365.36,4.85,29.49">by Cochrane Czech Republic, Wiley Online Library on [12/02/2024].</s><s coords="6,578.72,396.20,4.85,7.78;6,578.72,405.33,4.85,6.59;6,578.72,413.26,4.85,13.77;6,578.72,428.38,4.85,7.78;6,578.72,437.51,4.85,23.66;6,578.72,462.52,4.85,117.67">See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions)</s><s coords="6,578.72,581.54,4.85,5.39;6,578.72,588.28,4.85,13.17;6,578.72,602.80,4.85,14.67;6,578.72,618.82,4.85,16.16;6,578.72,636.33,4.85,6.28;6,578.72,643.97,4.85,10.48;6,578.72,655.79,4.85,4.49;6,578.72,661.63,4.85,8.68;6,578.72,671.66,4.85,7.78;6,578.72,680.79,4.85,15.57;6,578.72,697.70,4.85,6.58;6,578.72,705.63,4.85,20.06;6,578.72,727.04,4.85,5.39;6,578.72,733.77,4.85,6.59;6,578.72,741.71,4.85,22.15;6,578.72,765.21,4.85,18.26;6,578.72,784.82,4.85,22.16;6,578.72,808.33,4.85,16.76">on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3" coords="7,427.64,781.25,96.79,7.02"><p><s coords="7,427.64,781.25,96.79,7.02">EFSA Journal 2022;20(5):7257</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4" coords="8,427.64,781.25,96.79,7.02;8,578.72,18.19,4.85,22.91;8,578.72,42.44,4.85,12.13;8,578.72,55.92,4.85,4.04;8,578.72,61.31,4.85,27.54;8,578.72,90.20,4.85,10.48;8,578.72,102.02,4.85,141.48;8,578.72,244.85,4.85,5.39;8,578.72,251.59,4.85,20.65;8,578.72,273.59,4.85,13.47;8,578.72,288.41,4.85,20.81;8,578.72,310.57,4.85,13.17;8,578.72,325.09,4.85,14.67;8,578.72,341.11,4.85,16.16;8,578.72,358.62,4.85,5.39;8,578.72,365.36,4.85,29.49;8,578.72,396.20,4.85,7.78;8,578.72,405.33,4.85,6.59;8,578.72,413.26,4.85,13.77;8,578.72,428.38,4.85,7.78;8,578.72,437.51,4.85,23.66;8,578.72,462.52,4.85,117.67;8,578.72,581.54,4.85,5.39;8,578.72,588.28,4.85,13.17;8,578.72,602.80,4.85,14.67;8,578.72,618.82,4.85,16.16;8,578.72,636.33,4.85,6.28;8,578.72,643.97,4.85,10.48;8,578.72,655.79,4.85,4.49;8,578.72,661.63,4.85,8.68;8,578.72,671.66,4.85,7.78;8,578.72,680.79,4.85,15.57;8,578.72,697.70,4.85,6.58;8,578.72,705.63,4.85,20.06;8,578.72,727.04,4.85,5.39;8,578.72,733.77,4.85,6.59;8,578.72,741.71,4.85,22.15;8,578.72,765.21,4.85,18.26;8,578.72,784.82,4.85,22.16;8,578.72,808.33,4.85,16.76"><p><s coords="8,427.64,781.25,96.79,7.02;8,578.72,18.19,4.85,22.91;8,578.72,42.44,4.85,12.13;8,578.72,55.92,4.85,4.04;8,578.72,61.31,4.85,27.54;8,578.72,90.20,4.85,10.48;8,578.72,102.02,4.85,141.48">EFSA Journal 2022;20(5):7257 18314732, 2022, 5, Downloaded from https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2022.7257</s><s coords="8,578.72,244.85,4.85,5.39;8,578.72,251.59,4.85,20.65;8,578.72,273.59,4.85,13.47;8,578.72,288.41,4.85,20.81;8,578.72,310.57,4.85,13.17;8,578.72,325.09,4.85,14.67;8,578.72,341.11,4.85,16.16;8,578.72,358.62,4.85,5.39;8,578.72,365.36,4.85,29.49">by Cochrane Czech Republic, Wiley Online Library on [12/02/2024].</s><s coords="8,578.72,396.20,4.85,7.78;8,578.72,405.33,4.85,6.59;8,578.72,413.26,4.85,13.77;8,578.72,428.38,4.85,7.78;8,578.72,437.51,4.85,23.66;8,578.72,462.52,4.85,117.67">See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions)</s><s coords="8,578.72,581.54,4.85,5.39;8,578.72,588.28,4.85,13.17;8,578.72,602.80,4.85,14.67;8,578.72,618.82,4.85,16.16;8,578.72,636.33,4.85,6.28;8,578.72,643.97,4.85,10.48;8,578.72,655.79,4.85,4.49;8,578.72,661.63,4.85,8.68;8,578.72,671.66,4.85,7.78;8,578.72,680.79,4.85,15.57;8,578.72,697.70,4.85,6.58;8,578.72,705.63,4.85,20.06;8,578.72,727.04,4.85,5.39;8,578.72,733.77,4.85,6.59;8,578.72,741.71,4.85,22.15;8,578.72,765.21,4.85,18.26;8,578.72,784.82,4.85,22.16;8,578.72,808.33,4.85,16.76">on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</s></p></note>
+		</body>
+		<back>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="2,197.97,467.73,326.38,9.30;2,70.87,479.64,284.88,9.30">The declarations of interest of all scientific experts active in EFSA's work are available at https://ess.efsa.europa.eu/doi/doiweb/doisearch.</s></p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="8,70.87,321.56,453.48,8.37;8,84.59,332.56,439.75,8.37;8,84.59,343.50,238.80,8.37" xml:id="b0">
+	<analytic>
+		<title level="a" type="main" coord="8,407.34,321.56,117.01,8.37;8,84.59,332.56,344.49,8.37">Scientific Opinion on nutrient requirements and dietary intakes of infants and young children in the European Union</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2013.3408</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2013.3408" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="8,145.98,321.56,227.47,8.37">EFSA Panel on Dietetic Products, Nutrition and Allergies)</title>
+		<imprint>
+			<date type="published" when="2013">2013. 2013</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="3408" to="3103" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.87,354.45,453.48,8.37;8,84.58,365.44,439.80,8.37;8,84.58,376.38,229.10,8.37" xml:id="b1">
+	<analytic>
+		<title level="a" type="main" coord="8,402.41,354.45,121.94,8.37;8,84.58,365.44,346.00,8.37">Scientific opinion on the safety of 2&apos;-O-fucosyllactose as a novel food ingredient pursuant to Regulation (EC) No 258/97</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2015.4184</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2015.4184" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="8,437.90,365.44,51.20,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="4184" to="4216" />
+			<date type="published" when="2015">2015. 2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>EFSA Panel on Dietetic Products, Nutrition and Allergies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.86,387.33,453.54,8.37;8,84.58,398.32,439.80,8.37;8,84.58,409.27,297.36,8.37" xml:id="b2">
+	<analytic>
+		<title level="a" type="main" coord="8,282.67,387.33,241.74,8.37;8,84.58,398.32,412.32,8.37">Nutrition and Allergies), 2015b. Statement on the safety of lacto-N-neotetraose and 2&apos;-O-fucosyllactose as novel food ingredients in food supplements for children</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2015.4299</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2015.4299" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="8,504.51,398.32,19.88,8.37;8,84.58,409.27,28.18,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="4299" to="4310" />
+			<date type="published" when="2015">2015</date>
+			<publisher>EFSA Panel on Dietetic Products</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.86,420.21,453.48,8.37;8,84.58,431.15,439.77,8.37;8,84.58,442.15,261.31,8.37" xml:id="b3">
+	<analytic>
+		<title level="a" type="main" coord="8,402.29,420.21,122.06,8.37;8,84.58,431.15,376.78,8.37">Scientific opinion on the safety of lacto-N-neotetraose as a novel food ingredient pursuant to Regulation (EC) No 258/97</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2015.4183</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2015.4183" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="8,470.95,431.15,53.41,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="4183" to="4215" />
+			<date type="published" when="2015">2015. 2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>EFSA Panel on Dietetic Products, Nutrition and Allergies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.86,453.09,453.54,8.37;8,84.58,464.03,439.77,8.37;8,84.58,475.03,266.18,8.37" xml:id="b4">
+	<analytic>
+		<title level="a" type="main" coord="8,399.40,453.09,125.00,8.37;8,84.58,464.03,378.68,8.37">Guidance on the preparation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2016.4594</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2016.4594" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="8,472.08,464.03,52.28,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="4594" to="4618" />
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>EFSA Panel on Dietetic Products, Nutrition and Allergies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.86,485.97,453.47,8.37;8,84.58,496.91,439.75,8.37;8,84.58,507.91,277.98,8.37" xml:id="b5">
+	<analytic>
+		<title level="a" type="main" coord="8,415.33,485.97,109.00,8.37;8,84.58,496.91,338.54,8.37">Safety of 2&apos;-fucosyllactose/ difucosyllactose mixture as a novel food pursuant to Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<ptr target="https://www.efsa.europa.eu/en/efsajournal/pub/5717" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="8,147.97,485.97,232.12,8.37">EFSA Panel on Dietetic Products, Nutrition and Allergies)</title>
+		<imprint>
+			<date type="published" when="2019">2019. 2019</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="5717" to="5723" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.86,518.85,453.48,8.37;8,84.58,529.59,439.78,8.97;8,84.58,540.73,432.97,8.37" xml:id="b6">
+	<analytic>
+		<title level="a" type="main" coord="8,401.90,518.85,122.45,8.37;8,84.58,529.59,439.78,8.97;8,84.58,540.73,105.19,8.37">Scientific Opinion on the safety of lacto-N-neotetraose (LNnT) produced by derivative strains of E. coli BL21 as a novel food pursuant to Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2020.6305</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2020.6305" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="8,142.92,518.85,226.90,8.37">EFSA Panel on Nutrition, Novel Foods and Food Allergens)</title>
+		<imprint>
+			<date type="published" when="2020">2020. 2020</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="6305" to="6311" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.86,551.73,453.48,8.37;8,84.58,562.67,439.79,8.37;8,84.58,573.62,439.80,8.37;8,84.58,584.61,224.11,8.37" xml:id="b7">
+	<analytic>
+		<title level="a" type="main" coord="8,401.90,551.73,122.45,8.37;8,84.58,562.67,439.79,8.37;8,84.58,573.62,342.05,8.37">Scientific Opinion on the safety of the extension of use of 2&apos;-fucosyllactose/difucosyllactose (2&apos;-FL/DFL) mixture and lacto-N-tetraose (LNT) as novel foods in food supplements for infants pursuant to Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2022.7140</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2022.7140" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="8,142.92,551.73,226.90,8.37">EFSA Panel on Nutrition, Novel Foods and Food Allergens)</title>
+		<imprint>
+			<date type="published" when="2022">2022. 2022</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="7140" to="7149" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.86,595.56,453.51,8.37;8,84.58,606.50,439.77,8.37;8,84.58,617.49,189.31,8.37" xml:id="b8">
+	<analytic>
+		<title level="a" type="main" coord="8,216.57,595.56,307.81,8.37;8,84.58,606.50,309.42,8.37">Guidance on selected default values to be used by the EFSA Scientific Committee, Scientific Panels and Units in the absence of actual measured data</title>
+		<idno type="DOI">10.2903/j.efsa.2012.2579</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2012.2579" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="8,401.10,606.50,51.20,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="2579" to="2611" />
+			<date type="published" when="2012">2012. 2012</date>
+			<publisher>EFSA Scientific Committee</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.86,628.44,453.54,8.37;8,84.58,639.38,439.76,8.37;8,84.58,650.32,439.81,8.37;8,84.58,661.32,439.79,8.37;8,84.58,672.26,92.91,8.37" xml:id="b9">
+	<analytic>
+		<title level="a" type="main" coord="8,338.91,628.44,185.49,8.37;8,84.58,639.38,143.61,8.37">Human milk oligosaccharides: a novel method provides insight into human genetics</title>
+		<author>
+			<persName coords=""><forename type="first">R</forename><surname>Erney</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Hilty</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><surname>Pickering</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Ruiz-Palacios</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">P</forename><surname>Prieto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" coord="8,249.50,639.38,274.84,8.37;8,84.58,650.32,280.08,8.37;8,163.10,661.32,187.67,8.37">Bioactive components of human milk. 8th International Conference of the International Society for Research on Human Milk and Lactation</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Plymouth</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Newburg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer Academic/Plenum Publishers</publisher>
+			<date type="published" when="1997">2001. October 25-29, 1997</date>
+			<biblScope unit="volume">501</biblScope>
+			<biblScope unit="page" from="285" to="297" />
+		</imprint>
+	</monogr>
+	<note>Advances in Experimental Medicine and Biology</note>
+</biblStruct>
+
+<biblStruct coords="8,70.86,681.92,102.68,9.65;8,168.83,683.20,355.54,8.37;8,84.58,694.20,439.77,8.37;8,84.58,705.14,100.22,8.37" xml:id="b10">
+	<analytic>
+		<title level="a" type="main" coord="8,451.22,683.20,73.15,8.37;8,84.58,694.20,304.37,8.37">The mean of milk: a review of human milk oligosaccharide concentrations throughout lactation</title>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Soyyılmaz</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">R € Ohrig</forename><surname>Mik S Mh</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><surname>Ch</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Matwiejuk</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">A</forename><surname>Meszaros-Matwiejuk</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">L</forename><forename type="middle">K</forename><surname>Vigsnaes</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/nu13082737</idno>
+		<ptr target="https://doi.org/10.3390/nu13082737" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="8,396.45,694.20,34.43,8.37">Nutrients</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">2737</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="8,70.86,716.08,453.54,8.37;8,84.58,727.08,253.73,8.37" xml:id="b11">
+	<analytic>
+		<title level="a" type="main" coord="8,345.48,716.08,178.92,8.37;8,84.58,727.08,121.36,8.37">Systematic review of the concentrations of oligosaccharides in human milk</title>
+		<author>
+			<persName coords=""><forename type="first">S</forename><surname>Thurl</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">M</forename><surname>Munzert</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">G</forename><surname>Boehm</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">C</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName coords=""><forename type="first">B</forename><surname>Stahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" coord="8,212.65,727.08,66.81,8.37">Nutrition Reviews</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="920" to="933" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

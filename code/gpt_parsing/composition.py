@@ -5,18 +5,17 @@ import pandas as pd
 import xml.etree.ElementTree as ET 
 import time
 
-load_dotenv() # Load API key and folder with opinionsfrom .env file
+load_dotenv() # Load API key and folder with opinions from .env file
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY")) # Create a client
 assistant = client.beta.assistants.retrieve("asst_0iou8ThB7VJSfzPTrevJb9DM") # Previously created assisstant
 TEI_NAMESPACES = {"tei": "http://www.tei-c.org/ns/1.0"}
 
-
 def call_assistant(xml_string : str):
     thread = client.beta.threads.create()
 
     message = client.beta.threads.messages.create(thread_id=thread.id, role="user", content=xml_string)
-    time.sleep(2) # sleep for 2s not to exceed the rate limit
+    time.sleep(2) # sleep for 2s not to exceed the allowed rate limit
 
     run = client.beta.threads.runs.create_and_poll(thread_id=thread.id,assistant_id=assistant.id,)
 
@@ -52,8 +51,9 @@ for data_tuple in data_tuples:
             if file.endswith('.tei.xml'):
                 tei_file = ET.parse(os.path.join(root, file)).getroot()
                 tables = tei_file.findall(".//tei:figure[@type='table']", TEI_NAMESPACES)
-                for table in tables:
+                for table in tables: # First we need to file the table we want to parse
                     table_text = "".join(table.itertext())
+                    # We dont want batch tables, they have similar info, but are not the same
                     if 'specifications' in table_text.lower() and 'batch' not in table_text.lower():
                         table_object = table.find('.//tei:table', TEI_NAMESPACES)
                         # get all the text from the table object, in xml format
@@ -69,7 +69,7 @@ for data_tuple in data_tuples:
                             break # break the loop, we found the table
 
 
-    if len(specifications) > 1: #if its only one, its the empty specification
+    if len(specifications) > 1: #if its only one, its the empty specification returned from gpt
         df = pd.DataFrame({'EFSA Q number': [data_tuple[0]] * len(specifications), 'Parameter': specifications})
         df.to_csv(f'../outputs/specifications/{data_tuple[0]}.csv', index=False)
         extracted_tables.append(df)

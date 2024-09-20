@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" coord="1,141.96,229.46,311.39,10.22">Safety of an extension of use of Yarrowia lipolytica yeast biomass as a novel food pursuant to Regulation (EU) 2015/2283</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2015">2015/2283</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName coords="1,111.40,241.42,78.29,10.22"><forename type="first">Dominique</forename><surname>Turck</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,198.14,241.42,61.19,10.22"><forename type="first">Torsten</forename><surname>Bohn</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,268.50,241.42,108.72,10.22"><forename type="first">Jacqueline</forename><surname>Castenmiller</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,385.51,241.42,92.40,10.22"><forename type="first">Stefaan</forename><surname>De Henauw</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Karen</forename><forename type="middle">Ildico</forename><surname>Hirsch‐ernst</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,228.76,253.33,81.96,10.22"><forename type="first">Alexandre</forename><surname>Maciuk</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,319.52,253.33,81.13,10.22"><forename type="first">Inge</forename><surname>Mangelsdorf</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,409.38,253.33,77.19,10.22"><forename type="first">Harry</forename><forename type="middle">J</forename><surname>Mcardle</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,110.38,265.29,74.98,10.22"><forename type="first">Androniki</forename><surname>Naska</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,194.40,265.29,69.09,10.22"><forename type="first">Carmen</forename><surname>Pelaez</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,271.90,265.29,77.54,10.22"><forename type="first">Kristina</forename><surname>Pentieva</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,357.91,265.29,60.24,10.22"><forename type="first">Alfonso</forename><surname>Siani</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,426.11,265.29,54.07,10.22"><forename type="first">Frank</forename><surname>Thies</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,86.85,277.25,74.68,10.22"><forename type="first">Sophia</forename><surname>Tsabouri</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,170.02,277.25,63.11,10.22"><forename type="first">Marco</forename><surname>Vinceti</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,241.17,277.25,91.03,10.22"><forename type="first">Francesco</forename><surname>Cubadda</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,341.46,277.25,74.44,10.22"><forename type="first">Thomas</forename><surname>Frenzel</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,424.24,277.25,78.80,10.22"><forename type="first">Marina</forename><surname>Heinonen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,78.86,289.22,110.57,10.22"><forename type="first">Miguel</forename><surname>Prieto Maradona</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,198.65,289.22,93.25,10.22"><forename type="first">Rosangela</forename><surname>Marchelli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Monika</forename><surname>Neuhäuser‐berthold</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,439.37,289.22,72.08,10.22"><forename type="first">Morten</forename><surname>Poulsen</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,94.45,301.18,101.75,10.22"><forename type="first">Josef</forename><forename type="middle">Rudolf</forename><surname>Schlatter</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,204.27,301.18,84.82,10.22"><forename type="first">Henk</forename><surname>Van Loveren</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,297.87,301.18,74.94,10.22"><forename type="first">Reinhard</forename><surname>Ackerl</surname></persName>
+						</author>
+						<author>
+							<persName coords="1,397.87,301.18,102.97,10.22"><forename type="first">Helle</forename><forename type="middle">Katrine</forename><surname>Knutsen</surname></persName>
+						</author>
+						<title level="a" type="main" coord="1,141.96,229.46,311.39,10.22">Safety of an extension of use of Yarrowia lipolytica yeast biomass as a novel food pursuant to Regulation (EU) 2015/2283</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">EFSA Journal</title>
+						<title level="j" type="abbrev">EFS2</title>
+						<idno type="ISSN">1831-4732</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">20</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<date type="published" when="2015">2015/2283</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BC4226046B08D371EA8EDB56ABCE814F</idno>
+					<idno type="DOI">10.2903/j.efsa.2022.7450</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-04-29T08:47+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>novel foods</term>
+					<term>Yarrowia lipolytica</term>
+					<term>yeast</term>
+					<term>extension of use</term>
+					<term>single meal replacement</term>
+					<term>safety Requestor: European Commission</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s coords="1,105.79,164.94,383.72,14.94;1,76.71,183.20,441.76,13.94">Safety of an extension of use of Yarrowia lipolytica yeast biomass as a novel food pursuant to Regulation (EU)</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="2" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="3" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="4" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="5" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="6" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+		<surface n="7" ulx="0.0" uly="0.0" lrx="595.276" lry="841.89"/>
+	</facsimile>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table of contents</head><p><s coords="4,85.04,152.69,439.33,9.96;4,70.87,164.88,72.27,9.30">The application requests to extend the use of the novel food Yarrowia lipolytica yeast biomass in additional foods.</s></p><p><s coords="4,85.04,176.84,439.30,9.30;4,70.87,188.57,453.45,9.96;4,70.87,200.53,140.83,9.96">In accordance with Article 10(3) of Regulation (EU) 2015/2283, the European Commission asks the European Food Safety Authority to provide a scientific opinion on the extension of use of Yarrowia lipolytica yeast biomass as a NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2.">Additional information</head><p><s coords="4,85.04,242.49,439.34,9.96;4,70.87,254.62,361.75,9.30">In 2019, the EFSA NDA Panel adopted a Scientific Opinion on the safety of Yarrowia lipolytica yeast biomass as a NF pursuant to Regulation (EU) 2015/2283 (EFSA NDA Panel, 2019).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p><s coords="4,113.39,277.10,146.25,11.15">Data and methodologies</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Data</head><p><s coords="4,85.04,320.39,439.30,9.30;4,70.87,332.35,262.53,9.30">The safety assessment of this NF is based on data supplied in the application and information provided following EFSA requests for additional information.</s></p><p><s coords="4,85.04,344.25,439.30,9.30;4,70.87,356.22,390.05,9.30">Administrative and scientific requirements for NF applications referred to in Article 10 of Regulation (EU) 2015/2283 are listed in the Commission Implementing Regulation (EU) 2017/2469<ref type="foot" coords="4,453.83,354.21,4.04,6.20" target="#foot_2">1</ref> .</s></p><p><s coords="4,85.04,368.18,439.29,9.30;4,70.87,380.14,436.82,9.30">A common and structured format on the presentation of NF applications is described in the EFSA guidance on the preparation and presentation of a NF application (EFSA NDA Panel, 2016).</s><s coords="4,514.10,380.14,10.26,9.30;4,70.87,392.10,453.48,9.30;4,70.87,404.06,453.48,9.30;4,70.87,416.03,144.17,9.30">As indicated in this guidance, it is the duty of the applicant to provide all of the available (proprietary, confidential and published) scientific data (including both data in favour and not in favour) that are pertinent to the safety of the NF.</s></p><p><s coords="4,85.04,427.99,371.23,9.30">This NF application does not include a request for the protection of proprietary data.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Methodologies</head><p><s coords="4,85.04,469.89,439.28,9.30;4,70.87,481.85,453.47,9.30;4,70.87,493.81,121.24,9.30">The assessment follows the methodology set out in the EFSA guidance on NF applications (EFSA NDA Panel, 2016) and the principles described in the relevant existing guidance documents from the EFSA Scientific Committee.</s><s coords="4,197.52,493.81,326.83,9.30;4,70.87,505.77,444.99,9.30">The legal provisions for the assessment are laid down in Article 11 of Regulation (EU) 2015/2283 and in Article 7 of Commission Implementing Regulation (EU) 2017/2469.</s><s coords="4,85.04,517.73,439.34,9.30;4,70.87,529.70,453.44,9.30;4,70.87,541.66,107.98,9.30">This assessment concerns only the risks that might be associated with consumption of the NF under the proposed conditions of use, and is not an assessment of the efficacy of the NF with regard to any (claimed) benefit.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Assessment</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Introduction</head><p><s coords="4,85.04,607.37,439.29,9.30;4,70.87,619.10,145.99,9.96">The NF, which is the subject of the request for an extension of use, is the dried and heat-killed biomass of the yeast Y. lipolytica.</s></p><p><s coords="4,85.04,631.06,439.33,9.96;4,70.87,643.25,453.56,9.30">In 2019, the EFSA NDA Panel assessed the safety of Yarrowia lipolytica yeast biomass as a NF when used as a food supplement for adults and children from 3 years of age (EFSA NDA Panel, 2019).</s><s coords="4,70.87,655.16,453.49,9.30;4,70.87,667.12,351.16,9.30">The Panel concluded that the NF was safe under the proposed conditions of use, i.e. up to 3 g/day for children from 3 years to less than 10 years of age and up to 6 g/day thereafter.</s></p><p><s coords="5,85.04,72.81,227.37,9.96;5,344.35,73.03,180.00,9.30;5,70.87,85.00,453.51,9.30;5,70.87,96.96,49.21,9.30">Following the EFSA assessment, Yarrowia lipolytica biomass was authorised via Commission Implementing Regulation (EU) 2019/760<ref type="foot" coords="5,251.72,82.99,4.04,6.20" target="#foot_4">2</ref> for the placing on the market in the European Union as a novel food.</s><s coords="5,123.82,96.96,400.57,9.30;5,70.87,108.92,453.47,9.30;5,70.87,120.88,102.73,9.30">The authorisation covered the use of the NF as a food supplement at maximum use levels of 3 g/day for children from 3 to 9 years of age and 6 g/day for children from 10 years of age, adolescents and adults.</s></p><p><s coords="5,85.04,132.85,439.35,9.30;5,70.87,144.81,234.37,9.30">This opinion addresses the applicant's request to extend the use of the NF to single meal replacement products for weight reduction for adults.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Identity of the NF</head><p><s coords="5,85.04,186.53,301.16,9.96">The NF is the dried and heat-killed biomass of the yeast Y. lipolytica.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Compositional data</head><p><s coords="5,85.04,228.66,439.36,9.30;5,70.87,240.62,16.17,9.30;5,87.08,238.61,4.04,6.20;5,91.16,240.39,433.24,9.96;5,70.87,252.58,55.84,9.30">According to the specifications (as authorised by Commission Implementing Regulation (EU) 2019/ 760 2 ; see Table <ref type="table" coords="5,142.75,240.62,5.39,9.30" target="#tab_0">1</ref> below), the NF consists primarily of proteins (45-55 g/100 g) and dietary fibre (24-30 g/100 g).</s><s coords="5,130.05,252.58,214.87,9.30">The fat content in the NF is set at 7-10 g/100 g.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.1.">Stability</head><p><s coords="5,85.04,293.68,439.33,9.96;5,70.87,305.87,197.69,9.30">In 2019, the Panel assessed the stability of the NF on the basis of results of stability testing for five independently produced batches of the NF.</s><s coords="5,273.77,305.87,250.57,9.30;5,70.86,317.83,218.38,9.30">The Panel considered that the data provided sufficient information with respect to the stability of the NF.</s></p><p><s coords="5,85.04,329.80,439.30,9.30;5,70.86,341.76,418.56,9.30">In order to investigate the stability when the NF is used as a food ingredient, the applicant performed two stability studies with the NF as part of a potential meal replacement product.</s><s coords="5,493.73,341.76,30.67,9.30;5,70.86,353.72,100.20,9.30">Among other ingredients (e.g.</s><s coords="5,175.46,353.49,348.91,9.96;5,70.86,365.68,453.47,9.30;5,70.86,377.59,66.62,9.30">oat flour, pea protein, rice protein, pumpkin protein, hemp protein, grounded linseed, xanthan gum, xylitol, coconut sugar, maca root powder, etc.) the recipe contained 6 g of the NF per portion.</s></p><p><s coords="5,85.04,389.55,439.36,9.30;5,70.86,401.51,97.22,9.30">One study was carried out for 3 months at accelerated storage conditions (40°C and 75% humidity) with sealed products.</s><s coords="5,173.31,401.51,351.03,9.30;5,70.86,413.47,166.50,9.30">Microbiological and organoleptic parameters and moisture were measured at baseline and monthly until 3 months.</s><s coords="5,241.62,413.47,282.79,9.30;5,70.86,425.44,93.85,9.30">Proximates and fatty acids were analysed at baseline and after 3 months of storage.</s><s coords="5,168.89,425.44,355.44,9.30;5,70.86,437.40,243.78,9.30">There were no relevant changes during storage, apart for water content which diminished over time, which is not considered adverse.</s><s coords="5,318.44,437.40,205.90,9.30;5,70.86,449.36,453.47,9.30;5,70.86,461.32,263.29,9.30">The applicant remarked that the results of the stability testing for 3 months at accelerated conditions might allow to extrapolate the expiry date of the product to 12 months of storage in standard conditions.</s></p><p><s coords="5,85.04,473.23,439.35,9.30;5,70.86,484.96,231.56,9.96">In another study, the products containing the NF were stored for 3 months at ambient conditions (20°C and &lt; 50% humidity) in unsealed packaging.</s><s coords="5,307.10,485.19,217.27,9.30;5,70.86,497.15,326.88,9.30">Microbiological and organoleptic parameters and moisture were measured at baseline, at 1.5 months and at 3 months.</s><s coords="5,403.42,497.15,120.92,9.30;5,70.86,509.11,140.77,9.30">No relevant changes were noticed over the storage period.</s></p><p><s coords="5,85.04,521.08,439.36,9.30;5,70.86,533.04,453.47,9.30;5,70.86,545.00,285.26,9.30">Taking into account the results of the stability studies at accelerated and at ambient conditions with sealed and unsealed products, the Panel considers that overall, the stability data provided sufficient information with respect to the stability of the NF for 12 months.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Specifications</head><p><s coords="5,85.04,586.96,439.36,9.30;5,70.87,598.86,16.17,9.30;5,87.08,596.85,4.04,6.20;5,91.16,598.86,111.69,9.30">The specifications of the NF, as authorised in Commission Implementing Regulation (EU) 2019/ 760 2 , are indicated in Table <ref type="table" coords="5,194.46,598.86,4.20,9.30" target="#tab_0">1</ref>.</s></p><p><s coords="6,113.78,341.67,175.75,11.15">Proposed uses and use levels</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.1.">Target population</head><p><s coords="6,85.04,384.51,267.58,9.30">The target population as proposed by the applicant is adults.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.2.">Proposed uses and use levels</head><p><s coords="6,85.04,425.83,439.30,9.30;6,70.87,437.80,453.43,9.30;6,70.87,449.76,280.46,9.30">Following EFSA requests for additional information, the applicant clarified that the request for the extension of use of the NF pertains to single meal replacement products for weight reduction (FoodEx2 code: A03RV) for adults, at a maximum daily amount of 6 g NF.</s></p><p><s coords="6,85.04,461.49,439.29,9.96;6,70.87,473.68,453.48,9.30;6,70.87,485.59,134.08,9.30">The applicant informed that food supplements with Yarrowia lipolytica biomass (as already authorised) should not be consumed concomitantly with the above meal replacement products in order not to exceed the 6 g per day.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p><s coords="6,85.04,527.54,439.29,9.30;6,70.87,539.27,145.99,9.96">The NF, which is the subject of the request for an extension of use, is the dried and heat-killed biomass of the yeast Y. lipolytica.</s></p><p><s coords="6,85.04,551.24,439.31,9.96;6,70.87,563.43,318.44,9.30">Following the safety assessment by the Panel in 2019, Yarrowia lipolytica yeast biomass was authorised for the placing on the market in the European Union as a NF.</s><s coords="6,392.71,563.43,131.63,9.30;6,70.87,575.39,453.46,9.30;6,70.87,587.35,342.12,9.30">The authorisation covered the use of the NF as a food supplement at maximum use levels of 3 g/day for children from 3 to 9 years of age and 6 g/day for children from 10 years of age, adolescents and adults.</s></p><p><s coords="6,85.04,599.26,439.33,9.30;6,70.87,611.22,453.49,9.30;6,70.87,623.18,363.85,9.30">The applicant proposes to extend the use of the NF as a food ingredient in single meal replacement products for weight reduction for adults at a maximum amount of 6 g NF per day, which is the same amount of NF as already authorised in food supplements for this population group.</s></p><p><s coords="6,85.04,634.91,439.33,9.96;6,70.87,647.11,453.48,9.30;6,70.87,659.07,134.08,9.30">According to the applicant, food supplements with Yarrowia lipolytica biomass (as already authorised) should not be consumed concomitantly with the above meal replacement products in order not to exceed the 6 g per day.</s></p><p><s coords="6,85.04,671.03,439.25,9.30;6,70.87,682.99,166.91,9.30">As in 2019, the Panel considers that the consumption of the NF is not nutritionally disadvantageous under the proposed conditions of use.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p><s coords="6,85.04,724.66,439.32,9.96;6,70.87,736.85,77.24,9.30">The Panel concludes that the NF, Yarrowia lipolytica yeast biomass, is safe under the proposed conditions of use.</s><s coords="6,292.99,288.68,81.66,8.37;6,70.87,305.11,350.96,7.44">Not detected in 25 g TAMC: total aerobic microbial count; TYMC: total yeast and mould count; CFU: colony forming units.</s></p><p><s coords="6,70.87,315.09,212.68,7.44">(1): To be tested immediately after the heat-treatment step.</s><s coords="6,286.19,315.09,230.40,7.44;6,88.33,324.88,256.00,7.97">Measures have to be in place to prevent cross-contamination with viable Yarrowia lipolytica cells during packaging and/or storage of the NF.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6.</head><p><s coords="7,113.39,74.19,122.84,11.15">Steps taken by EFSA</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="3,70.87,94.17,453.52,8.37;3,70.87,105.11,7.56,8.37;3,519.54,105.11,4.85,8.37;3,70.87,116.05,15.12,8.37;3,104.88,116.05,419.50,8.37;3,70.86,127.05,15.12,8.37;3,104.88,127.05,419.46,8.37;3,70.86,137.99,7.56,8.37;3,104.88,137.99,419.52,8.37;3,70.86,148.93,15.12,8.37;3,104.88,148.93,419.50,8.37;3,70.86,159.93,15.12,8.37;3,104.88,159.93,419.50,8.37;3,70.86,170.87,7.56,8.37;3,104.88,170.87,419.50,8.37;3,70.86,181.81,15.12,8.37;3,104.88,181.81,419.50,8.37;3,70.86,192.81,15.12,8.37;3,104.88,192.81,419.52,8.37;3,70.86,203.75,15.12,8.37;3,104.88,203.75,419.46,8.37;3,70.86,214.70,453.52,8.37;3,70.86,225.64,15.12,8.37;3,104.88,225.64,419.50,8.37;3,70.86,236.64,15.12,8.37;3,104.87,236.64,419.52,8.37;3,70.86,247.58,453.53,8.37;3,70.86,258.52,453.53,8.37;3,70.86,269.52,7.56,8.37;3,104.87,269.52,419.50,8.37;3,70.86,280.46,7.56,8.37;3,104.87,280.46,419.50,8.37;3,70.86,291.40,7.56,8.37;3,104.87,291.40,419.52,8.37;3,70.86,302.40,453.52,8.37;3,70.86,313.34,453.52,8.37;4,113.39,73.80,75.25,11.15;4,70.87,97.55,22.64,11.15;4,113.78,97.55,395.52,11.15;4,85.04,117.09,439.32,9.30;4,70.87,128.82,453.47,9.96;4,70.87,140.72,140.83,9.96"><head></head><label></label><figDesc><div><p><s coords="3,70.87,94.17,441.34,8.37;3,198.25,116.05,326.13,8.37;3,70.86,127.05,15.12,8.37">Abstract.......................................................................................................................................................of Reference as provided by the requestor....................................................... 4 1.2.</s><s coords="3,104.88,127.05,419.46,8.37;3,70.86,137.99,7.56,8.37;3,104.88,137.99,419.52,8.37;3,70.86,148.93,15.12,8.37">Additional information....................................................................................................................... 4 2. Data and methodologies ................................................................................................................... 4 2.1.</s><s coords="3,104.88,148.93,419.50,8.37;3,70.86,159.93,15.12,8.37">Data................................................................................................................................................ 4 2.2.</s><s coords="3,104.88,159.93,419.50,8.37;3,70.86,170.87,7.56,8.37;3,104.88,170.87,419.50,8.37;3,70.86,181.81,15.12,8.37">Methodologies.................................................................................................................................. 4 3. Assessment...................................................................................................................................... 4 3.1.</s><s coords="3,104.88,181.81,419.50,8.37;3,70.86,192.81,15.12,8.37">Introduction..................................................................................................................................... 4 3.2.</s><s coords="3,104.88,192.81,419.52,8.37;3,70.86,203.75,15.12,8.37">Identity of the NF............................................................................................................................. 5 3.3.</s><s coords="3,104.88,203.75,419.46,8.37;3,70.86,214.70,22.68,8.37">Compositional data........................................................................................................................... 5 3.3.1.</s><s coords="3,104.88,214.70,419.50,8.37;3,70.86,225.64,15.12,8.37">Stability ........................................................................................................................................... 5 3.4.</s><s coords="3,104.88,225.64,419.50,8.37;3,70.86,236.64,15.12,8.37">Specifications ................................................................................................................................... 5 3.5.</s><s coords="3,104.87,236.64,419.52,8.37;3,70.86,247.58,22.68,8.37">Proposed uses and use levels ............................................................................................................ 6 3.5.1.</s><s coords="3,104.87,247.58,419.52,8.37;3,70.86,258.52,22.68,8.37">Target population ............................................................................................................................. 6 3.5.2.</s><s coords="3,104.87,258.52,419.52,8.37;3,70.86,269.52,7.56,8.37;3,104.87,269.52,419.50,8.37;3,70.86,280.46,7.56,8.37;3,104.87,280.46,419.50,8.37;3,70.86,291.40,7.56,8.37">Proposed uses and use levels ............................................................................................................ 6 4. Discussion ....................................................................................................................................... 6 5. Conclusions...................................................................................................................................... 6 6.</s><s coords="3,104.87,291.40,419.52,8.37;3,70.86,302.40,453.52,8.37;3,70.86,313.34,453.52,8.37;4,113.39,73.80,75.25,11.15;4,70.87,97.55,22.64,11.15">Steps taken by EFSA ........................................................................................................................ 7 References.................................................................................................................................................... 7 Abbreviations ................................................................................................................................................ 7 Introduction 1.1.</s><s coords="4,113.78,97.55,395.52,11.15;4,85.04,117.09,439.32,9.30;4,70.87,128.82,453.47,9.96;4,70.87,140.72,140.83,9.96">Background and Terms of Reference as provided by the requestor On 27 July 2020, the company Skotan S.A. submitted a request to the European Commission in accordance with Article 10 of Regulation (EU) 2015/2283 to authorise an extension of use of Yarrowia lipolytica yeast biomass as a NF.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="7,96.26,93.73,9.13,9.30;7,130.00,93.73,394.37,9.30;7,113.90,105.40,410.46,9.96;7,113.90,117.60,140.10,9.30;7,96.26,129.33,428.11,9.96;7,113.89,141.52,410.45,9.30;7,113.89,153.48,410.47,9.30;7,113.89,165.44,210.83,9.30;7,96.26,177.41,428.09,9.30;7,113.90,189.37,380.26,9.30;7,96.26,201.27,428.08,9.30;7,113.90,213.24,386.25,9.30;7,96.26,225.20,428.11,9.30;7,113.90,236.93,410.46,9.96;7,113.89,249.12,199.63,9.30"><head>1</head><label></label><figDesc><div><p><s coords="7,100.83,93.73,4.56,9.30;7,130.00,93.73,394.37,9.30;7,113.90,105.40,410.46,9.96;7,113.90,117.60,44.05,9.30">) 21/12/2020 EFSA received a letter from the European Commission with the request for a scientific opinion on the safety of an extension of use of Yarrowia lipolytica yeast biomass as a NF (Ref.</s><s coords="7,161.29,117.60,92.70,9.30">Ares(2020)7822805).</s><s coords="7,96.26,129.33,428.11,9.96;7,113.89,141.52,410.45,9.30;7,113.89,153.48,410.47,9.30;7,113.89,165.44,210.83,9.30">2) On 21/12/2020, a valid application on an extension of use of Yarrowia lipolytica yeast biomass, which was submitted by the company Skotan S.A., was made available to EFSA by the European Commission through the Commission e-submission portal (NF 2020/1950) and the scientific evaluation procedure was initiated.</s><s coords="7,96.26,177.41,428.09,9.30;7,113.90,189.37,380.26,9.30">3) On 16/03/2021 and on 23/09/2021, EFSA requested the applicant to provide additional information to accompany the application and the scientific evaluation was suspended.</s><s coords="7,96.26,201.27,428.08,9.30;7,113.90,213.24,386.25,9.30">4) On 24/06/2021 and on 06/03/2022, additional information was provided by the applicant through the Commission e-submission portal and the scientific evaluation was restarted.</s><s coords="7,96.26,225.20,428.11,9.30;7,113.90,236.93,410.46,9.96;7,113.89,249.12,199.63,9.30">5) During its meeting on 1 July 2022, the NDA Panel, having evaluated the data, adopted a scientific opinion on the safety of an extension of use of Yarrowia lipolytica yeast biomass as a NF pursuant to Regulation (EU) 2015/2283.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" coords="6,70.87,73.03,436.75,224.41"><head>Table 1 :</head><label>1</label><figDesc><div><p><s coords="6,124.78,73.03,103.20,9.30;6,73.87,92.77,433.75,8.97">Specifications of the NFDescription/Definition: The novel food is the dried and heat-killed biomass of the yeast Yarrowia lipolytica.</s></p></div></figDesc><table coords="6,73.87,109.59,355.36,187.85"><row><cell>Characteristics/Composition</cell><cell></cell></row><row><cell>Protein</cell><cell>45-55 g/100 g</cell></row><row><cell>Dietary fibre</cell><cell>24-30 g/100 g</cell></row><row><cell>Sugars</cell><cell>&lt; 1.0 g/ 100 g</cell></row><row><cell>Fat</cell><cell>7-10 g/100 g</cell></row><row><cell>Total ash</cell><cell>≤ 12%</cell></row><row><cell>Water content</cell><cell>≤ 5%</cell></row><row><cell>Dry matter content</cell><cell>≥ 95%</cell></row><row><cell>Microbiological criteria</cell><cell></cell></row><row><cell>TAMC</cell><cell>≤ 5 9 10 3 CFU/g</cell></row><row><cell>TYMC</cell><cell>≤ 10 2 CFU/g</cell></row><row><cell>Viable Yarrowia lipolytica cells (1)</cell><cell>&lt; 10 CFU/g (i.e. limit of detection)</cell></row><row><cell>Coliforms</cell><cell>≤ 10 CFU/g</cell></row><row><cell>Salmonella spp.</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0" coords="3,70.87,781.25,104.58,7.02"><p><s coords="3,70.87,781.25,104.58,7.02">www.efsa.europa.eu/efsajournal</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1" coords="3,427.64,781.25,96.79,7.02"><p><s coords="3,427.64,781.25,96.79,7.02">EFSA Journal 2022;20(7):7450</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_2" coords="4,77.78,736.60,157.71,7.44"><p><s coords="4,77.78,736.60,157.71,7.44">Commission Implementing Regulation (EU)</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3" coords="4,240.78,736.60,283.66,7.44;4,77.78,746.35,446.60,7.44;4,77.78,756.05,201.18,7.44"><p><s coords="4,240.78,736.60,283.66,7.44;4,77.78,746.35,446.60,7.44;4,77.78,756.05,174.94,7.44">2017/2469 of 20 December 2017 laying down administrative and scientific requirements for applications referred to in Article 10 of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods.OJ L 351, 30.12.2017, pp.</s><s coords="4,255.35,756.05,23.62,7.44">64-71.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_4" coords="5,77.78,736.60,446.65,7.44;5,77.78,746.35,446.65,7.44;5,77.78,756.05,340.59,7.44"><p><s coords="5,77.78,736.60,446.65,7.44;5,77.78,746.35,446.65,7.44;5,77.78,756.05,304.94,7.44">Commission Implementing Regulation (EU) 2019/760 of 13 May 2019 authorising the placing on the market of Yarrowia lipolytica yeast biomass as a novel food under Regulation (EU) 2015/2283 of the European Parliament and of the Council and amending Commission Implementing Regulation (EU) 2017/2470.OJ L 125, 14.5.2019,</s><s coords="5,385.29,756.05,33.08,7.44">p. 13-15.</s></p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abbreviations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CFU</head><p><s coords="7,164.92,377.42,89.04,9.30;7,70.87,389.38,19.29,9.30;7,164.92,389.38,225.25,9.30;7,70.87,401.34,11.82,9.30;7,164.92,401.34,45.92,9.30;7,70.87,413.25,24.72,9.30;7,164.92,413.25,124.47,9.30;7,70.87,425.21,24.68,9.30;7,164.92,425.21,123.14,9.30">colony forming units NDA Panel on Nutrition, Novel Foods and Food Allergens NF novel food TAMC total aerobic microbial count TYMC total yeast and mould count</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="7,70.87,285.22,453.54,8.37;7,84.59,296.17,439.75,8.37;7,84.59,307.16,320.27,8.37" xml:id="b0">
+	<analytic>
+		<title level="a" type="main" coord="7,394.25,285.22,130.16,8.37;7,84.59,296.17,435.26,8.37">Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2016.4594</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2016.4594" />
+	</analytic>
+	<monogr>
+		<title level="j" coord="7,84.59,307.16,51.08,8.37">EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="4594" to="4618" />
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>EFSA Panel on Dietetic Products, Nutrition and Allergies</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="7,70.87,318.10,453.48,8.37;7,84.59,328.84,439.77,8.97;7,84.59,340.04,261.31,8.37" xml:id="b1">
+	<analytic>
+		<title level="a" type="main" coord="7,401.90,318.10,122.45,8.37;7,84.59,328.84,378.34,8.97">Scientific Opinion on the safety of Yarrowia lipolytica yeast biomass as a novel food pursuant to Regulation (EU) 2015/2283</title>
+		<author>
+			<persName coords=""><surname>Efsa Nda Panel</surname></persName>
+		</author>
+		<idno type="DOI">10.2903/j.efsa.2019.5594</idno>
+		<ptr target="https://doi.org/10.2903/j.efsa.2019.5594" />
+	</analytic>
+	<monogr>
+		<title level="m" coord="7,142.92,318.10,226.90,8.37">EFSA Panel on Nutrition, Novel Foods and Food Allergens)</title>
+		<imprint>
+			<date type="published" when="2019">2019. 2019</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="5594" to="5606" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
